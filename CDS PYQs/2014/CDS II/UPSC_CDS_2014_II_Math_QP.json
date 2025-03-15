@@ -1,0 +1,3111 @@
+{
+  "exam_info": {
+    "exam_type": "UPSC_CDS",
+    "year": 2014,
+    "session": "II",
+    "subject": "Math",
+    "total_questions": 100
+  },
+  "questions": [
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath1",
+        "serial_no": "1",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Pipe A can fill a tank in 3 hours. But there is a leakage also, due to which it takes 3-5 hours for the tank to be filled, How much time will the leakage take in emptying the tank if the tank is filled initially? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 21 hours",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath2",
+        "serial_no": "2",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A train takes 10 seconds to cross a pole and 20 seconds to cross a platform of length 200 m. What is the length of the train? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 200 m",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath3",
+        "serial_no": "3",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A, B and C can do a piece of work individually in 8, 12 and 15 days respectively. A and B start working together but A quits after working for 2 days. After this, C joins and works till completion of the work. In how many days will the work be completed? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 589 days",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath4",
+        "serial_no": "4",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The distance between two points (A and B) is 110 km. X starts running from point A at a speed of 60 km/hr and Y starts running from point Bat a speed of 40 km/hr at the same time. They meet at a point C, somewhere on the line AB. What is the ratio of AC to BC? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 3 : 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath5",
+        "serial_no": "5",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A is thrice as efficient as B and hence completes a work in 40 days less than the number of days taken by B. What will be the number of days taken by both of them when working together? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 15 days",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath6",
+        "serial_no": "6",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If 10 persons can dig 8 feet trench in 12 days, then how many days will 8 persons take to dig 6 feet trench? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 11.25 days",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath7",
+        "serial_no": "7",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The height of a tree varies as the square root of its age (between 5 to 17 years). When the age of the tree is 9 years, its height is 4 feet. What will be the height of the tree at the age of 16 years? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 5 feet 4 inches",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath8",
+        "serial_no": "8",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The ratio of ages of A and B is 2 : 5 and the ratio of ages of B and C is 3 : 4. What is the ratio of ages of A, B and C? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 6 : 15 : 20",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath9",
+        "serial_no": "9",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "When an article is sold at 20% discount, the selling price is ₹ 24, What will be the selling price when the discount is 30%? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : ₹ 21",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath10",
+        "serial_no": "10",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A shopkeeper sells his articles at their cost price but uses a faulty balance which reads 1000 g for 800 g. What is his actual profit percentage? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 25%",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath11",
+        "serial_no": "11",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The difference between compound interest and simple interest for 2 years at the rate of 10% over principal amount of ₹ X is ₹ 10. What is the value of X? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : ₹ 1,000",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath12",
+        "serial_no": "12",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A sum of money becomes 3 times in 5 years at simple interest. In how many years wilt the same sum become 6 times at the same rate of simple interest? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 12.5 years",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath13",
+        "serial_no": "13",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A man buys 200 oranges for ₹ 1,000. How many oranges for ₹ 100 can he sell so that his profit percentage is 25%? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 16",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath14",
+        "serial_no": "14",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If m% of m + n% of n = 2% of (m x n), then what percentage of m is n? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 100%",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath15",
+        "serial_no": "15",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If the side of a cube is increased by 100%, then by what percentage is the surface area of the cube increased? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 300%",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath16",
+        "serial_no": "16",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "How many pairs of positive integers m and n satisfy the equation 1m+4n=112where n is an odd integer less than 60? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath17",
+        "serial_no": "17",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The sides of a triangle are in the ratio 12:13:14. If its perimeter is 52 cm, then what is the length of the smallest side? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 12 cm",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath18",
+        "serial_no": "18",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The diameter of a metallic sphere is 6 cm. The sphere is melted and drawn into a wire of uniform circular cross-section. If the length of the wire is 36 m, then what is its radius equal to? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 0.1 cm",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath19",
+        "serial_no": "19",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider all those two-digit positive integers less than 50, which when divided by 4 yield unity as remainder. What is their sum? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 310",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath20",
+        "serial_no": "20",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If every side of an equilateral triangle is doubled, then the area of new triangle becomes k times the area of the old one. What is k equal to? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 4",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath21",
+        "serial_no": "21",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If an=3−4n then what is a1+a2+a3+...+an equal to ?[1+2+3+4+....+n=n(n+1)2] [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : −n(2n−1)",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath22",
+        "serial_no": "22",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A train travels at a speed of 40 km/hr and another train at a speed of 20 m/s. What is the ratio of speed of the first train to that of the second train ? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 5 : 9",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath23",
+        "serial_no": "23",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "(x+y):(x−y)=3:5and xy = positive imply that [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : no real solutions for x and y exist",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath24",
+        "serial_no": "24",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "How many pairs of X and Y are possible in the number 763X4Y2, if the number is divisible by 9? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 11",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath25",
+        "serial_no": "25",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the remainder when 41012 is divided by 7? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 4",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath26",
+        "serial_no": "26",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the highest common factor 2x3+x2−x−2 and 3x3−2x2+x−2? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : x-1",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath27",
+        "serial_no": "27",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the remainder when (1235 x 4523 x 2451) is divided by 12? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath28",
+        "serial_no": "28",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the remainder when (1723+2323+2923) is divided by 23? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 0",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath29",
+        "serial_no": "29",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "p, q and r are prime numbers such that p < q < r < 13. In how many cases would (p + q + r ) also be a prime number? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath30",
+        "serial_no": "30",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The LCM of two numbers is 90 times their HCF. The sum of LCM and HCE is 1456. If one of the numbers is 160, then what is the other number? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 144",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath31",
+        "serial_no": "31",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The LCM of two integers is 1237. What is their HCF? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath32",
+        "serial_no": "32",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is 1a−b−1a+b−2ba2+b2−4b3a4+b4−8b7a8−b8 equal to? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 0",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath33",
+        "serial_no": "33",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A man rides one-third of the distance from A to B at the rate of x km/hr and the remainder at the rate of 2y km/hr. If he had travelled at a uniform rate of 6z km/hr, he could have ridden from A to B and back again in the same time. Which one of the following is correct? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1z=1x+1y",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath34",
+        "serial_no": "34",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If ax+by−2=0 and axby=1, where a ≠ 0, b ≠ 0, then what is(a2x+b2y) equal to? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : a+b",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath35",
+        "serial_no": "35",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements :1. (a−b−c) is one of the factors of 3abc+b3+c3−a32. (b+c−1) is one of the factors of 3bc+b3+c3−1Which of the above statements is/are correct? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath36",
+        "serial_no": "36",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "710−510 is divisible by [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 11",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath37",
+        "serial_no": "37",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements in respect of four spheres A, B, C and D having respective radii 6, 8, 10 and 12 cm :1. The surface area of sphere C is equal to the sum of surface areas of spheres A and B2. The volume of sphere D is equal to the sum of volumes of spheres A, B and C.Which of the above statements is/are correct? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath38",
+        "serial_no": "38",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the number of divisors of 360? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 24",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath39",
+        "serial_no": "39",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The multiplication of a three-digit number XY5 with digit Z yields X215. What is X + Y + Z equal to? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 13",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath40",
+        "serial_no": "40",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If the equation x2+2(1+k)x+k2=0 has equal roots, then what is the value of k? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : −12",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath41",
+        "serial_no": "41",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If m. and n are the roots of the equation x2+ax+b=0 and m2 and n2 are the roots of the equation x2−cx+d=0, then which of the following is/are correct?1. 2b−a2=c2. b2=dSelect the correct answer using the code given below. [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath42",
+        "serial_no": "42",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If N2−33,N2−31 and N2−29 are prime numbers, then what is the number of possible values of N, where N is an integer? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath43",
+        "serial_no": "43",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "There are 48 cricket balls, 72 hockey balls and 84 tennis balls, and they have to be arranged in several rows in such a way that every row contains the same number of balls of one type. What is the minimum number of rows required for this to happen? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 17",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath44",
+        "serial_no": "44",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The HCF of two natural numbers m and n is 24 and their product is 552. How many sets of values of m and n are possible? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : No set of m and n is possible satisfying the given conditions",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath45",
+        "serial_no": "45",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If m and n(m>n) are the roots of the equation 7(x+2a)2+3a2=5a(7x+23a) where a>0, then what is 3m−n equal to? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 15a",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath46",
+        "serial_no": "46",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A person selling an article for ₹ 96 finds that his loss percent is one-fourth of the amount of rupees that he paid for the article. What can be the cost price? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : ₹ 160 or ₹ 240",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath47",
+        "serial_no": "47",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If (x+k)is the common factor of x2+ax+b and x2+cx+d then what is k equal to? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : (d−b)(c−a)",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath48",
+        "serial_no": "48",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the remainder when x5−5x2+125 is divided by x + 5? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : -3125",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath49",
+        "serial_no": "49",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the lowest common multiple of ab(x2+1)+x(a2+b2) and ab(x2−1)+x(a2−b2)? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : (a2x2−b2)(a+bx)",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath50",
+        "serial_no": "50",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A certain number of two digits is three times the sum of its digits. If 45 is added to the number, the digits will be reversed. What is the sum of the squares of the two digits of the number? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 53",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath51",
+        "serial_no": "51",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If from the top of a post a string twice the length of the post is stretched tight to a point on the ground, then what angle will the string make with the post? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : π/3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath52",
+        "serial_no": "52",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The price of a commodity increased by 5% from 2010 to 2011, 8% from 2011 to 2012 and 77% from 2012 to 2013. What is the average price increase (approximate) from 2010 to 2013? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 32%",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath53",
+        "serial_no": "53",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A railroad curve is to be laid on a circle. What radius (approximate) should be used if the track is to change direction by 25° in a distance of 120 m? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 275 m",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath54",
+        "serial_no": "54",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If 0<θ<π4, then what is √1−2‌sin‌θ‌cos‌θ equal to? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : cos θ - sin θ",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath55",
+        "serial_no": "55",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If tan θ + cot θ = 2, then what is sin θ +cos θ equal to ? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : √2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath56",
+        "serial_no": "56",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is sec‌xcot‌x+tan‌x equal to ? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : sin‌x",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath57",
+        "serial_no": "57",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "From a certain point on a straight road, a person observes a tower in the west direction at a distance of 200 m. He walks some distance along the road and finds that the same tower is 300 m south of him. What is the shortest distance of the tower from the road? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 600√13m",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath58",
+        "serial_no": "58",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is sin‌x−cos‌x+1sin‌x+cos‌x−1 equal to ? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : sin‌x+1cos‌x",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath59",
+        "serial_no": "59",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is (sin2x−cos2x)(1−sin2xcos2x) equal to ? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : sin6x−cos6x",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath60",
+        "serial_no": "60",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is (sin‌x‌cos‌y+cos‌x‌sin‌y)(sin‌x‌cos‌y−cos‌x‌sin‌y) equal to ? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : sin2x−sin2y",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath61",
+        "serial_no": "61",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is (1+cotx−cosecx)(1+tanx+secx) equal to? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath62",
+        "serial_no": "62",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is (cosecx−sinx)(secx−cosx)(tanx+cotx) equal to? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath63",
+        "serial_no": "63",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements : 1. sin 1° > sin 12. cos 1° < cos 1Which of the above statements is/are correct? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Neither 1 nor 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath64",
+        "serial_no": "64",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If sin‌x+cosec‌x=2, then what is If sin9x+cosec9x equal to? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath65",
+        "serial_no": "65",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If sin‌x+cos‌x=p and sin3x+cos3x=q then what is p3−3p equal to? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : -2q",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath66",
+        "serial_no": "66",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the number of pairs of perpendicular planes in a cuboid? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 12",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath67",
+        "serial_no": "67",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "How many equilateral triangles can be formed by joining any three vertices of a cube? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 8",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath68",
+        "serial_no": "68",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements :1. 'Area of triangle ADM + Area of triangle DCM' is equal to three-fourth of the area of trapezium ABCD, if AB = CD.2. ‘Area of triangle DCM + Area of triangle ABM' is always greater than half of the area of trapezium ABCD.Which of the above statements is/are correct? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath69",
+        "serial_no": "69",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements :1. ‘Area of triangle ADM - Area of triangle ABM’ is always equal to area of triangle DCM, if AB = CD.2. Half of area of triangle ABM is equal to one-eighth of area of trapezium ABCD, if AB - CD.Which of the above statements is/are correct? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath70",
+        "serial_no": "70",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "ABCD is a parallelogram. P and R are the midpoints of DC and BC respectively. The line PR intersects the diagonal AC at Q. The distance CQ will be equal to [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : AC/4",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath71",
+        "serial_no": "71",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements in respect of an equilateral triangle :1. The altitudes are congruent.2. The three medians are congruent.3. The centroid bisects the altitude. Which of the above statements are correct? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath72",
+        "serial_no": "72",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following :ABC and DEF are triangles in a plane such that AB is parallel to DE, BC is parallel to EF and CA is parallel to FD.Statement-I : If angle ABC is a right angle, then angle DEF is also a right angle. Statement-II :Triangles of the type. ABC and DEF are always congruent.Which one of the following is correct in respect of the above statements? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Statement-I is correct and Statement-II is incorrect",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath73",
+        "serial_no": "73",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Let the incircle to a triangle ABC touch BC, AC and AB respectively at the points X, Y and Z.Statement-I :If AB> BC, then AB + AZ < BC + XCStatement-II :AZ = AYWhich one of the following is correct in respect of the above statements? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Statement-I is incorrect and Statement-II is correct",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath74",
+        "serial_no": "74",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Let ABC be a triangle in which ∠ACB = 60° and AC = x < BC. Let the circle with centre at C and radius x meet BC at D. Let CF be the perpendicular drawn from C meeting AD at F.Statement-I :Triangle ACD is isosceles but not equilateral.Statement-II :D F =x / 2Which one of the following is correct in respect of the above statements? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Statement-I is incorrect and Statement-II is correct",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath75",
+        "serial_no": "75",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Bisectors of two adjacent angles A and B of a quadrilateral ABCD intersect each other at a point P. Which one of the following is correct? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2∠APB = ∠C+∠D",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath76",
+        "serial_no": "76",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "In a triangle ABC, AD is the median through A and E is the midpoint of AD, and BE produced meets AC at F. Then AF is equal to [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : AC/ 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath77",
+        "serial_no": "77",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Three straight lines are drawn through the three vertices of a triangle ABC, the line through each vertex being parallel to the opposite side. The triangle DEF is bounded by these parallel lines. Consider the following statements in respect of the triangle DEF :1. Each side of triangle DEF is double the side of triangle ABC to which it is parallel.2. Area of triangle DEF is four times the area of triangle ABC.Which of the above statements is/are correct? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath78",
+        "serial_no": "78",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Let ABCD be a parallelogram. Let X and Y be the midpoints of the sides BC and AD respectively. Let M and TV be the midpoints of the sides AB and CD respectively. Consider the following statements :1. The straight line MX cannot be parallel to YN.2. The straight lines AC, BD, XY and MN meet at a point.Which of the above statements is/are correct? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath79",
+        "serial_no": "79",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The chord of an arc of a circle is of length x, the height of the arc is y and the radius of the circle is z. Which one of the following is correct? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 4y(2z−y)=x2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath80",
+        "serial_no": "80",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "In a triangle ABC, ∠B=2∠C=2∠A What is the ratio of AC to AB? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : √2 : 1",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath81",
+        "serial_no": "81",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the maximum distance between two points of a cube of side 2 cm? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2√3 cm",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath82",
+        "serial_no": "82",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The areas of the three adjacent faces of a cuboidal box are x, 4x and 9x square unit. What is the volume of the box? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 6x32 cubic unit",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath83",
+        "serial_no": "83",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A cylinder circumscribes a sphere. What is the ratio of volume of the sphere to that of the cylinder? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 :3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath84",
+        "serial_no": "84",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If for a triangle the radius of the circumcircle is double the radius of the inscribed circle, then which one of the following is correct? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : The triangle is equilateral",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath85",
+        "serial_no": "85",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the total surface area of the toy? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 132π‌cm2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath86",
+        "serial_no": "86",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the volume of the toy ? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 240π‌cm3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath87",
+        "serial_no": "87",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the volume of the double cone so formed? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 3768‌cm3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath88",
+        "serial_no": "88",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the surface area of the double cone so formed? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1318.8‌cm2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath89",
+        "serial_no": "89",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements :1. The volume of the cone generated when the triangle is made to revolve about its longer leg is same as the volume of the cone generated when the triangle is made to revolve about its shorter leg.2. The sum of the volume of the cone generated when the triangle is made to revolve about its longer leg and the volume of the cone generated when the triangle is made to revolve about its shorter leg is equal to the volume of the double cone generated when the triangle is made to revolve about its hypotenuse.Which of the above statements is/are correct? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Neither 1 nor 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath90",
+        "serial_no": "90",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the area of the parallelogram? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 252‌m2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath91",
+        "serial_no": "91",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the shorter height of the parallelogram? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 9.0 m",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath92",
+        "serial_no": "92",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements :1. The difference between the diagonals of the parallelogram is more than 20 m.2. The difference between the heights of the parallelogram is more than 10 m.Which of the above statements is/are correct? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath93",
+        "serial_no": "93",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If one of the roots of the equation px2+qx+r=0 is three times the other, then which one of the following relations is correct? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 3q2=16pr",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath94",
+        "serial_no": "94",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If the radius of a circle is increased by 6%, then its area will increase by [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 12.36%",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath95",
+        "serial_no": "95",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The class which has maximum frequency is known as [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : modal class",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath96",
+        "serial_no": "96",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements related to cumulative frequency polygon of a frequency distribution, the frequencies being cumulated from the lower end of the range :1. The cumulative frequency polygon gives an equivalent representation of frequency distribution table.2. The cumulative frequency polygon is a closed polygon with one horizontal and one vertical side. The other sides have non-negative slope.Which of the above statements is/are correct? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath97",
+        "serial_no": "97",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following data :1. Number of complaints lodged due to road accidents in a State within a year for 5 consecutive years2. Budgetary allocation of the total available funds to the various items of expenditureWhich of the above data is/are suitable for representation of a pie diagram? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath98",
+        "serial_no": "98",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "When we take class intervals on the x-axis and corresponding frequencies on the y-axis, and draw rectangles with the areas proportional to the frequencies of the respective class intervals, the graph so obtained is called [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : bar diagram",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath99",
+        "serial_no": "99",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If xi′s are the midpoints of the class intervals of grouped data, fi′s are the corresponding frequencies and −x is the mean, then what is Σfi(xi−−x) equal to? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 0",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2014IIUPSC_CDSMath100",
+        "serial_no": "100",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2014,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Ten observations 6, 14, 15, 17, x + 1, 2x - 13, 30, 32, 34, 43 are written in ascending order. The median of the data is 24. What is the value of x? [2014 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 20",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    }
+  ]
+}

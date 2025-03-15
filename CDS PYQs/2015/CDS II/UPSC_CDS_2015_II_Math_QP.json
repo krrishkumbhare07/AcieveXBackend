@@ -1,0 +1,3111 @@
+{
+  "exam_info": {
+    "exam_type": "UPSC_CDS",
+    "year": 2015,
+    "session": "II",
+    "subject": "Math",
+    "total_questions": 100
+  },
+  "questions": [
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath1",
+        "serial_no": "1",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The number of values of x satisfying x+100x>50,where x is a natural number less than or equal to 100 is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 55",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath2",
+        "serial_no": "2",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the sum of digits of the least multiple of 13, which when dividedby 6, 8 and 12 leaves 5, 7 and 11 respectively as the remainders ? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 8",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath3",
+        "serial_no": "3",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A milkman claims to sell milk at its cost price only. Still he is making a profit of 20% since he has mixed some amount of water in the milk. What is the percentage of milk in the mixture ? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : TM %",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath4",
+        "serial_no": "4",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is √4+√4−√4+√4−............. equal to ? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : √13+12",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath5",
+        "serial_no": "5",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The largest natural number which divides every natural number of the form (n3−n)(n−2),where n is a natural number greater than 2 is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 24",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath6",
+        "serial_no": "6",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The average of m numbers is n4 and the average of n number is m4.The average of (m + n) numbers is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : mn(m2+n2−mn)",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath7",
+        "serial_no": "7",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The digit in the units place of the resulting number of the expression (234)100+(234)101 is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 0",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath8",
+        "serial_no": "8",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If x=√3+√2, then the value of x3+x+1x+1x3 is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 20√3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath9",
+        "serial_no": "9",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The value of 11×4+14×7+17×10+...+116×19 is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 619",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath10",
+        "serial_no": "10",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Two trains are moving in the same direction at 1.5 km/minute and 60 km/ hour respectively. A man in the faster train observes that it takes 27 seconds to cross the slower train. The length of the slower train is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 225 m",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath11",
+        "serial_no": "11",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A tin of oil was 45 full.When 6 bottles of oil were taken out from this tin and 4 bottles of oil were poured into it, it was 34 full.Oil of how many bottles can the tin contain ?(All bottles are of equal volume) [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 40",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath12",
+        "serial_no": "12",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A number when divided by 7 leaves a remainder 3 and the resulting quotient when divided by 11 leaves a remainder 6. If the same number when divided by 11 leaves a remainder m and the resulting quotient when divided by 7 leaves a remainder n. What are the values of m and n respectively ? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 4",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath13",
+        "serial_no": "13",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following in respect of the equation y=√(x−1)2x−11. y = 1 if x > 12. y = -1 if x < 13. y exits for all values of xWhich of the above statements is/are correct ? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath14",
+        "serial_no": "14",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If (x+1) i the HCF of Ax2+Bx+C and Bx2+Ax+C where A≠B, then the value of C is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 0",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath15",
+        "serial_no": "15",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The seven digit number 876p37q is divisible by 225. The values of p and qcan be respectively [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 9,5",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath16",
+        "serial_no": "16",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If a, b and c satisfy the equation x3−3x2+2x+1=0 then what is the value of 1a+1b+1c ? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : −2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath17",
+        "serial_no": "17",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A and B are two taps which can fill a tank individually in 10 minutes and 20 minutes respectively. However, there is a leakage at the bottom, which can empty a filled tank in 40 minutes. If the tank is empty initially, how much time will both the taps take to fill the tank with leakage ? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 8 minutes",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath18",
+        "serial_no": "18",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following is correct ? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : √2<4√6<3√4",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath19",
+        "serial_no": "19",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The value of a single discount on some amount which is equivalent to a series of discounts of 10%, 20% and 40% on the same amount, is equal to [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 56.8%",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath20",
+        "serial_no": "20",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If k=x−y+2z where −2≤x≤1,−1≤y≤2 and 3≤z≤6, then which one of the following is correct ? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2≤k≤14",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath21",
+        "serial_no": "21",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The number of pairs (x, y) where x, y are integers satisfying the equation 21+48y=5 is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Zero",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath22",
+        "serial_no": "22",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Let x and y be positive integers such that x is prime and y is composite.Which of the following statements are correct ?1. (y-x) can be an even integer.2. xy can be an even integer.3. 0.5(x+y) can be an even integer.Select the correct answer using the code given below: [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1, 2 and 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath23",
+        "serial_no": "23",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Let x and y be positive integers such that x>y. The expressions 3x+2y and 2x+3y when divided by 5 leave remainders 2 and 3 respectively. What is the remainder when (x−y) is divided by 5 ? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 4",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath24",
+        "serial_no": "24",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "In a race A, B and C take part. A beats B by 30 m, B beats C by 20 m and A beats C by 48 m. Which of the following is/are correct ? 1. The length of the race is 300 m. 2. The speeds of A, B and C are in the ratio 50 : 45 : 42. Select the correct answer using the code given below: [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath25",
+        "serial_no": "25",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If the roots of the quadratic equation x2−4x−log10N=0 are all real then the minimum value of N is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 110000",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath26",
+        "serial_no": "26",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A motor boat, whose speed is 15 km/hour in still water goes 30 km downstream and comes back in a total of 4 hour and 30 minutes. The speed of the stream is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 5 km/hour",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath27",
+        "serial_no": "27",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If 4 men working 4 hours per day for 4 days complete 4 units of work, then how many units of work will be completed by 2 men working for 2 hours per day in 2 days ? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1/2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath28",
+        "serial_no": "28",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "By increasing the speed of his car by 15 km/hour, a person covers 300 km distance by taking an hour less than before. The original speed of the car was [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 60 km/hour",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath29",
+        "serial_no": "29",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If m persons can paint a house in d days, how many days will it take for(m + 2) persons to paint the same house? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : mdm+2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath30",
+        "serial_no": "30",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If a:b=3:5 and b:c=7:8, then 2a:3b:7c is equal to [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 6:15:40",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath31",
+        "serial_no": "31",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Two trains, one is of 121 m in length at the speed of 40 km/hour and the other is of 99 m in length at the speed of 32 km/hour are running in opposite directions. In how much time will they be completely clear from each other from the moment they meet ? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 11 s",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath32",
+        "serial_no": "32",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Three athletes run a 4 km race. Their speeds are in the ratio 16 : 15 : 11. When the winner wins the race, then the distance between the athlete in the second position to the athlete in the third position is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1000 m",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath33",
+        "serial_no": "33",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The sum of first 47 terms of the series 14+15−16−14−15+16+14+15−16.... is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : −16",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath34",
+        "serial_no": "34",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following is correct? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : (x−2) is a factor of x4−6x3+12x2−24x+32",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath35",
+        "serial_no": "35",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "20% of a number when added to 20 becomes the number itself, then thenumber is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 25",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath36",
+        "serial_no": "36",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements :1. 1+tan2θ1+cot2θ=(1−tan‌θ1−cot‌θ)2 is true for all 0<θ<π2,θ≠π4. 2. cot‌θ=1tan‌θ is true for θ=45° only Which of the above statements is/arecorrect ? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath37",
+        "serial_no": "37",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If x=a‌cos‌θ and y=b‌cot‌θ , then (ax−1−by−1)(ax−1+by−1) is equal to [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath38",
+        "serial_no": "38",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "cosθ1−sinθ is equal to (where θ≠π2) [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1+sinθcosθ",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath39",
+        "serial_no": "39",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If tan(x+40)°‌tan(x+20)°‌tan(3x)°‌tan(70−x)°‌tan(50−x)°=1 then the value of x is equal to [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 15",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath40",
+        "serial_no": "40",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If θ is an acute angle and sinθcosθ=2cos3θ−1.5cosθ, then what is sinθ equal to ? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : √5−14",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath41",
+        "serial_no": "41",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements :1. sin66° is less than cos66°.2. sin26° is less than cos26°.Which of the above statements is/arecorrect ? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath42",
+        "serial_no": "42",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If a and b are positive, then the relation sinθ=2a+3b3b is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : not possible",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath43",
+        "serial_no": "43",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "An aeroplane flying at a height of 3000 m passes vertically above another aeroplane at an instant when the angles of elevation of the two planes from some point on the ground are 60° and 45° respectively. Then the vertical distance between the two planes is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1000(3−√3) m",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath44",
+        "serial_no": "44",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A pole is standing erect on the ground which is horizontal. The tip of the pole is tied tight with a rope of length √12 m to a point on the ground. If the rope is making 30° with the horizontal, then the height of the pole is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : √3 m",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath45",
+        "serial_no": "45",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If tanθ+secθ=2, then tanθ is equal to [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 34",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath46",
+        "serial_no": "46",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A’s salary was increased by 40% and then decreased by 20%. On the whole A’s salary is increased by [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 12%",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath47",
+        "serial_no": "47",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A number consists of two digits, whose sum is 7. If the digits are reversed, the number is increased by 27. The product of digits of the number is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 10",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath48",
+        "serial_no": "48",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "In a race of 100 m, A beats B by 4 m and A beats C by 2 m. By how many metres (approximately) would C beat B in another 100 m race assuming C and B run with their respective speeds as in the earlier race ? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2.04",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath49",
+        "serial_no": "49",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "In an election 10% of the voters on the voter list did not cast their vote and 60 voters cast their ballot papers blank. There were only two candidates. The winner was supported by 47% of total voters m the voter list, and he got 308 votes more than his rival. The number of voters on the voter list is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 6200",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath50",
+        "serial_no": "50",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider all positive two digit numbers each of which when divided by 7 leaves a remainder 3. What is their sum ? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 676",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath51",
+        "serial_no": "51",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A pipe with square cross-section is supplying water to a cistern which was initially empty. The area of cross-section is 4 cm2 and the nozzle velocity of water is 40 m/s. The dimensions, of the cistern are 10 m x 8 m x 6 m. Then the cistern will be full in [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 8 hours 20 minutes",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath52",
+        "serial_no": "52",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A hollow cylindrical drum has internal diameter of 30 cm and a height of 1 m. What is the maximum number of cylindrical boxes of diameter 10 cm and height 10 cm each that can be packed in the drum? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 70",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath53",
+        "serial_no": "53",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The speeds of three buses are in the ratio 2:3:4. The time taken by these buses to travel the same distance will be in the ratio [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 6:4:3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath54",
+        "serial_no": "54",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A square and an equilateral triangle have equal perimeter. If the diagonal of the square is 12√2 cm, then the area of the triangle is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 64√3‌cm2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath55",
+        "serial_no": "55",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A boy is cycling such that the wheels of the cycle are making 140 revolutions per minute. If the radius of the wheel is 30 cm, the speed of the cycle is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 15.84 km/hour",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath56",
+        "serial_no": "56",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "There are 437 fruit plants in an orchard planted in rows. The distance between any two adjacent rows is 2 m and the distance between any two adjacent plants is 2 m. Each row has the same number of plants.- There is 1 m clearance on all sides of the orchard. What is the cost of fencing the area at the rate of Rs. 100 per metre ? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Rs. 16,800",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath57",
+        "serial_no": "57",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "ABCD is a parallelogram with AB and AD as adjacent sides. If ∠A=60° and AB=2AD, then the diagonal BD will be equal to [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : √3 AD",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath58",
+        "serial_no": "58",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The point O is equidistant from die three sides of a triangle ABC. Consider the following statements:1. ∠OAC+∠OCB+∠OBA=90° 2. ∠BOC=2∠BAC3. The perpendiculars drawn from any point on OA to AB and AC are always equalWhich of the above statements are correct ? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 3 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath59",
+        "serial_no": "59",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements :1. If the height of a cylinder isdoubled, the area of the curved surface is doubled.2. If the radius of a hemispherical solid is doubled, its total surface area becomes fourfold.Which of the above statements is/are correct ? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath60",
+        "serial_no": "60",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A large water tank has the shape of a cube. If 128m3 of water is pumped out, the water level goes down by 2 m. Then the maximum capacity of the tank is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 512m3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath61",
+        "serial_no": "61",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The circumference of a circle is 100 cm. The side of the square inscribed in the circle is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 50√2π cm",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath62",
+        "serial_no": "62",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "From the solid gold in the form of a cube of side length 1 cm, spherical solid balls each having the surface area π13cm2 are to be made. Assuming that there is no loss of the material in the process of making the balls, the maximum number of balls made will be [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 6",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath63",
+        "serial_no": "63",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Water is filled in a container in such a manner that its volume doubles every 5 minutes. If it takes 30 minutes for the container to be full, in how much time will it be one-fourth full ? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 20 minutes",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath64",
+        "serial_no": "64",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "30 metallic cylinders of same size are melted and cast in the form of cones having the same radius and height as those of the cylinders Consider the following statements :Statement I : A maximum of 90 cones will be obtained.Statement II : The Curved surface of the cylinder can be flattened in the shape of a rectangle but the curved surface of the cone when flattened has the shape of triangle.Which one of the following is correct in respect of the above ? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Statement I is correct but Statement II is not correct",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath65",
+        "serial_no": "65",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "An equilateral triangle BOC is drawn inside a square ABCD. If angle AOD=2θ, what is tanθ equal to ? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2+√3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath66",
+        "serial_no": "66",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The diameter of a wheel- that makes 452 revolutions to move 2 km and 26 decametre is equal to [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 11322 m",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath67",
+        "serial_no": "67",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If X is any point within a square ABCD and on AX a square AXYZ is described, which of the following is/are correct ?1. BX = DZ or BZ = DX2. ∠ABX=∠ADZ or ∠ ADX=∠ABZSelect the correct answer using the code given below: [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Neither 1 nor 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath68",
+        "serial_no": "68",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The two adjacent sides of a cyclic quadrilateral are 2 cm and 5 cm and the angle between them is 60°. If the third side is 3 cm, then the fourth side is of length [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 cm",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath69",
+        "serial_no": "69",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Let A denote the set of quadrilaterals having two diagonals equal and bisecting each other. Let B denote the set of quadrilaterals having diagonals bisecting each other at 90°. Then A∩ B denotes [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : the set of squares",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath70",
+        "serial_no": "70",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A square is inscribed in a right triangle with legs x and y and has common right angle with the triangle. The perimeter of the square is given by [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 4xyx+y",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath71",
+        "serial_no": "71",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "From a rectangular sheet of sides 18 cm and 14 cm, a semicircular portion with smaller side as diameter is taken out. Then the area of the remaining sheet will be [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 175 cm2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath72",
+        "serial_no": "72",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "ABCD is a square. If the sides AB and CD are increased by 30%, sides BC and AD are increased by 20%, then the area of the resulting rectangle exceeds the area of the square by [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 56%",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath73",
+        "serial_no": "73",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A water tank, open at the top, is hemispherical at the bottom and cylindrical above it. The radius is 12 m and the capacity is 3312π m3. The ratio of the surface areas of the spherical and cylindrical portions is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 4:5",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath74",
+        "serial_no": "74",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The areas of three mutually perpendicular faces of a cuboid are x, y, z. If F is the volume, then xyz is equal to [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : F2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath75",
+        "serial_no": "75",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Let F be the volume of ah inverted cone with vertex at origin and the axis of the cone is along positive y-axis. The cone is filled with water up to half of its height. The volume of water is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : V8",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath76",
+        "serial_no": "76",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Three rectangle R1,R2 and R3 same area.Their lengths x1,x2 and x3 respectively are such that x1<x2<x3.If V1,V2 and V3 are the volumes of the cylinders formed from the rectangles R1,R2 and R3 respectively by joining the parallel sides along the breadth, then which one of the following is correct ? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : V1<V2<V3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath77",
+        "serial_no": "77",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If the surface area of a cube is 13254 cm2, then the length of its diagonal is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 47√3 cm",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath78",
+        "serial_no": "78",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The area of a trapezium is 336 cm2 . If its parallel sides are in the ratio 5 : 7 and the perpendicular distance between them is 14 cm, then the smaller of the parallel sides is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 20 cm",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath79",
+        "serial_no": "79",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "How many spherical bullets each of 4 cm in diameter can be made out of a cube of lead whose edge is 44 cm ? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2541",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath80",
+        "serial_no": "80",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A river 2.5 m deep and 45 m wide is flowing at the speed of 3.6 km/hour. The amount of water that runs into the sea per minute is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 6750 m3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath81",
+        "serial_no": "81",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "AB is a line segment of length 2a, with M as mid point. Semicircles are drawn on one side with AM, MB and AB as diameter as shown in the above figure. A circle.with centre O and radius r is drawn such that this circle touches all the three semicircles. The value of r is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : a3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath82",
+        "serial_no": "82",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "From an external point P tangents PA and PB are drawn to the circle as shown in the above figure. CD is the tangent to the circle at E. If AP= 16 cm, then the perimeter of the triangle PCD is equal to [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 32 cm",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath83",
+        "serial_no": "83",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "In the above figure, ABCD is a parallelogram. P is a point on BC such that PB : PC = 1 : 2 . DP and AB when both* produced meet at Q. If area of triangle BPQ is 20 square unit, the area of triangle DCP is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : None of the above",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath84",
+        "serial_no": "84",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Chord CD intersects the diameter AB of a circle at right angle at a point P in the ratio 1 : 2. If diameter of circle is d, then CD is equal to [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2√2d3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath85",
+        "serial_no": "85",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A circle of radius r is inscribed in a regular polygon with n sides (the circle touches all sides of the polygon). If the perimeter of the polygon is p, then the area of the polygon is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : pr2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath86",
+        "serial_no": "86",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The LCM of two numbers is 12 times their HCF. The sum of HCF and LCM is 403. If one of the numbers is 93, then the other number is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 124",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath87",
+        "serial_no": "87",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The value of (0.−63)+0.−37 is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 10099",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath88",
+        "serial_no": "88",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A sum of Rs. 10,000 is deposited for 1 year at the rate of interest 10% compounded half yearly. What will be the interest at the end of one year ? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Rs. 1025",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath89",
+        "serial_no": "89",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "In a mixture of milk and water of volume 30 litre, the ratio of milk and water is 7:3. The quantity of water to be added to the mixture to make the ratio of milk and water 1:2 is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 33",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath90",
+        "serial_no": "90",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The difference of maximum values of the expressions (6+5x−x2) and (y−6−y2) for any real values of x and [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 18",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath91",
+        "serial_no": "91",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A clock is started at noon. By 10 minutes past 5, through what angle, the hour hand moves ? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 155°",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath92",
+        "serial_no": "92",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The minimum value of cos2x+cos2y−cos2z is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : -1",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath93",
+        "serial_no": "93",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The value of 32cot2(π4)−8sec2(π3)+8cos3(π6) is equal to [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 3√3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath94",
+        "serial_no": "94",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If x=91216, then the value of 3−1(1−x)13 is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 95",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath95",
+        "serial_no": "95",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "How many right angled triangles can be formed by joining the vertices of a cuboid ? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 32",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath96",
+        "serial_no": "96",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The average weight of students in a class is 43 kg. Four new students are admitted to the class whose weights are 42 kg, 36-5 kg, 39 kg and 42-5 kg respectively. Now the average weight of the students of the class is 42-5 kg. The number of students in the beginning was [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 20",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath97",
+        "serial_no": "97",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Four years ago, the average age of A and B was 18 years. Now the average age of A, B and C is 24 years. After 8 years, the age of C will be [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 36 years",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath98",
+        "serial_no": "98",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If a variable takes discrete values a+4,a−3.5,a−2.5,a−3,a−2,a+0.5,a+5 and a−0−5 where a > 0, then the median of the data set is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : a−1.25",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath99",
+        "serial_no": "99",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If each of n numbers xi=i(i=1,2,3,...n) is replaced by (i+1)xi, then the new mean is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : (n+1)(n+2)3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSMath100",
+        "serial_no": "100",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The weighted arithmetic mean of first 10 natural numbers whose weights are equal to the. corresponding numbers is equal to [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 7",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    }
+  ]
+}

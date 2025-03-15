@@ -1,0 +1,3731 @@
+{
+  "exam_info": {
+    "exam_type": "UPSC_CDS",
+    "year": 2023,
+    "session": "I",
+    "subject": "General Knowledge",
+    "total_questions": 120
+  },
+  "questions": [
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge1",
+        "serial_no": "1",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Consider the following statements about Kanaganahalli archaeological site: 1. It is situated on the bank of Bhima river. 2. The remains of the Kanaganahalli Stupa can be dated between. 1st and 3rd centuries CE. 3. Emperor Ashoka's image was found at the site. Which of the statements given above are correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1, 2 and 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge2",
+        "serial_no": "2",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which of the following statements about volcanoes are correct? 1. The strength of a volcano is measured by the Volcanic Explosive Index. 2. Iceland and Philippines were created by volcanic activity. 3. Volcanic soils are rich, deep and fertile and allow intensive agriculture to take place. Select the correct answer using the code given below.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1, 2 and 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge3",
+        "serial_no": "3",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Consider the following characteristics of a cloud type: 1. They are born through convection. 2. Only cloud type that can produce hail, thunder and lightning. 3. They are large cauliflower-shaped towers, often 'anvil tops'. Identify the type of cloud on the basis of the given characteristics.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Cumulonimbus",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge4",
+        "serial_no": "4",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Meena wants to show diagrammatically how two sets of data, namely, population size and number of services are related to each other. Which one of the following will be the most suitable for the presentation?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Bar chart",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge5",
+        "serial_no": "5",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following Indian States has the longest coastline?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Gujarat",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge6",
+        "serial_no": "6",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which of the following statements is/are correct? 1. Visakhapatnam Port is a land- locked harbour. 2. Deendayal Port is a tidal port. Select the correct answer using the code given below.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge7",
+        "serial_no": "7",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "There is an increase in forest cover area of India between 2011 and 2021. However, there is a decrease in forest cover area of India during the same period in",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : moderately dense forest (canopy density between 40-70 percent)",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge8",
+        "serial_no": "8",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Consider the following statements concerning the National Education Policy, 2020: 1. At least 50 percent of the learners. school and higher through education system to get exposure to vocational education by 2025. 2. Secondary schools should collaborate with ITIs, Polytechnics. and local industries. 3. Vocational education to be exclusively provided by NGOs. Which of the statements given above is/are correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge9",
+        "serial_no": "9",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which of the following sets of States is at the bottom of the Composite SDG India Index, 2020-2021 as per the NITI Aayog?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Assam, Jharkhand, Bihar",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge10",
+        "serial_no": "10",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following is not a part of Article 51 of the Constitution of India?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Use of UN peacekeeping force for resolution of international disputes",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge11",
+        "serial_no": "11",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Who among the following was not in the core leadership of the Non-Aligned Movement (NAM) in its formative phase?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Fidel Castro",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge12",
+        "serial_no": "12",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "In respect to Balutedars, which of the statements given below are correct? 1. They were village servants and artisans. 2. They were employed by individual peasant family. 3. They existed in the Medieval Deccan and Maharashtra. Select the correct answer using the code given below.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1, 2 and 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge13",
+        "serial_no": "13",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following Viceroys was the first to officially shift his Council to Simla in summer season?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : John Lawrence",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge14",
+        "serial_no": "14",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Who among the following is the author of Maze Vidyapeeth, the famous poem about the life of working class of Bombay?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Narayan Surve",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge15",
+        "serial_no": "15",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Who among the following founded the Hindu Dharma Sabha in the 19th century?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Radhakanta Deb",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge16",
+        "serial_no": "16",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The resolution adopted by the United Nations General Assembly on 3 March, 2021 decided to celebrate the year 2023 as the International Year of",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Millets",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge17",
+        "serial_no": "17",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Karthik Meiyappan, who secured hat-trick in the ICC Men's T20 World Cup, 2022, represents",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : United Arab Emirates",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge18",
+        "serial_no": "18",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following statements. about the Wassenaar Arrangement is not correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : It is formed primarily as a nuclear weapon overseer.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge19",
+        "serial_no": "19",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Who among the following is known as 'Payyoli Express\"?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : P. T. Usha",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge20",
+        "serial_no": "20",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Match List-I with List-II relating to Sahitya Akademi Award Winners, 2022 and select the correct answer using the code given below the Lists: List - I (Title and Genre) List - II (Author) (A) Bhool Satya (Short) (1) Kamal Ranga (B) Tumadi Ke Shabd (Poetry) (2) Veena Gupta (C) Chhe Roopak (Drama) (3) Badri Narayan (D) Alekhun Amba (Play) (4) Manoj Kumar Goswami",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A - 4, B - 3, C - 2, D - 1",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge21",
+        "serial_no": "21",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "A sprinter feels cramps and pain in the thigh muscles after a run. This is due to accumulation of",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : lactic acid",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge22",
+        "serial_no": "22",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "A leaf was plucked from a plant on a sunny day and kept for 2 minutes in boiling water. It was subsequently immersed in boiling alcohol and treated with iodine solution. What will be the final colour of the leaf after the test?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Blue",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge23",
+        "serial_no": "23",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "If the red blood cells (RBCs) of human blood are isolated and are diluted in normal saline (an isotonic solution to blood), what will happen to the RBCs?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : No change in the diameters of the RBCs",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge24",
+        "serial_no": "24",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following statements regarding bile secreted by liver is not correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Bile contains enzymes for digestion of lipids.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge25",
+        "serial_no": "25",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The blood pressure of a normal human being is found to be 120/80 mmHg. These 'numbers' represent the blood pressure at",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : ventricular contraction and ventricular relaxation, respectively",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge26",
+        "serial_no": "26",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "A person burned a firecracker in front of a cliff and heard its echo 5 s after it burst. The distance of the cliff from the person, if the speed of the sound is 340 m/s, is close to",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 850 m",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge27",
+        "serial_no": "27",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Consider the following statements about the microphone and the speaker of a mobile phone : 1. The microphone converts sound to a mechanical signal. 2. The microphone converts sound to an electrical signal. 3. The speaker converts a mechanical signal to sound. 4. The speaker converts an electrical signal to sound. Which of the statements given above are correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 and 4",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge28",
+        "serial_no": "28",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "A 100 W electric bulb is used for 10 hours a day. How many units of electrical energy are consumed by the bulb in 3 days? (1 unit = 1 kWh)",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 3.00",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge29",
+        "serial_no": "29",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The area under the velocity-time graph for a particle moving in a straight line with uniform acceleration gives",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : its net displacement",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge30",
+        "serial_no": "30",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The power of a lens of focal length 10 cm is",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 10 dioptre",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge31",
+        "serial_no": "31",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Consider the following statements regarding burning of magnesium ribbon in air : 1. White powder of MgO is formed. 2. It is an example of combustion reaction. 3. Heat and light are produced. Which of the statements given above are correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1, 2 and 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge32",
+        "serial_no": "32",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which of the following statements with regard to the reaction given below are correct? CaO (s) + H2O(l) → Ca(OH)2(aq) + Heat 1. Quicklime is used for white- washing of walls. 2. The solution of slaked lime is used for whitewashing of walls. 3. CaO reacts slowly with CO2 in air to form a thin layer of CaCO3 on walls. 4.Calcium hydroxide called 'slaked lime' is an inorganic compound. Select the correct answer using the code given below.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 and 4",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge33",
+        "serial_no": "33",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which of the following statements with regard to heating of lead nitrate powder over a flame are correct? 1. Brown fumes of NO are released. 2. Colourless O2 gas is released. 3. It is an example of oxidation reaction. 4. It is an example of thermal decomposition used for the production of NO2 gas. Select the correct answer using the code given below.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 and 4 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge34",
+        "serial_no": "34",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following is not an oxidation reaction?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Opening of soda bottle",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge35",
+        "serial_no": "35",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Consider the following clues about a State of India : 1. It is known as land of red river and blue hills’. 2. It contains three of the six physiographic divisions of India. 3. It covers about 2.39 percent of total areas of the country. Identify the State on the basis of the given clues.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Assam",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge36",
+        "serial_no": "36",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which of the following sets of States shares boundary with Telangana?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Chhattisgarh, Andhra Pradesh, Karnataka, Maharashtra",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge37",
+        "serial_no": "37",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Rani told her friends that last year she did boating in four different lakes, namely, Loktak, Barapani, Kolleru and Pulicat. Which of the following States did she visit?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Manipur, Meghalaya, Andhra Pradesh, Tamil Nadu",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge38",
+        "serial_no": "38",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "According to the Census 2011, which of the following statements is/are correct? 1. A person who can only read but cannot write, is not literate. 2. A person aged seven years and above, who can both read and write with understanding in any language is treated as literate. Select the correct answer using the code given below.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge39",
+        "serial_no": "39",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The Tropic of Cancer passes through how many coastal and landlocked States of India, respectively?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 and 6",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge40",
+        "serial_no": "40",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following situations can lead to inflation ?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Rapid growth of aggregate demand outweighing supply",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge41",
+        "serial_no": "41",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "In which one of the following revolts did the Koya and Konda tribal chiefs rise against the local overlord from a Mansabdar family?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : The Rampa Rebellion, 1879-1880",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge42",
+        "serial_no": "42",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which country won the FIFA World Cup (Men) for maximum number of times ?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Brazil",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge43",
+        "serial_no": "43",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Who among the following is the author of the famous novel, City of Joy ?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Dominique Lapierre",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge44",
+        "serial_no": "44",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Who among the following is honoured with the UN Environment Programme’s 2022 Champions of the Earth Award in the Entrepreneurial Vision category?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Purnima Devi Barman",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge45",
+        "serial_no": "45",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The theme of India’s G20 Presidency 'Vasudhaiva Kutumbakam’ or ‘One Earth-One Family-One Future’ is drawn from the",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Maha Upanishad",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge46",
+        "serial_no": "46",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The 16th edition of Indo-Nepal annual joint training exercise in jungle warfare and counterterrorism operations was held in December 2022 at Nepal Army Battle School, Saljhandi. What is the name of this exercise?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Surya Kiran",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge47",
+        "serial_no": "47",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "If it is 10:00 a.m. at Greenwich Mean Time (GMT), then what will be the time at 90° E longitude?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 4:00 p.m.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge48",
+        "serial_no": "48",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which of the following groups of planets is termed as ‘gas planets’ as they are composed primarily of lighter ices, liquids and gases?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Jupiter, Uranus, Neptune, Saturn",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge49",
+        "serial_no": "49",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Consider the following characteristics of a soil type : 1. These soils consist of various proportions of sand, silt and clay. 2. These soils contain adequate proportions of potash, phosphoric acid and lime. 3. These soils can be further classified on the basis of their age. Identify the type of soil on the basis of the given characteristics.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Alluvial",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge50",
+        "serial_no": "50",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Consider the following statement and identify the correct answer using the code given below : 1. In a thermal power station, fuels such as oil, coal or Natural gas are used to generate electricity, 2. Fuels are burned to heat water and turn it into steam, which goes through a turbine, which spins and turns, generating electricity.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both the statements are correct and statement 2 explains statement 1",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge51",
+        "serial_no": "51",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Indus river basin is extended up to",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Ladakh, Jammu and Kashmir, Himachal Pradesh, Punjab, Haryana, Rajasthan",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge52",
+        "serial_no": "52",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following statements about the Solicitor General of India (SGI) is not correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : The post of the SGI is a constitutional post.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge53",
+        "serial_no": "53",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following committees does not have members from the Rajya Sabha?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : The Estimates Committee",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge54",
+        "serial_no": "54",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following statements about the election of the President of India is not correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A Union Minister shall not be eligible for election as the President.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge55",
+        "serial_no": "55",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The Citizenship Act, 1955 deals with the determination of citizenship on or after",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 26th January, 1950",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge56",
+        "serial_no": "56",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "According to the National Multi dimensional Poverty Index (MPI) constructed by the NITI Aayog, a household is considered deprived if 1. a single member of the household is identified as under-nourished 2. the body mass index of a woman member, between 15 years and 49 years of age, is below 18.5 kg/m2 Select the correct answer using the code given below.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge57",
+        "serial_no": "57",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The titles of ‘Rayagajakesari’ and ‘Dayagajakesari’ were associated with which one of the following dynasties?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Kakatiya",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge58",
+        "serial_no": "58",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Name the location of the musical inscription containing groups of musical notes arranged for the benefit of his pupils by a king in the seventh or eighth century CE.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Kudumiyamalai",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge59",
+        "serial_no": "59",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "In the context of eighteenth century India, what was 'Dastak’ ?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Trade permit",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge60",
+        "serial_no": "60",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following was primarily associated with ‘Dadni’ system?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Textile production",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge61",
+        "serial_no": "61",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which of the following policies help to raise interest rate unambiguously and thereby lead to appreciation of currency?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Contractionary monetary policy and expansionary fiscal policy",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge62",
+        "serial_no": "62",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The contraction of private investment spending due to deficit spending by the Government is called",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : crowding out",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge63",
+        "serial_no": "63",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which among the following is/are the objective [objectives of the NITI Aayog? 1. Imposing policies on the States /UTs 2. Allocation of funds at National and State levels 3. Design strategies and long-term policies and programme frameworks Select the correct answer using the code given below.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 3 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge64",
+        "serial_no": "64",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The computation of poverty in terms of Monthly Per Capita Consumption Expenditure (MPCE) based on the Mixed Reference Period was recommended by the",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Tendulkar Committee",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge65",
+        "serial_no": "65",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which of the following is/are the submission /sub-missions of the National Skill Development Mission (NSDM)? 1. Institutional training 2. Overseas employment 3. Leveraging of public infrastructure Select the correct answer using the code given below.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1, 2 and 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge66",
+        "serial_no": "66",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which of the following strategies is/are adopted for implementing the POSHAN Abhiyaan? 1. Inter-sectoral convergence for better service delivery 2. Use of technology (ICT) for real-time growth monitoring of women and children Select the correct answer using the code given below.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge67",
+        "serial_no": "67",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which of the following conditions is/are necessary for the issue of a writ of certiorari in India? 1. There should be a tribunal or an officer having legal authority to determine questions affecting rights of subjects and having a duty to act judicially. 2. Such tribunal or officer has acted without jurisdiction Select the correct answer using the code given below.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge68",
+        "serial_no": "68",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Who among the following Chief Justices of India ordered the constitution of a Special Bench called ‘Social Justice Bench’?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Justice H. L. Dattu",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge69",
+        "serial_no": "69",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Who among the following is the author of the book, Bandi Jivan ?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Sachindranath Sanyal",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge70",
+        "serial_no": "70",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "In the election held in 1937, in which two provinces was the Indian National Congress not able to emerge as the single largest party?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Punjab and Sind",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge71",
+        "serial_no": "71",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Consider the following statements : After forming the Indian National Army, Subhas Chandra Bose 1. Recruited a large number of soldiers from the Indian Prisoners of War in Japanese camp 2. Introduced a women’s detachment named after the Rani of Jhansi Which of the statements given above is/are correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge72",
+        "serial_no": "72",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following pairs denoting various forms of ‘Bhakti’ is not correctly matched?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Alvars : Believed in devotion of Shakti",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge73",
+        "serial_no": "73",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which two rivers flow in the region between Gulbarga and Vijayanagara Hampi ?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Krishna and Tungabhadra",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge74",
+        "serial_no": "74",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which of the following is the only paramilitary force with a dual control structure ?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Assam Rifles",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge75",
+        "serial_no": "75",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following is an ethnic community of Assam?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Ahom",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge76",
+        "serial_no": "76",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The Chevrons is the name of the cricket team of which one of the following countries ?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Zimbabwe",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge77",
+        "serial_no": "77",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Cheetahs, brought from Namibia, were introduced in India to which one of the following National Parks?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Kuno National Park",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge78",
+        "serial_no": "78",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Who among the following is not a recipient of the Nobel Prize in Physics in 2022?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Klaus Hasselmann",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge79",
+        "serial_no": "79",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Reflex arcs are evolved in animals for quick and efficient responses. Which one of the following sequences correctly represents a reflex arc?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Receptor - Sensory neuron - Relay neuron in spinal cord - Brain - Motor neuron - Effector",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge80",
+        "serial_no": "80",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following is essential for thyroid gland to make thyroxin?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Iodine",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge81",
+        "serial_no": "81",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Consider the following statements and identify the actress: She is a renowned film actress, director and producer, and an accomplished Indian classical dancer. She was conferred the Padma Shri in 1992 and has served as the Head of Central Board for Film Certification from 1998 to 2001. In recognition to her exemplary lifetime contribution to Indian Cinema, she was honoured with the prestigious Dadasaheb Phalke Award.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Asha Parekh",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge82",
+        "serial_no": "82",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following is the venue of the UN 2023 Water Conference?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : New York",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge83",
+        "serial_no": "83",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which of the following statements-is/are correct? 1. Tomb of Sand, written by Geetanjali Shree, is the first book originally written in any Indian language to win the International Booker Prize. 2. Tomb of Sand is the first novel translated from Hindi to be given the International Booker Prize. Select the correct answer using the code given below.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge84",
+        "serial_no": "84",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The eighth edition of the Exercise Garuda Shakti, a bilateral military-to-military exercise, was conducted recently between the special forces of India and",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Indonesia",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge85",
+        "serial_no": "85",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following is a measure that can be used by the Government for combatting inflation?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Increasing the rate of interest on savings and fixed deposits",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge86",
+        "serial_no": "86",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The sustained decrease in the general price level is called as",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : deflation",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge87",
+        "serial_no": "87",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following indicators is included in the National Multidimensional Poverty Index (MPI)?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Years of schooling",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge88",
+        "serial_no": "88",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The unemployment that occurs due to changes in the technology or in the demand for particular products is called",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : structural unemployment",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge89",
+        "serial_no": "89",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which of the following is/are the objective/objectives of the Pradhan Mantri Swasthya Suraksha Yojana (PMSSY)? 1. Correcting regional imbalances in the availability of tertiary health care services 2. Providing universal access to public health services and universal immunization 3. Augmenting facilities for quality medical education in the country Select the correct answer using the code given below.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 3 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge90",
+        "serial_no": "90",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Who among the following political leaders suggested the dissolution of the Indian National Congress as a political organization and its replacement by a Lok Sevak Sangh?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : M. K. Gandhi",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge91",
+        "serial_no": "91",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "India is the first country in the world to deploy an all-woman contingent to a UN Peacekeeping Mission. In which country did this mission operate?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Liberia",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge92",
+        "serial_no": "92",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one among the following is not a part of the SWAYAM programme?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Classroom lectures",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge93",
+        "serial_no": "93",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one among the following Departments/Authorities is not under the Ministry of Home Affairs?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : The National Authority Chemical Weapons Convention",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge94",
+        "serial_no": "94",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Who among the following is given discretionary powers under the Fifth Schedule of the Constitution of India to set up a Tribes Advisory Council in a State which has Scheduled Tribes but not Scheduled Areas?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : The President of India",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge95",
+        "serial_no": "95",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which of the following States/UTs are included in the Northern Zonal Council?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Haryana, Punjab, Himachal Pradesh, Rajasthan and NCT of Delhi",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge96",
+        "serial_no": "96",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The notion of kinship projected by the Kushana rulers is best evidenced through which of the following?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Coins and sculpture",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge97",
+        "serial_no": "97",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Who among the following were referred to as the 'Theris’ in ancient India?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Elder nuns in Buddhism",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge98",
+        "serial_no": "98",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which member of the Servants of India Society founded the Seva Samiti at Allahabad in 1914?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Hriday Nath Kunzru",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge99",
+        "serial_no": "99",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The First Anglo-Maratha War was concluded by which one of the following?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : The Treaty of Salbai",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge100",
+        "serial_no": "100",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Name the battle in which the Travancore King defeated the Dutch in 1741.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : The Battle of Colachel",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge101",
+        "serial_no": "101",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "In plant cells, RNA is present in",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : nuclei, cytoplasm, mitochondria, chloroplast and endoplasmic reticulum",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge102",
+        "serial_no": "102",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "In grasses, intercalary meristem is usually located at",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : base of leaves",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge103",
+        "serial_no": "103",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Xylem is a type of complex tissue in plants for upward conduction of water. Which one of the following xylem tissues consists of living cells?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Xylem parenchyma",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge104",
+        "serial_no": "104",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Three resistors of resistances 11 Ω, 22 Ω and 33 Ω are connected in parallel. Their equivalent resistance is equal to",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 6 Ω",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge105",
+        "serial_no": "105",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The r.m.s. potential difference between the red live wire and black neutral wire in Indian domestic electric supply is",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 220 V",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge106",
+        "serial_no": "106",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The hydrogen bomb and the uranium bomb are based, respectively on",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : nuclear fusion and fission",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge107",
+        "serial_no": "107",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Sound and light waves are",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : respectively longitudinal and transverse in air",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge108",
+        "serial_no": "108",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "A car moving with a speed of 12 m/s is subjected to brakes which produces a deceleration of 6 m/s2 The car takes 2s to stop after the application of brakes. What is the distance covered by the car after the application of brakes?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 12 m",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge109",
+        "serial_no": "109",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "What is the chemical composition of a soda-acid type fire extinguisher?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Solution of sodium hydrogen carbonate and sulfuric acid",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge110",
+        "serial_no": "110",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Consider the following statements : While diluting concentrated nitric acid solution 1. the concentration of [H3O+] ions/ volume increases 2. water must be added slowly to concentrated acid 3. acid must be added slowly to water Which of the statements given above is/are correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 3 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge111",
+        "serial_no": "111",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following is the correct order of pH for the given substances?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Lemon juice < Coffee < Blood < Milk of magnesia",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge112",
+        "serial_no": "112",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following is not true for anodizing process?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Clean aluminium article is the anode and oxygen gas is evolved at the cathode.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge113",
+        "serial_no": "113",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Naphthalene burns with a yellow sooty flame. This is because",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : carbon to hydrogen ratio is low",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge114",
+        "serial_no": "114",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which of the following statements are true for the reaction of Fe2O3 with aluminium? 1. It is known as the ‘thermite reaction’. 2. The heat evolved is used for welding purpose. 3. Aluminium metal acts as an oxidizing agent. 4. Molten Fe and Al are formed at the end of the reaction. Select the correct answer using the code given below.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge115",
+        "serial_no": "115",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Vicky told his friends about his visit to Stewart Island, Bay of Plenty and Hawke Bay. Which country did Vicky visit?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : New Zealand",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge116",
+        "serial_no": "116",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Manav is Planning to visit all UNESCO World Heritage Sites in Delhi. He will be visiting",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Red Fort, Qutab Minar, Humayun Tomb",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge117",
+        "serial_no": "117",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "What will be the correct sequence of cities on the bank of river Ganga if someone moves from west to east?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Kanpur, Prayagraj, Patna, Bhagalpur",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge118",
+        "serial_no": "118",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one among the following States has the longest extension in north-south direction?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Chhattisgarh",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge119",
+        "serial_no": "119",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Match List-I with List-II and select the correct answer using the code given below the Lists : List-I (Day) List-II (Date) (A) World Wetlands Day (1) 29 July (B) International Tiger Day (2) 22 April (C) World Water Day (3) 2 February (D) International Mother Earth Day (4) 22 March",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A - 3, B - 1, C - 4, D - 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2023IUPSC_CDSGeneral Knowledge120",
+        "serial_no": "120",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2023,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following States/UTs is not among the top five in the Performance Grading Index (PGI), published by the Ministry of Education for the year 2020-2021?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : NCT of Delhi",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    }
+  ]
+}

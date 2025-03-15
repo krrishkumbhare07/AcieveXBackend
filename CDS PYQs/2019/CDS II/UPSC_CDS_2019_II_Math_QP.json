@@ -1,0 +1,3111 @@
+{
+  "exam_info": {
+    "exam_type": "UPSC_CDS",
+    "year": 2019,
+    "session": "II",
+    "subject": "Math",
+    "total_questions": 100
+  },
+  "questions": [
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath1",
+        "serial_no": "1",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The areas of three adjacent faces of a cuboid are x, y and z. If V is the volume of the cuboid, then which one of the following is correct ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : V2=xyz",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath2",
+        "serial_no": "2",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If l is the length of the median of an equilateral triangle, then what is its area? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : √3l23",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath3",
+        "serial_no": "3",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A piece of wire is in the form of a sector of a circle of radius 20cm, subtending an angle 150∘ at the centre. If it is bent in the form of a circle, then what will be its radius? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : None of the above",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath4",
+        "serial_no": "4",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Suppose P,Q and R are the mid-points of sides of triangle of area 128cm2. If a triangle ABC is drawn by joining the mid points of sides of triangle PQR, then what is the area of triangle ABC ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 8cm2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath5",
+        "serial_no": "5",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Let two lines p and be parallel. Consider two points B and C on the line p and two points D and E on the line q. The line through B and E intersects the line through C and D at A in between the two lines p and q. If A C : AD = 4 :9 , then what is the ratio of area of triangle ABC to that of triangle ADE ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 16 :81",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath6",
+        "serial_no": "6",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "An equilateral triangle and a square are constructed using metallic wires of equal length. What is the ratio of area of triangle to that of square ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 4√3:9",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath7",
+        "serial_no": "7",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "All the four sides of a parallelogram are of equal length.The diagonals are in the ratio 1:2. If the sum of the lengths of the diagonals is 12 cm, then what is the area of the parallelogram ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 16cm2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath8",
+        "serial_no": "8",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "ABC is a triangle right angled at B. If AB = 5 cm and B C = 10 cm, then what is the length of the perpendicular drawn from the vertex B to the hypotenuse ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2√5 cm",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath9",
+        "serial_no": "9",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Two cylinders of equal volume have their heights in the ratio 2 : 3. What is the ratio of their radii ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : √3:√2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath10",
+        "serial_no": "10",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The length and breadth of a rectangle are increased by 20% and 10% respectively. What is the percentage increase in the area of the rectangle ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 32%",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath11",
+        "serial_no": "11",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If the length of the hypotenuse of a right angled triangle is 10 cm, then what is the maximum area of such a right angled triangle ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 25cm2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath12",
+        "serial_no": "12",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A square is drawn such that its vertices are lying on a circle of radius 201 mm. What is the ratio of area of circle to that of square ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 11:7",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath13",
+        "serial_no": "13",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A right circular cylinder has a diameter of 20 cm and its curved surface area is 1000cm2. What is the volume of the cylinder ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 5000cm3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath14",
+        "serial_no": "14",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A piece of wire of length 33 cm is bent into an arc of a circle of radius 14 cm. What is the angle subtended by the arc at the centre of the circle ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 135°",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath15",
+        "serial_no": "15",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the ratio of the area of a square inscribed in a semicircle of radius r to the area of square inscribed in a circle of radius r ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 : 5",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath16",
+        "serial_no": "16",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If 10n divides 623×759×1052, then what is the largest value of ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 20",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath17",
+        "serial_no": "17",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the digit in the unit’s place of the number represented by 398—389 ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 6",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath18",
+        "serial_no": "18",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The sum of the squares of four consecutive natural numbers is 294.What is the sum of the numbers? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 34",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath19",
+        "serial_no": "19",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The equation x2+px+q=0 has roots equal to p and q where q≠0 What are the values of p and q respectively ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1,−2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath20",
+        "serial_no": "20",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "How many pairs of natural numbers are there such that the difference of their squares is 35 ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath21",
+        "serial_no": "21",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If (b−6) is one root of the quadratic equation x2−6x+b=0, where b is an integer, then what is the maximum value of b2? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 81",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath22",
+        "serial_no": "22",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If a=√7+4√3 integer, then what is the maximum value of a+1a ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 4",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath23",
+        "serial_no": "23",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the maximum value of the expression 1x2+5x+10 ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 415",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath24",
+        "serial_no": "24",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If the ratio of the work done by (x+2) workers in (x−3) days to the work done by (x+4) workers in (x−2) days is 3:4, then what is the value of x ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 10",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath25",
+        "serial_no": "25",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following is not correct ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : If p x q is even, then p and q are always even",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath26",
+        "serial_no": "26",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the sum of all integer values of n for which n2+19n+92 is a perfect square ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : -19",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath27",
+        "serial_no": "27",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the LCM of the polynomials x3+3x2+3x+1 , x3+5x2+5x+4 and x2+5x+4 ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : (x+1)3(x+4)(x2+x+1)",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath28",
+        "serial_no": "28",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the value of (x−y)3+(y−z)3+(z−x)39(x−y)(y−z)(z−x) [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 13",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath29",
+        "serial_no": "29",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If X = {a, {b),c},Y= {{a}, b,c} andZ = {a,b,{c}},then (X∩Y)∩Z equals to [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Φ",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath30",
+        "serial_no": "30",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Two numbers p and q are such that the quadratic equation px2+3x+2q=0,as -6 as the sum and the product of the roots. What is the value of (p-q) ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath31",
+        "serial_no": "31",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The quotient when x4−x2+7x+5 is divided by (x+2) is ax3+bx2+cx+d What are the values of a, b, c and d respectively ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1,−2,3,1",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath32",
+        "serial_no": "32",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The sides of a triangle are 30 cm, 28 cm and 16 cm respectively. In order to determine its area, the logarithm of which of the quantities are required ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 37, 21, 9, 7",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath33",
+        "serial_no": "33",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If log101995=3.3000, then what is the value of (0.001995)18 ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1100.3375",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath34",
+        "serial_no": "34",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is (x - a)(x - b)(x - c) equal to ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : x3−(a+b+c)x2+(bc+ca+ab)x−abc",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath35",
+        "serial_no": "35",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Let XYZ be an equilateral triangle in which XY= 7 cm. If A denotes the area o f the triangle, then what is the value of log10A4? (Given that log101050=3.0212 andIog1035=1.5441) [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 5.3070",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath36",
+        "serial_no": "36",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A hollow sphere of external and internal diameters 6 cm and 4 cm respectively is melted into a cone of base diameter 8 cm. What is the height of the cone ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 4.75 cm",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath37",
+        "serial_no": "37",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A solid metallic cylinder of height 10 cm and radius 6 cm is melted to make two cones in the ratio of volume 1 : 2 and of same height as 10 cm. What is the percentage increase in theflat surface area ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 50%",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath38",
+        "serial_no": "38",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If one side of a right-angled triangle (with all sides integers) is 15 cm, then what is the maximum perimeter of the triangle ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 240 cm",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath39",
+        "serial_no": "39",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A thin rod of length 24 feet is cut into rods of equal size and joined so as to form a skeleton cube. What is the area of one of the faces of the largest cube thus constructed ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 4 square feet",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath40",
+        "serial_no": "40",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider a trapezium ABCD, in which AB is parallel to CD and AD is perpendicular to AB. If the trapezium has an in circle which touches AB at E and CD at F, where EB = 25 cm and FC = 16 cm, then what is the diameter of the circle ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 40 cm",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath41",
+        "serial_no": "41",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Three copper spheres of radii 3 cm, 4 cm and 5 cm are melted to form a large sphere. What is its radius ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 6 cm",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath42",
+        "serial_no": "42",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The volume of a hemisphere is 155232cm3. What is the radius of the hemisphere ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 42 cm",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath43",
+        "serial_no": "43",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A bucket is in the form of a truncated cone. The diameters of the base and top of the bucket are 6 cm and 12 cm respectively. If the height of the bucket ls 7 cm, what is the capacity of thebucket ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 462cm3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath44",
+        "serial_no": "44",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A right circular cone has height 8 cm. the radius of its base is 6 cm, then what is its total surface area ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 96πcm2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath45",
+        "serial_no": "45",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Six cubes, each with 12 cm edge are joined end to end. What is the surface area of resulting cuboid ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 3744cm2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath46",
+        "serial_no": "46",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A hollow right circular cylindrical vessel of volume V whose diameter is equal to its height, is completely filled with water. A heavy sphere of maximum possible volume is then completely immersed in the vessel. What volume of water remains in the vessel ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : V3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath47",
+        "serial_no": "47",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Three parallel lines x,y and z are cut by two transversals m and n. Transversal m cuts the lines x,y, at P, Q, R respectively; and Transversal n cuts the lines x, y, z at L > M, N respectively. If PQ = 3 cm, QR = 9 cm and MN= 10.5 cm, then what is the length of LM ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 3.5 cm",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath48",
+        "serial_no": "48",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The area of a sector of a circle of radius 4 cm is 25.6cm2. What is the radian measure o f the arc of the sector ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 3.2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath49",
+        "serial_no": "49",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following is correct in respect of a right angled triangle ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Its orthocentre lies on the triangle",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath50",
+        "serial_no": "50",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Let the bisector of the angle BA of a triangle ABC meet BC in X. Which one of the following is correct ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : None o f the above",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath51",
+        "serial_no": "51",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the value of log10(cos‌θ)+log10(sin‌θ)+log10(tan‌θ)+log10(cot‌θ)+log10(sec‌θ)+log10(cosec‌θ)? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 0",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath52",
+        "serial_no": "52",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If cos2+cos‌x=1, then what is the value of sin12x+3sin10x+3sin8x+sin6x ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath53",
+        "serial_no": "53",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If 0 < 0 < 90°, sin‌θ=35 and =cot‌θ, then what is the value of 1+3x+9x2+27x3+81x4+243x3? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1365",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath54",
+        "serial_no": "54",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The angles of elevation of the tops of two pillars of heights h and 2h from a point P on the line joining the feet of the two pillars are complementary. If the distances of the foot of the pillars from the point P are x and y respectively, then which one of the following is correct? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2h2=xy",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath55",
+        "serial_no": "55",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the value of sin‌19∘cos‌71∘+cos‌73∘sin‌17∘ ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath56",
+        "serial_no": "56",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The perimeter of a triangle is 22 cm. Through each vertex of the triangle, a straight line parallel to the opposite side is drawn. What is the perimeter of triangle formed by these lines ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 44 cm",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath57",
+        "serial_no": "57",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The sides AD, BC of a trapezium ABCD are parallel and the diagonals AC and BD meet at O. If the area of triangle AOB is 3cm2 and the area of triangle BDC is 8cm2, then what is the area of triangle AOD ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1.8cm2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath58",
+        "serial_no": "58",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A line segment AB is the diameter of a circle with centre at O having radius 6.5cm . Point P is in the plane of the circle such that AP=x and BP=y . In which one of the following cases the point P does not lie on the circle ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : x = 6.5 cm and y = 6.5 cm",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath59",
+        "serial_no": "59",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The perimeters of two similar triangles ABC and PQR are 75 cm and 50 cm respectively. If the length of one side of the triangle PQR is 20 cm, then what is the length of corresponding side of the triangle ABC ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 30 cm",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath60",
+        "serial_no": "60",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Let PQRS be a parallelogram whose diagonals PR and QS intersect at O. If triangle QRS is an equilateral triangle having a side of length 10 cm, then what is the length of the diagonalPR? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 10√3 cm",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath61",
+        "serial_no": "61",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If the sum of a real number and its reciprocal 265 is then how many such numbers are possible ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath62",
+        "serial_no": "62",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements :1. If pis relatively prime to each of q and r, then p is relatively prime to the product qr.2. If p divides the product qr and if p divides q, then p must divide r.Which of the above statements is/are correct ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath63",
+        "serial_no": "63",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Radha and Rani are sisters. Five years back, the age of Radha was three times that of Rani, but one year back the age of Radha was two times that of Rani. What is the age difference between them ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 8",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath64",
+        "serial_no": "64",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A person carries ₹500 and wants to buy apples and oranges out of it. If the cost of one apple is ₹5 and the cost of one orange is ₹7, then what is the number of ways in which a person can buy both apples and oranges using total amount ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 14",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath65",
+        "serial_no": "65",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Given y is inversely proportional to √x and x=36 when y=36. What is the value of x when y=54 ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 16",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath66",
+        "serial_no": "66",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the square root of 16+6√7 ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 3+√7",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath67",
+        "serial_no": "67",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the number of digits in 725 , 823 and 920 respectively ? [Given log102=0.301,log103=0.477,log107=0.845] [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 22, 21, 20",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath68",
+        "serial_no": "68",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Let x be the smallest positive integer such that when 14 divides x, the remainder is 7; and when 15 divides x, the remainder is 5. Which one of the following is correct ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 30 < x < 40",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath69",
+        "serial_no": "69",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Two taps X and Y are fixed to a water tank. If only X is opened, it drains out the full tank of water in 20 minutes. If both X and Y are opened, then they drain out the full tank of water in 15 minutes. If only Y is opened, how long does it take to drain out the full tank of water ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 60 minutes",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath70",
+        "serial_no": "70",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements : 1. √75 is rational number.2. There exists at least a positive integer x such that −4x5<−78.3. x−2x<1 for all real values of x4. 4.232323..... can be expressed in the form pq where p and q are integersWhich of the above statements ate correct ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 and 4",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath71",
+        "serial_no": "71",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A library has an average number of 510 visitors on Sunday and 240 on other days. What is the average number of visitors per day in a month of 30 days beginning with Saturday ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 285",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath72",
+        "serial_no": "72",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If 3611=3+1x+1y+12 , where x, y and z are natural numbers, then what is (x+y+z) equal to ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 6",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath73",
+        "serial_no": "73",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A person sells two items each at Rs. 990, one at a profit of 10% and another at a loss of 10%. What is the combined percentage of profit or loss for the two items ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1% loss",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath74",
+        "serial_no": "74",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "It takes 11h for a 600km journey if 120km is done by train and the rest by car. It takes 40min more if 200km are covered by train and the rest by car. What is the ratio of speed of the car to that of the train? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 3:2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath75",
+        "serial_no": "75",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A real number x is such that (x−x2) is maximum. What is x equal to ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 0.5",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath76",
+        "serial_no": "76",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the mean of frequency distribution of Series-I ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 37.6",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath77",
+        "serial_no": "77",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the mode of the frequency distribution of Series-II ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 46",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath78",
+        "serial_no": "78",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Number of scooters of company Y sold by showroom E is what percent of the number of scooters of both companies sold by showroom C ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 55",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath79",
+        "serial_no": "79",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Number of scooters of both the companies sold by showroom B is what per cent more than the number of scooters of company X sold by showroom A ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 8623",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath80",
+        "serial_no": "80",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the average number of scooters of company Y sold by the showrooms A,C and E ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 46113",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath81",
+        "serial_no": "81",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the difference between the number of scooters of both companies sold by showroom A and total number of scooters of company X sold by showrooms B and E together ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 436",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath82",
+        "serial_no": "82",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What was the average number of pedestrians killed per day in the year 2017? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 56",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath83",
+        "serial_no": "83",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the approximate percentage change in the pedestrians’ fatalities during the period 2014-11 ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 66%",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath84",
+        "serial_no": "84",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the average number of bikers killed daily in road accidents in the year 2017 ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 134",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath85",
+        "serial_no": "85",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the average number of cyclists killed daily in road accidents in 2017 ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 10",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath86",
+        "serial_no": "86",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Let a and b be two positive real numbers such that a√a+b√b=32 and a√b+b√a=31 What is the value of 5(a+b)7? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 9",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath87",
+        "serial_no": "87",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If x=1+√32 and y=x3,then y satisfies which one of the following equations ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 8y2−20y−1=0",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath88",
+        "serial_no": "88",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "HCF of two numbers is 12. Which one of the following can never be their LCM ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 80",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath89",
+        "serial_no": "89",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements :1. Unit digit in 17174 is 7.2. Difference o f the squares of any two odd numbers is always divisible by 8Adding 1 to the product of two consecutive odd numbers makes it a perfect square.Which of the above statements are correct ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 and 3 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath90",
+        "serial_no": "90",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The rate of interest on two different schemes is the same and it is 20%. But in one of the schemes, the interest is compounded half yearly and in the other the interest is compounded annually. Equal amounts are invested in the schemes. If the difference of the returns after 2 years is ₹482, then what is the principal amount in each scheme ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : ₹20,000",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath91",
+        "serial_no": "91",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "For what value of k can the expression x3+kx2−7x+6 be resolved into three linear factors ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 0",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath92",
+        "serial_no": "92",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "X, Y and Z start at same point and same in the same direction to run around a circular stadium. X completes a round in 252 seconds, Y in 308 seconds and Z in 198 seconds. After what time will they meet again at the starting point ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 46 minutes 12 seconds",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath93",
+        "serial_no": "93",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the LCM of 13,56,29,427 ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 203",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath94",
+        "serial_no": "94",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If the equations x2+5x+6=0 and x2+kx+1=0 have a common root, then what is the value of ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 52 or 103",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath95",
+        "serial_no": "95",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A lent ₹25000 to B and at the same time lent some amount to C at same 7% simple interest. After 4 years A received ₹11200 as interest from B and C. How much did A lend to C ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : ₹15000",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath96",
+        "serial_no": "96",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A trader sells two computers at the same price, making a profit of 30% on one and a loss of 30% on the other What is the net loss or profit percentage on the transaction ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 9% loss",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath97",
+        "serial_no": "97",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The monthly incomes of A and B are in the ratio 4:3. Each saves ₹600. If their expenditures are in the ratio 3:2, then what is the monthly income of A ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : ₹2400",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath98",
+        "serial_no": "98",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The train fare and bus fare between two stations is in the ratio 3 :4. If the train fare increases by 20% and bus fare increases by 30%, then what is the ratio between revised train fare and revised bus fare ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 913",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath99",
+        "serial_no": "99",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "When N is divided by 17, the quotient is equal to 182. The difference between the quotient and the remainder is 175. What is the value of N ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 3101",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2019IIUPSC_CDSMath100",
+        "serial_no": "100",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2019,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A stock of food grains is enough for 240 men for 48 days. How long will the same stock last for 160 men ? [2019 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 72 days",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    }
+  ]
+}

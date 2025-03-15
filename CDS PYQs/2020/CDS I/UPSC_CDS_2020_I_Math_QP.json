@@ -1,0 +1,6411 @@
+{
+  "exam_info": {
+    "exam_type": "UPSC_CDS",
+    "year": 2020,
+    "session": "I",
+    "subject": "Math",
+    "total_questions": 100
+  },
+  "questions": [
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath1",
+        "serial_no": "1",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " The number2×3×5×7×11+1is  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "a prime number",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "not a prime, but power of a prime",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "not a power of a prime, but a composite even number",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "not a power of a prime, but a composite odd number",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath2",
+        "serial_no": "2",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " Two unequal pairs of numbers satisfy the following conditions :(i) The product of the two numbers in each pair is 2160(ii) The HCF of the two numbers in each pair is 12. If x is the mean of the numbers in the first pair and y is the mean o f thenumbers in the second pair, then what is the mean of x and y ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "60",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "72",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "75",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "78",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath3",
+        "serial_no": "3",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " How many digits are there in(54)10? (Given thatlog102=0.301andlog103=0.477)  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "16",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "18",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "19",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "27",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath4",
+        "serial_no": "4",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " Which one of the following is a set of solutions of  the equationx√x=√[n]xx,if n is a positive integer?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "{1,n2}",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "{1,√n}",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "{1,n}",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "{n,n2}",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath5",
+        "serial_no": "5",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " In a competitive examination, 250 students have registered. Out of these, 50 students have registered for Physics, 75 students for Mathematics and 35 students for both Mathematics and Physics. What is the number of students who have registered neither for Physics nor for Mathematics ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "90",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "100",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "150",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "160",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath6",
+        "serial_no": "6",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " If the sum o f the digits of a number10n−1, where n is a natural number, is equal to 3798, then what is the value of n ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "421",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "422",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "423",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "424",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath7",
+        "serial_no": "7",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " Which one o f the following is the largest number among22222,22222,22222,22222?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "22222",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "22222",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "22222",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "22222",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath8",
+        "serial_no": "8",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " If m is the number of prime numbers between 0 and 50; and n is the number of prime numbers between 50 and 100, then what is(m−n)equal to ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "4",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "5",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "6",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "7",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath9",
+        "serial_no": "9",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " Ifab=13,bc=2,cd=12,dc=3andef=14, then what is the value ofabcdef?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "14",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "34",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "38",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "274",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath10",
+        "serial_no": "10",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " Which one of the following is the largest divisor of3x+3x+1+3x+2, ifxis any natural number?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "13",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "39",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "117",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath11",
+        "serial_no": "11",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " A two-digit number is 9 more than four times of the number obtained by interchanging its digits. If the product of digits in the two-digit number is 8, then what is the number?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "81",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "42",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "24",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "18",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath12",
+        "serial_no": "12",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " If α and β are the roots of the quadratic equationx2+kx−15=0such thatα−β=8, then what is the positive  value of k?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "4",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "5",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath13",
+        "serial_no": "13",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " What are the values of p and q respectively, if(x−1)and(x+2)divide the polynomialx3+4x2+px+q?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1,−6",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2,−6",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "1,6",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "2,6",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath14",
+        "serial_no": "14",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " If (x + k) is the HCF ofx2+5x+6andx2+8x+15, then what is the value of k?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "5",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath15",
+        "serial_no": "15",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " If5x+1−5x−1=600, then what is the  value of102x?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "1000",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "100000",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "1000000",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath16",
+        "serial_no": "16",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " A number divides 12288, 28200 and 44333 so as to leave the same remainder in each case. What is that number ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "272",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "232",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "221",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "120",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath17",
+        "serial_no": "17",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " Ifx2+9y2=6xy, then what is y : x equal to ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1:3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "1:2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "2:1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "3:1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath18",
+        "serial_no": "18",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " If m and n are positive integers such thatmn=1331, then what is the value of(m−l)n−1?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "100",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "121",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "125",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath19",
+        "serial_no": "19",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " What is1am−n−1+1an−m−1equal to ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "-1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "0",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "2am−n",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath20",
+        "serial_no": "20",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " Ifx=√2,y=3√3andz=6√6, then which one of the following is correct ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "y < x < z",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "z < x < y",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "z < y < x",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "x < y < z",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath21",
+        "serial_no": "21",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " Iflog‌x=1.2500andy=xlog‌x, then what is log y equal to ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "4.2500",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2.5625",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "1.5625",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "1.2500",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath22",
+        "serial_no": "22",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " If fix) is divided by (x - a)(x - f ) whereα≠β, then what is the remainder ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "(x−α)‌f(α)−(x−β)‌f(β)α−β",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "(x−α)f(β)−(x−β)f(α)α−β",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "(x−β)‌f(α)−(x−α)‌f(β)α−β",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "(x−β)‌f(β)−(x−α)‌f(α)α−β",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath23",
+        "serial_no": "23",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " If the area of a square is,2401x4+196x2+4then what is its side length ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "49x2+3x+2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "49x2−3x+2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "49x2+2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "59x2+2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath24",
+        "serial_no": "24",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " If x varies as yz, then y varies inversely as  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "xz",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "xz",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "zx",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "1(xz)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath25",
+        "serial_no": "25",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " If the points P and Q represent real numbers0.73and0.56on the number line, then what is the distance between P and Q ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "15",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "15",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "1645",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "1190",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath26",
+        "serial_no": "26",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " What is the point on the xy-plane satisfying5x+2y=7xyand10x+3y=8xy?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "(−1,16)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "(16,−1)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "(1,16)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "(−16,−1)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath27",
+        "serial_no": "27",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " The price of an article X increases by 20% every year and price of article Y increases by 10% every year. In the year 2010, the price of article X was ₹5000 and price of article Y was ₹2000. In which year the difference in their prices exceeded ₹5000 for the first time ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2012",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2013",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "2014",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "2015",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath28",
+        "serial_no": "28",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " The ratio of speeds of X and Y is 5 : 6. If Y allows X a start of 70 m in a 1 -2 km race, then who will win the race and by what distance ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "X wins the race by 30 m",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Y wins the race by 90 m",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Y wins the race by 130 m",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "The race finishes in a dead heat",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath29",
+        "serial_no": "29",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " A train takes two hours less for a journey of 300 km if its speed is increased by 5 km/hr from its usual speed. What is its usual speed?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "50 km/hr",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "40 km/hr",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "35 km/hr",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "25 km/hr",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath30",
+        "serial_no": "30",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " If 6 men and 8 women can do a piece of work in 10 days; and 13 men and 24 women can do the same work in 4 days, then what is the ratio of daily work done by a man to that of a woman ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2:1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "1:2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "4:3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "3:4",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath31",
+        "serial_no": "31",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " Students of a class are made to sit in rows of equal number of chairs. If number of students is increased by 2 in each row, then the number of rows decreases by 3. If number of students is increased by 4 in each row, then the number of rows decreases by 5. What is the number of students in the class ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "100",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "105",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "110",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "120",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath32",
+        "serial_no": "32",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " A sum was put at simple interest at certain rate for 2 years. Had it been put at 1% higher rate of interest, it would have fetched ₹24 more. What is the sum ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "₹500",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "₹600",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "₹800",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "₹1200",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath33",
+        "serial_no": "33",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " The population of two villages is 1525 and 2600 respectively. If the ratio of male to female population in the first village is 27 : 34 and the ratio of male to female population in the second village is 6:7, then what is the ratio of male to female population of these two villages taken together?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "3341",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "8582",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "7190",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "56",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath34",
+        "serial_no": "34",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " In a class room the ratio of number of girls to that of boys is 3:4. The average height of students in the class is 4-6 feet. If the average height of the boys in the class is 4-8 feet, then what is the average height of the girls in the class ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "Less than 4-2 feet",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "More than 4-2 feet but less than 4-3 feet",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "More than 4-3 feet but less than 4-4 feet",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "More than 4-4 feet but less than 4-5 feet",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath35",
+        "serial_no": "35",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " What is the median of the data 3, 5, 9, 4, 6, 11, 18?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "6",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "6.5",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "7",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "7.5",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath36",
+        "serial_no": "36",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " In a pi-diagram there are three sectors. If the ratio of the angles of the sectors is 1:2:3, then what is the angle of the largest sector?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "200°",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "180°",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "150°",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "120°",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath37",
+        "serial_no": "37",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " The maximum marks in a Test are converted from 250 to 50 for the purpose of an Internal Assessment. The highest marks scored were 170 and lowest marks were 70. What is the difference between the maximum and minimum marks scored in the Internal Assessment ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "15",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "17",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "20",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "24",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath38",
+        "serial_no": "38",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " Jails with highest and smallest percentage of trained convicts are respectively  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "F and D",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "D and F",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "C and A",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "D and A",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath39",
+        "serial_no": "39",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " Jail with highest placement rate of trained convicts is  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "F",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "D",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "B",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "A",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath40",
+        "serial_no": "40",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " Jails from which more than half of the trained convicts are offered jobs, are  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "A, B and C",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "A, B and D",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "A, D and E",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "A, E and F",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath41",
+        "serial_no": "41",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " The number of three digit numbers (all digits are different) which are divisible by 7 and also divisible by 7 on reversing the order of the digits, is  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "Six",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Five",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Four",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Three",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath42",
+        "serial_no": "42",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " How many integral values of x and y satisfy the equation5x+9y=7, where -500 < x < 500 and -500 < y < 500 ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "110",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "111",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "112",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "None of the above",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath43",
+        "serial_no": "43",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " Let XYZ be a 3-digit number. Let S = XYZ + YZX + ZXY. Which of the following statements is/are correct?1. S is always divisible by 3 and (X+Y+Z)2. S is always divisible by 93. S is always divisible by 37Select the correct answer using the code given below:  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "1 and 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "1 and 3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath44",
+        "serial_no": "44",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " In covering certain distance, the average speeds of X and Y are in the ratio 4:5. If X takes 45 minutes more than Y to reach the destination, then what is the time taken by Y to reach the destination ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "135 minutes",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "150 minutes",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "180 minutes",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "225 minutes",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath45",
+        "serial_no": "45",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " For two observations, the sum is S and product is P. What is the harmonic mean of these two observations ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2SP",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "S2P",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "2PS",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "P2S",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath46",
+        "serial_no": "46",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " If the annual income of X is 20% more than that of Y, then the income of Y is less than that of X by p%. What is the value of p ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "10",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "1623",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "1713",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "20",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath47",
+        "serial_no": "47",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " What is the least perfect square which is divisible by 3, 4, 5, 6 and 7 ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1764",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "17640",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "44100",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "176400",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath48",
+        "serial_no": "48",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " In a water tank there are two outlets. It takes 20 minutes to empty the tank if both the outlets are opened. If the first outlet is opened, the tank is emptied in 30 minutes. What is the time taken to empty the tank by second outlet ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "30 minutes",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "40 minutes",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "50 minutes",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "60 minutes",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath49",
+        "serial_no": "49",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " If(x2−1)is a factor ofax4+bx3+cx2+dx+e, then which one of the following is correct ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "a + b + c = d + e",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "a + b + e = c + d",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "b + c + d = a + e",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "a + c + e-b + d",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath50",
+        "serial_no": "50",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " If(x8+1x8)=47what is the value of(x6+1x6)?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "36",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "27",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "18",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "9 .",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath51",
+        "serial_no": "51",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " A wheel makes 360 revolutions in one minute. What is the number of radians it turns in one second?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "4π",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "6π",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "12π",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "16π",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath52",
+        "serial_no": "52",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " What is the least value of(25cosec2x+sec2x)?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "40",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "36",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "26",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "24",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath53",
+        "serial_no": "53",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " Let 0 < 0 < 90° and 1000=90°. Ifα=∏n=199cot‌n‌θ, then which one of the following is correct ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "a = 1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "a = 0",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "a > 1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "0 < a < 1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath54",
+        "serial_no": "54",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " If tan 6θ = cot 2θ, whereθ<6θ<π2, then what is the value of sec 4θ ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "√2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "2√3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "43",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath55",
+        "serial_no": "55",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " A tree of height 15 m is broken by wind in such a way that its top touches the ground and makes an angle 30° with the ground. What is the height from the ground to the point where tree is broken?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "10 m",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "7 m",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "5 m",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "3 m",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath56",
+        "serial_no": "56",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " On a plane area there are two vertical towers separated by 100 feet apart. The shorter tower is 40 feet tall. A pole of length 6 feet stands on the line joining the base of two towers so that the tip of the towers and tip of the pole are also on the same line. If the distance of the pole from the shorter tower is 75 feet, then what is the height of the taller tower (approximately) ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "85 feet",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "110 feet",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "125 feet",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "140 feet",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath57",
+        "serial_no": "57",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " The angles of elevation of the top of a tower from two points at distancespandqfrom the base and on the same straight line are27∘and63∘respectively. What is the height of the tower?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "pq",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "√pq",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "pq2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "√pq2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath58",
+        "serial_no": "58",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " What is the value ofsin26°+sin212°+sin218°+...+sin284°+sin290°?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "4",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "8",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath59",
+        "serial_no": "59",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " What iscos‌θ1+sin‌θ+1cot‌θequal to ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "cosecθ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "secθ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "secθ + cosecθ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "cosecθ - cotθ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath60",
+        "serial_no": "60",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " What issin‌θ−cos‌θ+1sin‌θ+cos‌θ−1−sin‌θ+1cos‌θequal to ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "0",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "2sinθ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "2cosθ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath61",
+        "serial_no": "61",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " What is(tan‌x+tan‌y)(1−cot‌x‌cot‌y)+(cot‌x+cot‌y)(1−tan‌x‌tan‌y)equal to ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "0",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "4",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath62",
+        "serial_no": "62",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " What is√sec‌x−tan‌xsec‌x+tan‌xequal to ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1sin‌x+cos‌x",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "1tan‌x+cot‌x",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "1sec‌x+tan‌x",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "1cosec‌x+cot‌x",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath63",
+        "serial_no": "63",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " If θ lies in the first quadrant andcot‌θ=6316, then what is the value of(sin‌θ+cos‌θ)?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "6965",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "7965",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath64",
+        "serial_no": "64",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " what is the value of1−2sin2θcos2θsin4θ+cos4θ+4equal to ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "0",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "5",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath65",
+        "serial_no": "65",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " A rectangle is 48 cm long and 14 cm wide. If the diagonal makes an angle 9 with the longer side, then what is(secθ+cosecθ)equal to?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "775168",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "725168",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "37584",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "32584",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath66",
+        "serial_no": "66",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " What is the area of the triangle having sides lengthsyz+zx,zx+xy,xy+yz?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "(x+y+z)2xyz",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "√xyzx+y+z",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "√xy+yz+zx",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "√xy+yz+zxxyz",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath67",
+        "serial_no": "67",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " If the angles of a triangle are 30° and 45° and the included side is (√3+1) cm, then what is the area of the triangle ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "(√3+1)cm2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "(√3+3)cm2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "12(√3+1)cm2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "2(√3+1)cm2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath68",
+        "serial_no": "68",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " ABCDis a plate in the shape of a parallelogram.EFis the line parallel toDAand passing through the point of intersectionOof the diagonalsACandBD. Further,Elies onDCandFlies onAB. The triangular portionDOEis cut out from the plateABCD. What is the ratio of area of remaining portion of the plate to the whole?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "58",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "57",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "34",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "78",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath69",
+        "serial_no": "69",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " Two circles of radii 20 cm and 16 cm intersect and the length of common chord is 24 cm. If d is the distancebetween their centres, then which one of the following is correct ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "d < 26 cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "26 cm < d < 27 cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "27 cm < d < 28 cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "d > 28 cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath70",
+        "serial_no": "70",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " In a circle of radius 5 cm, AB and AC are two chords such that AB = AC = 8 cm. What is the length of chord BC ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "9 cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "9.2 cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "9.6 cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "9.8 cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath71",
+        "serial_no": "71",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " Two circles touch internally. The sum of their areas is136πrcm2and distance between their centres is 4 cm. What are the radii of the circles ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "11 cm, 7 cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "10 cm, 6 cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "9 cm, 5 cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "8 cm, 4 cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath72",
+        "serial_no": "72",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " If area of a circle and a square are same, then what is the ratio of thier perimeters?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2√π",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "√π",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "√π2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "√π4",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath73",
+        "serial_no": "73",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " A circle of diameter 8 cm is placed in such a manner that it touches two perpendicular lines. Then another smaller circle is placed in the gap such that it touches the lines and the circle. What is the diameter of the smaller circle ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "4(3−√2)cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "4(3−2√2)cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "8(3−√2)cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "8(3−2√2)cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath74",
+        "serial_no": "74",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " The thickness of a cylinder is 1 foot, the inner radius of the cylinder is 3 feet and height is 7 feet. To paint the inner surface it requires one litre of a particular colour. How much quantity of the same colour is required to paint all the surfaces of the cylinder ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "73litre",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "32litre",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "83litre",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "103litre",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath75",
+        "serial_no": "75",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " A square and a rectangle have equal areas. If one side of the rectangle is of length numerically equal to the square of the length of the side of the square then the other side of the rectangle is  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "square root of the side of the square",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "half the side of the square",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "of unit length",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "double the side of the square",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath76",
+        "serial_no": "76",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " The length and breadth of a rectangle are in the ratio 4:3. Then what is the ratio of the area of the triangle formed by the parts of the diagonals with a long side to the area of the triangle formed by the parts of diagonals with a short side ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "3 : 4",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "4 : 3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "16 : 9",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "1 : 1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath77",
+        "serial_no": "77",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " Suppose a region is formed by removing a sector of 20° from a circular region of radius 30 feet. What is the area of this new region ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "150π square feet",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "550π square feet",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "650π square feet",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "850π square feet",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath78",
+        "serial_no": "78",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " ABCD is a parallelogram where AC and BD are the diagonals. If ∠BAD = 60°, ∠ADB = 90°, then what is BD2 equal to ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "35AB2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "34AB2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "12AB2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "23AB2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath79",
+        "serial_no": "79",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " A line through the vertex ^ of a parallelogram ABCD meets DC in P and BC produced in Q. If P is the mid-point of DC, then which of the following is/are correct ?1. Area of A PDA is equal to that of APCQ2. Area of AQAB is equal to twice that of APCQSelect the correct answer using the code given below:  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Both 1 and 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Neither 1 nor 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath80",
+        "serial_no": "80",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " How many cubic metre of earth is to be dug out to dig a well of radius 1-4 m and depth 5m?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "30.2 cubic metre",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "30.4 cubic metre",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "30.6 cubic metre",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "30.8 cubic metre",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath81",
+        "serial_no": "81",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " If the diagonals of a rhombus are x and y, then what is its area  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "xy2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "xy4",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "xy",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "x2−y2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath82",
+        "serial_no": "82",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " The lengths of sides of a triangle are3x,4√y,53√z, where3x<4√y<53√z. If one of the angles is 90°, then what are the minimum integral values of x, y, z respectively ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1, 2, 3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2, 3, 4",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "1, 1, 1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "3, 4, 5",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath83",
+        "serial_no": "83",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " What is the maximum number of circum-circles that a triangle can have ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Infinite",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath84",
+        "serial_no": "84",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " If an arc of a circle of radius 6 cm subtends a central angle measuring 30°, then which one of the following is an approximate length of the arc ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "3-14 cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2-15 cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "2-14 cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "2 cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath85",
+        "serial_no": "85",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " A ladder 5 m long is placed in a room so as to reach a point 4-8 m high on a wall and on turning the ladder over to the opposite side of the wall without moving the base, it reaches a point 1-4 m high. What is the breadth of the room ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "5.8 m",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "6 m",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "6.2 m",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "7.5 m",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath86",
+        "serial_no": "86",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " What is the area of the largest square plate cut from a circular disk of radius one unit ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "4 square units",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2√2square units",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "πsquare units",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "2 square units",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath87",
+        "serial_no": "87",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " Out of 4 identical balls of radius r, 3 balls are placed on a plane such that each ball touches the other two balls. The 4th ball is placed on them such that this ball touches all the three balls. What is the distance of centre of 4th ball from the plane ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2√23r unit",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "√3+2√2√2r unit",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "r3−2√2unit",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "√3+2√2√3r unit",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath88",
+        "serial_no": "88",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " A right circular cylinder just encloses a sphere. If p is the surface area of the sphere and q is the curved surface area of the cylinder, then which one of the following is correct ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "P ~ q",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "P = 2q",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "2p = q",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "2p = 3 q",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath89",
+        "serial_no": "89",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " ABCD is a quadrilateral such that AD = DC = CA = 20 units, BC = 12 units and ZABC = 90°. What is the approximate area of the quadrilateral ABCD?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "269 sq units",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "300 sq units",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "325 sq units",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "349 sq units",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath90",
+        "serial_no": "90",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " Let PQRS be the diameter of a circle of radius 9 cm. The length PQ, QR and RS are equal. Semi-circle is drawn with QS as diameter (as shown in the given figure). What is the ratio of the shaded region to that of the unshaded region ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "25 : 121",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "5 : 13",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "5:18",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "1:2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath91",
+        "serial_no": "91",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " What is the area of the shaded region in the given figure, if the radius of each of the circles is 2 cm ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "4√3−2πcm2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "√3−πcm2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "√3−π2cm2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "2π−2√3cm2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath92",
+        "serial_no": "92",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " In the given figure, what is the area of the shaded region?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "9(π−√3)sq units",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "3(4π−3√3)sq units",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "3(3π−4√3)sq units",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "9(√3−π)sq units",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath93",
+        "serial_no": "93",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " In the given figure,ifyx=6andzx=5, then what is the value of x ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "45°",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "30°",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "15°",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "10°",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath94",
+        "serial_no": "94",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " ABCD is a trapezium, where AB is parallel to DC. If AB=4 cm, BC- 3 cm, CD = 7 cm and DA = 2 cm, then what is the area of the trapezium ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "22√23cm2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "22√32cm2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "22√3cm2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "22√23cm2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath95",
+        "serial_no": "95",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " Angles are shown in the given figure. What is value of ∠1 +∠2+∠3 + ∠4 + ∠5 + ∠6 + ∠7 + ∠8 ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "240°",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "360°",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "540°",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "720°",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath96",
+        "serial_no": "96",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " In the given figure PQ is parallel to RS, ∠AEF= 95°, ∠BHS= 110°, and ∠ABC = x°. Then what is the value ofx?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "15",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "25",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "30",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "35",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath97",
+        "serial_no": "97",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " In the given figure AB is parallel to CD and AC is parallel to BD. If ZEAC= 40°, ZFDG = 55°, ZHAB =x°, then what is the value of x ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "85",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "80",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "75",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "65",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath98",
+        "serial_no": "98",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " In the given figure, there are three semi circles ABC, AEF and CDF. The distance between A and C is 28 units and F is the mid-point of AC. What is the total area of the three semi circles ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "924 square units",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "824 square units",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "624 square units",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "462 square units",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath99",
+        "serial_no": "99",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " What is the approximate area of the shaded region in the figure given ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "15.3cm2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "25.5cm2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "28.4cm2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "30.5cm2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2020IUPSC_CDSMath100",
+        "serial_no": "100",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2020,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": " Consider the following statements with reference to the given figure:1. The sum of the areas of ΔAOD and ΔBOC is equal to the sum of the areas of ΔAOB and ΔDOC.2. ∠AOD = ∠BOC3. AB + BC + CD + DA>AC + BDWhich of the above statements are correct ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1 and 2 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2 and 3 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "1 and 3 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "1, 2 and 3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    }
+  ]
+}

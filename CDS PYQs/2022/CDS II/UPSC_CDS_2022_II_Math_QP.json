@@ -1,0 +1,6411 @@
+{
+  "exam_info": {
+    "exam_type": "UPSC_CDS",
+    "year": 2022,
+    "session": "II",
+    "subject": "Math",
+    "total_questions": 100
+  },
+  "questions": [
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath1",
+        "serial_no": "1",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " A closed box is built of wood of uniform thickness. Its'external dimensions are12cm,10cmand8cm. If the inner surface area is 376 squarecm, then what is the thickness of the wood?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "0.5cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "1cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "1⋅5cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "2cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath2",
+        "serial_no": "2",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " X,YandZare three equilateral triangles. The sum of the areas ofXandYis equal to the area ofZ. If the side lengths ofXandYare6cmand8cmrespectively, then what is the side length of Z ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "9cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "9.5cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "10cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "−10:5cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath3",
+        "serial_no": "3",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " What is the time taken by a person to cover one round of a circular 'park of diameter210mif he walks at a speed of6km∕hr?(π⋅=‌227).  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "6.6minutes",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "5⋅5minutes",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "4⋅4minutes",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "3.3minutes",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath4",
+        "serial_no": "4",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " In an equilateral triangle of side2√3cm, a circle is inscribed touching the sides. What is the area of the remaining portion of the triangle?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "(2√3−π)squarecm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "(3√3−π)squarecm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "(4√3−2π)squarecm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "(4√3−π)squarecm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath5",
+        "serial_no": "5",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " A triangle has side lengthsxcm,x+13cmandx+26cm. If its area is 126 squarecm, - then what is the value ofx?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "18",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "17",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "16",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "15",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath6",
+        "serial_no": "6",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " ABCDis a parallelogram. A circle throughA,BandCintersectsCD(produced) atE. Which of the following is/are correct?1.AE=AD2.CD=DESelect the correct answer using the code given below :  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "Only 1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Only 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Both 1 and 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Neither 1 nor 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath7",
+        "serial_no": "7",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " Consider the following statements :1. In an equilateral triangle, the centroid and centre of circumcircle coincide.2. Angle bisectors of a cyclic quadrilateral form another cyclic quadrilateral.3. Every cyclic parallelogram, is a rectangle.Which of the statements given above are correct?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "Only 1 and 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Only 2 and 3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Only 1 and 3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "1, 2 and 3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath8",
+        "serial_no": "8",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " ABCDis a trapezium in whichABis parallel to DC. The verticesA,B,CandDpass through a circle. Which of the following are correct?1.⋅AD=BC.2.∠A+∠C=.180∘3.∠A+∠D=180∘Select the correct answer using the code given below:  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "'Only 1 and 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Only 2 and 3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Only 1 and 3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "1,2 and 3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath9",
+        "serial_no": "9",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " ABCDis a cyclic quadrilateral.ABandDCwhen produced, meet in E. Which of the following statements is/are correct?1.△EBCis similar to△EAD.2.∠CBE+∠DAE=180∘.Select the correct answer using the code given below :  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "Only 1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Only 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Both 1 and 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Neither 1 nor 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath10",
+        "serial_no": "10",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " In a triangleABC,DEis a line segment which intersectsABatDandACatEsuch thatDEis parallel to BC. The line segment divides the triangle in two parts of equal area. What is‌BDABequal to?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "‌√2−12",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "‌√2−1√2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "‌√3−1√3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "√2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath11",
+        "serial_no": "11",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " The height of a cone is30cm. A small cone is cut off at the top by a plane parallel to its base. If its volume is‌127of the volume of the given cone, then what is the height of the frustum of the cone?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "10cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "12cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "18cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "20cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath12",
+        "serial_no": "12",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " A rectangular metal sheet is of length24cmand breadth18cm. From each of its corners a square of side˙xcmis cut off and an open box is made of the remaining sheet. If the volume of the box is 640 cubiccm, then what is the value ofx?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "4",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "6",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath13",
+        "serial_no": "13",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " Letx,y,zbe the length, breadth, height of a cuboid. If its volume is 400 cubiccmand total surface area is 340 squarecm, then what isx−1+y−1+z−1equal to ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "‌1720",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "‌1740",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "‌710",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "‌910",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath14",
+        "serial_no": "14",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " Two parallel sides of a trapezium are29cmand21cm. Non-parallel sides are equal and each is of length8.5cm. What is the area of the trapezium?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "187⋅5squarecm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "227⋅5squarecm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "375 squarecm.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "455 squarecm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath15",
+        "serial_no": "15",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " A square copper plate of side16cmweighs128gm. A circular disc of diameter14cmis cut off from the plate. What is the weight of the remaining part?(π=‌227)  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "48gm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "49gm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "50gm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "51gm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath16",
+        "serial_no": "16",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " The area of a rhombus is 96 squarecmand one of its diagonals is of length12cm. What is the perimeter of the rhombus?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "36cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "40cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "44cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "48cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath17",
+        "serial_no": "17",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " A right-angled triangleABCis inscribed in a circle of radius10cm. The altitude drawn to the hypotenuseACis of length8cm. IfAB=xcmandBC=ycm, then what is the value ofxy?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "60",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "80",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "120",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "160",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath18",
+        "serial_no": "18",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " Two circles touch externally. The sum of their areas is89πsquarecmand the distance between their centres is13cm. What is the difference in their radii ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2⋅5cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "3cm.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": ".3.5cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath19",
+        "serial_no": "19",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " A square and a rectangle have same perimeter. They differ in areas by 1 squarecm. The length of the rectangle exceeds its breadth by  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "3cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "4cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath20",
+        "serial_no": "20",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " Two rectangles are of same area equal to 480 squarecm. They differ in lengths by6cmand breadths by4cm. What is the difference in their perimeters?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "4cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "6cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "10cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath21",
+        "serial_no": "21",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " What is the radius of the sphere?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "5cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "6cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "6.5cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "7cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath22",
+        "serial_no": "22",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " How much water will remain in the vessel after the overflow?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "288πmL",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "360πmL",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "480πmL",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "500πmL",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath23",
+        "serial_no": "23",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " What is the ratio of lateral surface area of the vessel to the surface area of the sphere?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "‌43",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "‌32",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "‌53",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath24",
+        "serial_no": "24",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " What is the area of the minor segment?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "‌l22(π−‌12)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "‌l24(π−‌12)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "‌l24(‌π2−1)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "‌l22(‌π2−‌12)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath25",
+        "serial_no": "25",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " What is the area of the major segment?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "‌l24(‌3π2+1)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "‌l24(‌3π2−1)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "‌l22(‌3π2+1)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "‌l22(‌3π2−1)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath26",
+        "serial_no": "26",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " TriangleABCis right-angled atAandADis perpendicular toBC. IfBD=7⋅5cmandDC=10cm, then what isADequal to ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "5cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "5√2cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "5√3cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "10cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath27",
+        "serial_no": "27",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " The perpendicularADon the baseBCof a triangleABCintersectsBCatDso thatDB=3CD. Which one of the following is correct?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2(AB+AC)(AB−AC)=BC2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "3(AB+˙AC)(AB−AC)=2BC2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "4(AB+AC)(AB−AC)=3BC2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "5(AB+AC)(AB−AC)=4BC2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath28",
+        "serial_no": "28",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " TriangleABCis right-angled atCandAC=√3BC. What is∠ABCequal to ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "30∘",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "45∘",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "60∘",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "7.5∘",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath29",
+        "serial_no": "29",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " In a triangleABC,∠A=60∘. What isAB2+AC2−BC2equal to ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "AB⋅AC",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "AB.BC",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "AC.BC",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "2AB⋅AC",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath30",
+        "serial_no": "30",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " The diameter of a sphere made of copper is3cm. The sphere is melted and recast intoawire. If the length of  the wire is half metre, then what is the diameter of the wire?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "0.3cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "0.45cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "0⋅6cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "0.75cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath31",
+        "serial_no": "31",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " Ifxis the harmonic mean betweeny. andz, then which one of the following is correct ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "xy+xz−yz=0",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "xy+xz−2yz=0",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "xy+xz+yz=0",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "xy+xz−4yz=0",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath32",
+        "serial_no": "32",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " What is the median of all possible factors of 120 ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "10",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "11",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "12",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "13⋅5",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath33",
+        "serial_no": "33",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " The sum of deviations of a set ofnvalues measured from 50 is−10and the sum of deviations of the values measured from 46 is 70. What is the mean of the values?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "48⋅5",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "49⋅0",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "49⋅5",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "50⋅0",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath34",
+        "serial_no": "34",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " Consider the following table in respect of students of 4 schools who appeared in a test:SchoolNumber of studentsAverage marks in the testI6060II5080III5040IVx50If the average marks of the students of all four schools are .58, then how many students appeared from School-IV ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "38",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "40",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "42",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "44",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath35",
+        "serial_no": "35",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " The data of different natural numbers4,7,10,14,2x+3,2x+5,22,23,30,50are in ascending order. How many possible values are there for the median of the data for various values ofx?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "Only one value",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Only two values",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Only three values",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Five values",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath36",
+        "serial_no": "36",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " IfMis the mean of the first 100 even natural numbers, then what is the mean of the first 100 odd natural numbers ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "M−1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "M",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "M+1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "M+2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath37",
+        "serial_no": "37",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " Mean marks of 50 students were found to be 78.4. But later it was detected that 95 was misread as 59 and 25 was misread as 52 . What is the difference between correct mean and incorrect mean?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "0.04",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "0.08",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "0.12",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "0.18",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath38",
+        "serial_no": "38",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " In a triangleABC,∠A=2θ,∠B=∠C=4θandθsatisfies4sin2θ+2‌sin‌θ−1=0. What is the ratio ofBCtoAB?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "‌‌√5−1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "‌(√5−1)2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "‌(√5−1)4",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "2(√5−1)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath39",
+        "serial_no": "39",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " A circle is inscribed in a triangleABC. It touches the sidesBC,CA,ABatD,E,Frespectively. What is∠EDFequal to?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "90∘−A",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "90∘−‌(B+C)2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "90∘−2A∘",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "90∘−(‌A2)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath40",
+        "serial_no": "40",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " The length of a room is‌2116times its breadth and breadth is‌43times its height. IfHis the height of the room andLis the longest rod that can be placed in the room, then which on'e of the following is correct?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "12L=29H",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "9L=25H",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "7L=23H",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "5L=13H",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath41",
+        "serial_no": "41",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " Iftan‌θ=‌√q2−p2p;0<θ<90∘, then what issec‌θ+cos‌θ+2equal to ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "‌p2+q2pq",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "‌(p+q)2pq",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "‌(p+q)22pq",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "‌(p−q)2pq",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath42",
+        "serial_no": "42",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " If11‌sin‌θ+60‌cos‌θ=61;0<θ<90∘, then what is the value of√660(tan‌θ+cot‌θ)?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "61",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "61√2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "122",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "122√2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath43",
+        "serial_no": "43",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " What is the diameter of a circle inscribed in a regular polygon of 15 sides with side length unity?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "0⋅5‌cot‌12∘",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "cot‌12∘",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "0.5‌tan‌12∘",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "tan‌12∘",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath44",
+        "serial_no": "44",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " Ifx=‌1+sin‌θcos‌θ, then what is‌tan‌θ+sec‌θ−1tan‌θ−sec‌θ+1equal to?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "−x",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "x.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "2x",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "‌x2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath45",
+        "serial_no": "45",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " Consider the following :1.‌tan‌θ+sin‌θtan‌θ−sin‌θ=‌sec‌θ+1sec‌θ−1, where0<θ<‌π2.2.‌cos2θ−sin2θcos2θ+sin2θ=‌2‌tan‌θtan2θ+1, where0<θ<‌π2.Which of the above is/are identities?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "Only 1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Only 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Both 1 and 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Neither 1 nor 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath46",
+        "serial_no": "46",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " If‌sin‌θ+cos‌θsin‌θ−cos‌θ=5, where0<θ<‌π2,θ≠‌π4, then what is the value of‌2‌sin‌θ+3‌cos‌θ3‌sin‌θ−2‌cos‌θ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "‌85",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "‌125",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath47",
+        "serial_no": "47",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " If‌1cosecθ−cot‌θ−‌1sin‌θ=x, then what. is‌1cosecθ+cot‌θ−‌1sin‌θequal to, where0<θ<‌π2?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "−x",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "x",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "‌1x",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "−‌1x",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath48",
+        "serial_no": "48",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " What is2sin6θ+2cos6θ−3sin4θ−3cos4θequal to ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "-1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "0",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": ": 1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath49",
+        "serial_no": "49",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " What is the minimum value of3600sec2θ+121cosec2θ, where0<θ<‌π2?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1320",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2401",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "3721",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "5041",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath50",
+        "serial_no": "50",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " What is√(‌1+sin‌θcos‌θ)2+(‌cos‌θ1+sin‌θ)2−2‌equal‌to, where0,θ<‌π2?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "tan‌θ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "cot‌θ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "2‌tan‌θ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "2‌cot‌θ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath51",
+        "serial_no": "51",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " What is one of the possible values ofx−‌1x?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "‌12",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "‌32",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "‌52",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath52",
+        "serial_no": "52",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " What is one of the possible values ofx2+‌1x2?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "6",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "‌629",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "8",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "‌829",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath53",
+        "serial_no": "53",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " What iscos2A+cos2B+cos2Cequal to?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "‌34",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "‌54",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath54",
+        "serial_no": "54",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " What issin2A+sin2B+sin2Cequal to ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "‌54",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "‌34",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath55",
+        "serial_no": "55",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " What is the radius of the circle?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "4⋅5cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "6cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "7.5cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "15cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath56",
+        "serial_no": "56",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " What is the value ofθ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "30∘",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "45∘",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "60∘",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Cannot be determined due to insufficient data.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath57",
+        "serial_no": "57",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " What is PC equal to?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "H metres",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "√2Hmetres",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "√3Hmetres",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "2Hmetres",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath58",
+        "serial_no": "58",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " What is the value ofp?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "70",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "72",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "76",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "78",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath59",
+        "serial_no": "59",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " What is the value ofq?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "32",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "34",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "36",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "38",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath60",
+        "serial_no": "60",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " What is the median of the distribution?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "4",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath61",
+        "serial_no": "61",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " Ifa=3b,4b=5c,6c=7d, then what is‌d+ad−aequal to ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "‌2743",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "‌4327",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "−‌2743",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "−‌4327",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath62",
+        "serial_no": "62",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " What are the values ofkfor which the polynomial(k−3)x2−kx−1has no real linear factors?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "k<−6",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "−6<k<2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "2<k<6",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "k>6",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath63",
+        "serial_no": "63",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " Ifbc+cd=2bdanda+c=2b, then which one of the following is correct?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "ab−cd=0",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "ac−bd=0",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "ad−bc=0",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "‌‌ad+bc=0",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath64",
+        "serial_no": "64",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " In a flight of2800km, an aircraft was slowed down due to bad weather. Its average speed for the trip was reduced by100km∕hrand time of flight increased by 30 minutes. What was the original average speed of the aircraft ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": ".700km∕hr",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "750km∕hr",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "800km∕hr",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "900km∕hr",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath65",
+        "serial_no": "65",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " Ifx=b+c,y=c+a,z=a+b, then what is(x+y+z)3−24xyzequal to ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "a3+b3+c3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": ".2(a3+b3+c3)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "8(a3+b3+c3)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "None of the above",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath66",
+        "serial_no": "66",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " A personXstarts from a placeAand another person Y starts simultaneously from another placeBwhich isdkmaway fromA. They walk in the same direction.Xwalks at an average speed ofukm∕hrandY, walks at an average speed ofvkm∕hr. How far willXhave walked before he overtakesY?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "‌ud(u−v)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "‌vd(u−v)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "‌(ud−vd)(u−v)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "‌(ud+vd)(u+v)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath67",
+        "serial_no": "67",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " Ifpis the difference between a number and its reciprocal andqis the difference between the square of the same number and the square of its reciprocal, then what isp4+4p2equal to ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "4q",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "8q",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "4q2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "q2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath68",
+        "serial_no": "68",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " Ifx=2+21∕2, then what is the value ofx4+16x−4?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "152",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "144",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "136",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "132",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath69",
+        "serial_no": "69",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " Xtakes 3 hours longer thanYto walk30km. IfXdoubles his speed, he takes 2 hours less thanY. What is the speed ofY?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "3km∕hr",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "4km∕hr",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "4‌27km∕hr",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "4‌37km∕hr",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath70",
+        "serial_no": "70",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " IfCis the compound interest on '₹10,000for one year at4%per annum when compounded quarterly, then which one of the following is correct?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "C<₹100",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "₹100<C<₹200",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "₹200<C<₹400",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "C>₹400",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath71",
+        "serial_no": "71",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " Consider the numberN=126×38×53. Which of the following statements is/are correct?1. The number of odd factors ofNis 60 .2. The number of even factors ofNis 720 .Select the correct answer using the code given below :  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "Only 1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Only 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Both 1 and 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Neither 1 nor 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath72",
+        "serial_no": "72",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " If‌log10ab−c=‌log10bc−a=‌log10ca−b,(a≠b≠c)then what is the value of abc?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "−1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "0",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath73",
+        "serial_no": "73",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " What is the angle between the hour hand and the minute hand of a clock when the clock shows 4 hours 40 minutes ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "80∘",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "100∘",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "120∘",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "220∘,",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath74",
+        "serial_no": "74",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " Iflog10[995+√x2−12x+60]=3, then what is the sum of the roots of the equation?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "12",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "11.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "10",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "9",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath75",
+        "serial_no": "75",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " How many of the following values ofxwould satisfy the equationqx2−2px+q=0?1.x=‌√p+q+√p−q√p+q−√p−q, wherep>q2.x=‌p+√p2−q2q; wherep>q3.x=‌√p+q√p−q, wherep>qSelect the correct answer using the code given below :  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "Only one value",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Only two values",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "All three values",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "None",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath76",
+        "serial_no": "76",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " Letp(x)=x4+x2+1q(x)=x4−2x3+3x2−2x+1. IfGCDofp(x)andq(x)isx2÷x+1, then what is their LCM ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "(x2+x+1)(x2−x+1)2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "(x4+x2+1)2(x2−x+1)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "(x4+x2+1)(x2+x+1)2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "(x4+x2+1)(x2−x+1)2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath77",
+        "serial_no": "77",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " Consider the question and two statements given below :A 2-digit number is added to the number formed by reversing the digits of the 2-digit number.Question: What is the 2-digit number ?Statement-1: The sum is divisible by9.Statement-2: The sum is divisible by 2 .Which one of the following is correct in respect of the question and the statements ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement-1 alone is sufficient to answer the question",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Statement-2 alone is sufficient to answer the question",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Both Statement-1 and Statement-2 are sufficient to answer the question",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Statement-1 and Statement-2 are not sufficient to answer the question",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath78",
+        "serial_no": "78",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " Consider the question and two statements given below :LCM of two numbersxandyis 481 wherex>yQuestion: What is the value of(3x−2y)?Statement-1:y>1.Statement-2: HCF ofxandyis 1 .Which one of the following is correct in respect of the question and the statements ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement-1 alone is sufficient to answer the question",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Statement-2 alone, is sufficient to answer the question",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Both Statement-1 and Statement-2 are sufficient to answer the question",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Statement-1 and Statement-2 are not sufficient to answer the question",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath79",
+        "serial_no": "79",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " Consider the question and two statements given below :Question: Is(xn+yn)divisible by(x+y)?Statement−1:nis a natural number.Statement−2:nis an even natural number.Which one of the following is correct in respect of the question and the statements ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement-1 alone is sufficient to answer the question",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Statement-2 alone is sufficient to answer the question",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Both Statement-1 and Statement-2 are sufficient to answer the question",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Statement-1 and Statement-2 are not sufficient to answer the question",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath80",
+        "serial_no": "80",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " Consider the question and two statements. given below :Letxandybe two real numbers.Question: Isxy>0?Statement-1:x8y9<0Statement -2:x9y10<0.Which one of the following is correct in respect of the question and the statements?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement-1 alone is sufficient to answer the question",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Statement-2 alone is sufficient to answer the question",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Both Statement-1 'and Statement-2 are sufficient to answer the question",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Statement-1 and Statement-2 are not sufficient to answer the question",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath81",
+        "serial_no": "81",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " Consider the following statements :1.x4(y−z)+y4(z−x)+z4(x−y)is positive ifx>y>z.2.x4(y−z)+y4(z−x)+z4(x−y)is negative ifx<y<z.Which of the above statements is/are correct?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "Only 1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Only 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Both 1 and 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Neither 1 nor 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath82",
+        "serial_no": "82",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " What is‌x6−24x4+144x2(x2+4√3x+12)(x−2√3)2equal to?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "x2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "x2−2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "x2+2√3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "x2−2√3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath83",
+        "serial_no": "83",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " XandYcan do a piece of work in 45 days and 40 days respectively. They begin to work together, butXleaves afterndays and thenYcompletes the remaining work in 23 days. What isnequal to?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "8",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "9",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "10",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "12",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath84",
+        "serial_no": "84",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " 480 persons working 10 hours per day complete one-fourth of a work in 10 days. How many additional persons are to be employed in order to complete the remaining work in 20 days, working 8 hours per day?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "400",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "420",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "480",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "500",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath85",
+        "serial_no": "85",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " 12 women and 16 men can do a piece of work in 5 days. 13 women and 24 men can do it in 4 days. How long will 25 women and 50 men take to do it?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1 day",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2 days",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "3 days",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "4 days",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath86",
+        "serial_no": "86",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " There are two stationsXandY,1320kmapart. A train starts from stationXat 6 a.m. and moves at an average speed of60km∕hr. At 2 p.m: another train starts fromYtowardsXand moves at an average speed of80km∕hr. When do they meet?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "6 p.m.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "7 p.m.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "8 p.m.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "9 p.m.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath87",
+        "serial_no": "87",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " Two glasses of equal volume are filled with a mixture of alcohol and water in the ratio3:2and4:1, respectively. These glasses are emptied into a third glass. What is the ratio of alcohol and water in the third glass ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "5:4",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "7:2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "7:3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "7:4",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath88",
+        "serial_no": "88",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " Ifxis the HCF andyis the LCM of .‌35,‌625,‌920,‌2750, then which one of the following is correct?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "y=90x",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "y=180x",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "y=270x",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "y=360x.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath89",
+        "serial_no": "89",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " There are two natural numbersxandy, wherex>y. Whenxis divided by 6 , it leaves the remainder 2 and; whenyis divided by 6 , it leaves the remainder 3 . What is the remainder when(x−y)is divided by 6 ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "5",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Remainder cannot be determined",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath90",
+        "serial_no": "90",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " The value of a 2 -digit number is 5 times the sum of the digits. What is the product of the digits ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "15",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "18",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "20",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "27",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath91",
+        "serial_no": "91",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " Ifx2−20=√20+√20+√20+√20+...‌infinite terms‌then what isxequal to ?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "4",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "5",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "√5",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "2√5",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath92",
+        "serial_no": "92",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " If‌a+bb+c=‌c+dd+awherea≠c, then which one of the following is correct?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "a+b=c+d",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "a+c=b+d",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "a−b−c+d=0",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "a+b+c+d=0",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath93",
+        "serial_no": "93",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " If(a3+b3)is proportional to(a2−b2), then(a2−ab+b2)is proportional to  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "(a−b)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "(a+b)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "(a+ab+b)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "(a3−b3)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath94",
+        "serial_no": "94",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " If‌√x+20+√x−1√x+20−√x−1=‌73, then what is the value of√(x+20)(x−1)?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "8",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "9",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "10",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "12",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath95",
+        "serial_no": "95",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " What is the HCF of(x8−y8)and(x7−y7+x5y2−x2y5)?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "(x2+y2)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "(x2−y2)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "(x3−y3−x2y+xy2)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "(x3−y3+x2y−xy2)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath96",
+        "serial_no": "96",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " If the sum of the squares of the roots of the equationx2−14x+k=0is 100 , then what is the value ofk?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "42",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "48",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "52",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "56",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath97",
+        "serial_no": "97",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " If(x+k)is the HCF ofx2+px+qandx2+˙qx+p, wherep≠q, then what is the value ofk?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "−1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "0",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "‌12.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath98",
+        "serial_no": "98",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " If three times the greater of two numbers is divided by the smaller number, the quotient will be 6 and the remainder will be 6 . If five times the smaller number is divided, by the greater number, the quotient will be 2 and the remainder will be 3 . What is the difference between the numbers?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "8",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "9",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "10",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "12",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath99",
+        "serial_no": "99",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " Consider the following statements :1.(ab+bc+ca)is a factor ofa2(b−c)3+b2(c−a)3+c2(a−b)3.2.(a+b+c), is a factor ofa2(b−c)3+b2(c−a)3+c2(a−b)3.Which of the statements given above is/are correct?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "Only 1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Only 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Both 1 and 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Neither 1 nor 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2022IIUPSC_CDSMath100",
+        "serial_no": "100",
+        "subject": "Math",
+        "topic": "",
+        "subtopic": "",
+        "year": 2022,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": " What is‌1x(x−y)(x−z)+‌1y(y−z)(y−x)+‌1z(z−x)(z−y)equal to?  ",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": true,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "0",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "‌1xyz",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "−‌1xyz",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    }
+  ]
+}

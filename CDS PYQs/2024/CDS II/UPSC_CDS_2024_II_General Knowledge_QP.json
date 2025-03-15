@@ -1,0 +1,3731 @@
+{
+  "exam_info": {
+    "exam_type": "UPSC_CDS",
+    "year": 2024,
+    "session": "II",
+    "subject": "General Knowledge",
+    "total_questions": 120
+  },
+  "questions": [
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge1",
+        "serial_no": "1",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following is not a micronutrient for plants?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Magnesium",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge2",
+        "serial_no": "2",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Xylem in the plants are responsible for the transport of:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Water and dissolved minerals",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge3",
+        "serial_no": "3",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following hormones inhibits the growth activity in plants?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Abscisic acid",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge4",
+        "serial_no": "4",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the the following following category of biomolecules does Starch belong to?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Carbohydrate",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge5",
+        "serial_no": "5",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following is not a feature of Xerophytes?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Large number of stomata",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge6",
+        "serial_no": "6",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Halophytes are the plants that grow on which one, among the following categories of soil?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Saline soil",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge7",
+        "serial_no": "7",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following is not a part of vascular bundle in plants?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Endodermis",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge8",
+        "serial_no": "8",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "In which one among the following mediums would the speed of sound be maximum?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Sea water",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge9",
+        "serial_no": "9",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which organelle in animal cells can digest foreign materials?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Lysosome",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge10",
+        "serial_no": "10",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Photosynthesis that converts light energy into chemical energy by the plants, involves the use of green pigments of leaves called chlorophyll. The only structure in a leaf that hosts chlorophyll is :",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Chloroplast",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge11",
+        "serial_no": "11",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "In which of the following colloids is the dispersing medium a liquid?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Shaving Cream",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge12",
+        "serial_no": "12",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The two isotopes of elemental chlorine are:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : \\text\"1735Cand‌\"‌1737C",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge13",
+        "serial_no": "13",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following metals is not stored under oil?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Lithium",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge14",
+        "serial_no": "14",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Potassium nitrate is not used:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : as a preservative of meat products",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge15",
+        "serial_no": "15",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The surface of the concrete structure of a new construction is covered with straw/gunny bags by wetting. This is done to :",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : prevent fast evaporation, until hydration has proceeded well",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge16",
+        "serial_no": "16",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following statements for the gases mentioned below is not correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Helium is a commonly used gas in electric bulbs.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge17",
+        "serial_no": "17",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Match List-I with List-II and select the correct answer using the code given below the Lists: List I (Trade Name) List II (Chemical Name) A. Bleaching powder 1. Sodium bicarbonate B. Baking soda 2. Sodium carbonate, 10 water C. Washing soda 3. Calcium oxychloride D. Plaster of Paris 4. Calcium sulphate, ‌12 water",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A - 3, B - 1, C - 2, D - 4",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge18",
+        "serial_no": "18",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following statements is not true for glass?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Crystallinity develops on cooling of the molten mass of the glass.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge19",
+        "serial_no": "19",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following is responsible for determining the chemical properties of an element?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Electrons",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge20",
+        "serial_no": "20",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following is used in bleaching of paper?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Chloride",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge21",
+        "serial_no": "21",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "X-rays can be used to: 1. inspect welded joints between two metal parts of a machine. 2. study structure of crystals. Select the answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge22",
+        "serial_no": "22",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following heat transfers is an example of convection?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Boiling water in a pot on a gas stove",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge23",
+        "serial_no": "23",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The phenomenon of rainbow formation by water droplets involves :",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : both refraction and internal reflection of sunlight",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge24",
+        "serial_no": "24",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Ozone hole is a region over:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : the Antarctic caused mainly by CFC gases.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge25",
+        "serial_no": "25",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following are the major missions of Indian Space Research Organization in 2023? 1. Chandrayaan-3 2. Solar Mission Aditya-L1 3. Liquid fuel powered rockets 4. Solar powered rockets Select the answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge26",
+        "serial_no": "26",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following is the most appropriate reason for aircraft being equipped with conducting tyres?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : For preventing sparks while they land on the ground",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge27",
+        "serial_no": "27",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following statements for persons suffering from presbyopia is/are correct? 1. They cannot distinguish colours. 2. It usually develops with ageing. 3. They wear either bi-focal lenses consisting of both concave and convex lenses or progressive lenses. Select the answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 and 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge28",
+        "serial_no": "28",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A sound wave having frequency of 300 Hz is travelling in an unknown medium. Its wavelength is not known. It travels a distance equal to 150 times its wavelength in time t. The value of t is:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 0.5 s",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge29",
+        "serial_no": "29",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Mission Shakti (DRDO) of India is related to which one among the following?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Use of rocket to destroy an orbiting satellite",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge30",
+        "serial_no": "30",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "In Sun-Earth system, the Sun, the Earth and the Lagrange point L4 form:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : an equilateral triangle",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge31",
+        "serial_no": "31",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Match List-I with List-II and select the correct answer using the code given below the Lists: List I (Training Institute) List II (Location) A. National Academy of Customs, Indirect Taxes and Narcotics 1. Mussoorie B. LBS National Academy of Administration 2. Shimla C. National Academy of Audit and Accounts 3. Mumbai D. All India Institute of Local Self Government 4. Palasamudram",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A - 4, B - 1, C - 2, D - 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge32",
+        "serial_no": "32",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements : 1. The Flag Code of India supersedes the 'Flag Code of India'. 2. The state emblem of India is an adaptation of the Lion Capital of Ashoka at Sarnath. Which of the statements given above is/are correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge33",
+        "serial_no": "33",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following is not among the thematic areas of National Mission on Sustainable Habitat?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Rural Planning, Green cover and Biodiversity",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge34",
+        "serial_no": "34",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following are the components of the Indian Legal System? 1. Basic values and principles enshrined in the Constitution 2. Rights and obligations conferred by ordinary statutes 3. Organizational set-up to enforce rights and obligations within the constitutional norms 4. Legal and judicial persons Select the answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1, 2 and 3 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge35",
+        "serial_no": "35",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following statements about the objectives of Vibrant Village Programme is correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : It is a Centrally sponsored scheme.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge36",
+        "serial_no": "36",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following UN organizations has not been awarded the Nobel Prize ?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : UNESCO",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge37",
+        "serial_no": "37",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following areas has been exempted from the purview of the Citizenship (Amendment) Act, 2019?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : The Sixth Schedule Areas",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge38",
+        "serial_no": "38",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Who among the following stated that 'A just society is that society in which ascending sense of reverence and descending sense of contempt is dissolved into the creation of a compassionate society'?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Bhimrao Ramji Ambedkar",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge39",
+        "serial_no": "39",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following statements is/are correct? 1. Criminal law is exclusively a subject under the State List of the Constitution of India. 2. Code of Civil Procedure falls under the Concurrent List of the Constitution of India. Select the answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge40",
+        "serial_no": "40",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Arrange the following agreements between India and Pakistan in chronological order: 1. Tashkent Declaration 2. Indus Water Treaty 3. Agreement on the Prohibition of Attack Against Each Other's Nuclear Installations and Facilities 4. Agreement on Reducing the Risk from Accidents Relating to Nuclear Weapons Select the answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2, 1, 3, 4",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge41",
+        "serial_no": "41",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following statements with regard to the Shanghai Cooperation Organization (SCO) is/are correct? 1. The official languages of the SCO are Russian and Chinese. 2. The SCO enjoys observer status in the UN General Assembly. 3. The SCO consists of 13 member states. Select the answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge42",
+        "serial_no": "42",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Financial Action Task Force is:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A global money laundering and terrorist financing watchdog",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge43",
+        "serial_no": "43",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "In which of the following matters placed before the UN General Assembly, a resolution by two-thirds majority of the members present and voting is required? 1. Admission of new members to the UN 2. Election of the non-permanent members of the Security Council 3. Election of members of the Economic and Social Council Select the answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1, 2 and 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge44",
+        "serial_no": "44",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "'Bharat Parv' was organized by the Government of India during which of the following programmes ? 1. Republic Day 2024 2. National Film Festival 2024 3. Cannes Film Festival 2024 Select the answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 3 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge45",
+        "serial_no": "45",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following organizations challenged the constitutionality of Section 377 of the Indian Penal Code in the Supreme Court of India?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Naz Foundation (India) Trust",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge46",
+        "serial_no": "46",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "As per Article 371G of the Constitution of India, special provisions have been made with respect to the state of Mizoram. Accordingly, no Act of Parliament shall apply on certain matters unless the Legislative Assembly of Mizoram so decides by a resolution. Which one of the following matters is not covered under this Article ?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Ownership and transfer of natural resources",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge47",
+        "serial_no": "47",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following statements, as per the Information Technology Act, 2000, is/are correct? 1. This Act provides that electronic signature is legally valid in the same manner as the handwritten signature. 2. Both the Central Government and State Governments have been given the power to make rules with respect to electronic signature. Select the answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge48",
+        "serial_no": "48",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following statements about National Recruitment Agency is correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : It is a body to conduct Common Eligibility Test (CET) to shortlist the candidates for vacancies under 'Group B' and 'Group C' of the Government.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge49",
+        "serial_no": "49",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The Research Design and and Standards Organization is the R&D wing of which one of the following organizations?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Indian Railways",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge50",
+        "serial_no": "50",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Match List-I with List-II and select the correct answer using the code given below the Lists: List I (Speaker of Lok Sabha) List II (Tenure) A. Manohar Gajanan Joshi 1. 14th Lok Sabha B. Somnath Chatterjee 2. 13th Lok Sabha C. Meira Kumar 3. 16th Lok Sabha D. Sumitra Mahajan 4. 15th Lok Sabha",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A - 2, B - 1, C - 4, D - 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge51",
+        "serial_no": "51",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements about the Vedanta philosophy: 1. Shankara was the founder of Advaita Vedanta. 2. The philosophy of Dvaita was elaborated by Madhva. Which of the statements given above is/are correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge52",
+        "serial_no": "52",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The distribution of charkhas on a wide scale among the people was decided by:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : All India Congress Committee in 1921",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge53",
+        "serial_no": "53",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The terms used for cereals in the Rig Veda are:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Godhuma and Vrihi",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge54",
+        "serial_no": "54",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements about the condition of widows in the 18th century India : 1. Raja Sawai Jai Singh of Amber promoted widow remarriage. 2. Maratha General Parshuram Bhau promoted widow remarriage. 3. Raja Ram Mohan Roy opposed Sati. Which of the statements given above are correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 and 3 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge55",
+        "serial_no": "55",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements about the administrative measures of Shivaji: 1. The scheme of Ashta Pradhan (eight) ministers was completed and announced at the time of Shivaji's coronation with regulations and duties properly defined. 2. Shivaji introduced Marathi in place of Persian and coined Sanskrit technical E terms for administrative purposes. Which of the statements given above is/are correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge56",
+        "serial_no": "56",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "With reference to the Mesolithic art in India, consider the following statements: 1. Alexander Burns discovered the first rock paintings in India at Sohagighat in Uttar Pradesh. 2. Bhimbetka rock paintings were discovered when archaeologist V.S. Wakankar noticed the rocks out of a train window while travelling from Bhopal to Itarsi and got off at the nearest railway station to explore the site. 3. The paintings and engravings do not exist in the same shelter in the rock art of Orissa. Which of the statements given above is/are correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge57",
+        "serial_no": "57",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "In the decoration of Stupas, what does the term 'Kinjalkini' refer to?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A garland of thousand lotus flowers",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge58",
+        "serial_no": "58",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following is/are the correct components of the \"Lion Capital\" at Sarnath ? 1. The shaft (stambha-yashti) or the tall tapering column 2. An elliptical top part the abacus, devoid of any carvings 3. Overflowing inverted petals below the abacus Select the answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 3 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge59",
+        "serial_no": "59",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following events leading to the Indian Independence: 1. Lucknow Pact 2. Return of Subhash Chandra Bose to India 3. Cripps Mission 4. Naval Mutiny in Bombay Select the chronological sequence of these events (earliest to latest) from the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1, 2, 3, 4",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge60",
+        "serial_no": "60",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Who among the following were famous for their metal-casting skills and used to cast excellent matchlocks during the medieval period?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Ahoms",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge61",
+        "serial_no": "61",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements about the Ancient Hindu metal images in India: 1. The Chola period is well known for the aesthetic and technical finesse of its metal sculpture. 2. The iconography and style of Chola metal images were similar to those of their stone counterparts. Which of the statements given above is/are correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge62",
+        "serial_no": "62",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following terms was used for the States in the Draft Constitution presented by Dr. B.R. Ambedkar on 4th November, 1948 ?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Union of States",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge63",
+        "serial_no": "63",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The antariya was a garment worn by people during the Mauryan period. It was:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : an unstitched length of cloth draped around the body.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge64",
+        "serial_no": "64",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements with reference to the Utpala dynasty of Kashmir : 1. Avantivarman, the founder, devoted his energies to the economic upliftment of his subjects. 2. Avantivarman's period in Kashmir is known for the engineering operations under his minister Suyya, resulting in the enormous increase of grains and fall in prices. Which of the statements given above is/are correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge65",
+        "serial_no": "65",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following pairs of High Offices and concerned Departments in the Mauryan Administration: 1. Samahartri :Chief Collector of Revenue 2. Dauvarika : Chief of Army 3. Akshapatala : Records-cum-Audit Officer 4. Samnidhatri : Treasurer Which of the pairs given above are correctly matched?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1, 3 and 4 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge66",
+        "serial_no": "66",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which kingdom was described by Governor-General Lord Dalhousie as \"A cherry that will drop into our mouth one day\"?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Awadh",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge67",
+        "serial_no": "67",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements with reference to Census in India : 1. The first All India Census was attempted in 1872. 2. From 1881, decennial censuses became a regular feature. Which of the statements given above is/are correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge68",
+        "serial_no": "68",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following statements is/are correct? 1. During the Second Round Table Conference held in London in 1931, the British Government refused to accept the basic nationalist demand for freedom. 2. India was granted dominion status in 1932. 3. Viceroy Lord Willingdon adopted a policy of reconciliation with Congress. 4. The Civil Disobedience Movement was started with the breaking of salt laws. Select the answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 4 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge69",
+        "serial_no": "69",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following statements about Cabinet Mission are correct? 1. It was sent to India in 1946 to negotiate the transfer of power with the Indian leaders. 2. It proposed a two-tiered federal plan while conceding the largest measure of regional autonomy. 3. There was to be a federation of provinces and states, alongside a federal centre. 4. The individual provinces were allowed to form regional unions to which they could surrender some of their powers by mutual agreement. Select the answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1, 2, 3 and 4",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge70",
+        "serial_no": "70",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following pairs: 1. Gajapati - Name of a powerful Dynasty in Orissa 2. Ashvapati - Deccan Sultans 3. Narapati - Rayas of Vijayanagara Which of the above pairs is/are correctly matched?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1, 2 and 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge71",
+        "serial_no": "71",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following pairs of Himalayan Glaciers and their location is/are correctly matched? 1. Siachen - Nubra Valley Region 2. Chungphar - Kumaon-Garhwal Region 3. Zemu - Central Nepal Region 4. Gasherbrum - Pir Panjal Range Select the answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge72",
+        "serial_no": "72",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements regarding the rivers of India : 1. The Barak River, the head stream of the Meghna, rises in the hills of Meghalaya. 2. The Ghaggar River does not drain out to the sea and gets lost in the Rajasthan desert. 3. Puthimari and Manas are important tributaries of the Brahmaputra. Which of the statements given above is/are correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 and 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge73",
+        "serial_no": "73",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements regarding transportation functions associated with important ports: 1. Singapore functions both as a port of call and an entrepot. 2. Karwar in India is an example of a naval port. 3. Dover in England is an example of an outport. Which of the statements given above is/are correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge74",
+        "serial_no": "74",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Cumulonimbus clouds develop from which among the following clouds ?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Cumulus congestus clouds",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge75",
+        "serial_no": "75",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following Ramsar Wetland sites is not situated in any of the Union Territories of India?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Point Calimere Wildlife and Bird Sanctuary",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge76",
+        "serial_no": "76",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Eratosthenes, a Greek philosopher measured the Earth's circumference based on the angle of Sun rays at two different points. Which cities were they?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Alexandria and Syene",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge77",
+        "serial_no": "77",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which kind of mass wasting processes are commonly associated with creep?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Slow speed with soil",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge78",
+        "serial_no": "78",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements: 1. Hadley cells are key to understanding the wind patterns of Earth. 2. Hadley cells are formed because the Equator is heated more strongly by the Sun than other places, creating thermal circulations. With regard to the statements given above, which of the following is correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both the statements are correct and statement 2 is the correct explanation of statement 1.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge79",
+        "serial_no": "79",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements: 1. Ocean currents are dominated by huge surface gyres that are driven by the global surface wind pattern. 2. Equatorial currents move cold water westward and then poleward along the east coasts of continents. With regard to the statements given above, which of the following is correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Statement 1 is correct, but statement 2 is false.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge80",
+        "serial_no": "80",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "As per India State of Forest Report 2021, which one of the following states is not among the top three with reference to maximum area under forest?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Maharashtra",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge81",
+        "serial_no": "81",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "How is strong pressure gradient represented on a weather map?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Closely spaced isobars",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge82",
+        "serial_no": "82",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following is not an example of chemical weathering?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Salt Crystal Growth",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge83",
+        "serial_no": "83",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following statements regarding Arc Volcanoes is/are correct? 1. Arc volcanoes are found near divergent plate boundaries. 2. Some of the world's classical examples of cone-shaped stratovolcanoes, such as Mount Fuji in Japan, Mayon in the Philippines are Arc volcanoes. 3. Some of the highest volcanoes on Earth are of the Arc type, notably Nevado Ojos del Salado in the Chilean Andes. Select the answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 and 3 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge84",
+        "serial_no": "84",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the one of the following statements regarding S-waves is not correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : During an earthquake S-waves are less destructive to structures like buildings and highway overpasses.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge85",
+        "serial_no": "85",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following states is/are part of the Ganga Basin? 1. Chhattisgarh 2. Himachal Pradesh 3. Rajasthan Select the answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1, 2 and 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge86",
+        "serial_no": "86",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which peninsular river has a tributary named 'Kabini'?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Kaveri",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge87",
+        "serial_no": "87",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements: 1. Bajra is predominantly grown in states like Rajasthan, Uttar Pradesh and Gujarat, while Ragi is mainly cultivated in Karnataka and Tamil Nadu. 2. Bajra grows well in sandy and shallow black soils, whereas red and shallow black soil is suited for Ragi. With regard to the statements given above, which of the following is correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both the statements are correct, but statement 2 is not the correct explanation of statement 1.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge88",
+        "serial_no": "88",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following peaks are situated in India 1. Dhaulagiri 2. Namcha Barwa 3. Kamet 4. Makalu Select the answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 and 3 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge89",
+        "serial_no": "89",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following statements regarding River Rhine is/are correct? 1. Rhine River is an important pathway for industrial activity in northern Germany. 2. Port of Rotterdam is located at the mouth of the Rhine River. Select the answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge90",
+        "serial_no": "90",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "With reference to the continent of 'Antarctica' which of the following statements are correct? 1. It is larger than Europe in terms of area. 2. It has the highest average elevation as compared to all other continents. 3. Mt. Ross is the highest peak of this continent. 4. Waters of the Southern Ocean (West Wind Drift) move in an anticlockwise direction around it. Select the answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge91",
+        "serial_no": "91",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements: 1. A rupee Vostro account is an account that an Indian bank holds for a foreign bank in the domestic currency (rupee) to enable domestic banks to provide international banking services. 2. Insurance density, i.e., average insurance premium per capita does not fully capture the financing gap in the event of a premature death because most of the insurance products sold in India are savings-linked with a small component of protection. Which of the statements given above is/are correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge92",
+        "serial_no": "92",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements: 1. An additional spending by the Government of X is likely to have less impact on income than an additional transfer of X to households. 2. An additional spending by the Government of X is likely to have less impact on income if it is not accompanied by an expansion in money supply. Which of the statements given above is/are correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge93",
+        "serial_no": "93",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Long-Term Low Emissions Development Strategy envisions : 1. a transition from fossil fuels in a just, smooth, sustainable manner. 2. increased use of bio-fuels. 3. climate resistant urban development. 4. financing of sustainable development through Green Bonds. Select the answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1, 2 and 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge94",
+        "serial_no": "94",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following was the focus of the Twelfth Five-Year Plan?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Sustainable and Inclusive Growth",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge95",
+        "serial_no": "95",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following is not included in the Capital Account of the Balance of Payments of a country?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Invisibles",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge96",
+        "serial_no": "96",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The Atmanirbhar Bharat Scheme announced by the Government helps in: 1. Enhancing India's manufacturing capabilities and exports across the industries 2. Incentivizing foreign investments for domestic production Select the answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge97",
+        "serial_no": "97",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following statements for a firm's equilibrium in Perfect Competition is not correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : The marginal cost decreases at the equilibrium output.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge98",
+        "serial_no": "98",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following taxes is not included in the Central Pool to be shared with the States according to the recommendations of Finance Commission of India?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Surcharge and Cess",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge99",
+        "serial_no": "99",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following dimensions is not included in Human Development Index ?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Mortality rate",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge100",
+        "serial_no": "100",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "D. Suppose there are only two normal goods in the economy, X and Y. If price of good X increases, which would be the correct statement from below?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Demand for good X decreases and demand for Y is indeterminate.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge101",
+        "serial_no": "101",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If the price index increased from 100 in 2021 to 110 in 2022 to 132 in 2023, then the rate of inflation is:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 0.2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge102",
+        "serial_no": "102",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The Rangarajan Committee methodology for determining the poverty line incorporated which of the following? 1. A food component 2. A normative level of expenditure for essential non-food items 3. A behaviourally determined expenditure for other non-food items Select the answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1, 2 and 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge103",
+        "serial_no": "103",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following is not a fund managed by NIIFL (National Investment and Infrastructure Fund Limited)?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Global Investment Fund",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge104",
+        "serial_no": "104",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Pandit Deendayal Upadhyay National Welfare Fund was established with the view to help which one of the following groups?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Sportspersons",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge105",
+        "serial_no": "105",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following items comprises the major portion of revenue expenditure of the Union Government of India ?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Interest Payments",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge106",
+        "serial_no": "106",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "India's women's badminton team recently won the Badminton Asia Team Championship, 2024. Who among the following players was not a part of the team?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Anmol Kharb",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge107",
+        "serial_no": "107",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following statements related to Indian medicine system is not correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Unani system of medicine has been dissociated from the Ministry of Ayush.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge108",
+        "serial_no": "108",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following statements is correct about NISHTHA, a Government of India initiative?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : It is a teacher-training programme.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge109",
+        "serial_no": "109",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Arrange the BRICS countries in ascending order of their rank in the Human Development Report 2023-24, released by the UNDP: 1. China 2. India 3. Russia 4. Brazil 5. South Africa Select the answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2, 5, 4, 1, 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge110",
+        "serial_no": "110",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "India has signed a Trade and Economic Partnership. Agreement (TEPA) with EFTA, which is a regional group consisting of four countries. Which one of the following countries is not a member of this group?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : England",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge111",
+        "serial_no": "111",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following countries shares the territorial boundary with both Russia and Ukraine?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Belarus",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge112",
+        "serial_no": "112",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "In June 2024, India signed a Memorandum of Understanding (MoU) with USA for supporting Indian Railways to achieve Mission Net Zero Carbon Emission by the year:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2030",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge113",
+        "serial_no": "113",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following statements is correct about the PM-JANMAN scheme?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : It is a scheme of the Government of India for benefitting every member of the tribal community from Government schemes.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge114",
+        "serial_no": "114",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following statements is not correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Sagar Manthan is a mission launched by Ministry of Ports, Shipping and Waterways, Government of India, to increase fish production.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge115",
+        "serial_no": "115",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "ISRO, in its studies, has revealed that there is a 178% increase in the size of the Ghepang Ghat Glacial Lake. In which of the following States/UTs is this lake located?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Himachal Pradesh",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge116",
+        "serial_no": "116",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following State/s is/are common to the Bru-Reang Agreement, NLFT (SD) Agreement, and Tripartite Agreement with TIPRA?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Tripura",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge117",
+        "serial_no": "117",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following movies won the 96th Academy Award 2024 in the Best Picture category?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Oppenheimer",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge118",
+        "serial_no": "118",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "India's first dedicated OPD for the Transgenders was opened at which one among the following hospitals?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : RML Hospital, New Delhi",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge119",
+        "serial_no": "119",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following statements about 'INS Tarmugli' is not correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : It was given by the Government of India to Sri Lankan Naval Force in 2006 and returned to the Indian Navy in May 2023.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSGeneral Knowledge120",
+        "serial_no": "120",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following resolutions in the final agreement reached at COP28 is associated with the target of achieving 'Net Zero by 2050'?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Fossil fuel phase-out",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    }
+  ]
+}

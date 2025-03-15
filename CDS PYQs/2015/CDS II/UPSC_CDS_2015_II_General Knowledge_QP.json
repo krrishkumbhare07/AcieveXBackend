@@ -1,0 +1,3731 @@
+{
+  "exam_info": {
+    "exam_type": "UPSC_CDS",
+    "year": 2015,
+    "session": "II",
+    "subject": "General Knowledge",
+    "total_questions": 120
+  },
+  "questions": [
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge1",
+        "serial_no": "1",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Genetic screening is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : analysis of DNA to check the presence of a particular gene in a person",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge2",
+        "serial_no": "2",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following are the major factors responsible for the monsoon type of climate in India?1. Location2. Thermal contrast3. Upper air circulation4. The Himalayan MountainsSelect the correct answer using the code given below. [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1, 2, 3 and 4",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge3",
+        "serial_no": "3",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following Indian States :1. Chhattisgarh2. Telangana3. Andhra Pradesh4. Uttarakhand5. Tamil NaduWhich among, the States given above are the largest and smallest respectively (in terms of geographical area)? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 3 and 4",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge4",
+        "serial_no": "4",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Who among the following is considered as the father of genetic engineering? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Paul Berg",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge5",
+        "serial_no": "5",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the' following cause(s) variation in the genetic material of progeny?1. Sexual reproduction2. Asexual reproduction3. Mutations4. Epigenetic changesSelect the correct answer using the code given below. [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 3 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge6",
+        "serial_no": "6",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Match List-I with List-II and select the correct answer using the code given below the Lists :List-I (Plant)List-II (Natural vegetation type)A. Ebony1. Moist deciduousB. Shisham2. Himalayan moistC. Walnut3. AlpineD. Birch4. Tropical evergreencode :ABCD(a)4123(b)4213(c)3214(d)3124 [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : (a)",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge7",
+        "serial_no": "7",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Cobalt is associated with [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : vitamin B12",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge8",
+        "serial_no": "8",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Absorption of water in the human body can be found in1. renal tubule in kidney2. hepatic cells in liver3. large intestine4. pancreatic ductSelect the correct answer using the code given below. [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 3 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge9",
+        "serial_no": "9",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Match List-I with List-II and select the correct answer using the code given below the Lists :List-I (Geological time scale)List-II (Life-form)A. Pleistocene1. MammalsB. Paleocene2. Human genusC. Permian3. InvertebratesD. Cambrian4. Frogscode :ABCD(a)2143(b)2413(c)3412(d)3142 [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : (a)",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge10",
+        "serial_no": "10",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Measles is a disease caused by [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : virus",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge11",
+        "serial_no": "11",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Neutrophils and lymphocytes originate from [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : bone marrow",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge12",
+        "serial_no": "12",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Match List-I with List-II and select the correct answer using the code given below the Lists :List-I (Climate)List-II (Characteristic)A. Mediterranean 1. Temperature cycle is moderated by marine influenceB. Marine west coast2. Warm summers and cold winters with three months below freezing. Veiy large annual temperature rangeC. Diy mid-latitude3. Strong temperature cycle with large annual range. Warm summers to hot and cold winters to very coldD. Moist continental4. Temperature range is moderate with warm to hot summers and mild winterscode :ABCD(a)2134(b)2314(c)4312(d)4132 [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : (d)",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge13",
+        "serial_no": "13",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Match List-I with List-II and select the correct answer using the code given below the Lists :List-I (Weathering type)List-II (Landform/ Process)A. Chemical weathering1. TillB. Mechanical weathering2. OxidationC. Glacial deposits3. Plant rootsD. Deposition by ground-water4. Stalactitecode : ABCD(a)2314(b)2134(c)4132(d)4312 [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : (a)",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge14",
+        "serial_no": "14",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The mandate of the scheme entitled ‘Directly Observed Treatment, Short-Course (DOTS)’ launched by WHO is to ensure that [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : patients complete their course of drug",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge15",
+        "serial_no": "15",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If a ship has to go from Chennai to Kochi, it has to go around Sri Lanka rather than crossing through the Palk Strait. Why? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : It is too shallow for ships to cross",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge16",
+        "serial_no": "16",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Penicillin inhibits synthesis of bacterial [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : cell wall",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge17",
+        "serial_no": "17",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following State capitals of North-East India is/are connected by Indian Railways?1. Imphal2. Agartala3. Kohima4. AizawlSelect the correct answer using the code given below. [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge18",
+        "serial_no": "18",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Most antibiotics target bacterial parasites interfering with various factors of growth or metabolism such as1. synthesis of cell wall2. bacterial protein synthesis3. synthesis of nuclear membrane4. mitochondrial functionSelect the correct answer using the code given below. [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge19",
+        "serial_no": "19",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Match List-I with List-II and select the correct answer using the code given below the Lists :List-I Region)List-II State)A. Baghelkhand 1. West BengalB. Kuttanad2. Madhya PradeshC. Saurashtra3. KeralaD. Rarh4. Gujaratcode :ABCD(a)2341(b)2431(c)1342(d)1432 [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : (a)",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge20",
+        "serial_no": "20",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following statements with regard to Portland cement are correct?1. Silica imparts strength to cement.2. Alumina makes the cement quick setting.3. Excess of lime increases the strength of cement.4. Calcium sulphate decreases the initial setting time of cement.Select the correct answer using the code given below. [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : and 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge21",
+        "serial_no": "21",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Match List-I with List-II and select the correct answer using the code given below the Lists :List-I (City)List-II (Earthquake zone)A. Kolkata1. Zone VB. Guwahati2. Zone IVC. Delhi3. Zone IIID. Chennai4. Zone IIcode :ABCD(a)3214(b)3124(c)4123(d)4213 [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : (b)",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge22",
+        "serial_no": "22",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Red phosphorus is used in the manufacture of safety matches. This is due to the fact that [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : at ordinary temperature, it is less reactive than other varieties of phosphorus",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge23",
+        "serial_no": "23",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Match List-I with List-II and select the correct answer using the code given below the Lists :List-I (Lake)List-II(Type)A. Ashtamudi Kayal1. Residual (sweet water)B. Himayat Sagar2. LagoonC. Dal Lake3. GlacialD. Tsomgo Lake4. Artificial (sweet water)code :ABCD(a)2413(b)2143(c)3142(d)3412 [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : (a)",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge24",
+        "serial_no": "24",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Match List-I with List-II and select the correct answer using the code given below the Lists :List-I (Exponent)List-II (Law)A. John Dalton1. Law of definite proportion by volumeB. Joseph Proust2. Law of multiple proportionC. Antoine Lavoisier3. Law of definite proportion by weightD. Joseph Louis Gay- Lussac4. Law of conserva­tion of masscode :ABCD(a)2341(b)2431(c)1432(d)1342 [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : (a)",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge25",
+        "serial_no": "25",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Match List-I with List-II and select the correct answer using the code given below the Lists :List-I (Farming area)List-II (State)A. Doab1. AssamB. Char2. KarnatakaC. Maidan3. PunjabD. Terai4. Uttar PradeshABCD(a)3214(b)3124(c)4123(d)4213 [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : (b)",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge26",
+        "serial_no": "26",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following is not gaseous air pollutant? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Smoke",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge27",
+        "serial_no": "27",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Match List-I with List-II and select the correct answer using the code given below the Lists :List-I (Steel mill)List-II (State)A. Kalinganagar1. West BengalB. Vijayanagar2. Tamil NaduC. Salem3. OdishaD. Durgapur4. KarnatakaABCD(a)1423(b)1243(c)3421(d)3241 [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : (c)",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge28",
+        "serial_no": "28",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following statements is not correct? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Density of ice is greater than that of water.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge29",
+        "serial_no": "29",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following is the pattern of circulation around a low-pressure area in the northern hemisphere? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Counter-clockwise and towards the centre",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge30",
+        "serial_no": "30",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following is not true for diamond? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : It can be used as a lubricant",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge31",
+        "serial_no": "31",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following statements about the atmosphere is correct? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : The atmosphere has no definite upper limits but gradually thins until it becomes imperceptible.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge32",
+        "serial_no": "32",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The atomic theory of matter was first proposed by [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : John Dalton",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge33",
+        "serial_no": "33",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following statements about diastrophism is correct? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : The forces may be so slow and gradual that they pass unnoticed for a long period of time.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge34",
+        "serial_no": "34",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A body is falling freely under the action of gravity alone in vacuum. Which one of the following remains constant during the fall? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Total mechanical energy",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge35",
+        "serial_no": "35",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "X-rays are [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : not deflected by an electric field or a magnetic field",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge36",
+        "serial_no": "36",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following minerals contains mostly silica? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Quartz",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge37",
+        "serial_no": "37",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The focal length of the lens of a normal human eye is about [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2.5 cm",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge38",
+        "serial_no": "38",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following statements is correct? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Cold fronts normally move faster than warm fronts and therefore frequently overtake the warm fronts.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge39",
+        "serial_no": "39",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following physical quantities is the same for molecules of all gases at a given temperature? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Kinetic energy",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge40",
+        "serial_no": "40",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Newton’s laws of motion do not hold good for objects [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : moving with velocity comparable to velocity of light",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge41",
+        "serial_no": "41",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following elements are found in highest and lowest quantities respectively in the crust of the earth? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Oxygen and magnesium",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge42",
+        "serial_no": "42",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following statements is not correct? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Weight and mass of a body are equal at sea level on the surface of the earth.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge43",
+        "serial_no": "43",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A brick is thrown vertically from an aircraft flying two kilometres above the earth. The brick will fall with a [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : constant acceleration",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge44",
+        "serial_no": "44",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "This item consists of two statements, Statement I and Statement II.Statement I :The Kuroshio is a warm north-flowing ocean current on the west side of the North Pacific Ocean.Statement II :Presence of a number of volcanoes at the bottom of the Sea of Japan is responsible for the Kuroshio becoming warm.Examine these two statements carefully and select the answer to the item using the code given below. [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Statement I is true but Statement II is false",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge45",
+        "serial_no": "45",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The outside rear view mirror of modem automobiles is marked with warning “objects in mirror are closer than they appear”. Such mirrors are [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : convex mirrors",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge46",
+        "serial_no": "46",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A Bill is deemed to be a ‘Money Bill’ if it has any provisions dealing with1. imposition, abolition, remission, alteration or regulation of any tax2. appropriation of money from the Consolidated Fund of India3. imposition of fines or other pecuniary penalties4. payment of fee for licences or fee for service renderedSelect the correct answer using the code given below. [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge47",
+        "serial_no": "47",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements about Alauddin Khalji’s market policy :1. He placed markets under the control of a high officer called ‘Shahna’ for strictly controlling the shopkeepers and prices.2. In order to ensure a regular supply of cheap food grains, he ordered the land revenue from Doab region to be paid directly to the State.Which of the statements given above is/are correct? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge48",
+        "serial_no": "48",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following is not a part of service sector in India? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Construction",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge49",
+        "serial_no": "49",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following is/are not central feature(s) of Article 343 of the Constitution of India?1. Hindi in Devanagari Script shall be the national language of the Union.2. The official language of the Union shall be Hindi in Devanagari Script.3. English language shall continue to be used for official purposes within States.4. If two or more States agree, Hindi language should be the official language of communication between the States.Select the correct answer using the code given below. [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge50",
+        "serial_no": "50",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Match List-I with List-II and select the correct answer using the code given below the Lists :List-I (Term)List-II (Meaning)A. Mihrab1. Stepped pulpitB. Mimbar2. Direction towards the Kaba for prayer,C. Khutba3. ArchD. Kibla4. SermonABCD(a)2143(b)2413(c)3142(d)3412 [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : (c)",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge51",
+        "serial_no": "51",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Under flexible exchange rate system, the exchange rate is determined [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : predominantly by market mechanism",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge52",
+        "serial_no": "52",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "After the general elections, the Protem Speaker is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : the senior most member of the Lok Sabha",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge53",
+        "serial_no": "53",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Match List-I with List-II and select the correct answer using the code given below the Lists :List-I (Person)List-II (Work)A. Uddanda1. SudhanidhiB. Sayana2. MallikamarutaC. Yadavaprakasa3. MalatimadhavaD. Bhavabhuti4. VaijayantiABCD(a)2143(b)3412(c)2413(d)3142 [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : (a)",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge54",
+        "serial_no": "54",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following is not correct in the context of industrial clusters development in India? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Industrial clusters lead to promotion of monopoly in the market",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge55",
+        "serial_no": "55",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Match List-I with List-II and select the correct answer using the code given below the Lists :List-I (Leader)List-II (Party)A. Shyama Prasad Mukherjee1. Communist Party of IndiaB. Minoo Masani2. Bharatiya Jana SanghC. S. A. Dange3. Swatantra PartyD. Ashok Mehta 4. Praja Socialist PartyABCD(a)2314(b)4132(c)2134(d)4312 [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : (a)",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge56",
+        "serial_no": "56",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The Rihla was written in [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Arabic in the Fourteenth Century by Ibn Battuta",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge57",
+        "serial_no": "57",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Contribution of the manufacturing sector to environmental degradation primarily occurs during1. procurement and use of natural resources2. industrial processes and activities3. product use and disposalSelect the correct answer using the code given below. [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1, 2 and 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge58",
+        "serial_no": "58",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following is/are not centred tenet(s) of the Constitution of India?1. Prohibits discrimination on grounds of religion2. Gives official status to certain religions3. Provides freedom to profess any religion. Ensures equality of all' citizens within religious communitiesSelect the correct answer using the code given below. [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge59",
+        "serial_no": "59",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The ‘Sur Sagar’ is [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : a poetic work of Surdas",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge60",
+        "serial_no": "60",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Private investment in Indian agriculture is mostly on labour-saving mechaniza­tion. This could be a response to [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : rising wages and tighter labour market",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge61",
+        "serial_no": "61",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following facts are related to Burma (Myanmar)? 1. It shares its borders with India, China, Bangladesh and Vietnam. 2. It is ruled by a military government. 3. The National League for Democracy was not allowed to contest the elections held in the year 2010. 4. Myanmar is a member of ASEAN. Select the correct answer using the code given below. [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2, 3 and 4",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge62",
+        "serial_no": "62",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Who among the following was not a painter at Akbar’s Court? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Kalyan Das",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge63",
+        "serial_no": "63",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following is the major source of gross tax revenue (GTR) for the Government of India? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Corporation tax",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge64",
+        "serial_no": "64",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following are members of BRICS? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Brazil, Russia, India, China and South Africa",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge65",
+        "serial_no": "65",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "After the death of Shivaji, there was a fight for succession between [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Rajaram and Shambhaji",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge66",
+        "serial_no": "66",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following is a non-renewable resource? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Coal",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge67",
+        "serial_no": "67",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The ‘Panchsheel Agreement’ for peaceful coexistence was signed between [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : India and China",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge68",
+        "serial_no": "68",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Match List-I with List-II and select the correct answer using the code given below the Lists :List-I (Author)List-II (Work)A. Somadeva1. MalavikagnimitraB. Kalidasa2. KathasaritsagaraC. Bhasa3. ChaurapanchasikaD. Bilhana4. SvapnavasavadattaABCD(a)2143(b)3412(c)2413(d)3142 [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : (a)",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge69",
+        "serial_no": "69",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following is not an example of externalities? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Health hazard caused to the person due to smoking by himself/herself",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge70",
+        "serial_no": "70",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "“Rio + 20’ is the short name for [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : United Nations Conference on Sustainable Development",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge71",
+        "serial_no": "71",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Patanjali was [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : the author of a commentary on Panini’s Sanskrit grammar",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge72",
+        "serial_no": "72",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following statements in the context of income-environment relationship is/are correct?1. Pollution trends tend to follow an inverse-U shaped relationship across different stages of economic development.2. In the beginning stage, pollution increases due to urbanization and industrialization.3. In the later stage, pollution declines due to structural changes towards services sector.Select the correct answer using the code given below. [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1, 2 and 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge73",
+        "serial_no": "73",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following is not a member of MERCOSUR (Southern Common Market)? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Chile",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge74",
+        "serial_no": "74",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Match List-I with List-II and select the correct answer using the code given below the Lists :List-I (King)List-II (Region)A. Shashanka1. AssamB. Kharavela2. MaharashtraC. Simuka3. OrissaD. Bhaskara Varman4. BengalABCD(a)4231(b)1324(c)4321(d)1234 [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : (c)",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge75",
+        "serial_no": "75",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following represents a progressive tax structure? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Tax rate increases as income increases",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge76",
+        "serial_no": "76",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The Constitution of India guarantees freedom of thought and expression to all its citizens subject to1. implementation of Directive Principles2. Fundamental Duties3. Right to EqualitySelect the correct answer using the code given below. [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge77",
+        "serial_no": "77",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "In ancient India, the ‘Yaudheyas’ were [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : a republican tribe",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge78",
+        "serial_no": "78",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following is an example of a ‘natural monopoly? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Delhi Jal Board",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge79",
+        "serial_no": "79",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following is not a component of the Realist Theory? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Survival can be assured in cooperation with international organizations",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge80",
+        "serial_no": "80",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The Dashakumaracharita or Tales of Ten Princes’ was composed by [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Dandin",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge81",
+        "serial_no": "81",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is meant by price discrimination? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A situation where the same product is sold to different consumers for different prices",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge82",
+        "serial_no": "82",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following does not form part of Immanuel Kant’s theory of ‘perpetual peace? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : World Government",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge83",
+        "serial_no": "83",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Borobudur is the site of [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : an enormous Stupa in Java, built in the 8th Century AD",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge84",
+        "serial_no": "84",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is meant by ‘Public Good? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A commodity whose benefits are indivisibly spread among the entire community",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge85",
+        "serial_no": "85",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following statements about the process of the Parliament to make new States is not correct? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Such a law will fall under the purview of Article 368.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge86",
+        "serial_no": "86",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following statements with regard to India’s economy between 1814 to 1860 is not correct? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Between 1814 and 1860, five commodities dominated India’s exports-raw silk, opium, cotton, indigo and jute.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge87",
+        "serial_no": "87",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "In view of the fact that kerosene is an inferior good in India, what is/are its implication(s)?1. As households get richer, they consume less kerosene.2. Over time there is a decline in quality of kerosene.3. Government needs to stop subsidies on kerosene.Select the correct answer using the code given below. [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge88",
+        "serial_no": "88",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following statements with regard to citizenship provisions of the Constitution of India is/are correct?1. No person shall be a citizen of India by virtue of Article 5, or be deemed to be a citizen of India by virtue of Article 6 or Article 8, if he/she has voluntarily acquired the citizenship of any foreign State.2. The Parliament has power to make any provision with respect to the acquisition and termination of citizenship and all other matters relating to citizenship.Select the correct answer using the code given below. [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge89",
+        "serial_no": "89",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The protection against arrest and detention under Article 22 of the Constitution of India is not available to1. an enemy alien2. a person detained under a preventive detention law3. a foreigner4. an overseas citizen of IndiaSelect the correct answer using the code given below. [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge90",
+        "serial_no": "90",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following statements about the Hastings Plan of 1772 is/are correct?1. Each district was to have a civil and a criminal Court.2. The Judges were helped by native assessors who were skilled in Hindu and Islamic laws.3. The Sadar Diwani Adalat was mainly meant to settle mercantile cases exceeding ₹ 10,000 in value.4. These Courts did not put into place any procedural improvements.Select the correct answer using the code given below. [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge91",
+        "serial_no": "91",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following statements about the formation of the Indian National Congress are true?1. The Indian National Congress was formed at a national convention held in Calcutta in December 1885 under the Presidency of Motilal Nehru.2. The Safety Valve Theory regarding the formation of the Indian National Congress emerged from a biography of A. O. Hume written by William Wedderbum.3. An early decision was that the President would be from the same region where the session was to be held.4. W.C.Baneijee was the first President of the Indian National Congress.Select the correct answer using the code given below. [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 and 4 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge92",
+        "serial_no": "92",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following factors led to a decline in inflation rate in India during 2014-2015?1. Persistent decline in crude oil prices2. Softness in global prices of tradables such as edible oils and coal3. Tight monetary policy pursued by the Reserve Bank of IndiaSelect the correct answer using the code given below. [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1, 2 and 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge93",
+        "serial_no": "93",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Freedom of conscience under the Constitution of India is subject to1. public order, morality and health2. a law providing for social welfare and reform3. opening Hindu religious institutions of a public character to all Hindus4. defamation or incitement to an offenceSelect the correct answer using the code given below. [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1, 2 and 3 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge94",
+        "serial_no": "94",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following Fundamental Rights is/are available to non-citizens?1. Equality before Law2. Right against Discrimination3. Equality of Opportunity4. Protection of Life and Personal LibertySelect the correct answer using the code given below. [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 4 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge95",
+        "serial_no": "95",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following statements about the formation of the Constituent Assembly is/are correct?1. The members of the Constituent Assembly were chosen on the basis of the provincial elections of 1946.2. The Constituent Assembly did not include representatives of the Princely States.3. The discussions within the Constituent Assembly were not influenced by opinions expressed by the public.4. In order to create a sense of collective participation, submissions were solicited from the public.Select the correct answer using the code given below. [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 4",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge96",
+        "serial_no": "96",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following statements about Jyotirao Phule’s Satyashodhak Samaj Movement in Maharashtra is/are true?1. The Satyashodhak Samaj was set up in 1873.2. Phule argued that Brahmins were the progeny of ‘alien’ Aryans.3. Phule’s focus on the Kunbi peasantry in the 1880s and 1890s led to a privileging of Maratha identity.Select the correct answer using the code given below. [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1, 2 and 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge97",
+        "serial_no": "97",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following laws have been repealed by the Constitution of India?1. The Government of India Act, 19352. The Indian Independence Act, 19473. The Abolition of Privy Council Jurisdiction Act, 19494. The Preventive Detention Act, 1950Select the correct answer using the code given below. [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge98",
+        "serial_no": "98",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following statements about Maulvi Ahmadullah Shah, who played an important part in the Revolt of 1857, is/are correct?1. He was popularly known as Danka Shah or the Maulvi with a drum.2. He fought in the famous Battle of Chinhat.3. He was killed by British troops under the command of Henry Lawrence.Select the correct answer using the code given below. [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge99",
+        "serial_no": "99",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A writ of Habeas Corpus for the release of a person can be issued l. where the arrest or detention has taken place in contravention of the procedure established by law2. to secure the release of a person imprisoned on a criminal charge3. where the arrest has taken place for contempt of Court or the ParliamentSelect the correct answer using the code given below. [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge100",
+        "serial_no": "100",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Who among the following is the author of the autobiography entitled Aamar Katha (1913)? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Binodini Dasi",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge101",
+        "serial_no": "101",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following statements about the Companies Act, 2013 is not correct? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : The Act regulates the corporate sector to make it accountable.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge102",
+        "serial_no": "102",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following changes has not been made to the Citizenship Act of India by the Amendment in 2015? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : The Non-Resident Indians are entitled to vote in elections in India",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge103",
+        "serial_no": "103",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Name the French revolutionary who wrote Declaration of the Rights of Woman and Female Citizen. [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Olympe de Gouges",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge104",
+        "serial_no": "104",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following statements about Electoral Government in India is not correct? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : The Supreme Court of India has the authority to scrutinize the validity of a law relating to delimitation of constituencies.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge105",
+        "serial_no": "105",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The electronic voting machines are developed jointly with1. Bharat Heavy Electricals Limited2. Bharat Electronics Limited3. Electronics Corporation of India Limited4. Bharat Sanchar Nigam LimitedSelect the correct answer using the code given below. [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 and 3 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge106",
+        "serial_no": "106",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following is not a recommendation of the Fourteenth Finance Commission? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Sector specific grant is recom­mended as in the previous Finance Commissions",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge107",
+        "serial_no": "107",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Khan Shaheb Osman Ali Stadium is located at [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Fatullah",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge108",
+        "serial_no": "108",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "May 31 is celebrated as World No Tobacco Day’ by the World Health Organization. Which one of the following was the theme of the World No Tobacco Day, 2015? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Stop illicit trade of tobacco products",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge109",
+        "serial_no": "109",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Government of which one of the following States has (in May 2015) decided to withdraw the Armed Forces (Special Powers) Act from the State? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Tripura",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge110",
+        "serial_no": "110",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following statements with regard to New Development Bank BRICS, formerly referred to as the BRICS Development Bank, is/are correct?1. The Headquarters of the Bank is situated at Moscow, Russia.2. K. V. Kamath is the first President of the Bank.Select the correct answer using the code given below. [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge111",
+        "serial_no": "111",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Weibo is a social media platform popularly used in [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : China",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge112",
+        "serial_no": "112",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Who is the current Vice Chairperson of NITI Aayog? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Arvind Panagariya",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge113",
+        "serial_no": "113",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following is not provided regular budgetary support by the Ministry of Defence? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : United Service Institution of India, New Delhi",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge114",
+        "serial_no": "114",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "In April 2015, India and France agreed to conclude an inter-governmental agreement in respect of which one of the following platforms? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Rafale Medium Multirole Combat Aircraft",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge115",
+        "serial_no": "115",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following statements is incorrect? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : India is the third largest importer of the defence equipment.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge116",
+        "serial_no": "116",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "‘Arihant’ is the name of [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : a nuclear powered submarine",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge117",
+        "serial_no": "117",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Where was the 14th Asia Security Summit (Shangri-La Dialogue) held in May 2015? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Singapore",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge118",
+        "serial_no": "118",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following is not correct about the Defence Research and Development Organization (DRDO)? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : It is a network of 10 laboratories engaged in developing defence technologies",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge119",
+        "serial_no": "119",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "“Red Flag’ is the name of a joint exercise between India and which one of the following countries? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : USA",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2015IIUPSC_CDSGeneral Knowledge120",
+        "serial_no": "120",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2015,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "In November 2014, which one of India’s neighbouring countries allowed a Chinese submarine to dock at one of its ports? [2015 CDS-II]",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Sri Lanka",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    }
+  ]
+}

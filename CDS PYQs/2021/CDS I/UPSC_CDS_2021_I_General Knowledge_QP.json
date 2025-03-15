@@ -1,0 +1,3731 @@
+{
+  "exam_info": {
+    "exam_type": "UPSC_CDS",
+    "year": 2021,
+    "session": "I",
+    "subject": "General Knowledge",
+    "total_questions": 120
+  },
+  "questions": [
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge1",
+        "serial_no": "1",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "We are given three copper wires of different lengths and different areas of cross-section. Which one of the following would have highest resistivity?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : All the wires would have same resistivity",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge2",
+        "serial_no": "2",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following is an electric conductor?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Human body",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge3",
+        "serial_no": "3",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "A non-spherical shining spoon can generally be considered as a",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Plane mirror",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge4",
+        "serial_no": "4",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Who amongst the following is pioneer in discovering the heating effect of electric current?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : James P. Joule",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge5",
+        "serial_no": "5",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following laws of electromagnetism does not give the direction of magnetic field?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Faraday’s law of electromagnetic induction",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge6",
+        "serial_no": "6",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "How many internal reflections of light take place in the formation of primary rainbow?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge7",
+        "serial_no": "7",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The direction of acceleration in uniform circular motion is along the",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : direction perpendicular to velocity",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge8",
+        "serial_no": "8",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The weight of an object is due to",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : the force that it exerts on the ground",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge9",
+        "serial_no": "9",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The Size of particles being studied in nanotechnology is about",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1-100 nm",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge10",
+        "serial_no": "10",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following elements are a non-metal but is lustrous?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Iodine",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge11",
+        "serial_no": "11",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following metals has both malleability and ductility properties?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Au",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge12",
+        "serial_no": "12",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which of the following statements about ‘fission’ is correct? 1) It is related to the creation of new individuals by means of cell division in a unicellular organism 2) It is related to the transformation of heavier nuclei into smaller nuclei 3) It is related to the creation of heavier nuclei by means of combining two higher nuclei Select the correct answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge13",
+        "serial_no": "13",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the followings naturally occurring acids is found in abundance in tomatoes?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Oxalic acid",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge14",
+        "serial_no": "14",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the followings is used in soda-acid fire extinguishers?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Sodium hydrogen carbonate",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge15",
+        "serial_no": "15",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the followings serum compounds is used for softening hard water?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Na2CO3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge16",
+        "serial_no": "16",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Calcium oxide reacts vigorously with water to produce slaked lime whose solution is used for white-washing walls. This slaked lime reacts with component (A) in the air to form a thin layer of component (B) to give a shiny finish. What are the components (A) and (B)?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A−CO2:B−CaCO3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge17",
+        "serial_no": "17",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "When we heat lead nitrate [Pb(NO3)2] in a boiling tube, we observe the emission of brown fumes. Which one of the followings is the brown gas?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : NO2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge18",
+        "serial_no": "18",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the followings do silver articles reach with, that makes the silver articles black?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Sulfur",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge19",
+        "serial_no": "19",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following metals is kept immersed in Kerosene oil to protect it and to prevent accidental fire?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Sodium",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge20",
+        "serial_no": "20",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "A solution contains 20 g of solute in 180 g of solvent. If the solvent is water, what is the concentration of the solution in terms of mass by mass percentage?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 10%",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge21",
+        "serial_no": "21",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Aluminum is manufactured from",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Bauxite ore",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge22",
+        "serial_no": "22",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "An antibiotic is not useful against of virus whereas a vaccine is. Which one of the following is the most appropriate reason for this?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A virus does not use biochemical pathways that can be blocked by an antibiotic. But a vaccine can boost an immune system to fight the virus.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge23",
+        "serial_no": "23",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "‘Sleeping sickness’ is caused by?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Trypanosoma",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge24",
+        "serial_no": "24",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one among the following is a free-living animal?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Planaria",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge25",
+        "serial_no": "25",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following is the structure of a cardiac muscle cell?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Cylindrical, Branched, and Uninucleate",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge26",
+        "serial_no": "26",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Cell wall is not present in cells of",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Humans",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge27",
+        "serial_no": "27",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "A child receives a tall beautiful plant as a birthday gift from his father with a quiz. The father asked her how she would verify whether this tall plant was the progeny of both the tall parents or one tall and one short parent plant. She could verify this through.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : self-pollination",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge28",
+        "serial_no": "28",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "A student was doing an experiment on increasing the cell division among plants. She asked her supervisor to suggest the specific plant hormone for the same. Had you been her supervisor, which plant hormone would you suggest?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Cytokinin",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge29",
+        "serial_no": "29",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which cell organelles have their own DNA and Ribosomes?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Mitochondria and Plastids",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge30",
+        "serial_no": "30",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Osmosis is the process of movement of water molecules from its",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : higher concentration to its lower concentration through a semi-permeable membrane.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge31",
+        "serial_no": "31",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following is correct about ‘Pinaka’?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : It is a mufti-barrel system.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge32",
+        "serial_no": "32",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following is not a member of the Quad group of nations?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : France",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge33",
+        "serial_no": "33",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The first phase of Exercise Malabar, 2020 was conducted at",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Visakhapatnam",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge34",
+        "serial_no": "34",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Hollywood actor Sir Sean Connery, who died recently, was popularly known for the portrayal of the role.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : James Bond",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge35",
+        "serial_no": "35",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The Luhri Hydro-Electric Power Project is being constructed on the river",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Satluj",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge36",
+        "serial_no": "36",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "‘CARAT Bangladesh 2020’ was a joint naval exercise between Bangladesh and",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : USA",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge37",
+        "serial_no": "37",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Peninsula Shield Force is a military arm of",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Gulf Cooperation Council",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge38",
+        "serial_no": "38",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following ships was involved in ‘Mission Sagar-II’?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : INS Kesari",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge39",
+        "serial_no": "39",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "In the year 2020 which one of the following tiger reserves of India was declared by UNESCO as a Biosphere Reserve?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Panna Tiger Reserve",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge40",
+        "serial_no": "40",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The Kaleshwaram Lift Irrigation System, which was in the news recently, is constructed in",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Telangana",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge41",
+        "serial_no": "41",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Growing of two or more crops simultaneously on the same filed in a definite pattern is known as",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : inter cropping",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge42",
+        "serial_no": "42",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Match List I with List II and select the correct answer using the code given below the lists: List I List II (Author) (Poetical work) (A) Brindavan Das 1. Shiva sankirttan (B) Krishnadas Kaviraj 2. Chandimangal (C) Mukundaram Chakravarti 3. Chaitanya charitamrita (D) Rameshwar Bhattacharya 4. Chaitanya mangal",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : a-4 b-3 c-2 d-1",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge43",
+        "serial_no": "43",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following scholars of Akbar's court translated Bhaskaracharya's Lilavati into Persian?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Faizi",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge44",
+        "serial_no": "44",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Who among the following was the Chairman of the National Commission for Review of the Working of the Constitution (2000)?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Justice M.N. Venkatachaliah",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge45",
+        "serial_no": "45",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "M.M Punchhi Commission on Centre-State Relations has recommended the disposal of a bill reserved for the consideration of the Union Executive within",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : six months.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge46",
+        "serial_no": "46",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Who among the following founded the Marathi newspaper 'Kesari'?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Lokmanya Tilak",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge47",
+        "serial_no": "47",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which mega public sector undertaking is designated with 'Navratna' status?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Bharat Electronics Limited",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge48",
+        "serial_no": "48",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which of the following statements with regard to the creation of a new state or alteration of boundaries of states is/are correct? 1. An amendment has to be moved in the Parliament under Article 368 of the Constitution of India. 2. Ratification by one-half of the states is necessary after the amendment is made by the Parliament. 3. The legislation can be passed by a simple majority of both Houses of Parliament. Select the correct answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 3 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge49",
+        "serial_no": "49",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following is the largest linguistic group of India?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Indo-Aryan",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge50",
+        "serial_no": "50",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following water bodies separates the Andaman and the Nicobar Islands?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Ten Degree Channel",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge51",
+        "serial_no": "51",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following longitudes is the standard meridian of India?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 82° 30' E",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge52",
+        "serial_no": "52",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Match List I with List II and select the correct answer using the code given below the lists: List I List II (A) Cyclones 1. Western Australia (B) Hurricanes 2. South China Sea (C) Typhoons 3. Indian Ocean (D) Willy-willies 4. Atlantic Ocean",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : a-3 b-4 c-2 d-1",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge53",
+        "serial_no": "53",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which of the following is/are social security scheme(s)? 1. Atal Pension Yojana 2. Pradhan Mantri Jeevan Jyoti Bima Yojana 3. Pradhan Mantri Suraksha Bima YojanaSelect the correct answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1, 2 and 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge54",
+        "serial_no": "54",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following units is not a part of All India Radio's Transcription and Programme Exchange Service?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Advanced Research Unit",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge55",
+        "serial_no": "55",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which of the following statements about the Panchayati Raj System are correct? 1. All seats in a Panchayat are filled by persons chosen by direct election. 2. The 'Gram Sabha' consists of persons registered in the village electoral rolls. 3. The Chairperson of a Panchayat is elected in accordance with a law passed by each state. 4. All states in India have a three-tier system of Panchayats. Select the correct answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1, 2 and 3 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge56",
+        "serial_no": "56",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which of the following statements is/are correct? 1. The election to the Panchayat are conducted by the State Election Commission. 2. The State Election Commissioner is appointed by the Chief Election Commissioner of India. 3. The State Legislatures have the power to make laws on all matters relating to Panchayat elections. Select the correct answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 3 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge57",
+        "serial_no": "57",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following is not a correct description of the Union Cabinet?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A person from outside the Parliament can never be appointed a member of the Cabinet.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge58",
+        "serial_no": "58",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following statements about the composition of the Parliament is not correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Representatives of the states in Rajya Sabha are elected directly by the people.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge59",
+        "serial_no": "59",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which among the following fundamental rights is/are available to non-citizens? 1. Freedom of speech 2. Protection against self-incrimination 3. Freedom of conscience 4. Non-discrimination in employment Select the correct answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 and 3 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge60",
+        "serial_no": "60",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following statements about the Vice-President of India is not correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : He is not eligible for re-election.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge61",
+        "serial_no": "61",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "A motion of no-confidence is moved against",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : the Council of Ministers.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge62",
+        "serial_no": "62",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following tributaries of river Indus feeds the canal system of the Bhakra Nangal Project?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Satluj",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge63",
+        "serial_no": "63",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "When the rivers discharge their waters from all directions into a lake or depression, the pattern is known as",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Centripetal",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge64",
+        "serial_no": "64",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following statements about the Coriolis force is not correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : It deflects the wind to the right direction in the southern hemisphere.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge65",
+        "serial_no": "65",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Chronologically arrange the following treaties/conventions signed between the Marathas and the British (starting with the earliest): 1) Treaty of Salbai 2) Treaty of Purandar 3) Convention of Wadgaon 4) Treaty of Surat Select the correct answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 4-2-3-1",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge66",
+        "serial_no": "66",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which of the following statements about the Sanyasi and Faqir disturbances/rebellions are correct? 1) Governor-General Warren Hastings faced the persistent Sanyasi and Faqir disturbances in Bengal and Bihar. 2) There were a number of Shaivite Naga Sanyasis who formed into armed bands. 3) Majnu Shah, who led bands into Bengal from 1771, was their prominent leader. Select the correct answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1, 2 and 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge67",
+        "serial_no": "67",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "In 1943, young leaders in which one of the following districts of Maharashtra set up a parallel Government (pratisarhar) with volunteer corps (seva dals) and village units (tufan dals)?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Satara",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge68",
+        "serial_no": "68",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Who founded the Central Hindu School at Benaras which was later developed into Benaras Hindu University?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Annie Besant",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge69",
+        "serial_no": "69",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one among the following is not a feature of centralization?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Liberty",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge70",
+        "serial_no": "70",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following is not an objective of NITI Aayog?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : It offers a platform for resolution of inter-state conflicts as provider of first and last resort'.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge71",
+        "serial_no": "71",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Article 231 of the Constitution of India grants power to establish a common High Court for two or more states to",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : the Parliament.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge72",
+        "serial_no": "72",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one among the following motions cannot be made while introducing an ordinary Bill in the Parliament?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : That the Bill be referred to a Joint Committee of the House without the concurrence of the other House",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge73",
+        "serial_no": "73",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one among the following was eliminated by the 44‌th Amendment Act of the Parliament?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Right to Property",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge74",
+        "serial_no": "74",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Identify the crop on the basis of the following characteristics: 1) It is a kharif crop. 2) Aus, Aman and Boro are its three different growing periods in an agricultural year. 3) About one-fourth of the total cropped area of India is under its cultivation. Select the correct answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Rice",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge75",
+        "serial_no": "75",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following is a type of igneous rock?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Granite",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge76",
+        "serial_no": "76",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Ozone layer, which absorbs the ultra-violet radiation, is found in which one of the following layers of the atmosphere?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Stratosphere",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge77",
+        "serial_no": "77",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following statements about primary waves of earthquakes is not correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : They can travel only through solid materials.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge78",
+        "serial_no": "78",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Alluvial soils vary in nature from sandy loam to clay. They are generally",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : rich in potash and poor in phosphorus,",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge79",
+        "serial_no": "79",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Who among the following was popularly known as 'Lokahitwadi'?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Gopal Hari Deshmukh",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge80",
+        "serial_no": "80",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Who among the following socialist activists persuaded Gandhiji not to restrict the salt march protest to men alone?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Kamaladevi Chattopadhyay",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge81",
+        "serial_no": "81",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following painters was not associated with Humayun?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Bihzad",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge82",
+        "serial_no": "82",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Identify the type of soil on the basis of the given characteristics: 1) They are rich in lime, iron, magnesia and alumina. 2) They are generally clayey, deep and impermeable. 3) They are mainly found in Maharashtra, Madhya Pradesh and Gujarat. Select the correct answer from the given alternatives:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Black soil",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge83",
+        "serial_no": "83",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Arabica, Robusta and Liberica are varieties of",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Coffee",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge84",
+        "serial_no": "84",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following sea ports gained significance for handling iron-ore exports to Japan?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Mormugao",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge85",
+        "serial_no": "85",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following is not a function of money?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Used for regulating consumption",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge86",
+        "serial_no": "86",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The situation where the equilibrium level of real GDP falls short of potential GDP is known as",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Recessionary gap",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge87",
+        "serial_no": "87",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The excess of total expenditure of Government over its total receipts, excluding borrowings, is known as",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Fiscal deficit",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge88",
+        "serial_no": "88",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Exchange rates state the value of one currency in terms of other currencies. Which one of the following statements with respect to the exchange rate of currency is correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Fixed exchange rates are rates set by Government decisions and maintained by Government actions.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge89",
+        "serial_no": "89",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Francois Bernier was physician to",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Prince Dara Shikoh",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge90",
+        "serial_no": "90",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following British firms was taken over by Soorajmull-Nagarmull group?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : McLeod",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge91",
+        "serial_no": "91",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following statements with regard to ryotwari settlement is not correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : In principle, it strengthened the former elite, the zamindars and weakened the peasantry.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge92",
+        "serial_no": "92",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following statements about the British Indian Medical Service (IMS) is not correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Indians were never admitted to IMS.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge93",
+        "serial_no": "93",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "When was the monopoly of China trade lost by East India Company?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1833",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge94",
+        "serial_no": "94",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "National Disaster Management Authority is headed by",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : the Prime Minister.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge95",
+        "serial_no": "95",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which of the following statements regarding the 'casting vote' in the Parliament is/are correct? 1. It is cast by the speaker or a person acting as such 2. It is cast in addition to voting in the first instance. 3. It is cast in the case of equality of votes. 4. It is always cast to maintain the status quo. Select the correct answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 3 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge96",
+        "serial_no": "96",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Equality before the law or equal protection of the laws within the territory of India is guaranteed under which one of the following Articles of the Constitution of India?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Article 14",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge97",
+        "serial_no": "97",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "'Legal Positivism' theory was developed by",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : John Austin",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge98",
+        "serial_no": "98",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Who among the following said that Democracy means a system of 'Government by Consent'?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : John Locke",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge99",
+        "serial_no": "99",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Milpa and Ladang are different names for",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : shifting cultivation.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge100",
+        "serial_no": "100",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following approaches of human development was initially proposed by the International Labor Organisation (ILO) and emphasized on health, education, food, water supply, sanitation and housing?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Basic needs approach",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge101",
+        "serial_no": "101",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following statements is not correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Nominal GDP is calculated by valuing outputs of different years at constant prices.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge102",
+        "serial_no": "102",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The mismatch in the regional or occupational pattern of job vacancies and the pattern of worker availability results in",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Structural unemployment",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge103",
+        "serial_no": "103",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The situation in an economy which is growing slowly along with rapid inflation (rising price level) is called",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Stagflation",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge104",
+        "serial_no": "104",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The increase in private investment spending induced by the increase in Government spending is known as",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Crowding in",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge105",
+        "serial_no": "105",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The asset or assets that a borrower pledges in order to guarantee repayment of a loan is called as",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Collateral",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge106",
+        "serial_no": "106",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The percentage by which the money the borrower pays back exceeds the money that was borrowed is called as",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Nominal interest rate",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge107",
+        "serial_no": "107",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following statements about the Gandhi-Irwin Pack of 1931 is correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : The Congress agreed to take part in the Second Round Table Conference.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge108",
+        "serial_no": "108",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Who among the following founded the Bhil Seva Mandal in 1922?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Amritlal Vithaldas Thakkar",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge109",
+        "serial_no": "109",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "In 1911, who among the following introduced a bill in the Imperial Legislative Council for introduction of compulsory and free primary education in India?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Gopal Krishna Gokhle",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge110",
+        "serial_no": "110",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which on of the following statements about the Act V of 1843 relating to Slavery in India is correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : It denied the masters the use of Courts to assert their claims on slaves.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge111",
+        "serial_no": "111",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which Maratha statesman signed the Treaty of Bassein on December 31, 1802?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Bajirao II",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge112",
+        "serial_no": "112",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The Amara-Nayaka system was a major political innovation of which Indian imperial rulers?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Vijayanagara",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge113",
+        "serial_no": "113",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "KIRAN (Knowledge Involvement in Research Advancement through Nurturing) is an initiative to provide opportunities to women scientists who",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : had a break in their career due to family reasons.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge114",
+        "serial_no": "114",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "NIDHI is an umbrella scheme for the promotion of",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : young and aspiring innovators.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge115",
+        "serial_no": "115",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "The Saubhagya Scheme aims at universal",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : household electrification",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge116",
+        "serial_no": "116",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Mission Indradhanush aims at",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : full immunisation of children",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge117",
+        "serial_no": "117",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following statements about the DDU-GKY is not correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : It relies entirely on skill training by Government agencies.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge118",
+        "serial_no": "118",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which of the following statements about the Pradhan Mantri Gram Sadak Yojana are correct? 1. It is part of Government of India’s poverty reduction strategy. 2. It is a centrally sponsored scheme for rural development 3. It provides connectivity in rural areas. Select the correct answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1, 2 and 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge119",
+        "serial_no": "119",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "India’s territorial limit extends towards the sea up to",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 12 nautical miles",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2021IUPSC_CDSGeneral Knowledge120",
+        "serial_no": "120",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2021,
+        "exam_session": "I"
+      },
+      "content": {
+        "question_text": "Which one of the following is a cold ocean current?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : California Current",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    }
+  ]
+}

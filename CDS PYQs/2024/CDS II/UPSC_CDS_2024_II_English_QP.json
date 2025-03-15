@@ -1,0 +1,3731 @@
+{
+  "exam_info": {
+    "exam_type": "UPSC_CDS",
+    "year": 2024,
+    "session": "II",
+    "subject": "English",
+    "total_questions": 120
+  },
+  "questions": [
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish1",
+        "serial_no": "1",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each item in this section consists of a sentence with an underlined word followed by four words or groups of words. Select the option that is opposite in meaning to the underlined word and mark your response on the answer sheet accordingly. The leader's views were equivocal on the contentious issue.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : clear",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish2",
+        "serial_no": "2",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each item in this section consists of a sentence with an underlined word followed by four words or groups of words. Select the option that is opposite in meaning to the underlined word and mark your response on the answer sheet accordingly. The authorities interacted with a group of mutinous students.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : obedient",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish3",
+        "serial_no": "3",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each item in this section consists of a sentence with an underlined word followed by four words or groups of words. Select the option that is opposite in meaning to the underlined word and mark your response on the answer sheet accordingly. His behaviour was quite belligerent.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : amiable",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish4",
+        "serial_no": "4",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each item in this section consists of a sentence with an underlined word followed by four words or groups of words. Select the option that is opposite in meaning to the underlined word and mark your response on the answer sheet accordingly. He was effusive in his praise.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : reticent",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish5",
+        "serial_no": "5",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each item in this section consists of a sentence with an underlined word followed by four words or groups of words. Select the option that is opposite in meaning to the underlined word and mark your response on the answer sheet accordingly. He is often accused of being iniquitous in his conduct.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : virtuous",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish6",
+        "serial_no": "6",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank. Working in dim light _______ eye issues such as glaucoma.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : contributes",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish7",
+        "serial_no": "7",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank. He owns several sports cars and has an _______ lifestyle.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : opulent",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish8",
+        "serial_no": "8",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank. Those medicines, _______ are used to treat kidney infection, have been withdrawn from the market.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : which",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish9",
+        "serial_no": "9",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank. _______ intake of sugar can cause health problems.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Excessive",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish10",
+        "serial_no": "10",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank. She suffered _______ pain because of the leg injury.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : excruciating",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish11",
+        "serial_no": "11",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank. The country's politics _______ complex, with more than ten parties competing for power.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : is",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish12",
+        "serial_no": "12",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank. The job advertisement stipulates that the applicant _______ three years' experience.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : must have",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish13",
+        "serial_no": "13",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank. Newspapers have reported heavy flooding in the coastal areas. The damage _______ to be extensive.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : is expected",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish14",
+        "serial_no": "14",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank. The local bank was robbed by a group of men, _______ were armed.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : four of whom",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish15",
+        "serial_no": "15",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following sentences in this section has a blank space and is followed by four choices. Select the most appropriate choice to fill in the blank. The country _______ several economic changes in the past two decades.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : underwent",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish16",
+        "serial_no": "16",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Given below are some idioms/phrases followed by four alternative meanings to each. Choose the response (a), (b), (c) or (d), which is the most appropriate meaning and mark your response on the Answer Sheet accordingly. A watched pot never boils",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Desperate anticipation makes time drag on",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish17",
+        "serial_no": "17",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Given below are some idioms/phrases followed by four alternative meanings to each. Choose the response (a), (b), (c) or (d), which is the most appropriate meaning and mark your response on the Answer Sheet accordingly. Look to your laurels",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : To guard one's trophies",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish18",
+        "serial_no": "18",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Given below are some idioms/phrases followed by four alternative meanings to each. Choose the response (a), (b), (c) or (d), which is the most appropriate meaning and mark your response on the Answer Sheet accordingly. Play devil's advocate",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : To pretend to be against an idea in order to discuss it more carefully",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish19",
+        "serial_no": "19",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Given below are some idioms/phrases followed by four alternative meanings to each. Choose the response (a), (b), (c) or (d), which is the most appropriate meaning and mark your response on the Answer Sheet accordingly. Be in the same boat",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : To be in the same unpleasant situation",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish20",
+        "serial_no": "20",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Given below are some idioms/phrases followed by four alternative meanings to each. Choose the response (a), (b), (c) or (d), which is the most appropriate meaning and mark your response on the Answer Sheet accordingly. Tilt at windmills",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : To waste time dealing with enemies and problems that do not exist",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish21",
+        "serial_no": "21",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following items in this section consists of a sentence, parts of which have been jumbled. These parts have been labelled as P, Q, R and S. Given below each sentence are four sequences, namely (a), (b), (c) and (d). You are required to re-arrange the jumbled parts of the sentence and mark your response accordingly. the essence of human resource development is / P remedial role in / Q balancing the socio-economic fabric of the country / R education which plays a significant and / S",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : PSQR",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish22",
+        "serial_no": "22",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following items in this section consists of a sentence, parts of which have been jumbled. These parts have been labelled as P, Q, R and S. Given below each sentence are four sequences, namely (a), (b), (c) and (d). You are required to re-arrange the jumbled parts of the sentence and mark your response accordingly. in this endeavour / P gender budgeting is a critical strategy / Q is central to mitigate gender inequalities and / R financing for gender equality / S",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : SRQP",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish23",
+        "serial_no": "23",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following items in this section consists of a sentence, parts of which have been jumbled. These parts have been labelled as P, Q, R and S. Given below each sentence are four sequences, namely (a), (b), (c) and (d). You are required to re-arrange the jumbled parts of the sentence and mark your response accordingly. balanced diet and are vital items of / P are essential ingredients for a wholesome and / Q fruit and vegetables / R mass consumption / S",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : RQPS",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish24",
+        "serial_no": "24",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following items in this section consists of a sentence, parts of which have been jumbled. These parts have been labelled as P, Q, R and S. Given below each sentence are four sequences, namely (a), (b), (c) and (d). You are required to re-arrange the jumbled parts of the sentence and mark your response accordingly. relating to the reduction of greenhouse gases / P and extending financial support to / Q developing countries / R India's position is reflected in decisions / S",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : SPQR",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish25",
+        "serial_no": "25",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following items in this section consists of a sentence, parts of which have been jumbled. These parts have been labelled as P, Q, R and S. Given below each sentence are four sequences, namely (a), (b), (c) and (d). You are required to re-arrange the jumbled parts of the sentence and mark your response accordingly. disbursement of pension expeditiously / P all efforts are made to process the / Q once all requisite documents are received from / R the beneficiaries / S",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : RSQP",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish26",
+        "serial_no": "26",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following items in this section consists of a sentence, parts of which have been jumbled. These parts have been labelled as P, Q, R and S. Given below each sentence are four sequences, namely (a), (b), (c) and (d). You are required to re-arrange the jumbled parts of the sentence and mark your response accordingly. than interpreting it / P combating poverty continues / Q understanding poverty is more important / R to elude humanity because / S",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : QSRP",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish27",
+        "serial_no": "27",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following items in this section consists of a sentence, parts of which have been jumbled. These parts have been labelled as P, Q, R and S. Given below each sentence are four sequences, namely (a), (b), (c) and (d). You are required to re-arrange the jumbled parts of the sentence and mark your response accordingly. the National Education Policy-2020 envisages / P and pedagogy in schools and colleges / Q following the liberal approach / R a restructuring of existing curriculum / S",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : RPSQ",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish28",
+        "serial_no": "28",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following items in this section consists of a sentence, parts of which have been jumbled. These parts have been labelled as P, Q, R and S. Given below each sentence are four sequences, namely (a), (b), (c) and (d). You are required to re-arrange the jumbled parts of the sentence and mark your response accordingly. the Amazon Basin in the central north / P America's physiography is / Q in the west and / R dominated by the Andes Mountains / S",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : QSRP",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish29",
+        "serial_no": "29",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following items in this section consists of a sentence, parts of which have been jumbled. These parts have been labelled as P, Q, R and S. Given below each sentence are four sequences, namely (a), (b), (c) and (d). You are required to re-arrange the jumbled parts of the sentence and mark your response accordingly. encompassing a great many / P has been eclectic / Q historically and culturally Indian society / R differences and contradictions / S",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : RQPS",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish30",
+        "serial_no": "30",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following items in this section consists of a sentence, parts of which have been jumbled. These parts have been labelled as P, Q, R and S. Given below each sentence are four sequences, namely (a), (b), (c) and (d). You are required to re-arrange the jumbled parts of the sentence and mark your response accordingly. systems of India and is considered / P the Siddha system is / Q to be a form of age-old experiential wisdom / R one of the ancient comprehensive medical / S",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : QSPR",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish31",
+        "serial_no": "31",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In this section, each item consists of six sentences of a passage. The first and sixth sentences are given as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet. S1 : Indian defence forces are fully aligned with national agenda of Atmanirbhar Bharat and have already embarked in mission mode. S6 : As a result, the Indian defence industry will be apprised about the anticipated requirements of the armed forces and is thus better prepared to realize its goal. P : This will provide opportunity to the Indian industry to harness their potential and build an ecosystem which can sustain itself by being responsive to the needs of the defence forces. Q : Two Positive Indigenization Lists, comprising 101 and 108 items respectively, have been issued. R : Projects fielded are aimed to encourage indigenization of defence technologies and reduce dependence on import. S : The lists intend to implement ban on import of these items in a staggered manner up to 2025 and promote indigenous production. The correct sequence should be:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : QSRP",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish32",
+        "serial_no": "32",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In this section, each item consists of six sentences of a passage. The first and sixth sentences are given as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet. S1 : Our Constitution makers were fully conscious of the fact that the Scheduled Castes and Scheduled Tribes had been oppressed and underprivileged sections of our society over the centuries and they deserved a special dispensation so that their condition may be vastly improved. S6 : Consequently, adequate safeguards were provided for these communities in our Constitution. P : Similarly, they were also sensitive of the difficulties and problems which were likely to be faced by the persons belonging to the Anglo-Indian community in the country. Q : One such provision related to the reservation of seats for these communities in the Lok Sabha and State Legislative Assemblies. R : This provision found place in Article 330 and Article 332 of the Constitution. S : For this purpose, several special provisions were incorporated in our Constitution. The correct sequence should be:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : SQRP",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish33",
+        "serial_no": "33",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In this section, each item consists of six sentences of a passage. The first and sixth sentences are given as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet. S1 : Startup India is a flagship initiative of the Government of India. S6 : Under the Startup India scheme, eligible companies can get recognized as startups in order to access a host of tax benefits, easier compliance, IPR fast-tracking and other benefits. P : These programmes are managed by a dedicated Startup India team, which reports to DPIIT. Q: It envisions transforming India into a country of job creators instead of job seekers. R : It intends to catalyse the startup culture and build a strong and inclusive ecosystem for innovation and entrepreneurship in India. S : Launched in 2016, Startup India has rolled out several programmes with the objective of supporting entrepreneurs and building up a robust startup ecosystem. The correct sequence should be:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : RSQP",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish34",
+        "serial_no": "34",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In this section, each item consists of six sentences of a passage. The first and sixth sentences are given as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet. S1 : In India the first Livestock Census was conducted during 1919 - 1920. S6 : For the first time, data was collected through tablet computers, which reduced the time gap in data collection, data processing and report generation. P : Since its inception it is being conducted quinquennially by all States/UTs. Q : The 20th Livestock Census was conducted with participation of Animal Husbandry Departments of States/UTs. R : This five-yearly census is the only source which gives disaggregated information on various species of animals and poultry birds. S : The main objective of the census is to provide information on livestock population, species-wise and breed-wise, along with age, sex-composition, etc., in rural and urban areas. The correct sequence should be:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : PRSQ",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish35",
+        "serial_no": "35",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In this section, each item consists of six sentences of a passage. The first and sixth sentences are given as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet. S1 : India has been a welfare state since Independence. S6 : Elimination of poverty, ignorance, diseases and inequality of opportunities, and providing a better quality of life were the basic premise upon which all the plans of the development were built. P : The policies and programmes have been designed with the aim of alleviation of rural poverty. Q: The primary objective of all governmental endeavours has been the welfare of its rural population. R : It was realized that a sustainable strategy of poverty alleviation has to be based on increasing the productive employment opportunities in the process of growth itself. S : Ensuring rural welfare has been one of the main objectives of planned development in India. The correct sequence should be:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : RQSP",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish36",
+        "serial_no": "36",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In this section, each item consists of six sentences of a passage. The first and sixth sentences are given as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet. S1 : Covid-19 pandemic threw a lot of challenges on the entire economy. S6 : In order to address this need and to promote economic activities post pandemic, MOHUA initiated ARHCs, a sub-scheme under PMAY(U). P : These urban migrants stay in slums, informal settlements, unauthorized colonies, peri-urban areas to save cost on housing. Q : Hence, they need decent rental housing at affordable rate near their worksites. R : The biggest challenge was reverse migration of urban migrants/poor in the country. S : The migration took place due to the temporary shutting down of industries and other sectors. The correct sequence should be:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : RSPQ",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish37",
+        "serial_no": "37",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In this section, each item consists of six sentences of a passage. The first and sixth sentences are given as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet. S1 : Press Trust of India (PTI) is a non-profit making cooperative owned by the country's newspapers with a mandate to provide effective and unbiased news to all subscribers. S6 : Increasingly, more and more subscribers are opting for satellite reception. P : It offers its news services in English and Hindi languages. Q : Over 500 newspapers and several news services subscribe to PTI, including many overseas news entities. R : PTI now has its own satellite delivery system. S : Bhasha is the Hindi language news service of the agency. The correct sequence should be:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : QPSR",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish38",
+        "serial_no": "38",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In this section, each item consists of six sentences of a passage. The first and sixth sentences are given as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet. S1 : The National School of Drama (NSD) was set up by the Sangeet Natak Akademi in 1959. S6: The NSD has promoted Children's Theatre as well. P : Post admission, the students at NSD are required to undergo training of three year's duration. Q: The eligible applicants for admission are screened through two stages. R : The objective of the NSD is to train students in all aspects of theatre, including theatre history, production, scene design, costume design, lighting, make-up, etc. S : In 1975, it became an autonomous organisation. The correct sequence should be:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : SRQP",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish39",
+        "serial_no": "39",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In this section, each item consists of six sentences of a passage. The first and sixth sentences are given as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet. S1 : Gaganyaan is a national programme wherein ISRO is leveraging the domain expertise of various agencies for expediting its execution. S6 : It will lay the foundation for a sustained Indian human space exploration programme in the long run. P : With this programme, a new vertical has been created within ISRO to steer this growth. Q : The Gaganyaan Programme marks an inflection point in the growth profile of India's space endeavour. R : This new vertical envisages undertaking the demonstration of human space flight to Low Earth Orbit in the short-term. S : A new ISRO centre, Human Spaceflight Centre has been formed for Low Earth Orbit flights. The correct sequence should be:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : QPRS",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish40",
+        "serial_no": "40",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In this section, each item consists of six sentences of a passage. The first and sixth sentences are given as S1 and S6. The middle four sentences in each have been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet. S1 : India has the largest youth population in the world. S6 : The role of the Department of Youth Affairs is to act as a facilitator and catalytic agent for youth development. P : The Department has also recognised adolescents as an important segment of the youth. Q : Youth represent the most dynamic and vibrant segment of the population. R : To optimally tap their constructive and creative energies, the Department of Youth Affairs pursues the twin objectives of personality development and nation building. S : Other Ministries and the State Governments are also working to support youth development and to enable productive youth participation. The correct sequence should be:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : QRPS",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish41",
+        "serial_no": "41",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following sentences has a word/words underlined. Read the sentence carefully and find which word class the underlined word/words belongs/belong to. Indicate your response on the Answer Sheet accordingly. Consequently, this poses a threat to agriculture and human health.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Adverb",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish42",
+        "serial_no": "42",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following sentences has a word/words underlined. Read the sentence carefully and find which word class the underlined word/words belongs/belong to. Indicate your response on the Answer Sheet accordingly. His only answer was a grunt.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Adjective",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish43",
+        "serial_no": "43",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following sentences has a word/words underlined. Read the sentence carefully and find which word class the underlined word/words belongs/belong to. Indicate your response on the Answer Sheet accordingly. To swim every day is good for health.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Infinitive verb",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish44",
+        "serial_no": "44",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following sentences has a word/words underlined. Read the sentence carefully and find which word class the underlined word/words belongs/belong to. Indicate your response on the Answer Sheet accordingly. I didn't tell him anything except that I needed the money.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Conjunction",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish45",
+        "serial_no": "45",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following sentences has a word/words underlined. Read the sentence carefully and find which word class the underlined word/words belongs/belong to. Indicate your response on the Answer Sheet accordingly. She married at 18 and gave birth to her first child shortly thereafter.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Adverb",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish46",
+        "serial_no": "46",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Identify the part of the speech of the underlined word/phrase in the sentence and mark your response in the Answer Sheet accordingly. He is one of the tallest boys in his class.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Possessive Pronoun",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish47",
+        "serial_no": "47",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following sentences has a word/words underlined. Read the sentence carefully and find which word class the underlined word/words belongs/belong to. Indicate your response on the Answer Sheet accordingly. The mighty river Brahmaputra flows through the plains of Assam.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Adjective",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish48",
+        "serial_no": "48",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following sentences has a word/words underlined. Read the sentence carefully and find which word class the underlined word/words belongs/belong to. Indicate your response on the Answer Sheet accordingly. The money which one earns is not the money for himself, it is for the family and society.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Pronoun",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish49",
+        "serial_no": "49",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following sentences has a word/words underlined. Read the sentence carefully and find which word class the underlined word/words belongs/belong to. Indicate your response on the Answer Sheet accordingly. The Principal said, \"We should always be disciplined.\"",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Adverb",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish50",
+        "serial_no": "50",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following sentences has a word/words underlined. Read the sentence carefully and find which word class the underlined word/words belongs/belong to. Indicate your response on the Answer Sheet accordingly. The river that flows through the village is a tributary of the Cauvery.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Noun",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish51",
+        "serial_no": "51",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "According to the passage, what is the primary purpose of a walking tour?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Longing for pleasure",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish52",
+        "serial_no": "52",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "According to the passage, a walking tour should be gone upon alone because :",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : It will provide freedom which is of the utmost importance.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish53",
+        "serial_no": "53",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "According to the passage, what can adversely affect the walking tour?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Walking and talking at the same time",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish54",
+        "serial_no": "54",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "According to the passage, how should a walking tour conclude?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2)  With a peace that delights you",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish55",
+        "serial_no": "55",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What is the meaning of the word \"dilettantes\" in the passage?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Persons who cultivate an aesthetic pursuit without real interest",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish56",
+        "serial_no": "56",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following does not amount to historical analysis?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Drawing from evidence to make impressionistic and informal conclusion.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish57",
+        "serial_no": "57",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "'The many genres of academic and popular history run the full gamut from logically systematic to impressionistic' means:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : The range of texts varies from those based on objective analysis and those based on subjective assertions.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish58",
+        "serial_no": "58",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What, according to the author, makes historians come to conflicting conclusions ? 1. They are influenced by their philosophical beliefs in asking questions on the same data. 2. They apply different interpretations on the same data. 3. They go for the primary data and evidence. 4. They are influenced by the current political developments. Select the correct answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish59",
+        "serial_no": "59",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which word(s) from the passage can be substituted for the assertion that \"all events and human actions are ultimately shaped by causes external to the will\"?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Deterministic relationship",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish60",
+        "serial_no": "60",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one of the following relates to the post-modernist approach to History?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Post-modernist approach emphasises interaction among aspects of a problem.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish61",
+        "serial_no": "61",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly. I saw Nandini _______ she was waiting for the bus.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : while",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish62",
+        "serial_no": "62",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly. This sauce has to be used _______ 23rd September.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : by",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish63",
+        "serial_no": "63",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly. I'll be working on this report _______ 10:30 p.m.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : until",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish64",
+        "serial_no": "64",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly. I have _______ energy left to complete the work.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : little",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish65",
+        "serial_no": "65",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly. I had _______ trouble finding the house.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : some",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish66",
+        "serial_no": "66",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly. _______ of these officers are very well-trained.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Most",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish67",
+        "serial_no": "67",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly. I don't like going to _______ dentist.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : the",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish68",
+        "serial_no": "68",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly. They placed the African elephant _______ their endangered list.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : on",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish69",
+        "serial_no": "69",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly. _______ travel industry is changing rapidly.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : The",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish70",
+        "serial_no": "70",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each of the following sentences in this section has a blank space with four options. Select whichever preposition or determiner you consider the most appropriate for the blank space and indicate your response on the Answer Sheet accordingly. She is _______ MP from Rajasthan.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : an",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish71",
+        "serial_no": "71",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d). Everything / a what happened / b was because of my actions. / c No error / d",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : b",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish72",
+        "serial_no": "72",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d). Some people / a could write well / b while others didn't. / c No error / d",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : c",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish73",
+        "serial_no": "73",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d). The police are working hard / a until they are able to / b arrest the culprits. / c No error / d",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : b",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish74",
+        "serial_no": "74",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d). Since he was going to live in South Korea for some time, / a he thought he should / b learn something about their culture. / c No error / d",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : c",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish75",
+        "serial_no": "75",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d). The company's phenomenal success / a are largely due to / b the new director and his team. / c No error / d",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : b",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish76",
+        "serial_no": "76",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d). I am owning / a two houses / b in Bengaluru. / c No error / d",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : a",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish77",
+        "serial_no": "77",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d). A boy was injured / a in the accident and was taken / b onto hospital. / c No error / d",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : c",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish78",
+        "serial_no": "78",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d). Mr. Malhotra is a historian / a who's books / b have won international acclaim. / c No error / d",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : b",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish79",
+        "serial_no": "79",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d). I hate it / a when I break / b in hives. / c No error / d",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : b",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish80",
+        "serial_no": "80",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each item in this section has a sentence with three underlined parts labelled as (a), (b) and (c). Read each sentence to find out whether there is any error in any underlined part and indicate your response on the Answer Sheet against the corresponding letter, i.e., (a) or (b) or (c). If you find no error, your response should be indicated as (d). Either Vikas (a) / or his friends (b) / is going to cook dinner.(c) / No error (d)",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : c",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish81",
+        "serial_no": "81",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each item in this section consists of a sentence with an underlined word followed by four words/group of words. Select the option that is nearest in meaning to the underlined word and mark your response on the Answer Sheet accordingly. The village headman was old and cantankerous.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : ill-tempered",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish82",
+        "serial_no": "82",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each item in this section consists of a sentence with an underlined word followed by four words/group of words. Select the option that is nearest in meaning to the underlined word and mark your response on the Answer Sheet accordingly. Psychological problems among the youth can be attributed to the pernicious influence of the Internet.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : harmful",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish83",
+        "serial_no": "83",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each item in this section consists of a sentence with an underlined word followed by four words/group of words. Select the option that is nearest in meaning to the underlined word and mark your response on the Answer Sheet accordingly. Our teacher told us not to be verbose while writing.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : exaggerate",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish84",
+        "serial_no": "84",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each item in this section consists of a sentence with an underlined word followed by four words/group of words. Select the option that is nearest in meaning to the underlined word and mark your response on the Answer Sheet accordingly. The actor narrated the story in a resonant voice.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : deep",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish85",
+        "serial_no": "85",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: Each item in this section consists of a sentence with an underlined word followed by four words/group of words. Select the option that is nearest in meaning to the underlined word and mark your response on the Answer Sheet accordingly. They were fed-up with his doltish behaviour.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : imbecilic",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish86",
+        "serial_no": "86",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, a word is given, followed by two suggested meanings. You are required to identify the correct meaning of the word and indicate your choice by using the code that follows: 'Anarchism' 1. Absence of government and/or authority 2. Chaos and disorder in the absence of government",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish87",
+        "serial_no": "87",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, a word is given, followed by two suggested meanings. You are required to identify the correct meaning of the word and indicate your choice by using the code that follows: 'Pristine' 1. In the original condition 2. In the defiled condition",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish88",
+        "serial_no": "88",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, a word is given, followed by two suggested meanings. You are required to identify the correct meaning of the word and indicate your choice by using the code that follows: 'Enormity' 1. The fact of something being serious and grave 2. Abominable crime or sin",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish89",
+        "serial_no": "89",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, a word is given, followed by two suggested meanings. You are required to identify the correct meaning of the word and indicate your choice by using the code that follows: 'Quotidian' 1. To quote inaccurately 2. Someone fond of quoting others",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Neither 1 nor 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish90",
+        "serial_no": "90",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, a word is given, followed by two suggested meanings. You are required to identify the correct meaning of the word and indicate your choice by using the code that follows: 'Immolate' 1. To kill somebody or self by burning 2. To kill somebody or self or an animal as an act of sacrifice",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish91",
+        "serial_no": "91",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, a word is given, followed by two suggested meanings. You are required to identify the correct meaning of the word and indicate your choice by using the code that follows: 'Minimise' 1. Reduce something to the smallest possible degree 2. Reduce expenses, or the degree of anything or of any activity",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish92",
+        "serial_no": "92",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, a word is given, followed by two suggested meanings. You are required to identify the correct meaning of the word and indicate your choice by using the code that follows: 'Deify' 1. To treat someone in high office with utmost reverence 2. Worship or treat someone as a god",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish93",
+        "serial_no": "93",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, a word is given, followed by two suggested meanings. You are required to identify the correct meaning of the word and indicate your choice by using the code that follows: 'Raconteur' 1. Someone who is capable of telling stories in an interesting manner 2. Somebody who believes in only telling tall tales",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish94",
+        "serial_no": "94",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, a word is given, followed by two suggested meanings. You are required to identify the correct meaning of the word and indicate your choice by using the code that follows: 'Emasculate' 1. Making someone strong and powerful 2. Increase one's musculature",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Neither 1 nor 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish95",
+        "serial_no": "95",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, a word is given, followed by two suggested meanings. You are required to identify the correct meaning of the word and indicate your choice by using the code that follows: 'Perturbation' 1. Mental anxiety and disturbance 2. Deviation of a system or moving object caused by an outside influence",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish96",
+        "serial_no": "96",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, a pair of sentences are given in which the keywords have been underlined. Identify the sentence /s in which the underlined words have been used correctly in the context and mark your choice using the code that follows: 1. In spite the cold he decided to climb the mountain top. 2. Despite of the warning she was determined to swim the entire distance.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Neither 1 nor 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish97",
+        "serial_no": "97",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, a pair of sentences are given in which the keywords have been underlined. Identify the sentence /s in which the underlined words have been used correctly in the context and mark your choice using the code that follows: 1. The issue of human rights is immanent in the constitution of most countries. 2. They invited an imminent person as the chief guest for the event.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish98",
+        "serial_no": "98",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, a pair of sentences are given in which the keywords have been underlined. Identify the sentence /s in which the underlined words have been used correctly in the context and mark your choice using the code that follows: 1. Among those who had applied for the job I found four candidates to be outstanding. 2. Amidst the confusion caused by the melee, the perpetrators slipped away.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish99",
+        "serial_no": "99",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, a pair of sentences are given in which the keywords have been underlined. Identify the sentence /s in which the underlined words have been used correctly in the context and mark your choice using the code that follows: 1. They will soon be applying for the permission. 2. They shall be pleased with the arrangements made by us.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish100",
+        "serial_no": "100",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, a pair of sentences are given in which the keywords have been underlined. Identify the sentence /s in which the underlined words have been used correctly in the context and mark your choice using the code that follows: 1. You have been frivolous, whereas I have been serious. 2. The difficulties seemed insurmountable; nevertheless, the courage to carry on was undaunted.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish101",
+        "serial_no": "101",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, two lists of words are provided. You are required to match the associations between List I and List II and mark your answer using the given code. Match List I with List II: List I (Game) List II (Arena) A. Golf 1. Court B. Cricket 2. Pitch C. Polo 3. Course D. Tennis 4. Ground",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A - 3, B - 2, C - 4, D - 1",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish102",
+        "serial_no": "102",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, two lists of words are provided. You are required to match the associations between List I and List II and mark your answer using the given code. Match List I with List II: List I (Animal) List II (Sound) A. Dolphin 1. Trumpet B. Elephant 2. Chatter C. Monkey 3. Chirp D. Cheetah 4. Click",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A - 4, B - 1, C - 2, D - 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish103",
+        "serial_no": "103",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, two lists of words are provided. You are required to match the associations between List I and List II and mark your answer using the given code. Match List I with List II: List I (Animal) List II (Grouping) A. Fish 1. Colony of B. Ducks 2. Flock of C. Ants 3. Paddling of D. Crows 4. School of",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A - 4, B - 3, C - 1, D - 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish104",
+        "serial_no": "104",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, two lists of words are provided. You are required to match the associations between List I and List II and mark your answer using the given code. Match List I with List II: List I (Grouping) List II (Object) A. Clump of 1. Clothes B. Bunch of 2. Firewood C. Stack of 3. Flowers D. Bundle of 4. Grass",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A - 4, B - 3, C - 2, D - 1",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish105",
+        "serial_no": "105",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, two lists of words are provided. You are required to match the associations between List I and List II and mark your answer using the given code. Match List I with List II: List I (Sport) List II (Related word) A. Swimming 1. Touché B. Kho Kho 2. Butterfly C. Kabaddi 3. Chaser D. Fencing 4. Ankle hold",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A - 2, B - 3, C - 4, D - 1",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish106",
+        "serial_no": "106",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, two sentences are given. You are required to identify the option that most appropriately combines both the sentences into one sentence, and mark your response accordingly. He was adamant about refusing the honour bestowed upon him. He did not trust the credentials of the organisation that intended to recognise his contribution.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : He was adamant about refusing the honour bestowed upon him since he did not trust the credentials of the organisation that intended to recognise his contribution.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish107",
+        "serial_no": "107",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, two sentences are given. You are required to identify the option that most appropriately combines both the sentences into one sentence, and mark your response accordingly. He undertook the difficult task. He did so albeit the fact that he did not have any spare time.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : He undertook the difficult task in spite of the fact that he did not have any spare time.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish108",
+        "serial_no": "108",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, two sentences are given. You are required to identify the option that most appropriately combines both the sentences into one sentence, and mark your response accordingly. He wrote the exam with the utmost confidence. He was grossly underprepared for the examination.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : He wrote the exam with the utmost confidence although he was grossly underprepared for the examination.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish109",
+        "serial_no": "109",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, two sentences are given. You are required to identify the option that most appropriately combines both the sentences into one sentence, and mark your response accordingly. He pledged to donate his body parts. He was himself the beneficiary of organ transplantation.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : He pledged to donate his body parts though he was himself the beneficiary of organ transplantation.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish110",
+        "serial_no": "110",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, two sentences are given. You are required to identify the option that most appropriately combines both the sentences into one sentence, and mark your response accordingly. He was adamant to undertake the journey to the hills. He had promised to visit his school.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : He was adamant to undertake the journey to the hills for he had promised to visit his school.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish111",
+        "serial_no": "111",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, a sentence is given with one or more underlined words. From the options provided mark the correct answer from among (a), (b) or (c), which is the most appropriate improvement over the word(s) to be substituted. If no improvement can be identified, mark your response as (d). Similar mishaps are continually happening on the new highway because of improper signalling.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : no improvement",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish112",
+        "serial_no": "112",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, a sentence is given with one or more underlined words. From the options provided mark the correct answer from among (a), (b) or (c), which is the most appropriate improvement over the word(s) to be substituted. If no improvement can be identified, mark your response as (d). The visiting school children circumnavigated around the Dal Lake with visible delight during their visit to Srinagar.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : circumnavigated",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish113",
+        "serial_no": "113",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, a sentence is given with one or more underlined words. From the options provided mark the correct answer from among (a), (b) or (c), which is the most appropriate improvement over the word(s) to be substituted. If no improvement can be identified, mark your response as (d). The Principal of the school assembled the students and emphasised the importance of discipline in their everyday lives.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : no improvement",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish114",
+        "serial_no": "114",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, a sentence is given with one or more underlined words. From the options provided mark the correct answer from among (a), (b) or (c), which is the most appropriate improvement over the word(s) to be substituted. If no improvement can be identified, mark your response as (d). The group was accused of biased participation in the discussion because their entire attention was centred around their own proposal.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : centred on",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish115",
+        "serial_no": "115",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, a sentence is given with one or more underlined words. From the options provided mark the correct answer from among (a), (b) or (c), which is the most appropriate improvement over the word(s) to be substituted. If no improvement can be identified, mark your response as (d). He claimed that he was merely an uninterested participant in the negotiation.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : a disinterested",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish116",
+        "serial_no": "116",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, you are required to select the most appropriate voice of the given phrase and mark your response from the options that follow. Change from Active to Passive voice : Respect your elders",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Elders should be respected",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish117",
+        "serial_no": "117",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, you are required to select the most appropriate voice of the given phrase and mark your response from the options that follow. Change from Active to Passive voice : Shut the door",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Let the door be shut",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish118",
+        "serial_no": "118",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, you are required to select the most appropriate voice of the given phrase and mark your response from the options that follow. Change from Passive to Active voice : Sujata was advised by her mother to carry an umbrella while stepping out into the rain",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Her mother advised Sujata to carry an umbrella while stepping out into the rain",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish119",
+        "serial_no": "119",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, you are required to select the most appropriate voice of the given phrase and mark your response from the options that follow. Change from Passive to Active voice : He was said to be a good cricketer",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : They said he was a good cricketer",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2024IIUPSC_CDSEnglish120",
+        "serial_no": "120",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2024,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Directions: In the following items, you are required to select the most appropriate voice of the given phrase and mark your response from the options that follow. Change from Passive to Active voice : His hair is being cut by a professional",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A professional is cutting his hair",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    }
+  ]
+}

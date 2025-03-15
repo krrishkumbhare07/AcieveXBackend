@@ -1,0 +1,3731 @@
+{
+  "exam_info": {
+    "exam_type": "UPSC_CDS",
+    "year": 2013,
+    "session": "II",
+    "subject": "General Knowledge",
+    "total_questions": 120
+  },
+  "questions": [
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge1",
+        "serial_no": "1",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Statements:I. Typical laterite soils in India are generally fertile.II. Laterite soils generally experience leaching.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Statement I is false but Statement II is true.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge2",
+        "serial_no": "2",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Statements:I. Southern part of France is famous for the wine making industry.II. Southern part of France produces a variety of fruits due to Mediterranean climate.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both the statements are individually true andStatement II is the correct explanation of Statement I.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge3",
+        "serial_no": "3",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "I. Kali age reflects the presence of deep social crisis characterised by varnasankara, i.e., intermixture of varnas or social orders.II. The vaisyas and sudras (peasants, artisans andlabourers) either refused to perform producing functions or pay taxes or supply necessary labour for economic production resulting in weakening of Brahminical social order and social tension.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both the statements are individually true andStatement II is the correct explanation of Statement I.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge4",
+        "serial_no": "4",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Statements:I. The social institutions of caste in India underwent major changes in the colonial period.II. Caste in contemporary society is more a product of ancient Indian tradition than of colonialism.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Statement I is true but Statement II is false.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge5",
+        "serial_no": "5",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Statements:I. The Russian Revolution of 1917 inspired the Indian Working Class Movement.II. The Non-Cooperation Movement (1921–22) saw the involvement of the Indian Working Class.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both the statements are individually true butStatement II is not the correct explanation ofStatement I.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge6",
+        "serial_no": "6",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Statements:I. In India, tribal movements of nineteenth century resulted out of the process of land displacements and the introduction of forest laws.II. The Indian national movement resolved the problems faced by the tribals.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Statement I is true but Statement II is false.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge7",
+        "serial_no": "7",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Statements:I. The economy of India in the 19th century came to a state of ruin under English East India Company.II. English East India Company’s acquisition of Diwani right led to the miseries of the peasants and those associated with the traditional handicrafts industry of India.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both the statements are individually true andStatement II is the correct explanation of Statement I.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge8",
+        "serial_no": "8",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "In soil, water that is readily available to plant roots is:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : capillary water",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge9",
+        "serial_no": "9",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Blood does not coagulate inside the body due to the presence of:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Heparin",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge10",
+        "serial_no": "10",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following is responsible for the formation of ‘Ozone Holes’ in the stratosphere?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Chlorofluorocarbons",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge11",
+        "serial_no": "11",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following groups of items contains only biodegradable items?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Cow-dung, paddy-husk, vegetable wastes",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge12",
+        "serial_no": "12",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which organelle in the cell, other than nucleus, contains DNA?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Mitochondria",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge13",
+        "serial_no": "13",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following groups of animals maintains constant body temperature in the changing environmental conditions?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Birds",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge14",
+        "serial_no": "14",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A person feeds on rice and vegetable made up of potato only. He is likely to suffer from the deficiency of:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : proteins",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge15",
+        "serial_no": "15",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Vaseline was applied to both the surfaces of the leaves of a plant. Which of the following process/processes would be affected?1. Photosynthesis2. Respiration3. TranspirationSelect the correct answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1, 2 and 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge16",
+        "serial_no": "16",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "By what mechanism does scent spread all over the room if the lid is opened?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Diffusion",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge17",
+        "serial_no": "17",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What type of mixture is smoke?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Solid mixed with a gas",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge18",
+        "serial_no": "18",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A compound that is a white solid which absorbs water vapour from the air is :",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Calcium chloride",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge19",
+        "serial_no": "19",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "What are the elements which are liquids at room temperature and standard pressure?1. Helium2. Mercury3. Chlorine4. BromineSelect the correct answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 and 4 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge20",
+        "serial_no": "20",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following colours has the highest wavelength?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Red",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge21",
+        "serial_no": "21",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following is not a correct statement?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Hydrogen ions do not contain any proton.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge22",
+        "serial_no": "22",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "NaOH+HCl→NaCl+H2OIn the above chemical reaction,",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : none of them are oxidised or reduced",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge23",
+        "serial_no": "23",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which element forms the highest number of compounds in the periodic table?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Carbon",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge24",
+        "serial_no": "24",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Dirty clothes containing grease and oil stains are cleaned by adding detergents to water. Stains are removed because the detergent",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : reduces drastically the surface tension between water and oil.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge25",
+        "serial_no": "25",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Motion of an oscillating liquid column in a U-tube is",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : simple harmonic and time period is independent of the density of the liquid.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge26",
+        "serial_no": "26",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A ray of white light strikes the surface of an object. If all the colours are reflected, the surface would appear:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : white",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge27",
+        "serial_no": "27",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Magnetic, electrostatic and gravitational forces come under the category of :",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : non-contact forces",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge28",
+        "serial_no": "28",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Dispersion process forms spectrum due to white light falling on a prism. The light wave with the shortest wavelength",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : refracts the most.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge29",
+        "serial_no": "29",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The main source of energy in Sun is :",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : nuclear fusion",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge30",
+        "serial_no": "30",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "A liquid initially contracts when cooled down to 4°C but on further cooling down to 0°C, it expands. The liquid is :",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Water",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge31",
+        "serial_no": "31",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Satellite having the same orbital period as the period of rotation of the Earth about its own axis is known as",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : geostationary satellite",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge32",
+        "serial_no": "32",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following sanctuaries of India:1. Periyar2. Dachigam3. Sariska4. KanhaWhich one among the following is the correct sequence of location of the above sanctuaries from south to north?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1–4–3–2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge33",
+        "serial_no": "33",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following African countries is not landlocked?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Angola",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge34",
+        "serial_no": "34",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following is a tertiary activity?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Trading",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge35",
+        "serial_no": "35",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Chinook is a",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : warm wind in North America.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge36",
+        "serial_no": "36",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The humidity of air measured in percentage is called",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : relative humidity.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge37",
+        "serial_no": "37",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Cordillera in North America is a :",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : mountain system",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge38",
+        "serial_no": "38",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Match List I with List II and select the correct answer using the code given below the Lists.List I(Industrial production)List II(Place of production)A. Brassware1. KanchipuramB. Silk Sarees2. LucknowC. Chikkan Embroidery3. MoradabadD. Sports Goods4. JalandharABCD(a)3124(b)3214(c)4213(d)4123",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : (a)",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge39",
+        "serial_no": "39",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Composite volcanic cone is also called strata cone because of the",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : alternating sheets of lava and pyroclastic materials.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge40",
+        "serial_no": "40",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Why is Himalayan region poor in mineral resources?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Displacement of rock strata has disturbed the arrangement of rocks and made it complex.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge41",
+        "serial_no": "41",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Albedo effect would be relatively higher in",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : early morning and late evening.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge42",
+        "serial_no": "42",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Match List I with List II and select the correct answer using the code given below the Lists.List I(Hydroelectric power-station)List II(Location in map)A. Nagarjuna SagarB. MetturC. HirakudD. SileruABCD(a)3412(b)3142(c)2143(d)2413",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : (c)",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge43",
+        "serial_no": "43",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Amarkantak plateau in the Maikal hills marks the origin of the river",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Narmada",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge44",
+        "serial_no": "44",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following statements is not correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Places having same longitude experience solar noon at different times.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge45",
+        "serial_no": "45",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Oil is found in petroliferous rock. Which one among the following structures demonstrates an ideal trap?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Anticlinal structure",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge46",
+        "serial_no": "46",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following may be considered a reason for India having ‘high dependency’ ratio?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Large section of population is in the age group of 0– 14 years",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge47",
+        "serial_no": "47",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following statements about Nathu La Pass are correct? 1. It links Sikkim with Tibet.2. It was the main artery of the ancient Silk Route.3. It was reopened in the year 2006.Select the answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1, 2 and 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge48",
+        "serial_no": "48",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Red soil colour is caused by:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Iron compounds",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge49",
+        "serial_no": "49",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Mid-latitude cyclones:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : are formed in regions of strong temperature contrasts.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge50",
+        "serial_no": "50",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The Westerlies have their origin in the:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : subtropical highs",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge51",
+        "serial_no": "51",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The Circle of Illumination divides the Earth into two hemispheres known as:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Day and Night",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge52",
+        "serial_no": "52",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following States does not form part of the Narmada basin?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Rajasthan",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge53",
+        "serial_no": "53",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following is the correct sequence of the rivers from north to south?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Damodar–Brahmani–Mahanadi–Tungabhadra",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge54",
+        "serial_no": "54",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following is a sea without having a coastline?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Sargasso sea",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge55",
+        "serial_no": "55",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The production function of a firm will change whenever",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : the relevant technology changes.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge56",
+        "serial_no": "56",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "If the average total cost is declining, then",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : the marginal cost must be less than the average total cost.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge57",
+        "serial_no": "57",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "In a perfectly competitive economy, production and consumption will both be Pareto optimal if the economy operates at a point where",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : there is general equilibrium.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge58",
+        "serial_no": "58",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The average fixed cost curve will always be",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : a downward-sloping convex to the origin curve.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge59",
+        "serial_no": "59",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The income elasticity of demand for inferior goods is :",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : less than zero",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge60",
+        "serial_no": "60",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The main functioning of the banking system is to",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : accept deposits and provide credit.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge61",
+        "serial_no": "61",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which bank is limited to the needs of agriculture and rural finance?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : NABARD",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge62",
+        "serial_no": "62",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The effect of a government surplus upon the equilibrium level of NNP (Net National Product) is substantially the same as",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : an increase in consumption.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge63",
+        "serial_no": "63",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The value of money varies",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : inversely with the price level.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge64",
+        "serial_no": "64",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Corporation tax is imposed by the",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Central Government.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge65",
+        "serial_no": "65",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The Government of India and Reserve Bank of India have decided to introduce 1 billion pieces of ` 10 notes in polymer/plastic on a field trial basis. Which of the following is/are the objectives behind this move?1. Increase of the lifetime of the notes2. Combating counterfeiting3. Reducing the cost of minting of currencySelect the correct answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge66",
+        "serial_no": "66",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which Indian musician has recently been awarded with the lifetime achievement Grammy award?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Pandit Ravi Shankar",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge67",
+        "serial_no": "67",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Well-known film ‘Chittagong’, directed by Bedabrata Pain, is mainly based on the life of :",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Subodh Roy",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge68",
+        "serial_no": "68",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following factors is/are responsible for the recent rapid slowdown of the Indian economy despite recovering from the global financial crisis?1. The boost to demand given by monetary and fiscal stimulus following the crisis was large.2. Starting in 2011-12, corporate and infrastructure investment started slowing both as a result of investment bottlenecks as well as the tighter monetary policy.Select the correct answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge69",
+        "serial_no": "69",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "In India, the price of the petroleum products has been deregulated mainly to",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : reduce the burden of subsidies given to the oil companies",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge70",
+        "serial_no": "70",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements.1. The recent decision of government of India to partially decontrol the sugar industry gives the millers the freedom to sell sugar in open market and removes their obligation to supply sugar at subsidized rates to the ration shops.2. C. Rangarajan panel also suggested decontrolling of sugar industry in India.Which of the statements given above is/are correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge71",
+        "serial_no": "71",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "British Scientist Robert Edwards, the winner of Nobel Prize for Physiology and Medicine, passed away on 10th April, 2013. What was so important about him?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : His pioneering works led to the birth of the first test tube baby.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge72",
+        "serial_no": "72",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "‘Silent Spring’, considered by many as one among the greatest science books of all time, is written by Rachel Carson. The book deals with :",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : none of the above",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge73",
+        "serial_no": "73",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "On 8th March, 2013, President of India has released a commemorative postage stamp on Late Sahir Ludhianvi at the Rashtrapati Bhawan. Ludhianvi was :",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : widely acclaimed as a people’s poet.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge74",
+        "serial_no": "74",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "V.S. Ramadevi, who died in Bengaluru on 17th April, 2013, was the Governor of Karnataka and Himachal Pradesh. What was more specific about her? She was the :",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : only female Chief Election Commissioner of India.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge75",
+        "serial_no": "75",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The Pulitzer Prize for fiction in the year 2013 has been announced for the book :",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : ‘The Orphan Master’s Son’ authored by Adam Johnson.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge76",
+        "serial_no": "76",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The Saudi Arabia Government has recently decided to strictly implement a law called Nitaqat law. As a result:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 10% jobs in Saudi should be reserved for Saudi nationals.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge77",
+        "serial_no": "77",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following was a major decision taken at the fifth BRICS summit held recently?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Establishment of the New Development Bank",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge78",
+        "serial_no": "78",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "With which one among the following countries did India sign a Memorandum of Understanding on Co-operation in the field of Election Management and Administration (on 12th April, 2013 in New Delhi)?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Mauritius",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge79",
+        "serial_no": "79",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following Indian scientists has been awarded the ‘2012 Award for International Science Co-operation’ by Chinese Academy of Sciences?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : C.N.R. Rao",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge80",
+        "serial_no": "80",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following countries has won the ICC Women’s World Cup, 2013 held in India?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Australia",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge81",
+        "serial_no": "81",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which legendary actor has been awarded the Dada Saheb Phalke Award, 2012?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Pran Krishan Sikand",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge82",
+        "serial_no": "82",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The ‘Thomas Cup’ is associated with :",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Badminton",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge83",
+        "serial_no": "83",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements: 1. ISRO has recently given clearance for using the frequency from KU band for using the satellite for internet in trains in India.2. KU frequency range is allocated to be exclusively used by the satellite communication system.Which of the statements given above is/are correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge84",
+        "serial_no": "84",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following was the main demand of the ‘2013 Shahbag Protests’?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Capital punishment for those convicted of crimes against humanity during 1971 Bangladesh Liberation War",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge85",
+        "serial_no": "85",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following was the primary reason behind the failure of the Young Bengal Movement in Bengal?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : It was too radical.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge86",
+        "serial_no": "86",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": ". Which of the following statements is/are not correct about Bhakti tradition in South India?1. Earliest Bhakti movements in India were led by Alvar and Nayanar saints.2. Nalayira Divyaprabandham, frequently described as Tamil Veda, is an anthology of compositions by the Alvars.3. Karaikkal Ammaiyar, women Alvar saints, supported patriarchal norms. Select the correct answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge87",
+        "serial_no": "87",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Sangam literature formed a very important source for the reconstruction of the history of South India. It was written in :",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Tamil",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge88",
+        "serial_no": "88",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following are true of matrilineal societies?1. Newly married couple stays with the woman’s parents.2. As per the rules of inheritance, the property passes from mother to daughter.3. Women play a dominant role in the family. 4. Examples of matrilineal societies are those of the Khasi and Jaintia tribes of Meghalaya.Select the correct answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 and 4 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge89",
+        "serial_no": "89",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The Mansabdari system of the Mughals was a complex system. Its efficient functioning depended upon:1. the practice of offering the title of ‘Mansabdari’ to military personnel only2. proper functioning of the dagh (branding) system3. proper functioning of the jagirdari systemSelect the correct answer using the code given below",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2 and 3 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge90",
+        "serial_no": "90",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following:‘India would be far more reliable as a base for operations. Moreover, the prospect of a settlement will be greatly enhanced by the disappearance of Gandhi, who had for years torpedoed every attempt at a settlement.’The above statement was made by the British in the context of",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Quit India Movement",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge91",
+        "serial_no": "91",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Who among the following was not associated with the art of painting?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Satish Chandra Mukherjee",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge92",
+        "serial_no": "92",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following statements about Civil Disobedience Movement is correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Under Gandhi-Irwin agreement, Congress agreed to give up Civil Disobedience Movement.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge93",
+        "serial_no": "93",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following events was associated with American War of Independence?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Boston Tea Party",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge94",
+        "serial_no": "94",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following events was not associated with French Revolution?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Battle of Concord",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge95",
+        "serial_no": "95",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements about Satyagraha:1. It was first experimented by Gandhiji in South Africa.2. It was first experimented in India at Champaran.Which of the statements given above is/are correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Both 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge96",
+        "serial_no": "96",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Who among the following first used the word ‘Swarajya’ in its political sense and accepted Hindi as the national language of India?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Bal Gangadhar Tilak",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge97",
+        "serial_no": "97",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following factors was not a reason behind the occurrence of the Industrial Revolution in England first?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : In England, machines could be operated by wind or water power due to favourable climate condition.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge98",
+        "serial_no": "98",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements about the causes of success of the American Revolution:1. The remoteness of the American continent and British ignorance of the American continent led to the success of the Americans.2. The fierce spirit of liberty drove the Americans to success.3. The American military forces were superior to the British.Which of the statements given above is/are correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge99",
+        "serial_no": "99",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements about the UNO:1. The creation of the UNO was a reflection of the ongoing quest for international peace during the Second World War.2. The Charter of the UN explicitly mentions two vital objectives of the organisation: (i) the quest for international peace; and (ii) all-round welfare of the people of the world.3. The UN has resolved all the major global disputes including the Palestine dispute.Which of the statements given above is/are correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge100",
+        "serial_no": "100",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": ". Consider the following statements about Scientific Socialism:1. Karl Marx put forward the theory of Scientific Socialism in Communist Manifesto (1848).2. According to this theory, economic conditions can never determine the cause of human history.Which of the statements given above is/are correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge101",
+        "serial_no": "101",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Rajtarangini, authored by Kalhan, describes the history of :",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Kashmir",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge102",
+        "serial_no": "102",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following did not constitute part of the army reforms of Sher Shah?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Introduction of a swiftly moving artillery",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge103",
+        "serial_no": "103",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Among the precious stones, the most extensive foreign trade during the Gupta age was that of :",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : pearls",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge104",
+        "serial_no": "104",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following statements about the Swadeshi and Revolutionary movements in Bengal is not correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : The Government of East Bengal and Assam became sympathetic to the revolutionaries.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge105",
+        "serial_no": "105",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The Judge of a High Court in India is administered oath of office by :",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : the Governor of the State",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge106",
+        "serial_no": "106",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The Governor may recommend the imposition of the President’s rule in the State",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : if he is convinced that the government of the State cannot be carried on in accordance with the provisions of the Constitution of India",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge107",
+        "serial_no": "107",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which one among the following thinkers argued that Maratha rule in general and Shivaji in particular represented early nationalist consciousness in India?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : M.G. Ranade",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge108",
+        "serial_no": "108",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "The Planning Commission of India has been constituted",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : through a cabinet decision in this regard.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge109",
+        "serial_no": "109",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "In the S.R. Bommai vs. Union of India case, which one among the following features of the Constitution of India was upheld by the Supreme Court as a basic structure?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Secularism",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge110",
+        "serial_no": "110",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following freedoms is not specifically mentioned in the Constitution of India as a fundamental right but has been subsequently upheld by the Supreme Court as such?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Freedom of the press",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge111",
+        "serial_no": "111",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Match List I with List II and select the correct answer using the code given below the ListsList I(Commission/Committee)List II(Mandate)A. SacharCommittee1. Anti-Sikh Riots, 1984B. SrikrishnaCommission2. Socio-economic and educational conditions of Muslims in IndiaC. RanganathMisra Commission3. Bombay Communal Riots, 1992D. Nanavati Commission 4. Linguistic and religiousminorities in IndiaABCD(a)2341(b)2431(c)1432(d)1342",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : (a)",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge112",
+        "serial_no": "112",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following are UNESCO-recognized world heritage sites?1. Caves of Ajanta2. Temple and caves at Ellora3. Mandapas of Mahabalipuram4. Caves of Kanheri Select the correct answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1, 2 and 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge113",
+        "serial_no": "113",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Power of the Supreme Court of India to decide the dispute between Centre and State falls under :",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Original jurisdiction",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge114",
+        "serial_no": "114",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following statements about India-China relations is/are correct?1. ‘Look East’ policy is a vital part of the relationship.2. There is an active defence exchange programme.3. Institutional mechanism to share international waters is in place.Select the correct answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge115",
+        "serial_no": "115",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following statements is not correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : The House of the People has special powers with respect to the State List compared to the Council of States.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge116",
+        "serial_no": "116",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Electoral disputes arising out of Presidential and Vice Presidential Elections are settled by the",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Supreme Court of India.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge117",
+        "serial_no": "117",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Among the following ideals and philosophy, identify those enshrined in the Preamble to the Constitution of India.1. Sovereign democratic republic2. Socialism and secularism3. Capitalism and free tradeSelect the correct answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge118",
+        "serial_no": "118",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Which of the following pairs of Constitutional authority and procedure of appointment is/are correctly matched?1. President : Elected by an electoral college consisting of elected MLAs and MPs2. Vice President : Elected by an electoral college consisting of MLAs and MPs3. Speaker : The House of People chooses after its first sittingSelect the correct answer using the code given below:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 and 3 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge119",
+        "serial_no": "119",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "In April 2013, an agreement was signed between India and a country which extends the use of training and exercise facilities in India to the army of that country for a further period of five years from August 2013. Sort out the country from among the following:",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Bangladesh",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IIUPSC_CDSGeneral Knowledge120",
+        "serial_no": "120",
+        "subject": "General Knowledge",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "II"
+      },
+      "content": {
+        "question_text": "Consider the following statements:1. Rafael Nadal won Men’s Singles French Open Tennis Tournament 2013 defeating Spanish compatriot David Ferrer.2. This is Nadal’s maiden French Open title.Which of the statements given above is/are correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    }
+  ]
+}

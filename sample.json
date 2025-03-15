@@ -1,0 +1,64 @@
+{
+  "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2024IUPSC_CDSEnglish1",
+      "serial_no": "1",
+      "subject": "English",
+      "topic": "",
+      "subtopic": "",
+      "year": 2024,
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "tranquillity",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "agitation",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "composure",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "placidity",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : agitation",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+}

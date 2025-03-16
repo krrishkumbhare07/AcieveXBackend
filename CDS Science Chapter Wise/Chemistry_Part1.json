@@ -1,0 +1,6666 @@
+[
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2019_I_UPSC_CDS_Chemistry_Part1_1",
+      "serial_no": "1",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2019",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "When hot water is placed into an empty water bottle, the bottle keeps its shape and does not soften. What type of plastic is the water bottle made from?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Thermoplastic",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "PVC",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Polyurethane",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Thermosetting",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : Thermosetting",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2019_I_UPSC_CDS_Chemistry_Part1_2",
+      "serial_no": "2",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2019",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which of the following is/are state function / functions? 1. q + w 2. q 3. w 4. H - T S Select the correct answer using the code given below.",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1 and 4 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "1, 2 and 4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "2, 3 and 4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "1 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : 1 and 4 only",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2019_I_UPSC_CDS_Chemistry_Part1_3",
+      "serial_no": "3",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2019",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "For a certain reaction, ΔGθ = -45 kJ/mol and ΔHθ = -90 k J/mol at 0 °C. What is the minimum temperature at which the reaction will become spontaneous, assuming that ΔHθ and ΔSθ are independent of temperature?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "273 K",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "298 K",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "546 K",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "596 K",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : 546 K",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2019_I_UPSC_CDS_Chemistry_Part1_4",
+      "serial_no": "4",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2019",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "The PCI5 molecule h as trigonal bipyramidal structure. Therefore, the hybridization of p orbitals should be",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "sp2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "sp4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "4",
+        "text": "dsp2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "5",
+        "text": "2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "6",
+        "text": "dsp3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "7",
+        "text": "3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "7",
+      "explanation": "Correct Answer is : dsp3",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2019_I_UPSC_CDS_Chemistry_Part1_5",
+      "serial_no": "5",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2019",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "For an ideal gas, which one of the following statements does not hold true?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "The speed of all gas molecules is same.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "The kinetic energies of all gas molecules are not same.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "The potential energy of the gas molecules is zero.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "There is no interactive force between the molecules.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : The kinetic energies of all gas molecules are not same.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_II_UPSC_CDS_Chemistry_Part1_6",
+      "serial_no": "6",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Two reactants in a flask at room temperature are producing bubbles of a gas that turn limewater milky. The reactants could be",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "zinc and hydrochloric acid",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "magnesium carbonate and hydrochloric acid",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "methane and oxygen",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "copper and dilute hydrochloric acid",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : magnesium carbonate and hydrochloric acid",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_II_UPSC_CDS_Chemistry_Part1_7",
+      "serial_no": "7",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "How many moles of CO can be obtained by reacting 2.0 mole of CH4 with 2.0 mole of O2 according to the equation given below? CH4 (g) + 12O2  → CO + 2H2",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "2-0",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "0-5",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "2-5",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "40",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : 2-0",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_II_UPSC_CDS_Chemistry_Part1_8",
+      "serial_no": "8",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Reaction between which of the following two reactants will produce hydrogen gas?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Magnesium and hydrochloric acid",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Copper and dilute nitric acid",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Calcium carbonate and hydrochloric acid",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Zinc and nitric acid",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : Magnesium and hydrochloric acid",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_II_UPSC_CDS_Chemistry_Part1_9",
+      "serial_no": "9",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which of the following characteristics is common to hydrogen, nitrogen, oxygen and carbon dioxide?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "They are all diatomic.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "They are all gases at room temperature.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "They are all coloured.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "They all have same reactivity.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : They are all gases at room temperature.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_II_UPSC_CDS_Chemistry_Part1_10",
+      "serial_no": "10",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "The compound C7H7NO2 has",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "17 atoms in a molecule of the compound",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "equal molecules of C and H by mass",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "twice the mass of oxygen atoms compared to nitrogen atoms",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "twice the mass of nitrogen atoms compared to hydrogen atoms",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : 17 atoms in a molecule of the compound",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_II_UPSC_CDS_Chemistry_Part1_11",
+      "serial_no": "11",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which of the following is the general formula for saturated hydrocarbons?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "CnH2n+2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "n",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "2n+2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "CnH2n−2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "4",
+        "text": "n",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "5",
+        "text": "2n−2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "6",
+        "text": "CnH2n+1",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "7",
+        "text": "n",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "8",
+        "text": "2n+1",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "9",
+        "text": "CnH2n−1",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "10",
+        "text": "n",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "11",
+        "text": "2n−1",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "10",
+      "explanation": "Correct Answer is : CnH2n+2",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_II_UPSC_CDS_Chemistry_Part1_12",
+      "serial_no": "12",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "The equivalent weight of Ba(OH)2 is (given, atomic weight of Ba is 137.3)",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "85.7",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "137.3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "154.3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "171.3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : 85.7",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_II_UPSC_CDS_Chemistry_Part1_13",
+      "serial_no": "13",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which one of the following nitrogen oxides has the highest oxidation state of nitrogen?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "NO",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "NO2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "N2O",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "4",
+        "text": "2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "5",
+        "text": "N2O5",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "6",
+        "text": "2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "7",
+        "text": "5",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "7",
+      "explanation": "Correct Answer is : N2O5",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_II_UPSC_CDS_Chemistry_Part1_14",
+      "serial_no": "14",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which one of the following is not true forthe form of carbon known as diamond?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "It is harder than graphite",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "It contains the same percentage of carbon as graphite",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "It is a better electric conductor than graphite",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "It has different carbon to carbon distance in all directions",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : It is a better electric conductor than graphite",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_II_UPSC_CDS_Chemistry_Part1_15",
+      "serial_no": "15",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which one of the following can extinguish fire more quickly?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Cold water",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Boiling water",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Hot water",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Ice",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : Boiling water",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_I_UPSC_CDS_Chemistry_Part1_16",
+      "serial_no": "16",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Bright light is found to emit from photographer’s flashgun. Thisbrightness is due to the presence of which one of the following noble gases?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Argon",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Xenon",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Neon",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Helium",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : Xenon",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_I_UPSC_CDS_Chemistry_Part1_17",
+      "serial_no": "17",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one of the following is not a characteristic of a compound?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Composition is variable.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "All particles of compound are of only one type.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Particles of compound have two or more elements.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Its constituents cannot be separated by simple physical methods.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : All particles of compound are of only one type.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_I_UPSC_CDS_Chemistry_Part1_18",
+      "serial_no": "18",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which of the following substances cause temporary hardness in water?1. Mg(HCO3)22. Ca(HCO3)23. CaCl24.MgSO4Select the correct answer using the code given below.",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "3 and 4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "2 and 3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "1 and 4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "1 and 2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : 1 and 2",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_I_UPSC_CDS_Chemistry_Part1_19",
+      "serial_no": "19",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one of the following elements will be an isobar of calcium if the atomic number of calcium is 20 and its mass number is 40?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Element with 20 protons and 18 neutrons",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Element with 18 protons and 19 neutrons",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Element with 20 protons and 19 neutrons",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Element with 18 protons and 22 neutrons",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : Element with 18 protons and 22 neutrons",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_I_UPSC_CDS_Chemistry_Part1_20",
+      "serial_no": "20",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one of the following elements is used as a timekeeper in atomic clocks?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Potassium",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Caesium",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Calcium",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Magnesium",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : Caesium",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_I_UPSC_CDS_Chemistry_Part1_21",
+      "serial_no": "21",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one of the following gases dissolves in water to give acidicsolution?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Carbon dioxide",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Oxygen",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Nitrogen",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Hydrogen",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : Carbon dioxide",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_I_UPSC_CDS_Chemistry_Part1_22",
+      "serial_no": "22",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Consider the following chemical reaction : aFe2O3(s)+bCO(g)→cFe(s)+dCO2In the balanced chemical equation of the above, which of the following will be the values of the coefficients a, b, c and d respectively?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "3, 2, 3, 1",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "1, 3, 2, 3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "2, 3, 3, 1",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "3, 3, 2, 1",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : 1, 3, 2, 3",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_II_UPSC_CDS_Chemistry_Part1_23",
+      "serial_no": "23",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Pearl is a hard object produced within the soft tissues of a mollusk. Which one of the following is the main constituent of pearl?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Calcium carbonate",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Calcium oxide",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Calcium nitrate",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Calcium sulphate",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : Calcium carbonate",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_II_UPSC_CDS_Chemistry_Part1_24",
+      "serial_no": "24",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "In the reaction between hydrogen sulphate ion and water HSO4−+H2O→H3O++SO42− the water acts as",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "an acid",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "a base",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "a salt",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "an inert medium",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : a base",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_II_UPSC_CDS_Chemistry_Part1_25",
+      "serial_no": "25",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "How many hydrogen atoms are contained in 1.50 g of glucose (C6H1206)?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "3.01×1022",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "22",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "1.20×1023",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "23",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "4",
+        "text": "2.40×1023",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "5",
+        "text": "23",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "6",
+        "text": "6.02×1022",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "7",
+        "text": "22",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "7",
+      "explanation": "Correct Answer is : 6.02×1022",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_II_UPSC_CDS_Chemistry_Part1_26",
+      "serial_no": "26",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "The paste of a white material in water is used to maintain a fractured bone fixed in place. The white material used is called",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "bleaching powder",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "plaster of Paris",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "powder of zinc oxide",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "powder of zinc oxide",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : plaster of Paris",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_II_UPSC_CDS_Chemistry_Part1_27",
+      "serial_no": "27",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which one of the following types of glasses is used for making optical instruments?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Pyrex glass",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Soft glass",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Hard glass",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Flint glass",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : Flint glass",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_II_UPSC_CDS_Chemistry_Part1_28",
+      "serial_no": "28",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "What are the main constituents of biogas?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Methane and sulphur dioxide",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Methane and carbon dioxide",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Methane, hydrogen and nitric oxide",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Methane and nitric oxide",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : Methane and carbon dioxide",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_II_UPSC_CDS_Chemistry_Part1_29",
+      "serial_no": "29",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "One carbon credit is accepted as equivalent to",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "100 kg of carbon",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "100 kg of carbon dioxide",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "1000 kg of carbon",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "1000 kg of carbon dioxide",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : 1000 kg of carbon dioxide",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_II_UPSC_CDS_Chemistry_Part1_30",
+      "serial_no": "30",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "An emulsion consists of",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "one liquid and one solid",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "one liquid and one gas",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "two liquids",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "two solids",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : two liquids",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_II_UPSC_CDS_Chemistry_Part1_31",
+      "serial_no": "31",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Desalination of seawater is done by using reverse osmosis. The pressure applied to the solution is",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "larger than osmotic pressure",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "smaller than osmotic pressure",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "equal to osmotic pressure",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "equal to atmospheric pressure",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : larger than osmotic pressure",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_II_UPSC_CDS_Chemistry_Part1_32",
+      "serial_no": "32",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which one of the following polymers does not contain glucose units?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Glycogen",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Starch",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Cellulose",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Rubber",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : Rubber",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_II_UPSC_CDS_Chemistry_Part1_33",
+      "serial_no": "33",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Tincture of iodine is an antiseptic for fresh wounds. It is a dilute solution of elemental iodine, which does not contain",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "water",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "acetone",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "alcohol",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "potassium iodide",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : acetone",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_I_UPSC_CDS_Chemistry_Part1_34",
+      "serial_no": "34",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one of the following is a physical change?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Burning of coal",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Burning of wood",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Heating of a platinum crucible",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Heating of potassium chlorate",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : Heating of a platinum crucible",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_I_UPSC_CDS_Chemistry_Part1_35",
+      "serial_no": "35",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "The pH value of a sample of multiple-distilled water is",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "zero",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "14",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "very near to zero",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "very near to seven",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : very near to seven",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_I_UPSC_CDS_Chemistry_Part1_36",
+      "serial_no": "36",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one of the following is the most characteristic property of an element?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Density",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Boiling point",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Mass number",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Atomic number",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : Atomic number",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_I_UPSC_CDS_Chemistry_Part1_37",
+      "serial_no": "37",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "There are two elements—calcium (atomic number 20) and argon (atomic number 18). The mass number of both the elements is 40. They are therefore known as",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "isotones",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "isochores",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "isobars",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "isotopes",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : isobars",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_I_UPSC_CDS_Chemistry_Part1_38",
+      "serial_no": "38",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "‘Plum Pudding Model’ for an atom was proposed by",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Antoine Lavoisier",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Robert Boyle",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Ernest Rutherford",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "J. J. Thomson",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : J. J. Thomson",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_I_UPSC_CDS_Chemistry_Part1_39",
+      "serial_no": "39",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "What is the number of atoms in 46 g of sodium-23 (N = Avogadro constant)?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "N/2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "N",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "2N",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "23N",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : 2N",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_I_UPSC_CDS_Chemistry_Part1_40",
+      "serial_no": "40",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "What is the maximum number of states of matter?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Three",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Four",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Five",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Variable",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : Five",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_I_UPSC_CDS_Chemistry_Part1_41",
+      "serial_no": "41",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "The chemical properties of an element depend upon",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "the number of isotopes of the element",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "the mass number of the element",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "the total number of neutrons in the element",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "the number of electrons in the outermost shell of the element",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : the number of electrons in the outermost shell of the element",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_I_UPSC_CDS_Chemistry_Part1_42",
+      "serial_no": "42",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "The molecular mass of sulphuric acid is 98. If 49 g of the acid is dissolved in water to make one litre of solution, what will be the strength of the acid?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Two normal",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "One normal",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "0.5 normal",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Four normal",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : One normal",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_II_UPSC_CDS_Chemistry_Part1_43",
+      "serial_no": "43",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which one of the following is not an allotrope of carbon?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Coal",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Diamond",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Graphite",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Graphene",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : Graphene",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_II_UPSC_CDS_Chemistry_Part1_44",
+      "serial_no": "44",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "In paper manufacturing, degumming of the raw material is done using",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "sulphuric acid",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "bleaching powder",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "caustic soda",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "nitric acid",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : caustic soda",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_II_UPSC_CDS_Chemistry_Part1_45",
+      "serial_no": "45",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Dolomite powder is applied in some agricultural lands. The purpose of applying it is to",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "increase the pH of the soil",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "lower the pH of the soil",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "increase the phosphorus content of the soil",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "increase the nitrogen content of the soil",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : increase the pH of the soil",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_II_UPSC_CDS_Chemistry_Part1_46",
+      "serial_no": "46",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which one of the following elements does not form solid hydrogen carbonate?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Sodium",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Potassium",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Caesium",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Lithium",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : Lithium",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_II_UPSC_CDS_Chemistry_Part1_47",
+      "serial_no": "47",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Liquids and gases never show",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "diamagnetic property",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "paramagnetic property",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "ferromagnetic property",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "electromagnetic property",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : ferromagnetic property",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_II_UPSC_CDS_Chemistry_Part1_48",
+      "serial_no": "48",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "In the gamma decay of a nucleus",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "the mass number of the nucleus changes whereas its atomic number does not change",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "the mass number of the nucleus does not change whereas its atomic number changes",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "both the mass number and the atomic number of the nucleus change",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "neither the mass number nor the atomic number of the nucleus changes",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : neither the mass number nor the atomic number of the nucleus changes",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_II_UPSC_CDS_Chemistry_Part1_49",
+      "serial_no": "49",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "The pressure exerted by a 760 mm column of mercury at 0 °C is known as",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1 pascal",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "1 atmosphere",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "1 bar",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "1 poise",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : 1 atmosphere",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_II_UPSC_CDS_Chemistry_Part1_50",
+      "serial_no": "50",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which one of the following statements is correct?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "The oxidation number for hydrogen is always zero.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "The oxidation number for hydrogen is always +L",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "The oxidation number for hydrogen is always -1.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Hydrogen can have more than one oxidation number.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : Hydrogen can have more than one oxidation number.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_II_UPSC_CDS_Chemistry_Part1_51",
+      "serial_no": "51",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "In case of a standard hydrogen electrode",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "absolute electrode potential is not zero",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "absolute electrode potential is zero",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "both absolute and standard electrode potential values are zero",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "electrode potential is zero only at 25 °C",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : electrode potential is zero only at 25 °C",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_I_UPSC_CDS_Chemistry_Part1_52",
+      "serial_no": "52",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "The handle of pressure cookers is made of plastic because it should be made non­conductor of heat. The plastic used there is the first man-made plastic, which is :",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Polythene",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Terylene",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Nylon",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Bakelite",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : Bakelite",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_I_UPSC_CDS_Chemistry_Part1_53",
+      "serial_no": "53",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Methyl Isocyanate gas, which was involved in the disaster in Bhopal in December 1984, was used in the Union Carbide factory for production of:",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Dyes",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Detergents",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Explosives",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Pesticides",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : Pesticides",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_I_UPSC_CDS_Chemistry_Part1_54",
+      "serial_no": "54",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "‘German silver’ is used to make decorative articles, coinage metal, ornaments etc. The name is given because :",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "it is an alloy of copper and contains silver as one of its components",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Germans were the first to use silver",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "its appearance is like silver",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "it is an alloy of silver",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : its appearance is like silver",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_I_UPSC_CDS_Chemistry_Part1_55",
+      "serial_no": "55",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Vitamin B12 deficiency causes pernicious anemia. Animals cannot synthesize vitamin B12 Humans must obtain all their vitamin B12from their diet. The complexing metal ion in vitamin B12is :",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Mg2+ (Magnesium ion)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "2+",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Fe24 (Iron ion)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "24",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "4",
+        "text": "Co34 (Cobalt ion)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "5",
+        "text": "34",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "6",
+        "text": "Zn2+ (Zinc ion)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "7",
+        "text": "2+",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "5",
+      "explanation": "Correct Answer is : Co34 (Cobalt ion)",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_I_UPSC_CDS_Chemistry_Part1_56",
+      "serial_no": "56",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "A piece of ice, 100 g in mass is kept at 0 °C. The amount of heat it requires to melt at 0 °C is (take latent heat of melting of ice to be 333.6 J/g):",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "750.6 J",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "83.4 J",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "33360 J",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "3.336 J",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : 33360 J",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_I_UPSC_CDS_Chemistry_Part1_57",
+      "serial_no": "57",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one of the following is an example of chemical change ?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Burning of paper",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Magnetization of soft iron",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Dissolution of cane sugar in water",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Preparation of ice cubes from water",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : Burning of paper",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_I_UPSC_CDS_Chemistry_Part1_58",
+      "serial_no": "58",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which of the following statements is / are correct ?1. Acid rain reacts with buildings made from limestone2. Burning of sulphur containing coal can contribute to acid rain3. Eutrophication is an effective measure to control pollutionSelect the correct answer using the code given below:",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1 and 2 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "2 and 3 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "1 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "1,2 and 3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : 1 and 2 only",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_I_UPSC_CDS_Chemistry_Part1_59",
+      "serial_no": "59",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one of the following statements is not correct?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Hydrogen is an element",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Hydrogen is the lightest element",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Hydrogen has no isotopes",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Hydrogen and oxygen form an explosive mixture",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : Hydrogen has no isotopes",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_I_UPSC_CDS_Chemistry_Part1_60",
+      "serial_no": "60",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one of the following statements is not correct?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Atoms of different elements may have same mass numbers",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Atoms of an element may have different mass numbers",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "All the atoms of an element have same number of protons",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "All the atoms of an element will always have same number of neutrons",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : All the atoms of an element will always have same number of neutrons",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_I_UPSC_CDS_Chemistry_Part1_61",
+      "serial_no": "61",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "The synthetic rubber has replaced natural rubber for domestic and industrial puiposes. Which one of the following is the main reason behind that ?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Natural rubber is unable to meet the growing demand of different industries",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Natural rubber is grown in tropical countries only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Raw material for synthetic rubber is easily available",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Natural rubber is not durable",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : Natural rubber is unable to meet the growing demand of different industries",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_II_UPSC_CDS_Chemistry_Part1_62",
+      "serial_no": "62",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which of the following statements with regard to Portland cement are correct?1. Silica imparts strength to cement.2. Alumina makes the cement quick setting.3. Excess of lime increases the strength of cement.4. Calcium sulphate decreases the initial setting time of cement.Select the correct answer using the code given below.",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "2 and 4 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "1 and 3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "1, 2 and 4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "and 2 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : and 2 only",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_II_UPSC_CDS_Chemistry_Part1_63",
+      "serial_no": "63",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Red phosphorus is used in the manufacture of safety matches. This is due to the fact that",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "it shows phosphorescence",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "at ordinary temperature, it is less reactive than other varieties of phosphorus",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "it cannot be converted to white phosphorus oh heating",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "it does not react with halogen on heating",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : at ordinary temperature, it is less reactive than other varieties of phosphorus",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_II_UPSC_CDS_Chemistry_Part1_64",
+      "serial_no": "64",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Match List-I with List-II and select the correct answer using the code given below the Lists :List-I (Exponent)List-II (Law)A. John Dalton1. Law of definite proportion by volumeB. Joseph Proust2. Law of multiple proportionC. Antoine Lavoisier3. Law of definite proportion by weightD. Joseph Louis Gay- Lussac4. Law of conserva­tion of masscode :ABCD(a)2341(b)2431(c)1432(d)1342",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "(a)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "(b)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "(c)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "(d)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : (a)",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_II_UPSC_CDS_Chemistry_Part1_65",
+      "serial_no": "65",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which one of the following statements is not correct?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Water starts boiling when its vapour pressure becomes equal to atmospheric pressure.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Water is known as universal solvent.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Permanent hardness of water is due to presence of Mgcl2,CaCl2,MgSo4,CaSo4.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "4",
+        "text": "2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "5",
+        "text": "4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "6",
+        "text": "4.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "7",
+        "text": "Density of ice is greater than that of water.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "7",
+      "explanation": "Correct Answer is : Density of ice is greater than that of water.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_II_UPSC_CDS_Chemistry_Part1_66",
+      "serial_no": "66",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which one of the following is not true for diamond?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Each carbon atom is linked to four other carbon atoms",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Three-dimensional network struc­ture of carbon atoms is formed",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "It is used as an abrasive for sharpening hard tools",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "It can be used as a lubricant",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : It can be used as a lubricant",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_II_UPSC_CDS_Chemistry_Part1_67",
+      "serial_no": "67",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "The atomic theory of matter was first proposed by",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "John Dalton",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Rutherford",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "J. J. Thomson",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Niels Bohr",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : John Dalton",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_II_UPSC_CDS_Chemistry_Part1_68",
+      "serial_no": "68",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which one of the following is a non-renewable resource?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Solar energy",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Coal",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Water",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Fisheries",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : Coal",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_I_UPSC_CDS_Chemistry_Part1_69",
+      "serial_no": "69",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one among the following fuels is used in gas welding ?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "LPG",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Ethylene",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Methane",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Acetylene",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : Acetylene",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_I_UPSC_CDS_Chemistry_Part1_70",
+      "serial_no": "70",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Match List I with List II and select the correct answer using the code given below the Lists :            List I (Air Pollutant)        List II (Effect)                A. Chlorofluorocarbon        1. Acid rain                B. Sulphur dioxide        2. Depletion in ozone layer in the atmosphere                C. Lead compound        3. Harmful for human nervous system                D. Carbon dioxide        4. Topmost contribution to greenhouse effect                        A        B        C        D                (a)        4        3        2        1                (b)        4        1        3        2                (c)        2        1        3        4                (d)        2        3        1        4",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "(a)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "(b)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "(c)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "(d)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : (c)",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_I_UPSC_CDS_Chemistry_Part1_71",
+      "serial_no": "71",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one among the following metals is prominently used in mobile phone batteries ?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Copper",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Zinc",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Nickel",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Lithium",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : Lithium",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_I_UPSC_CDS_Chemistry_Part1_72",
+      "serial_no": "72",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one of the following is the most appropriate and correct practice from the point of view of a healthy environment ?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Burning of plastic wastes to keep the environment clean",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Burning of dry and fallen leaves in a garden or field",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Treatment of domestic sewage before its release",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Use of chemical fertilizers in agricultural fields",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : Treatment of domestic sewage before its release",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_I_UPSC_CDS_Chemistry_Part1_73",
+      "serial_no": "73",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Who among the following proposed that atom is indivisible ?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Dalton",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Berzelius",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Rutherford",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Avogadro",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : Dalton",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_I_UPSC_CDS_Chemistry_Part1_74",
+      "serial_no": "74",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "How many elements are there in the 5th period of modern periodic table ?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "8",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "18",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "36",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : 18",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_I_UPSC_CDS_Chemistry_Part1_75",
+      "serial_no": "75",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one among the following is used in making lead pencils ?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Charcoal",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Graphite",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Coke",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Carbon black",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : Graphite",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_I_UPSC_CDS_Chemistry_Part1_76",
+      "serial_no": "76",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Sodium metal should be stored in",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Alcohol",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Kerosene oil",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Water",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Hydrochloric acid",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : Kerosene oil",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_I_UPSC_CDS_Chemistry_Part1_77",
+      "serial_no": "77",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "When hard water is evaporated completely, the white solid remains in the container. It may be due to the presence of1. Carbonates of Ca and Mg2. Sulphates of Ca and Mg3. Chlorides of Ca and MgSelect the correct answer using the code given below :",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1 and 2 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "1, 2 and 3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "3 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "1 and 3 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : 1, 2 and 3",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_I_UPSC_CDS_Chemistry_Part1_78",
+      "serial_no": "78",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one among the following compounds has same equivalent weight and molecular weight ?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "H2SO4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "CaCl2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "4",
+        "text": "2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "5",
+        "text": "Na2SO4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "6",
+        "text": "2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "7",
+        "text": "4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "8",
+        "text": "NaCl",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "8",
+      "explanation": "Correct Answer is : NaCl",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_I_UPSC_CDS_Chemistry_Part1_79",
+      "serial_no": "79",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "A metallic plate sticks firmly on the mouth of a water vessel made from another metal. By way of heating, one can detach the plate from the vessel. This is because heat expands",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "the vessel only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "both the vessel and the plate equally",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "the vessel more than the plate",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "the vessel and contracts the plate",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : the vessel more than the plate",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_II_UPSC_CDS_Chemistry_Part1_80",
+      "serial_no": "80",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Bagasse, a by-product of sugar manufacturing industry, is used for the production of",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "glass",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "paper",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "rubber",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "cement",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : paper",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_II_UPSC_CDS_Chemistry_Part1_81",
+      "serial_no": "81",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "The main constituent of Gobar gas is",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Ethane",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Methane",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Propane",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Acetylene",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : Methane",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_II_UPSC_CDS_Chemistry_Part1_82",
+      "serial_no": "82",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which of the following is a good lubricant ?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Diamond powder",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Graphite powder",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Molten carbon",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Alloy of carbon and iron",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : Graphite powder",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_II_UPSC_CDS_Chemistry_Part1_83",
+      "serial_no": "83",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "In Tritium (T), the number of protons (P) and neutrons (N) respectively are",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1 P and 1 N",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "1 P and 2 N",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "1 P and 3 N",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "2 P and 1 N",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : 1 P and 2 N",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_II_UPSC_CDS_Chemistry_Part1_84",
+      "serial_no": "84",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "When carbon dioxide is passed through lime water, the solution turns milky, but, on prolonged passage, the solution turns clear. This is because",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "the calcium carbonate formed initially is converted to soluble calcium bicarbonate on passage of more carbon dioxide",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "the reaction is reversible and lime water is regenerated",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "the calcium bicarbonate formed initially is converted to soluble calcium carbonate on passage of more carbon dioxide",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "the initially formed insoluble compound is soluble in carbonic acid",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : the calcium carbonate formed initially is converted to soluble calcium bicarbonate on passage of more carbon dioxide",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_II_UPSC_CDS_Chemistry_Part1_85",
+      "serial_no": "85",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "The form of carbon known as graphite",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "is harder than diamond",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "contains a higher percentage of carbon than diamond",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "is a better electrical conductor than diamond",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "has equal carbon-to-carbon dis­tances in all directions",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : is a better electrical conductor than diamond",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_II_UPSC_CDS_Chemistry_Part1_86",
+      "serial_no": "86",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which one among the following is an example of chemical change ?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "The melting of an ice cube",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "The boiling of gasoline",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "The flying of an egg",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Attraction of an iron nail to a magnet",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : The flying of an egg",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_II_UPSC_CDS_Chemistry_Part1_87",
+      "serial_no": "87",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which of the following is not correct about Baking Soda ?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "It is used in soda-acid fire extin­guisher",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "It is added for faster cooking",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "It is a corrosive base",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "It neutralizes excess acid in the stomach",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : It is a corrosive base",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_II_UPSC_CDS_Chemistry_Part1_88",
+      "serial_no": "88",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Chromium oxide in paints makes the colour of paint",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Green",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "White",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Red",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Blue",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : Green",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_II_UPSC_CDS_Chemistry_Part1_89",
+      "serial_no": "89",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Carbon or Graphite rods are used in atomic reactors as moderators for sustained nuclear chain reaction through nuclear fission process. In this process",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "the neutrons are made fast",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "the protons are made fast",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "the neutrons are made slow",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "the protons are made slow",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : the neutrons are made slow",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_II_UPSC_CDS_Chemistry_Part1_90",
+      "serial_no": "90",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Statement I : During indigestion, Milk of Magnesia is taken to get rid of pain in the stomach.Statement II : Milk of Magnesia is a base and it neutralizes the excess acid in the stomach.",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Both the statements are individually true but Statement II is not the correct explanation of Statement I",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Statement I is true but Statement II is false",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Statement I is false but Statement II is true",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : Both the statements are individually true and Statement II is the correct explanation of Statement I",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_II_UPSC_CDS_Chemistry_Part1_91",
+      "serial_no": "91",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "The distribution of electrons into different orbits of an atom, as suggested by Bohr; is",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "2 electrons in the K-orbit, 6 electrons in the L-orbit, 18 electrons in the M-orbit",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "2 electrons in the K-orbit, 8 elec­trons in the L-orbit, 32 electrons in the M-orbit",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "2 electrons in the K-orbit, 8 elec­trons in the L-orbit, 18 electrons in the M-orbit",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "2 electrons in the K-orbit, 8 elec­trons in the L-orbit, 16 electrons in the M-orbit",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : 2 electrons in the K-orbit, 8 elec­trons in the L-orbit, 18 electrons in the M-orbit",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_I_UPSC_CDS_Chemistry_Part1_92",
+      "serial_no": "92",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Date of manufacture of food items fried in oil should be checked before buying because oils become rancid due to",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "oxidation",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "reduction",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "hydrogenation",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "decrease in viscosity",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : oxidation",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_I_UPSC_CDS_Chemistry_Part1_93",
+      "serial_no": "93",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which of the following solutions will not change the colour of blue litmus paper to red?1. Acid solution2. Base solution3. Common salt solutionSelect the correct answer using the code given below.",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1 and 3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "2 and 3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "1 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "2 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : 2 and 3",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_I_UPSC_CDS_Chemistry_Part1_94",
+      "serial_no": "94",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Nitric oxide pollution can lead to all of the following, except",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "leaf spotting in plants",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "bronchitis-related respiratory problems in human",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "production of corrosive gases through photochemical reaction",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "silicosis in human",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : silicosis in human",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_I_UPSC_CDS_Chemistry_Part1_95",
+      "serial_no": "95",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Addition of ethylene dibromide to petrol",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "increases the octane number of fuel",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "helps elimination of lead oxide",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "removes the sulphur compound in petrol",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "serves as a substitute of tetra-­ethyl lead",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : helps elimination of lead oxide",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_I_UPSC_CDS_Chemistry_Part1_96",
+      "serial_no": "96",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Consider the following statements : Statement I :Clay layers are poor aquifers. Statement II :The inter-particle space of clay minerals is the least.Select the correct answer using the code given below.",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Both the Statements are individually true and Statement II is the correct explanation of Statement I",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Both the Statements are individually true but Statement II is not the correct explanation of Statement I",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Statement I is true but Statement II isis false",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Statement I is false but Statement II is true",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : Both the Statements are individually true and Statement II is the correct explanation of Statement I",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_I_UPSC_CDS_Chemistry_Part1_97",
+      "serial_no": "97",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which of the following are the two main constituents of granite?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Iron and silica",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Iron and silver",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Silica and aluminium",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Iron oxide and potassium",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : Silica and aluminium",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_I_UPSC_CDS_Chemistry_Part1_98",
+      "serial_no": "98",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "A metal screw-top on a glass bottle which appears to be stuck could be opened by using the fact that",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "the metal expands more than the glass when both are heated",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "The metal and glass expand identically when heated",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "the metal shrinks when heated",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "both metal and glass shrink when cooled",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : the metal expands more than the glass when both are heated",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_I_UPSC_CDS_Chemistry_Part1_99",
+      "serial_no": "99",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Iron sheet kept in moist air gets covered with rust. Rust is",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "an element",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "a compound",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "a mixture of iron and dust",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "a mixture of iron, oxygen and water",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : a compound",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_I_UPSC_CDS_Chemistry_Part1_100",
+      "serial_no": "100",
+      "subject": "Chemistry_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one of the following gases is supporter of combustion?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Hydrogen",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Nitrogen",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Carbon dioxide",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Oxygen",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : Oxygen",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  }
+]

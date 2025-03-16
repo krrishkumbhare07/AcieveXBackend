@@ -1,0 +1,6482 @@
+[
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_II_UPSC_CDS_Biology_Part1_1",
+      "serial_no": "1",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which one of the following agents does not contribute to propagation of plants through seed dispersal?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Wind",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Fungus",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Animal",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Water",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : Fungus",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_II_UPSC_CDS_Biology_Part1_2",
+      "serial_no": "2",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which one of the following features is an indication for modification of stem of a plant?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Presence of ‘eye’ on potato",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "‘Scale’ found in onion",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Tendril’ found in pea",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "‘Hair’ present in carrot",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : Presence of ‘eye’ on potato",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_II_UPSC_CDS_Biology_Part1_3",
+      "serial_no": "3",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which of the following roles is/are played by epididymis, vas deferens, seminal vesicles and prostate in male reproductive system of human?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Spermatogenesis and maturation of sperms",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Maturation and motility of sperms",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Spermatogenesis and motility of sperms",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Motility of sperms only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : Maturation and motility of sperms",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_II_UPSC_CDS_Biology_Part1_4",
+      "serial_no": "4",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which one of the following is the special type of milk produced by a lactating mother, essential for the development of immune response of newborn baby in human?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Breast milk produced after a month of childbirth",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Transitional milk",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Colostrum",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Mineralized milk",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : Colostrum",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_II_UPSC_CDS_Biology_Part1_5",
+      "serial_no": "5",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which one of the following statements explains higher mutation rate and faster evolution found in RNA virus?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "RNA is relatively unstable compared to DNA.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Virus can multiply only within the living cell of a host.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Metabolic processes are absent in virus.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Virus can remain latent for a long period.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : RNA is relatively unstable compared to DNA.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_I_UPSC_CDS_Biology_Part1_6",
+      "serial_no": "6",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Statement I :A person may suffer from tuberculosis if she/he frequently visits crowded place.Statement II :Bacteria of tuberculosis spread through droplets by sneezing or coughing.",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "(a)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "(b)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "(c)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "(d)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : (a)",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_I_UPSC_CDS_Biology_Part1_7",
+      "serial_no": "7",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Statement I :Bioaccumulation is a process of progressive accumulation of heavy metals and pesticides in an organism.Statement II :Large fishes of the pond are found to have higher concentration of pesticides than planktons of the same pond.",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "(a)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "(b)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "(c)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "(d)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : (b)",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_I_UPSC_CDS_Biology_Part1_8",
+      "serial_no": "8",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one of the following is a true fish as per the biological system of classification?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Silverflsh",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Jellyfish",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Cuttlefish",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Flying fish",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : Flying fish",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_I_UPSC_CDS_Biology_Part1_9",
+      "serial_no": "9",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "In which one of the following types of connective tissues in animals does fat get stored?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Adipocyte",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Chondrocyte",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Osteocyte",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Reticulocyte",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : Adipocyte",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_I_UPSC_CDS_Biology_Part1_10",
+      "serial_no": "10",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one of the following pairs about organ/part that helps in locomotion is not correctly matched?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Euglena : Flagellum",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Paramecium : Cilia",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Nereis : Pseudopodia",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Starfish : Tubefeet",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : Nereis : Pseudopodia",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_I_UPSC_CDS_Biology_Part1_11",
+      "serial_no": "11",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Lysosome is formed from which of the following cell organelles?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Nucleus",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Endoplasmic reticulum",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Golgi bodies",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Ribosomes",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : Golgi bodies",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_I_UPSC_CDS_Biology_Part1_12",
+      "serial_no": "12",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "A protein is synthesized in the endoplasmic reticulum bound ribosomes and it targets to the inner thylakoid space of chloroplast. How many double-layered membrane layers it has to pass to reach its destination?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "5",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : 3",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_I_UPSC_CDS_Biology_Part1_13",
+      "serial_no": "13",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one of the following statements about lymph is correct?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Lymph is formed due to leakage of blood through capillaries.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Lymph contains blood cells such as RBC.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Lymph is also circulated by the blood circulating heart.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Lymph only transports hormones.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : Lymph is formed due to leakage of blood through capillaries.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_I_UPSC_CDS_Biology_Part1_14",
+      "serial_no": "14",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which of the following classes of animals has/have three-chambered heart?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Pisces and Amphibia",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Amphibia and Reptilia",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Reptilia only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Amphibia only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : Amphibia and Reptilia",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_I_UPSC_CDS_Biology_Part1_15",
+      "serial_no": "15",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Accumulation of which one of the  following in the leads to cramp?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Lactic acid",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Ethanol",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Pyruvic acid",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Glucose",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : Lactic acid",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_I_UPSC_CDS_Biology_Part1_16",
+      "serial_no": "16",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one of the following elements is involved in the control of water content of the blood?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Potassium",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Lithium",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Rubidium",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Caesium",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : Potassium",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_I_UPSC_CDS_Biology_Part1_17",
+      "serial_no": "17",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one of the following gases dissolves in water to give acidicsolution?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Carbon dioxide",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Oxygen",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Nitrogen",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Hydrogen",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : Carbon dioxide",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2018_I_UPSC_CDS_Biology_Part1_18",
+      "serial_no": "18",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2018",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one of the following elements is essential for the formation of chlorophyll in green plants?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Calcium",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Iron",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Magnesium",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Potassium",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : Magnesium",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_II_UPSC_CDS_Biology_Part1_19",
+      "serial_no": "19",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which one of the following proteins gives lustrous shiny appearance to silk fibre?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Fibrin",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Sericin",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Collagen",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Nectin",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : Fibrin",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_II_UPSC_CDS_Biology_Part1_20",
+      "serial_no": "20",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Blue Baby Syndrome is caused by the contamination of",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "nitrite (NO2−)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "−",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "sulphite (SO32−)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "4",
+        "text": "3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "5",
+        "text": "2−",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "6",
+        "text": "nitrate (NO3−)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "7",
+        "text": "3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "8",
+        "text": "−",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "9",
+        "text": "sulphate (SO42−)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "10",
+        "text": "4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "11",
+        "text": "2−",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "11",
+      "explanation": "Correct Answer is : nitrite (NO2−)",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_II_UPSC_CDS_Biology_Part1_21",
+      "serial_no": "21",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Match List-I with List-II and select the correct answer using the code given below the Lists : List-I(Cell Organelle)List-II(Function)A. Mitochondria1. PhotosynthesisB. Chloroplast2. Protein synthesisC. Ribosomes3. IntracellulardigestionD. Lysosomes4. ATP formationABCD(a)3124(b)3214(c)4123(d)4213",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "(a)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "(b)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "(c)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "(d)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : (c)",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_II_UPSC_CDS_Biology_Part1_22",
+      "serial_no": "22",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Human insulin molecule is composed of one α-chain having 21 amino acids and one β-chain having 30 amino acids. How many functional insulin genes occur in adult humans?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "One",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Two",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Three",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Four",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : Two",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_II_UPSC_CDS_Biology_Part1_23",
+      "serial_no": "23",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "A biological community in its environment such as a pond, an ocean, a forest, even an aquarium is known as",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "biome",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "community",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "abiotic environment",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "ecosystem",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : ecosystem",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_II_UPSC_CDS_Biology_Part1_24",
+      "serial_no": "24",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "The foul smell of urine of a healthy man having healthy food, when spilled on floor, is mainly due to the bacterial decomposition of",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "urea into sulphur dioxide",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "sugar into carbon dioxide",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "lipids into methane",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "urea into ammonia",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : urea into ammonia",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_II_UPSC_CDS_Biology_Part1_25",
+      "serial_no": "25",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Desalination of seawater is done by using reverse osmosis. The pressure applied to the solution is",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "larger than osmotic pressure",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "smaller than osmotic pressure",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "equal to osmotic pressure",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "equal to atmospheric pressure",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : larger than osmotic pressure",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_II_UPSC_CDS_Biology_Part1_26",
+      "serial_no": "26",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Statement I : Skin cancer is generally caused by the ultraviolet radiation. Statement II : Stratosphere allows ultraviolet radiation to enter the earth from the sun.",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "(a)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "(b)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "(c)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "(d)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : (c)",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_II_UPSC_CDS_Biology_Part1_27",
+      "serial_no": "27",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which of the following radioactive substances enters/enter the human body through food chain and causes/cause many physiological disorders?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Strontium-90",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Iodine-131",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Cesium-137",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "All of the above",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : All of the above",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_I_UPSC_CDS_Biology_Part1_28",
+      "serial_no": "28",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Polynucleotide chain of DNA contains",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "a nitrogenous base, deoxyribose sugar and phosphate group",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "a nitrogenous base, ribose sugar and phosphate group",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "deoxyribose sugar, ribose sugar and phosphate group",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "a nitrogenous base and phosphate group only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : a nitrogenous base, deoxyribose sugar and phosphate group",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_I_UPSC_CDS_Biology_Part1_29",
+      "serial_no": "29",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "The process of copying genetic information from one strand of DNA into RNA is termed as",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "translation",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "transcription",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "replication",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "mutation",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : transcription",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_I_UPSC_CDS_Biology_Part1_30",
+      "serial_no": "30",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "AIDS is caused by the Human Immuno-­deficiency Virus (HIV). The transmission of HIV infection generally occurs through",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "eating contaminated food and water",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "transfusion of contaminated blood and blood products",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "inhaling polluted air",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "shaking hand with infected person",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : transfusion of contaminated blood and blood products",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_I_UPSC_CDS_Biology_Part1_31",
+      "serial_no": "31",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "In human body, the cell growth and differentiation are highly controlled and regulated, but in cancer cells",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "there is breakdown of these regulatory mechanisms leading to formation of benign and malignant tumors",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "controlled cell division and over­ production of genetic material occur",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "RNA is mutated and produced in less amount",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "DNA is mutated and produced in less amount",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : there is breakdown of these regulatory mechanisms leading to formation of benign and malignant tumors",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_I_UPSC_CDS_Biology_Part1_32",
+      "serial_no": "32",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Most viruses that infect plants possess",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "single-stranded DNA",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "single-stranded RNA",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "double-stranded DNA and RNA",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "double-stranded RNA only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : single-stranded RNA",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_I_UPSC_CDS_Biology_Part1_33",
+      "serial_no": "33",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Syngamy results in formation of",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "haploid zygote",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "diploid zygote",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "non-motile male gametes",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "motile male gametes",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : diploid zygote",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_I_UPSC_CDS_Biology_Part1_34",
+      "serial_no": "34",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Bleeding of gums, falling of teeth, fragile bones and delayed wound healing occur due to the deficiency of which one of the following vitamins?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Vitamin C",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Vitamin K",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Vitamin D",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Vitamin B",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : Vitamin C",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_I_UPSC_CDS_Biology_Part1_35",
+      "serial_no": "35",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Kwashiorkor disease in children is caused by",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "sufficient carbohydrates fats in diet",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "sufficient carbohydrates  and fats but deficient proteins inand fats diet",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "sufficient vitamins but  deficient fats in diet",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "sufficient fats deficient but vitamins in diet",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : sufficient carbohydrates  and fats but deficient proteins inand fats diet",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_I_UPSC_CDS_Biology_Part1_36",
+      "serial_no": "36",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "The mammalian heart is myogenic and it is regulated by nerves. The heartbeat originates from",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "sinoatrial node",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "QRS wave",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "T wave",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "hepatic portal system",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : sinoatrial node",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2017_I_UPSC_CDS_Biology_Part1_37",
+      "serial_no": "37",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2017",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "The plant growth regulators are small, simple molecules of diverse chemical composition. They are",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "carbohydrates, fats and proteins",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "indole compounds, adenine deriva­tives, carotenoids and terpenes",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "fatty acids, glucose and vitamins",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "vitamin C, vitamin D and glucose",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : indole compounds, adenine deriva­tives, carotenoids and terpenes",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_II_UPSC_CDS_Biology_Part1_38",
+      "serial_no": "38",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which one of the following gases is released mostly from landfills in urban areas?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Nitrogen",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Hydrogen",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Methane",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Oxygen",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : Methane",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_II_UPSC_CDS_Biology_Part1_39",
+      "serial_no": "39",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "The HIV virus weakens the immunity of a person because it destroys",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "mast cells",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "platelets",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "erythrocytes",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "lymphocytes",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : lymphocytes",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_II_UPSC_CDS_Biology_Part1_40",
+      "serial_no": "40",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which one of the following air pollutants combines with the haemoglobin of human blood and reduces its oxygen­ carrying capacity, leading to suffocation and may cause even death?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Chlorofluorocarbon",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Fly ash",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Carbon monoxide",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Sulphur dioxide",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : Carbon monoxide",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_II_UPSC_CDS_Biology_Part1_41",
+      "serial_no": "41",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "An irregular mode of reproduction resulting in the development of an embryo without fertilization is called1. Parthenogenesis 2. Apogamy 3. Sporophytic budding Select the correct answer using the code given below.",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "2 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "2 and 3 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "1, 2 and 3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : 1, 2 and 3",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_II_UPSC_CDS_Biology_Part1_42",
+      "serial_no": "42",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Deficiency of fluoride leads to which one of the following health problems?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Tooth caries",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Mottling of tooth",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Bending of bones",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Stiffening of joints",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : Tooth caries",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_II_UPSC_CDS_Biology_Part1_43",
+      "serial_no": "43",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Excessive use of which of the following fertilizers may be responsible for the presence of a toxic substance in groundwater?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Nitrogen",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Phosphate only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Potassium only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Phosphate and potassium",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : Phosphate and potassium",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_II_UPSC_CDS_Biology_Part1_44",
+      "serial_no": "44",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which one of the following is most sensitive to environmental change?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Amphibian",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Reptile",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Mammal",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Insect",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : Amphibian",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_II_UPSC_CDS_Biology_Part1_45",
+      "serial_no": "45",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which one of the following hormones is essential for the uptake of glucose by cells in the human body?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "GH",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "TSH",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Insulin",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Insulin",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : Insulin",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_II_UPSC_CDS_Biology_Part1_46",
+      "serial_no": "46",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which of the following cells do not contain nucleus? 1. Root hair cells 2. Red blood cells 3. Platelets 4. Monocytes 4. Monocytes Select the correct answer using the code given below.",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "2 and 3 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "1, 2 and 4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "2, 3 and 4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : 2 and 3 only",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_II_UPSC_CDS_Biology_Part1_47",
+      "serial_no": "47",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Biological catalysts are protein molecules which 1. speed up a chemical reaction 2. remain unchanged after reaction 3. function optimally at 37 °C 4. do not have an enzymatic activity Select the correct answer using the code given below.",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "1, 2 and 3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "2 and 3 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "1, 3 and 4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : 1, 2 and 3",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_II_UPSC_CDS_Biology_Part1_48",
+      "serial_no": "48",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "‘Altitude sickness’ is caused at high altitude due to",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "high partial pressure of oxygen",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "low partial pressure of oxygen",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "low level of haemoglobin",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "high partial pressure of carbon dioxide",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : low partial pressure of oxygen",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_I_UPSC_CDS_Biology_Part1_49",
+      "serial_no": "49",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one of the following is considered as ‘good cholesterol’ with reference to individuals facing the risk of cardio-vascular diseases and hypertension ?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "High Density Lipoprotein (HDL)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Low Density Lipoprotein (LDL)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Triglyceride",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Fatty acids",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : High Density Lipoprotein (HDL)",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_I_UPSC_CDS_Biology_Part1_50",
+      "serial_no": "50",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which of the following pairs of vitamin and disease is / are correctly matched ?1. Vitamin A : Rickets2. Vitamin B : Beriberi3. Vitamin C : Scurvy(a)Select the correct answer using the code given below:",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "2 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "2 and 3 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "1 and 3 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "1,2 and 3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : 2 and 3 only",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_I_UPSC_CDS_Biology_Part1_51",
+      "serial_no": "51",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "The Germplasm is required for the propagation of plants and animals. Germplasm is the :1. genetic resources2. seeds or tissues for breeding3. egg and sperm repository4. a germ cell's determining zoneSelect the correct answer using the code given below :",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "1,2 and 3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "2 and 3 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "2 and 4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : 1,2 and 3",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_I_UPSC_CDS_Biology_Part1_52",
+      "serial_no": "52",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Dengue virus is known to cause low platelet count in blood of patient by :1. interfering in the process of platelet production in bone marrow2. infecting endothelial cells3. binding with platelets4. accumulating platelets in intestineSelect the correct answer using the code given below :",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1 and 2 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "1 and 3 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "3 and 4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "1,2 and 3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : 1,2 and 3",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_I_UPSC_CDS_Biology_Part1_53",
+      "serial_no": "53",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Plants contain a variety of sterols like stigmasterol, ergosterol, sitosterol etc., which very closely resemble cholesterol. These plant sterols are referred as :",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Phytosterols",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Calciferols",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Ergocalciferols",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Lumisterols",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : Phytosterols",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_I_UPSC_CDS_Biology_Part1_54",
+      "serial_no": "54",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "In artificial insemination (AI) process, which of the following is / are introduced into the uterus of the female ?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Egg only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Fertilized egg",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Sperm only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Egg and sperm",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : Sperm only",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_I_UPSC_CDS_Biology_Part1_55",
+      "serial_no": "55",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Genetically modified (GM) crops contain modified genetic material due to : 1. introduction of new DNA2. removal of existing DNA 3. introduction of RNA4. introduction of new traitsSelect the correct answer using the code given below:",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1 and 2 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "1,2 and 3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "3 and 4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "1,2 and 4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : 1,2 and 4",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_I_UPSC_CDS_Biology_Part1_56",
+      "serial_no": "56",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one of the following vitamins has a role in blood clotting ?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Vitamin A",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Vitamin B",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Vitamin D",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Vitamin K",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : Vitamin K",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_I_UPSC_CDS_Biology_Part1_57",
+      "serial_no": "57",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Glucose is a source of energy. Which one of the following types of molecule is Glucose ?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Carbohydrate",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Protein",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Fat",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Nucleic acid",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : Carbohydrate",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_I_UPSC_CDS_Biology_Part1_58",
+      "serial_no": "58",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "The living content of cell is called protoplasm. It is composed of:",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Cytoplasm only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Cytoplasm and nucleoplasm",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Nucleoplasm only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Cytoplasm, nucleoplasm and other organelles",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : Cytoplasm, nucleoplasm and other organelles",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2016_I_UPSC_CDS_Biology_Part1_59",
+      "serial_no": "59",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2016",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one of the following hormones contains peptide chain?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Oxytocin",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Corticotropin",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Insulin",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Cortisone",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : Cortisone",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_II_UPSC_CDS_Biology_Part1_60",
+      "serial_no": "60",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Penicillin inhibits synthesis of bacterial",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "cell wall",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "protein",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "RNA",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "DNA",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : cell wall",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_II_UPSC_CDS_Biology_Part1_61",
+      "serial_no": "61",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Most antibiotics target bacterial parasites interfering with various factors of growth or metabolism such as1. synthesis of cell wall2. bacterial protein synthesis3. synthesis of nuclear membrane4. mitochondrial functionSelect the correct answer using the code given below.",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1, 2 and 3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "1 and 4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "2 and 3 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "1 and 2 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : 1 and 2 only",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_II_UPSC_CDS_Biology_Part1_62",
+      "serial_no": "62",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which of the following is not gaseous air pollutant?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Oxides of sulphur",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Oxides of nitrogen",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Hydrocarbon",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Smoke",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : Smoke",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_II_UPSC_CDS_Biology_Part1_63",
+      "serial_no": "63",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Genetic screening is",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "analysis of DNA to check the presence of a particular gene in a person",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "analysis of gene in a population",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "pedigree analysis",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "screening of infertility in parents",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : analysis of DNA to check the presence of a particular gene in a person",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_II_UPSC_CDS_Biology_Part1_64",
+      "serial_no": "64",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Who among the following is considered as the father of genetic engineering?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Philip Drinker",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Paul Berg",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Thomas Addison",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Alpheus S. Packard Jr.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : Paul Berg",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_II_UPSC_CDS_Biology_Part1_65",
+      "serial_no": "65",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which of the' following cause(s) variation in the genetic material of progeny?1. Sexual reproduction2. Asexual reproduction3. Mutations4. Epigenetic changesSelect the correct answer using the code given below.",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "2 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "1, 2 and 3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "1, 3 and 4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "1 and 3 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : 1 and 3 only",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_II_UPSC_CDS_Biology_Part1_66",
+      "serial_no": "66",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Cobalt is associated with",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "growth hormone",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "vitamin B12",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "12",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "hemoglobin",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "4",
+        "text": "intestinal enzymes",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : vitamin B12",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_II_UPSC_CDS_Biology_Part1_67",
+      "serial_no": "67",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Absorption of water in the human body can be found in1. renal tubule in kidney2. hepatic cells in liver3. large intestine4. pancreatic ductSelect the correct answer using the code given below.",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1, 2 and 3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "1 and 3 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "2 and 4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "3 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : 3 only",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_II_UPSC_CDS_Biology_Part1_68",
+      "serial_no": "68",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Match List-I with List-II and select the correct answer using the code given below the Lists :List-I (Geological time scale)List-II (Life-form)A. Pleistocene1. MammalsB. Paleocene2. Human genusC. Permian3. InvertebratesD. Cambrian4. Frogscode :ABCD(a)2143(b)2413(c)3412(d)3142",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "(a)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "(b)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "(c)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "(d)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : (a)",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_II_UPSC_CDS_Biology_Part1_69",
+      "serial_no": "69",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Measles is a disease caused by",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "bacteria",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "virus",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "protozoa",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "worm",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : virus",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_II_UPSC_CDS_Biology_Part1_70",
+      "serial_no": "70",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Neutrophils and lymphocytes originate from",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "kidney tubule",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "spleen",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "bone marrow",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "lymph node",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : bone marrow",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_II_UPSC_CDS_Biology_Part1_71",
+      "serial_no": "71",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "The mandate of the scheme entitled ‘Directly Observed Treatment, Short-Course (DOTS)’ launched by WHO is to ensure that",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "doctors treat patients with medicine for a short duration",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "doctors do not start treatment without a trial",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "patients complete their course of drug",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "patients voluntarily take vaccines",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : patients complete their course of drug",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_I_UPSC_CDS_Biology_Part1_72",
+      "serial_no": "72",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "In human digestive system, the process of digestion starts in",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Oesophagus",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Buccal cavity",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Duodenum",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Stomach",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : Buccal cavity",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_I_UPSC_CDS_Biology_Part1_73",
+      "serial_no": "73",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one among the following is a micronutrient present in soil for various crops ?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Calcium",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Manganese",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Magnesium",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Potassium",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : Manganese",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_I_UPSC_CDS_Biology_Part1_74",
+      "serial_no": "74",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one of the following diseases in humans can spread through air ?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Dengue",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Tuberculosis",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "HIV-AIDS",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Goitre",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : Tuberculosis",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_I_UPSC_CDS_Biology_Part1_75",
+      "serial_no": "75",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one of the following statements regarding water cycle is correct ?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Transpiration by plants does not contribute to cloud formation.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Only evaporation of surface water of rivers and oceans is responsible for cloud formation.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Rainfall does not contribute in maintenance of underground water table.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Underground water may also be connected to surface water.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : Underground water may also be connected to surface water.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_I_UPSC_CDS_Biology_Part1_76",
+      "serial_no": "76",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one among the following structures or cells is not present in connective tissues ?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Chondrocytes",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Axon",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Collagen fibre",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Lymphocytes",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : Axon",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_I_UPSC_CDS_Biology_Part1_77",
+      "serial_no": "77",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "The word ‘vaccination’ has been derived from a Latin word which relates to",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Pig",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Horse",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Cow",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Dog",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : Cow",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_I_UPSC_CDS_Biology_Part1_78",
+      "serial_no": "78",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one among the following statements is correct ?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Prokaryotic cells possess nucleus.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Cell m embrane is present both in plant and animal cells.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Mitochondria and chloroplasts are not found in eukaryotic cells.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Ribosomes are present in eukaryotic cells only.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : Cell m embrane is present both in plant and animal cells.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_I_UPSC_CDS_Biology_Part1_79",
+      "serial_no": "79",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one among the following statements is not true for Mammals ?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "They possess hair on the body.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Some of them lay eggs.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Their heart is three chambered.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Some are aquatic.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : Their heart is three chambered.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2015_I_UPSC_CDS_Biology_Part1_80",
+      "serial_no": "80",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2015",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which of the following statements is/are correct ?1. Professor Kamal Bawa was conferred with the Midori Prize (2014) for biodiversity for his research on climate change in the Himalayas.2. Midori Prize is an annual international prize given to an individual for outstanding contribution to the conservation and sustainable use of biodiversity at global, regional or local levels.Select the correct answer using the code given below :",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "2 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Both 1 and 2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Neither 1 nor 2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : 1 only",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_II_UPSC_CDS_Biology_Part1_81",
+      "serial_no": "81",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Match List I with List II and select the correct answer using the code given below the Lists: List I (Animal) List II (Phyla) A. Ascaris  1. Mammalia B. Malarial parasite 2. Arthropoda C. Housefly 3. Nematoda D. Cow 4. Protozoa A B C D(1)3 4 2 1(2)3 2 4 1(3)1 2 4 3(4)1 4 2 3",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "(1)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "(2)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "(3)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "(4)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : (1)",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_II_UPSC_CDS_Biology_Part1_82",
+      "serial_no": "82",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which one among the following pairs is not correctly matched ?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Sandal wood plant : Partial root parasite",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Cuscuta : Parasite",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Nepenthes : Carnivorous",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Mushrooms : Autotroph",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : Mushrooms : Autotroph",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_II_UPSC_CDS_Biology_Part1_83",
+      "serial_no": "83",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which one among the following cattle breed produces highest amount of milk?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Brown Swiss",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Holstein",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Dutch belted",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Blaarkop",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : Holstein",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_II_UPSC_CDS_Biology_Part1_84",
+      "serial_no": "84",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which one among the following is the generic name of the causal organism of Elephantiasis ?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Filaria",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Microfilaria",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Wuchereria banerofti",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Culex pipierts",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : Wuchereria banerofti",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_II_UPSC_CDS_Biology_Part1_85",
+      "serial_no": "85",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which one among the following state­ments is not correct ?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Pulses are rich in proteins",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Milk is a rich source of Vitamin A",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Cereals are very poor source of carbohydrates",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Vegetables are rich source of minerals",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : Cereals are very poor source of carbohydrates",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_II_UPSC_CDS_Biology_Part1_86",
+      "serial_no": "86",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which of the statements given below are correct?1. A person having blood group \"A’ can donate blood to persons having blood group ‘A’ and blood group ‘A B’.2. A person having blood group ‘AB’ can donate blood to persons having blood groups ‘A’, ‘B ’, ‘AB’ or ‘O ’.3. A person with blood group ‘O ’ can donate blood to persons having any blood group.4. A person with blood group ‘O’ can receive blood from the person of any of the blood groups.Select the correct answer using the code given below :",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1, 2, 3 and 4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "1 and 2 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "3 and 4 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "1 and 3 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : 1 and 3 only",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_II_UPSC_CDS_Biology_Part1_87",
+      "serial_no": "87",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which one among the following is the correct pathway for the elimination of urine ?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Kidneys, Ureters, Bladder, Urethra",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Kidneys, Urethra, Bladder, Ureters",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Urethra, Ureters, Bladder, Kidneys",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Bladder, Ureters, Kidneys, Urethra",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : Kidneys, Ureters, Bladder, Urethra",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_II_UPSC_CDS_Biology_Part1_88",
+      "serial_no": "88",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which of the following parts are found in both plant and animal cells ?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Cell membrane, Chloroplast, Vacuole",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Cell wall, Nucleus, Vacuole",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Cell membrane, Cytoplasm, Nucleus",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Cell wall, Chloroplast, Cytoplasm",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : Cell membrane, Cytoplasm, Nucleus",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_II_UPSC_CDS_Biology_Part1_89",
+      "serial_no": "89",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "II"
+    },
+    "content": {
+      "question_text": "Which of the following statements is/are ' correct ?1. Coronary artery supplies blood to heart muscles.2. Pulmonary vein supplies blood to lungs.3. Hepatic artery supplies blood to kidneys.4. Renal vein supplies blood to kidneys.Select the correct answer using the code given below :",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1, 2 and 3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "1 and 2 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "2 and 4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "1, 3 and 4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : 1 and 2 only",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_I_UPSC_CDS_Biology_Part1_90",
+      "serial_no": "90",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which of the following does not possess a specialized conducting tissue for transport of water and other substances in plants?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Marchantia",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Marsilea",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Cycas",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Fern",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : Marchantia",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_I_UPSC_CDS_Biology_Part1_91",
+      "serial_no": "91",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which of the following structures of a plant is responsible for transpiration?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Xylem",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Root",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Stomata",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Bark",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : Stomata",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_I_UPSC_CDS_Biology_Part1_92",
+      "serial_no": "92",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "People suffering from 'anorexia nervosa’",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "develop paralysis",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "show poor reflex",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "cannot speak properly",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "eat very little and fear gaining weight",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : eat very little and fear gaining weight",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_I_UPSC_CDS_Biology_Part1_93",
+      "serial_no": "93",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which of the following statements is/are correct regarding fats?1. Fats are needed for the formation of cell membrane.2. Fats help the body to absorb calcium from food.3. Fats are required to repair damaged tissue.4. Body cannot release energy in fats as quickly as the energy in carbohydrates.Select the correct answer using the code given below.",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1 and 4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "1 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "2 and 4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "3 and 4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : 1 and 4",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_I_UPSC_CDS_Biology_Part1_94",
+      "serial_no": "94",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Among the following animals, choose the one having three pairs of legs.",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Spider",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Scorpion",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Bug",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Mite",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : Bug",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_I_UPSC_CDS_Biology_Part1_95",
+      "serial_no": "95",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which of the following statements is/are correct?1. Amnion contains fluid.2, Ultrasound scan can detect the sex of an embryo.Select the correct answer using the code given below.",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "2 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Both 1 and 2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Neither 1 nor 2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : Both 1 and 2",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_I_UPSC_CDS_Biology_Part1_96",
+      "serial_no": "96",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Which one of the following elements is present in green pigment of leaf?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Magnesium",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Phosphorus",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Iron",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Calcium",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : Magnesium",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_I_UPSC_CDS_Biology_Part1_97",
+      "serial_no": "97",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "In a forest, animals like voles and wood lice feed on plant roots and barks respectively. Among the other carnivores, foxes, shrews and owls are present in that forest. Following predictions are made by a group of observers who have visited the forest :1. If the roots of the tree develop a disease, then voles and foxes will starve and not the owls.2. Population of voles is dependent on wood lice population through food web.3. If owl population declines, it will indirectly affect wood lice population.4. If barks of tree are affected due to a disease, then reduction of wood lice will affect the shrew population forcing owls to eat more voles.Which of the above predictions is/are correct?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1, 2 and 4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "2 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "1 and 2 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "3 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "4",
+        "text": "NA",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "4",
+      "explanation": "Correct Answer is : NA",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_I_UPSC_CDS_Biology_Part1_98",
+      "serial_no": "98",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Match List-I with List-II and select the correct answer using the code given below the Lists :List-I(Gland)List-II(Hormone)A. Pancreas1. CortisolB. Pituitary2. Vitamin DC. Adrenals3. Thyroid stimu­lating hormoneD. Kidneys4. GlucagonABCD(1)4312(2)4132(3)2134(4)2314",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "(1)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "(2)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "(3)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "(4)",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : (1)",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_I_UPSC_CDS_Biology_Part1_99",
+      "serial_no": "99",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Two strands of DNA - are held together by",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "hydrogen bonds",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "covalent bonds",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "electrostatic force",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "van der Waals’ forces",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : hydrogen bonds",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_CDS",
+    "metadata": {
+      "question_id": "2014_I_UPSC_CDS_Biology_Part1_100",
+      "serial_no": "100",
+      "subject": "Biology_Part1",
+      "topic": "",
+      "subtopic": "",
+      "year": "2014",
+      "exam_session": "I"
+    },
+    "content": {
+      "question_text": "Deficiency of which of the following elements is responsible for weakening of bones?1. Calcium2. Phosphorus3. Nitrogen4. CarbonSelect the correct answer using the code given below.",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "en"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1 and 2 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "1 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "1, 2 and 3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "4 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : 1 and 2 only",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  }
+]

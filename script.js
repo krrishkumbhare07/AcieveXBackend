@@ -3,18 +3,14 @@ const cheerio = require("cheerio");
 const fs = require("fs");
 const path = require("path");
 
-const BASE_URL = "https://www.examsnet.com/test/upsc-cds-science-biology-questions-part-2";
-const TOTAL_QUESTIONS = 25;
-const subject = "Biology_Part2";
+const BASE_URL = "https://www.examsnet.com/test/upsc-cds-i-2024-english-paper/";
+const TOTAL_QUESTIONS = 120;
 
-// Create subject folder
-const folderPath = path.join(__dirname, subject);
-if (!fs.existsSync(folderPath)) {
-  fs.mkdirSync(folderPath, { recursive: true });
-}
-
-// JSON file path
-const filename = path.join(folderPath, `${subject}.json`);
+// Define metadata for file naming
+const year = 2024;
+const exam_session = "I";
+const subject = "English";
+const filename = `${year}-${exam_session}-${subject}.json`;
 
 async function fetchQuestion(questionNumber) {
   try {
@@ -76,11 +72,14 @@ async function fetchQuestion(questionNumber) {
     $('script[type="application/ld+json"]').each((_, element) => {
       try {
         const jsonData = JSON.parse($(element).html());
-        if (jsonData["@type"] === "QAPage" && jsonData.mainEntity?.acceptedAnswer) {
+        if (
+          jsonData["@type"] === "QAPage" &&
+          jsonData.mainEntity?.acceptedAnswer
+        ) {
           const answerText = jsonData.mainEntity.acceptedAnswer.text;
-          explanation = answerText;
-
-          // Find the correct option
+          explanation = answerText; // Use full answer text as explanation
+          
+          // Find matching option
           options.forEach((opt) => {
             if (answerText.toLowerCase().includes(opt.text.toLowerCase())) {
               correct_option = opt.id;
@@ -88,7 +87,10 @@ async function fetchQuestion(questionNumber) {
           });
         }
       } catch (error) {
-        console.error(`Error parsing JSON-LD for question ${questionNumber}:`, error);
+        console.error(
+          `Error parsing JSON-LD for question ${questionNumber}:`,
+          error,
+        );
       }
     });
 
@@ -140,7 +142,9 @@ async function fetchAllQuestions() {
 
   // Write to JSON file
   fs.writeFileSync(filename, JSON.stringify(questions, null, 2), "utf-8");
-  console.log(`✅ Successfully saved ${questions.length} questions to ${filename}`);
+  console.log(
+    `✅ Successfully saved ${questions.length} questions to ${filename}`,
+  );
 }
 
 fetchAllQuestions();

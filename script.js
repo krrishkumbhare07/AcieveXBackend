@@ -2,13 +2,14 @@ const axios = require("axios");
 const cheerio = require("cheerio");
 const fs = require("fs");
 
-const BASE_URL = "https://www.examsnet.com/test/upsc-cds-i-2024-english-paper/";
-const TOTAL_QUESTIONS = 120;
+const BASE_URL =
+  "https://www.examsnet.com/fulltest/upsc-cds-gs-history-questions-part-1";
+const TOTAL_QUESTIONS = 10;
 
 // Define metadata for file naming
 const year = 2024;
 const exam_session = "I";
-const subject = "English";
+const subject = "GK";
 const filename = `${year}-${exam_session}-${subject}.json`;
 
 async function fetchQuestion(questionNumber) {
@@ -47,10 +48,13 @@ async function fetchQuestion(questionNumber) {
     $('script[type="application/ld+json"]').each((_, element) => {
       try {
         const jsonData = JSON.parse($(element).html());
-        if (jsonData["@type"] === "QAPage" && jsonData.mainEntity?.acceptedAnswer) {
+        if (
+          jsonData["@type"] === "QAPage" &&
+          jsonData.mainEntity?.acceptedAnswer
+        ) {
           const answerText = jsonData.mainEntity.acceptedAnswer.text;
           explanation = answerText; // Use full answer text as explanation
-          
+
           // Find matching option
           options.forEach((opt) => {
             if (answerText.toLowerCase().includes(opt.text.toLowerCase())) {
@@ -59,7 +63,10 @@ async function fetchQuestion(questionNumber) {
           });
         }
       } catch (error) {
-        console.error(`Error parsing JSON-LD for question ${questionNumber}:`, error);
+        console.error(
+          `Error parsing JSON-LD for question ${questionNumber}:`,
+          error,
+        );
       }
     });
 
@@ -111,7 +118,9 @@ async function fetchAllQuestions() {
 
   // Write to JSON file
   fs.writeFileSync(filename, JSON.stringify(questions, null, 2), "utf-8");
-  console.log(`✅ Successfully saved ${questions.length} questions to ${filename}`);
+  console.log(
+    `✅ Successfully saved ${questions.length} questions to ${filename}`,
+  );
 }
 
 fetchAllQuestions();

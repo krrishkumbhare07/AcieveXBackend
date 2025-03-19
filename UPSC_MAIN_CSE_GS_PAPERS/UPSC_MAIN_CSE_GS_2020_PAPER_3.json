@@ -1,0 +1,431 @@
+{
+  "exam_info": {
+    "exam_type": "UPSC_MAIN_CSE",
+    "year": "2020",
+    "session": "3",
+    "subject": "GS",
+    "total_questions": 20
+  },
+  "questions": [
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2020_PAPER_3_Q1",
+        "serial_no": "1",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2020",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**1. Explain intra-generational and inter-generational issues of equity from the perspective of inclusive growth and sustainable development.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Inter-generational (between the present and future people) and intra-generational (between the rich and the poor of the present generation) equity are two hands of the doctrine of sustainable equity.\n\n**Inter-generational equity and issues**\n\n* Mahatma Gandhi once said, \u201cEarth provides enough to satisfy every man\u2019s needs, but not every man\u2019s greed\u201d. One ofthe primary objectives of inter-generational equity isthe sustainable use ofresources by one generation to enhance economic sustainability for the future generation.\n* Inter-generational equity has become crucial in the present times, due to the growing imbalance in the distribution of resources, ongoing degradation of environment and overexploitation of resources.\n* This imbalance is more profound between the developed and developing nations or between the Global North and the Global South. Moreover, the developed countries are today unwilling to help developing countries adapt and mitigate climate change impacts.\n\n**Intra-generational equity and issues**\n\n* Progress of a society should be determined by the state ofthemost vulnerable and the weakest ones: Mahatma Gandhi\n* The concept of intra-generational equity provides rights and duties to every person of a single generation to use and take care of the resources justifiably so that benefits are reaped by every section of society.\n* In order to promote intra-generational equity, the concept of social justice is propagated. Welfare schemes like subsidies, reservations, etc. are provided by the governments to help the vulnerable section of society but these are often marred in corruption and inefficient implementation.\n* The doctrine offreemarket demandsrollback ofstate and projectsthemarket asthe solution of every problem. However, the pro-market reforms of 1991 have failed to have the trickle-down effect.\n\nThe concept of inclusive growth and sustainable development are the key pillars ofthe global welfare narrative, which can be prompted by ensuring intra-generational and inter-generational equity.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2020_PAPER_3_Q2",
+        "serial_no": "2",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2020",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**2. Define potential GDP and explain its determinants. What are the factorsthat have been inhibiting India from realizing its potential GDP?**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Potential GDP is one of the theoretical aspects of national income accounting which assumes that an economy has achieved full employment and that aggregate demand does not exceed aggregate supply. Like other national income accounting methods, potential GDP also represents the market value of all goods and services but rather than capturing the current objective state of a nation\u2019s economic activity, it attempts to estimate the highest level of output an economy can sustain over a period.\n\n**Determinants of Potential GDP**\n\n* **Capital Stock:** In an economy, capitalstock isthe plant, equipment, and other assetsthat help with production. The availability of capital stock determines the extent of economic output and potential GDP.\n* **Labor Force:** At any given moment in time, the quantities of capital, land, etc., are typically fixed, but the quantity of labor employed varies. Therefore, in the short-run, Potential GDP depends on the quantity of labor employed, which depends on demographic factors and on participation rates.\n* **Non-accelerating Inflation Rate of Unemployment:** It is the specific unemployment rate at which the rate of inflation stabilizes \u2013 inflation will neither increase nor decrease.\n* Other determinants of Potential GDP are the level of labor efficiency, labor market efficiency, production capacity, sufficient liquidity, government fiscal support, etc.\n\n**Factors Inhibiting India from Realizing its Potential GDP**\n\n* **Negative Output Gap:** A negative output gap occurs when actual output is less than what an economy could produce at full capacity. A negative gap means that there is spare capacity, or slack, in the economy due to weak demand.\n* **Fall in Private Consumption:** Private consumption is the prime component of India\u2019s GDP as it contributes a significantshare to GDP (More than 55%). Indian economy experienced a sharp decline in private consumption expenditure in the past few quarters.\u00a0 Such decline in private consumption de-incentivizes firms in producing more goods, thereby the economy is left with unutilized resources and labor force.\n* **Mounting NPAs of Banks:** The Indian banking system is under the huge burden of NPAs (Non-Performing Assets), which has tremendously reduced banks\u2019 lending capacity.\u00a0 This has severely affected businesses, production houses and particularly the real estate segment. Such liquidity shortages reduce the productive capacity of the economy.\n* **Unemployment:** \u00a0Huge unemployment in India is also one of the major factorsthat inhibitsIndia from realizing its Potential GDP.\n* **Informal Economic Activities:** \u00a0Most of the economic activities in India are informal or unorganized and the size of such unorganized sectors is considerably huge but not accounted for in GDP. Therefore, the value of such an economy is not recorded in the national account book and remained unreleased.\n* **Other Factors:** Weak intellectual property rights, low expenditure on R&D, contract enforcement issues, etc.\n\n**Way Forward**\n\n* Need to work more on the policy levels to generate employment, efficient and cost-effective resource mobilization, to promote export and innovation and to enhance the scope of Make in India Programme.\n* Better wages must be ensured so as to increase private consumption expenditure.\n* The negative output gap in GDP needs to be managed and compensated through various fiscal and monetary policy measures keeping inflation in check.\n* The government needs to bring policies that catalyse rural economic growth.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2020_PAPER_3_Q3",
+        "serial_no": "3",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2020",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**3. What are the main constraints in transport and marketing of agricultural produce in India?**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Agriculture contributes about 17% to India\u2019s GDP and it is the primary source of livelihood for more than 55% of India\u2019s population. Indian farmerstoday can sell their produce at the local market, APMC (Agricultural Produce Market Committee) mandis or to the government at the minimum support price (MSP). But still those traditional mechanisms are not improving the farmers\u2019 income. So as to double farmers income and to provide sustainable livelihood, effective transportation and marketing of agricultural produce is crucial.\n\n**Constraints in Transport**\n\n* Poor rural connectivity to markets.\n* Poor supply chain development.\n* Lack in warehousing and cold storage facilities especially in the rural areas where agricultural commodities are being produced.\n* Poor vehicle design or non-availability of cold chain vehicles that transport perishable agricultural produce.\n\n**Constraints in Marketing**\n\n* High logistical cost.\n* Lack of formal agricultural market.\n* Lack of packaging, grading and measurement facility.\n* Stringent commodity transfer control at the state level\n* Lack of national market development\n* Lack of technology integration in the market mechanism\n* Low marketable surplus for agricultural goods.\n* Malpractices in the market and lack of market information.\n\nThe problem for transport and marketing of agricultural produce\u00a0 do not only result in wastage of product and loss of efficiency but also\u00a0 have a very large impact on equitable distribution and inclusive growth by depriving by reducing the returns for smaller farmers.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2020_PAPER_3_Q4",
+        "serial_no": "4",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2020",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**4. What are the challenges and opportunities of the food processing sector in the country? How can the income of the farmers be substantially increased by encouraging food processing?**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Food processing generally includes the basic preparation of foods, the alteration of a food product into another form, and preservation and packaging techniques. For example, extraction of mango juice from the pulp.\n\nChallenges Faced by Food Processing Industry In India\n\n* **Supply Side Bottlenecks:** Fragmented land holdings result in low farm productivity. Due to this, farmers are left with a small and dispersed marketable surplus.\n* **Demand Side Bottlenecks:** The demand for processed food is mainly restricted to urban areas of India and the middle and higher class of population.\n* **Infrastructure Bottlenecks:** Lackofmechanizationandpropersupply chainresultsinpooraccesstomarket.High seasonality and perishability requires cold storage & warehousing facilities and road, rail & port connectivity.\n* **Manpower:** There is a shortage ofskilled workers. At each level in the value chain, there are strong deficiencies in technical know-how and support.\n* **Sanitary and Phytosanitary (SPS) Measure:** The stringent SPS measures applied by developed countries also impedes the exports of processed foods.\n\n**Opportunities Associated with Food Processing Industries**\n\n* **Employment Generation:** FPI provides vital linkage between the two pillars of the economy \u2013 agriculture and industry. Therefore, it provides direct and indirect employment opportunities.\n* **Nutritional Security:** Processed foods when fortified with vitamins and minerals can reduce the nutritional gap in the population.\n* **Trade and Foreign exchange:** Food export can be an important source of foreign exchange, given the huge demand for nutritious, easy to eat and time-saving food in the evolving busy liefestyle.\n\n**Food Processing Industry & Farmers\u2019 Income**\n\n* **Value Addition:** Processed foods fetch a better price than the raw items. For example, the value of biscuit is higher than flour although the raw item is the same. Thus, FPI can help farmers in getting a favourable price for their products.\n* **Demand for Agro-Products:** Urbanization is increasing at a rapid pace in India, which subsequently, increases the demand for processed food. The rise in demand for processed food will, in turn, lead to rise in farmers\u2019 income.\n* **Combating Rural Unemployment:** Food processing being a labour-intensive industry will provide localized employment opportunities and thus will reduce the push factor in source regions of migration.\n\nFood processing has become an integral part of the food supply chain in the global economy. India being an agrarian dominated country must leverage its potential in the Food Processing Industry. It will be help India in doubling farmers\u2019 income by 2022-23.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2020_PAPER_3_Q5",
+        "serial_no": "5",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2020",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**5. What do you understand by nanotechnology and how is it helping in health sector?**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Nanotechnology is the use and the development of techniques to study physical phenomena and develop new material and devices structures in the physical size ranging from 1 to 100 nanometers (nm). Nanotechnology influences almost all areas of our lives, including manufacturing, electronics, computers and information technologies, medicine, the environment and energy storage, chemical and biological technologies, and agriculture.\n\n**Contribution of nanotechnology in health sector**\n\n* Nanomedicine, the application of nanotechnology in medicine helps in producing precise solutions for disease prevention, diagnosis, and treatment.\n* Nanotechnology \u00a0has \u00a0broadened \u00a0itself \u00a0in \u00a0the \u00a0areas \u00a0of \u00a0medical \u00a0tools, \u00a0knowledge, \u00a0and \u00a0therapies \u00a0currently available to clinicians.\n* Better imagining and diagnostic tools enabled by nanotechnology are paving the way for earlier diagnosis, more individualized treatment options, and better therapeutic success rates.\n* Nanotechnology in medicine currently being developed involves employing nanoparticles to deliver \u00a0drugs, heat, light or other substances to specific types of cells (such as cancer cells). This technique reduces damage to healthy cells in the body and allows for earlier detection of disease.\n* In contrast to dialysis, which works on the principle of the size related diffusion of solutes and ultrafiltration of fluid across a semi-permeable membrane, the purification with nanoparticles allows specific \u00a0targeting of substances. Additionally, larger compounds which are commonly not dialyzable can be removed.\n\nBecause of their small size, much concern has been expressed about the potential for adverse health effects arising from the ability of nanoparticles to penetrate cell walls and the blood-brain barrier. Therefore, there is a need to identify key gaps in knowledge and areas where further research may be targeted to efficiently exploit the technology.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2020_PAPER_3_Q6",
+        "serial_no": "6",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2020",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**6. How is science interwoven deeply with our lives? What are the striking changes in agriculture triggered off by science-based technologies?**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "After the Industrial Revolution, the separate paths taken by science and technology began to move closer together. Scientific progress has a major effect on people\u2019s sense of values, and it is changing the nature of society itself in every aspect of life, be it healthcare, education, agriculture, entertainment, etc.\n\n**Science is interwoven deeply in our lives**\n\n* Energy technology viz. the daily use of electrical energy from households to industries.\n* Manufacturing technology viz. the use of machines for manufacturing of food and other essential products of daily use.\n* Environmental technology viz. the management of wastewater and industrial emissions, harnessing of solar energy etc.\n* Scientific research brought new knowledge to Humanity.\n* Economic Development through the promotion of new research and development.\n* Social infrastructure technology like transportation and roads.\n\n**Striking changes in agriculture triggered off by science-based technologies**\n\n* The Green Revolution increased agricultural production, increased farm productivity, and raised farmer\u2019s income.\n* Use of agricultural equipment and machinery helped to make farming and other agricultural practices more effective and easier for the farmer.\n* Disease control with help from the new varieties of genetically Modified crops which are disease resistant.\n* Good roads and modern transport vehicles help in the evacuation of foodstuffs from the hinterland to the urban areas or to other areas where they are needed.\n* ICTs (Information and Communication Technologies) and Remote sensing (via satellites), GIS, eNAM, crop and soil health monitoring, and technologies for livestock and farm management aimed at empowerment, enablement, and market expansion.\n\nThe technologies including Artificial Intelligence, Big Data Analytics, Blockchain Technology, Internet of Things, etc. are going to change and revolutionize agricultural practices along with incentivizing farmers, but environmental factors need to be taken care of along with advancements.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2020_PAPER_3_Q7",
+        "serial_no": "7",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2020",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**7. How doesthe draft EnvironmentImpact Assessment(EIA)Notification, 2020 differfrom the existing EIA Notification, 2006?**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Recently, the Ministry of Environment, Forest and Climate Change (MoEFCC) has proposed a draft Environmental Impact Assessment (EIA) notification 2020, that seeks to replace the current notification which goes back to 2006. EIA is an important process for evaluating the likely environmental impact of a proposed project.\n\n**Environmental Impact Assessment**\n\n* Under the Environment (Protection) Act, 1986, India notified its first EIA norms in 1994, setting in place a legal framework for regulating activities that access, utilise, and affect (pollute) natural resources.\n* Every development project has been required to go through the EIA process for obtaining prior environmental clearance ever since.\n* It is a process whereby people\u2019s views are taken into consideration for granting final approval to any developmental project or activity.\n\n**Difference between draft EIA notification, 2020 and 2006**\n\n* **Public Consultation Process:** The draft notification provides for a reduction of the period from 30 days to 20 daysfor the public to submit their responses during a public hearing for any application seeking environmental clearance.\n* **Post-facto Approval:** The new draft allowsfor post-facto approval for projects. It meansthat the clearancesfor projects can be awarded even if they have started construction or have been running phase without securing environmental clearances. It was not allowed in the 2006 notification.\n* **Compliance Report:** The 2006 notification required that the project proponent submit a report every six months, showing that they are carrying out their activities as per the terms on which permission has been given. However, the new draft requires the promoter to submit a report only once every year.\n* **Central Government Powers:** Through the draft notification, the central government gets the power to categorize projects as \u2018strategic\u2019. Once a project is considered as strategic, the draft notification states that no information related to such projects shall be placed in the public domain.\n\n**Major concerns regarding the draft EIA 2020**\n\n* Public consultation is exempted in a wide range of areas like modernization of irrigation projects, construction of buildings, standalone flyovers, bridges, national defence, and security projects etc. This provides people a limited scope to be a part of the EIA process.\n* The period of public hearing and obtaining objections has been reduced and that poses a grave problem in areas where access to information is difficult and where people are unaware about the EIA process.\n\nThe new notification is being brought in order to make the process more transparent and expedient by the implementation of an online system, further delegation, rationalization and standardization of the process. But on the other hand, it is also evident that the draft seeks the growth of commercial projects at the cost of the environment.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2020_PAPER_3_Q8",
+        "serial_no": "8",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2020",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**8. What are the salient features of the Jal Shakti Abhiyan launched by the Government of India for water conservation and water security?**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "The Jal Shakti Abhiyan is a time-bound, mission-mode campaign for water conservation and water security. It is a mass movement to bring all the stakeholders under one ambit of water conservation drive. The campaign was mainly focused on the water-stressed blocks and districts.\n\n**Water Scarcity in India**\n\n* India has nearly 17.7% of the world\u2019s population which has access to only 4% of the usable water sources. Poor management of resources and lack of government attention has contributed as a major factor for water scarcity in India.\n* As per NITI Aayog report released in June 2019, India is facing the worst-ever water crisis in history. Approximately 600 million people or roughly around 45 % of the population in India is facing high to severe water str\n* As per the report, several Indian cities will run out of their main source of water e., groundwater by 2020. The report goes on to say that nearly 40% of the population will have absolutely no access to drinking water by 2030 and 6% of India\u2019s GDP will be lost by 2050 due to the water crisis.\n\n**The salient features of the Jal Shakti Abhiyan**\n\n* The Jal \u00a0Shakti \u00a0Abhiyan \u00a0is \u00a0a \u00a0campaign \u00a0for \u00a0water \u00a0conservation \u00a0and \u00a0water \u00a0security \u00a0in \u00a0the \u00a0country \u00a0through \u00a0a collaborative effort of various ministries of the Government of India and state governmen\n* The focus of the campaign is on water stressed districts and block The teams of officers from the central government will visit and work with district administration in water stressed blocks and districts, to ensure five important water conservation interventions.\n* **The important water conservation interventions are:**\n  + Water conservation and rainwater harvesting,\n  + Renovation of traditional and other water bodies/tanks,\n  + Reuse of water and recharging of structures,\n  + Watershed development, and\n  + Intensive afforesta\n* The water conservation interventions will also be supplemented with special interventions including the development of block and district water conservation plans, promotion of efficient water use for \u00a0irrigation and better choice of crops through Krishi Vigyan Kendr\n\nFollowing the massive water crisis across India in the summer of 2019, the Central government hurriedly launched the Jal Shakti Abhiyan (JSA). These kind of interventions would ensure water source sustainability in rural areas and would strengthen the ongoing Jal Jeevan Mission being implemented by the Ministry of Jal Shakti.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2020_PAPER_3_Q9",
+        "serial_no": "9",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2020",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**9. Discuss different types of cyber crimes and measures required to be taken to fight the menace.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Cyber crime is a criminal activity thatinvolves computersor anynetworkdevicesthattargetindividuals, companies, and governments for direct financial gain or to sabotage or disrupt operations. Cyber crime is a major threat to sectors identified under Critical Information Infrastructure (CII) that include financial systems, air traffic control and telecommunications.\n\n**Different types of Cyber crimes**\n\n* **Malware,** short for malicious software, refers to any kind of software that is designed to cause damage to a single computer, server, or computer network. Ransomware, Spyware, Worms, viruses, and Trojans are all varieties of malware.\n* **Phishing:** It is the method of trying to gather personal information using deceptive e-mails and websites.\n* **Denial of Service attacks:** A Denial-of-Service (DoS) attack is an attack meant to shut down a machine or network, making it inaccessible to its intended users. DoS attacks accomplish this by flooding the target with traffic or sending it information that triggers a crash.\n* **Man-in-the-middle (MitM) attacks,** also known as eavesdropping attacks, occur when attackers insert themselves into a two-party transaction. Once the attackers interrupt the traffic, they can filter and steal data.\n* **Social engineering** is an attack that relies on human interaction to trick usersinto breaking security procedures to gain sensitive information that is typically protected.\n\n**Measures to be taken**\n\n* Real-time intelligence is required for preventing and containing cyber-attacks.\n* Periodical \u2018Backup of Data\u2019 is a solution to ransomware.\n* Using Artificial Intelligence (AI) for predicting and accurately identifying attacks.\n* Using the knowledge gained from actual attacks that have already taken place in building effective and pragmatic defense.\n* Increased awareness about cyber threats for which digital literacy is required first.\n* There is a need to secure the computing environment and IoT with current tools, patches, updates and bestknown methods in a timely manner.\n* The need of the hour isto develop core skillsin cybersecurity, data integrity and data security fields while also setting stringent cyber security standards to protect banks and financial institutions.\n\nOne of the highest numbers of cyber threats have been detected in India, and the country ranks second in terms of targeted attacks. Banking and Telecom are the most attacked sectors, but manufacturing, healthcare, and retail have also faced a significant number of cyber-attacks. Thus, there is an urgent need to take protective measures to tackle this menace.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2020_PAPER_3_Q10",
+        "serial_no": "10",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2020",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**10. For effective border area management, discuss the steps required to be taken to deny local support to militants and also suggest ways to manage favourable perception among locals.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "India shares its border with seven countries, and it occupies a major strategic position in Southern Asia, therefore,\u00a0it is necessary to manage the borders properly. Governments make a huge investment and provide good support for border security. Still, border management poses major challenges around the world.\n\n**Steps required to be taken**\n------------------------------\n\n* **Employment opportunities**: Provide employment opportunities to the youth so that they can do away with the militancy and therefore instead of supporting the militants, they will oppose them.\n* **Grassroot Democracy**: Conducting local body elections in re-establishing the grassroot level democracy which results into the extended support from community in development processes.\n* **Media Facilitation Centers**: Setting up of Media Facilitation centers to reduce the trust deficit since these centers provide internet services to the reporters and freelancers.\n* **Intelligence Grid**: Strengthening the technical intelligence grid to track any terror suspect and prevent terrorist attacks with real time data. It will also enhance human intelligence networking.\n\n**Way Forward**\n---------------\n\n* Without the development process, there will be no organic end of the causes of discontent and unrest.\n* Social empowerment by means of skills, education, employment opportunities, human rights, rule of law have enough potential in tackling the unfavorable perception among the locals.\n* Also, controlling the misinterpretation of culture, hate speeches and ignorance will enhance the process of persuasion and cognitive change.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2020_PAPER_3_Q11",
+        "serial_no": "11",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2020",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**11. Explain the meaning of investment in an economy in terms of capital formation. Discuss the factors to be considered while designing a concession agreement between a public entity and private entity.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "In the context of economy, investment refers to the expenditure made for the creation of capital assets or capital goods that are used to generate future income and wealth.\u00a0 Investment is elucidated and defined as an addition to the stockpile of physical capital such as machinery, buildings, equipment, roads etc. Investment is crucial for capital formation as it leads to more capital accumulation thereby increases national economic output.\n\n**Economic Impact of Investment**\n\n* Investment leads to the addition of capital stock in the economy.\n* It enhances the production capacity of the economy.\n* More the production, more will be the gross domestic product (GDP).\n* In the later stage, it may also encourage domestic savings.\n\nA concession agreement is a negotiated contract that grants rights to a company by a government, local authority, or other legal entity. It basically means a Public-Private Partnership (PPP) which allows joint development and maintenance of government projects.\n\n**Factors that need to be considered while designing a concession agreement**\n\n* The time of concession agreement should be very well defined.\n* It should be clear about the fees, time period and authority.\n* It should be clear about the authority, who will manage, maintain and repair the project in a timely manner.\n* It should be clear about timely financing including viability gap funding.\n* It should be clear about requirements of environmental impact assessment and requirement of land clearance.\n\nConcession agreements are of fundamental importance for the development of infrastructure in the country. It has reduced the time lags and costs involved in undertaking such agreements. Therefore, a well-designed concession agreement will not only help in performance improvement but also help in reducing contract disputes.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2020_PAPER_3_Q12",
+        "serial_no": "12",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2020",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**12. Explain the rationale behind the Goods and Services Tax (Compensation to States) Act of 2017. How has COVID-19 impacted the GST compensation fund and created new federal tensions?**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "The Goods and Services Tax is a comprehensive, multi-stage, destination-based tax. It is a single domestic indirect tax law which has subsumed many indirect taxes in India such as services tax, VAT, etc. The Goods and Service Tax (Compensation to States) Act, 2017 provides for a mechanism to compensate the States on account of loss of revenue which may arise due to implementation of the Goods and Services Tax.\n\n**Rationale behind this Act**\n\n* **Raising new revenue sources**: After the introduction of GST, States have very limited taxation rights as most of the taxes, barring those on petroleum, alcohol, and stamp duty, were subsumed under GST. This deficiency is fulfilled by the Union by compensating them.\n* **Fixed revenue growth**: The compensation is calculated based on the difference between the states\u2019 current GST revenue and the protected revenue after estimating an annualized 14% growth rate from the base year of 2015-16. If such a fixed amount is not assured, the Central Government will compensate States for such deficiency.\n* **Guaranteed compensation**: Under the GST (Compensation to States) Act, 2017, states are guaranteed compensation for loss of revenue on account of implementation of GST for a transition period of five years between 2017 and 2022.\n\n**Impact of COVID-19 on GST compensation fund and creation of new federal tensions**\n\n* The gains of GST have started to quickly erode as the slowdown in the economy, exacerbated by the COVID-19 lockdowns, has thrown all revenue calculations to the wind.\n* Due to huge shortfalls in the tax collection under GST the Central government and State Government has come at loggerheads as Centre has shown its incapability to compensate the States as promised under the GST Act 2017.\n* The inability of the Government and binding clause in the Act, caused a conflict between federal ideas under the Constitution.\n* Many states have concern over the compensation in this hour of need and questioned the Centre to break its federal agreement.\n\nIt is time for states to accept the realities and agree to a lower level of compensation, ideally linked to the growth rate of the Indian economy in nominal terms and the Centre must understand that it is their statutory obligation, and they can\u2019t abrogate it. GST reforms must not fall victim to the trust deficit engendered by this standoff between the Centre and the States. Both must cooperate and coordinate in this hour of need.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2020_PAPER_3_Q13",
+        "serial_no": "13",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2020",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**13. What are the major factors responsible for making the rice-wheat system a success? In spite of this success how has this system become bane in India?**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "The rice-wheat cropping system has remained a predominant cropping pattern in the Indo-Gangetic region since years. The pattern in itself is so robust that three-fourth of the country\u2019s annual domestic need for wheat and rice is fulfilled by a handful of states in the region. Indian states that predominantly practice this system are Punjab, Haryana, Bihar, Uttar Pradesh, and Madhya Pradesh.\n\n**Factors responsible for making rice-wheat system a success**\n\n* The first major reason is the availability of **ideal geographical conditions**. Cultivation of rice requires a good amount of water for irrigation. Fortunately, in India, especially northern India, a good amount of water is available through annual monsoonal rainfall. Similarly, cultivation of wheat requires cool, moist weather, followed by dry, warm weather with optimum temperature range 20-25 degree Celsius. Fortunately, this condition is available in northern India during November to February every year.\n* The second major reason is the **support given by the Government** of India to wheat and rice producers in the form of Minimum Support Price (MSP) procurement. MSP is declared to give guaranteed price and assured market to the farmers and protect them from price fluctuations and market imperfections. Thus, farmers hardly opt for crops other than wheat and paddy.\n* Third major reason is the **low input cost and high productivity** in case of wheat and rice crops. Also, as per the government policy, the increase in MSPs of these two crops every year is comparatively more than the increase in the cost of production. So, farmers producing these crops generally have an increase in their profits year by year.\n\n**The Rice-Wheat system has become bane in India because of following reasons**\n\n* **Residue management**: The straw residue in case of wheat is used in animal husbandry but straw residue in case of rice or paddy cannot be used for animal husbandry due to high silica content. So, to dispose of the residue from the field and make the land ready for the next wheat crop, farmers burn the straw in open fields. This causes major environmental pollution, especially during the months of November-December in the NCR region.\n* **Unchecked water usage**: Paddy has a high-water footprint and therefore leads to large amounts of groundwater extraction for irrigation by farmers. This has declined the underground water table in most parts of northern India. Since artificial recharge of aquifers is still not very feasible in India and groundwater recharge is still dependent on rainfall, the depleting water table is a major issue.\n* **Lack of Crop rotation**: Crop rotation helps to maintain soil structure and nutrient levels and to prevent soil borne pests. Continuous plantation of wheat and rice on the same land has degraded the soil structure and nutrition levels in soil. Cereal crops like sorghum, maize, and millet are more nutritious than wheat and rice and so should be given equal importance in the cropping system.\n* **MSPs**: Since MSPs on wheat and rice ensures good income to farmers at minimal risks, farmers have increased the production of wheat and rice to such levels that there is glut in the market. The burgeoning stocks of wheat and rice means higher social costs and a higher subsidy bill by the government, putting additional pressure on an already stressed government.\n\nThus, to sum up, we can say that the rice-wheat system is doing less good for the country and this is the time to do away with this old agricultural practice. There is an urgent need to take necessary steps to implement new and sustainable agricultural policy and rules in this regard.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2020_PAPER_3_Q14",
+        "serial_no": "14",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2020",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**14. Suggest measures to improve water storage and irrigation system to make its judicious use under depleting scenario.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "A continuous wastage or misuse of potable groundwater either in industries, agriculture or households has left a large population of the country facing high water stress conditions today. High wastage of water coupled with burgeoning population in some manner ensures that sooner or later we will be facing scarcity of potable water in the country.\n\n**Traditional methods to improve water storage and irrigation**\n\n* **Jhalaras**: They are typically rectangular-shaped stepwells that have tiered steps on three or four sides.\n* **Talabs**: These are reservoirs that store water for household consumption and drinking purposes. They may be natural, such as the pokhariya ponds.\n* **Bawaris**: These are unique stepwells that were once a part of the ancient networks of water storage in the cities. The little rain that the region received would be diverted to this man-made tank through canals.\n* **Taanka**: It is a traditional rainwater harvesting technique indigenous to the desert region.\n* **Ahar Pynes**: These are traditional floodwater harvesting systems indigenous to regions frequently prone to floods.\n* **Johads**: These are one of the oldest systems used to conserve and recharge groundwater, which are small earthen check dams that capture and store rainwater. It is constructed in an area with naturally high elevation on three sides.\n\n**Modern methods to improve water storage and irrigation**\n\n* **Rainwater Overhead Tanks**: These are the simple tanks placed over the building or on the terrace, collecting water as it comes.\n* **Rooftop Rainwater Harvesting**: A simple structure where the roof is used as a support for installing catchment pipes through which the rainwater flows and is eventually stored in ground level containers.\n* **Percolation Tanks**: The percolation tanks are mostly earthen dams with masonry structure only for spillway. The purpose of these tanks is to recharge the groundwater storage.\n\n**Irrigation methods to ensure judicious use of water**\n\n* **Bamboo Drip Irrigation System**: It is an indigenous system in northeast India. In this, the water from perennial springs is diverted to the terrace fields using varying sizes and shapes of bamboo pipes. The system ensures that small drops of water are delivered directly to the roots of the plants.\n* **Irrigation Scheduling**: It is basically smart water management. It deals with when, how often, and how much water needs to be provided to plants. To avoid overwatering of crops and avoid water wastage farmers carefully monitor the weather forecast, understand the soil condition, and use smart meters for water management.\n* **Dryland Farming**: The practice of cultivating crops without irrigation in regions of limited moisture.\n* **Sprinkler Irrigation**: It is a method of applying water to crops which is similar to natural rainfall but in a more judicious manner and spread uniformly over the land surface. It is done using a pump, pipes and nozzle to sprinkle water.\n\nThus, we see that traditional methods when coupled with modern scientific approaches to conserve water can produce the intended results in the field of water conservation. Hence, the above-mentioned methods should be brought to use holistically to reduce water wastage and ensure availability of potable water to mankind for a longer period of time.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2020_PAPER_3_Q15",
+        "serial_no": "15",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2020",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**15. COVID-19 pandemic has caused unprecedented devastation worldwide. However, technological advancements are being availed readily to win over the crisis. Give an account of how technology was sought to aid management of the pandemic.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "The lockdown imposed worldwide during COVID-19 pandemic brought almost all the world to standstill. It impacted our lives, both personal and professional. However, the advancement in technology helped to manage almost all kinds of stuff even during this pandemic.\n\n**Ways in which technology helped during COVID-19 pandemic**\n\n* **Enabling Distance Learning Features for students**: Since educational institutions remained shut during the pandemic, there was a major concern on delivery of education. But the online platforms like websites, YouTube and mobile applications helped students and teachers to interact and ensure education is not interrupted even during this pandemic.\n* **Online Entertainment**: Entertainment is considered very necessary to remove stress. During pandemic, since individuals cannot move out freely for entertainment, therefore, online platforms acted as a major boost for their entertainment. With theatres remaining shut, Over the Top (OTT) platforms such as Amazon Prime Video, Hotstar, Netflix, etc. helped both producers and consumers to run the entertainment industry.\n* **Contactless Delivery of Essentials**: Online shopping which was earlier predominant in urban areas became very common even in rural areas during this pandemic. Easy searching of items on the web, placing of order with ease and timely delivery at doorstep have built consumer confidence in online shopping. Thus, technology ensured delivery of essentials like medicines, electronic items, grocery, etc. via contactless mode during this pandemic.\n* **Robotics**: Doctors and nurses were also feared of getting infected with corona during medical diagnosis or performing normal procedures. Robots have eased their work by cleaning infected areas and by delivering food to quarantined individuals.\n* **Work from Home (WFH) Facility**: The work from home option available to employees has ensured smooth running of business activities. 4G technology, smart phones, better Internet, data privacy security, virtual meetings, cloud conferencing, etc. have assisted professionals in adopting work from the home scenario with ease.\n* The Access to COVID-19 Tools (**ACT**) **Accelerator** is a pioneering international teamwork to fast-track development, production, and equitable access to COVID-19 tests, treatments, and vaccines.\n* \u2018**Aarogya Setu**\u2019, a mobile app utilizing Bluetooth technology, algorithms and artificial intelligence, was developed to bring the people of India together in a determined fight against COVID-19.\n* **Co-WIN** or the COVID-19 Vaccine Intelligence Network, which is an extension of electronic Vaccine Intelligence Network (eVIN), is a digitalized tech platform for effectively rolling out and scaling up of the COVID Vaccine Distribution System mechanism at national level to reduce wastage and make the most effective use of vaccine supply and cold chain network.\n* AI enabled **MyGov Corona Helpdesk** helped improve our outreach and engagement during the pandemic and made a marked difference to society.\n* The Centre for Augmenting War with COVID-19 Health Crisis (**CAWACH**) encouraged Bangalore based start-up to bring out a mobile app for detection of possible infection in an asymptomatic individual and risk assessment of COVID 19 infected individuals, called Lyfas COVID score.\n\nThus, we notice that during the COVID-19 period technology innovations helped in tackling the epidemic in a timely and systematic manner. Technology will not only ease one\u2019s life but also generate new opportunities for society and also prove a cornerstone to deal with such pandemics, if any, in near future.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2020_PAPER_3_Q16",
+        "serial_no": "16",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2020",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**16. Describe the benefits of deriving electric energy from sunlight in contrast to the conventional energy generation. What are the initiatives offered by our government for this purpose?**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "India lying in the tropical belt has an advantage of receiving peak solar radiation for 300 days, amounting 2300-3,000 hours of sunshine equivalent to above 5,000 trillion kWh. India\u2019s current installed solar power capacity, according to Central Electricity Authority, is 26025.97 MW which is 34% of total renewable energy sources i.e., 75055.92 MW till February 2019.\n\n**Benefits of deriving electrical energy from sunlight in contrast to the conventional energy generation**\n\n* **Energy Security**: India is dependent on imports to fulfill its energy demands, thereby incurring huge expenditure and uncertainty with regards to energy security. Thus, solar energy being cheap and easily available can fulfill the energy demands.\n* **Social Development**: The problem of power cuts and unavailability of electricity, especially in rural areas, leads to improper human development. Mostly energy demands are fulfilled by subsidized kerosene, leading to loss for exchequer.\n* **Environment Concern**: India\u2019s large part of energy demand is fulfilled by thermal energy largely dependent on fossil fuels which causes environmental pollution. Solar energy is a clean form of energy resource, which can be a substitute.\n* In solar power energy overhead wires are not required, so no transmission loss. Solar energy conversion equipment has a longer life and needs lesser maintenance and hence provides higher energy infrastructure security.\n\n**Initiatives offered by the government**\n\n* National Solar Mission initiative of the Government of India and State Governments promotes ecologically sustainable growth while addressing India\u2019s energy security challenge.\n* The Indian Renewable Energy Development Agency (IREDA) which provides term loans for renewable energy and energy efficiency projects.\n* National Institute of Solar Energy is created as an autonomous institution under MoNRE, which is an apex body for R&D in solar energy.\n* Establishment of solar parks and ultra-major solar power projects and enhancing grid connectivity infrastructure.\n* Promotion of canal bank and canal tank solar infrastructure.\n* Sustainable rooftop implementation of Solar transfiguration of India (SRISTI) scheme to promote rooftop solar power projects in India.\n* Suryamitra programme to prepare qualified workforce.\n* India also proposed the setting up of International Solar Alliance (ISA), a platform for the collaboration of sunshine countries in the domain of energy security.\n\nWith its pollution free nature, virtually inexhaustible supply and global distribution, solar energy is an extremely attractive energy resource. India, with its Intended Nationally Determined Contributions (INDCs) commitment of 100 GW of solar power out of 175 GW renewable energy by 2022, can surely benefit from this energy resource.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2020_PAPER_3_Q17",
+        "serial_no": "17",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2020",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**17. What are the key features of the National Clean Air Programme (NCAP) initiated by the government of India?**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "National Clean Air Programme is a national framework for air quality management with a time-bound reduction target. The NCAP will be a mid-term, five-year action plan with 2019 as the first year.\n\n**Features of the National Clean Air Programme (NCAP)**\n\n* To achieve a national-level target of 20-30% reduction of PM2.5 and PM10 concentration by 2024, keeping 2017 as base year.\n* Under NCAP, 122 non-attainment cities have been identified across the country based on the Air Quality data from 2014-2018.\n* The city specific action plans have been prepared which, inter-alia, include measures for strengthening the monitoring network, reducing vehicular/industrial emissions, increasing public awareness etc.\n* Implementation of the city specific action plans are regularly monitored by Committees at Central and State level namely Steering Committee, Monitoring Committee and Implementation Committee.\n* Air quality of cities is monitored by State Pollution Control Boards which publishes their results from time to time. Some Smart Cities have established Integrated Command and Control Centres (ICCCs) which are also connected to Air Quality Monitors (AQMs) for effective monitoring.\n* It also proposes state-level plans of e-mobility in the two-wheeler sector along with rapid augmentation of charging infrastructure, stringent implementation of BS-VI norms, boosting public transportation system, and adoption of third-party audits for polluting industries.\n* To attain its desired objectives, NCAP follows the approach of Collaborative, Multi-scale and Cross-Sectoral Coordination between relevant Central Ministries, State Government and local bodies.\n\nNCAP is envisaged to be dynamic although the targets appear less ambitious. However, it is expected to evolve based on the additional scientific and technical information.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2020_PAPER_3_Q18",
+        "serial_no": "18",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2020",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**18. Discuss the recent measures initiated in disaster management by the Government of India departing from the earlier reactive approach.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "A disaster is a result of natural or man-made causes that leads to sudden disruption of normal life, causing severe damage to life and property to an extent that the available social and economic protection mechanisms are inadequate to cope. Disaster in India is managed under the Disaster Management Act, 2005.\n\nRecent measures in disaster management are a departure from the erstwhile reactive approach wherein authorities acted after a disaster had ocuured. Such an approach used to focus entirely on rescue, rehabilitation and reconstruction. But recent measures, inter alia, also focus on preparedness, mitigation and adaptation.\n\n**Recent measures initiated in the disaster management:**\n\n* National Disaster Management Services (NDMS) was conceived by NDMA during 2015-16 for setting up of Very Small Aperture Terminal (VSAT) Network connecting MHA, NDMA, NDRF etc. to provide the failsafe communication infrastructure and technical support for Emergency Operation Centre (EOC) operations across the country.\n* NDMA has taken an initiative on Earthquake Disaster Risk Indexing (EDRI) for 50 important cities and 1 district in Seismic Zone IV & V areas.\n* NDMA through the Building Materials & Technology Promotion Council (BMTPC) has prepared Upgraded Earthquake Hazard Maps and Atlases for the country for better planning and policies.\n* The Aapda Mitra scheme of NDMA has provision for training 6000 community volunteers in disaster response in 30 most flood prone districts (200 volunteers per district) in 25 States.\n* The government has set up a National Crisis Management Committee and Crisis Management Group.\n* The state governments have set up state crisis management groups headed by chief secretaries, institutes of relief commissioners and state/district contingency plans.\n* The disaster management policy of the government stresses on forecasting and warning using advanced technologies, contingency agricultural planning to ensure availability of food grains, and preparedness and mitigation through specific programmes.\n* Project on deployment of Mobile Radiation Detection Systems (MRDS) to handle Radiological Hazards in metros/capital cities/big cities in India to detect unclaimed radioactive materials/substances and save the public from its hazardous effects.\n* The Disaster Management Act (DMA) 2005 was invoked by the government to deal with the COVID-19 pandemic.\n\nNevertheless, in India, disaster management is yet to be seen as integral to development planning. The preparedness at various levels is not people-oriented. India\u2019s capacity to manage disaster risk is challenged by its size and huge population. A scientifically planned adaptation is needed, which will require the government support.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2020_PAPER_3_Q19",
+        "serial_no": "19",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2020",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**19. What are the determinants of left-wing extremism in Eastern part of India? What strategy should the Government of India, civil administration and security forces adopt to counter the threat in the affected areas?**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Left Wing Extremism (LWE) organizations are the groups that try to bring change through violent revolution. They are against democratic institutions and use violence to subvert the democratic processes at ground level.\n\n**Determinants of Left-Wing Extremism in Eastern Part of India**\n\n* **India\u2019s land reform policy**: The land reform policies of India could not be successful in some parts of the nation post-independence, which led to the growth of Maoists and Naxals in India.\n* **Tribal issues**: Tribals face exploitation and harassment from government and corporate bodies to extract resources since eastern region is rich in natural resources including forests, minerals and mines. Also, issues of trafficking of women and girls are mostly seen among tribal groups.\n* **Development deficit and forced displacement**: In this region, people are solely dependent on the primary sector since the region has significant natural resources. Exploitation of the natural resources for economic progress has led to the forceful displacement of tribal which results into the alienation of tribal community.\n* **Government deficit**: Government is unable to provide sufficient education facilities, basic healthcare facilities, employment, etc. in eastern part of India. Also, there are issues related to law and order and grievance redressal. Poor implementation of special laws and mismanagement of schemes like PDS.\n\n**Strategies to be taken to counter such menace:**\n\n* Innovative measures are required to be employed in preventing IED (Improvised Explosive Device) related incidents which have caused significant casualties in recent years.\n* States play a vital role in maintaining law and order. So, emphasis should be laid on the capacity-building and modernization of the local police forces. Local forces can efficiently and effectively neutralize the LWE organizations.\n* States should rationalize their surrender policy to bring innocent individuals caught in the trap of LWE in the mainstream.\n* Rehabilitation plans for surrendered Naxalites.\n* National Policy and Action plan to address LWE.\n\nFor the holistic last-mile development of \u201cNew India\u201d, it is necessary to get rid of the menace of such radicalized groups and the synergized efforts of the Centre and the States are crucial in achieving the same.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2020_PAPER_3_Q20",
+        "serial_no": "20",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2020",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**20. Analyze internal security threats and transborder crimes along Myanmar, Bangladesh and Pakistan borders including Line of Control (LoC). Also discuss the role played by various security forces in this regard.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "India has a large and complex border covering around 15106.7 km, which it shares with Bangladesh, China, Pakistan, Nepal, Myanmar, Bhutan as well as a small portion with Afghanistan.\n\n**Challenges in the effective border management particularly to Myanmar, Bangladesh and Pakistan:**\n\n* **India-Myanmar Border**: The northeastern states of Arunachal Pradesh, Nagaland, Manipur, and Mizoram share the border with Myanmar. Some of the insurgent groups like the National Socialist Council of Nagaland (NSCN) and the United Liberation Front of Asom (ULFA) operate from Myanmar, which threatens the security of India as well as Myanmar.\u00a0Porous nature of the border provides safe route to human traffickers, illegal arms dealers, drug smugglers etc.\n* **India-Bangladesh Border**: The Indo-Bangladesh Border (4,096 km) passes through West Bengal, Assam, Meghalaya, Tripura, and Mizoram. The entire stretch consists of plains, riverine belts, hills and forests which make illegal migration easy. Illegal migration across this border poses serious security threats and acts as a fertile ground for organizations like the Inter-Services Intelligence of Pakistan to penetrate and expand their activities. Also, the poor law and order situation at the border has led to smuggling of arms and drugs. Supply of arms help in sustaining any conflict.\n* **India-Pakistan Border**: Indo-Pakistan Border (3,323 km) runs along the states of Gujarat, Rajasthan, Punjab and Jammu & Kashmir. Direct accessibility of the borders and some technological developments enabling quick passage of information and transfer of funds has changed the focus and tenor of border security. Cross-border terrorism from Pakistan has exacerbated due to non-recognition of boundaries by its terrorist groups and their success in acquiring legitimacy due to religious or ethnic identity.\n\n**Role played by various security forces in this regard**\n\n* **Assam Rifles**: This force significantly contributed to opening the region to administration and commerce and over time they came to be known as the right arm of the civil and left arm of the military.\n* **Border Security Force**: The BSF has air wing, marine wing, an artillery regiment, and commando units. It currently stands as the world\u2019s largest border guarding force. BSF has been termed as the First Line of Defence of Indian Territories. It is India\u2019s primary border guarding organization on its border with Pakistan and Bangladesh.\n* **Sashastra Seema Bal**: The sole objective of this force is achieving \u2018total security preparedness\u2019 in the remote border areas for performing a \u2018stay-behind\u2019 role in the event of a war. SSB is now spread along the International Border across Uttarakhand, UP, Bihar, West Bengal, Sikkim, Assam, and Arunachal Pradesh.\n\nIndia should endeavor to meaningfully engage with Myanmar, Bangladesh and Pakistan and solicit their cooperation in resolving all outstanding issues and better manage their mutual border.",
+        "explanation_format": "markdown"
+      }
+    }
+  ]
+}

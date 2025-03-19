@@ -1,0 +1,431 @@
+{
+  "exam_info": {
+    "exam_type": "UPSC_MAIN_CSE",
+    "year": "2019",
+    "session": "3",
+    "subject": "GS",
+    "total_questions": 20
+  },
+  "questions": [
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2019_PAPER_3_Q1",
+        "serial_no": "1",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2019",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**1. Enumerate the indirect taxes which have been subsumed in the Goods and Services Tax (GST) in India. Also, comment on the revenue implications of the GST introduced in India since July 2017.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Goods and Services Tax (GST) is an **indirect, comprehensive, multi-stage, destination-based tax** that is levied on every **value addition**.\n\nThe Goods and Service Tax Act was passed in the Parliament in March 2017. The Act came into effect on 1st July 2017.\n\n**At the Central level, the following taxes have been subsumed in the GST:**\n\n* Central Excise Duty\n* Additional Excise Duty\n* Service Tax\n* Countervailing Duty\n* Special Additional Duty of Customs\n\nAt the **State** level, the following taxes have been subsumed in the GST:\n\n* State Value Added Tax/Sales Tax,\n* Entertainment Tax (other than the tax levied by the local bodies), Central Sales Tax (levied by the Centre and collected by the States)\n* Octroi and Entry tax\n* Purchase Tax\n* Luxury tax\n* Taxes on lottery, betting and gambling\n\n**Revenue implications of GST since July 2017:**\n\n* GST was introduced in July 2017. After the initial transitional issues following the roll-out of GST, revenue collection picked up from an annual average of 89.8 thousand crores in 2017-18 to 98.1 thousand crores in 2018-19.\n* However in 2018-19, indirect taxes have fallen short of budget estimates by about 16 per cent, following a shortfall in GST revenues (including CGST, IGST and compensation cess) as compared to the budget estimates. Indirect taxes have fallen by 0.4 percentage points of GDP primarily due to shortfall in GST collections.\n* According to the Economic Survey, though there has been an improvement in tax to GDP ratio over the last six years, gross tax revenues as a proportion of GDP has declined by 0.3 percentage points in 2018-19 over 2017-18.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2019_PAPER_3_Q2",
+        "serial_no": "2",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2019",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**2. Do you agree with the view that steady GDP growth and low inflation have left the Indian economy in good shape? Give reasons in support of your arguments.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "The Economic Survey 2018-19 states that the economy witnessed a gradual transition from a period of high and variable inflation to a more stable and low level of inflation in period 2014-18. However, in the current fiscal quarter, the headline inflation has fallen to the lowest value and also there is a reduction in Gross Value Added (GVA). This has raised various debates around the use of inflation targeted monetary policy and its impact on the overall economy.\n\n### Points to agree\n\n* **Provided policy stability:** Steady growth rate and low inflation has provided better market conditions for investment and production planning.\n* **More equitable:** Inflation impacts the poor more as it decreases their purchasing power. Low inflation increases disposable income and therefore increases investment in the economy.\n* **Maintaining the fiscal deficit to the appropriate level:** Controlled price level has helped in reducing subsidies and unnecessary tax cuts.\n* **Helping urban economy:** Low inflation rate has kept the living cost in urban areas to a manageable level. This has provided relief to the middle class.\n\n### Points to disagree\n\n* **Fall in consumption demand:** Decreasing Consumer Price Index (CPI) clearly shows the receding disposable income in rural areas which can be clearly seen in the Q2 GDP growth rate falling to 5%.\n* **Reduction in investment:** The contraction of the economy due to falling consumption has reduced the scope of further investment.\n* **Double Balance Sheet Problem:** Due to the slowdown, various corporates are facing the revenue shortage to pay back the interest, leading to NPA problem faced by the banks.\n* **Revenue Shortfall of the Government:** Due to less income generation in the economy, direct tax revenue has receded. This reduces government legroom for more public expenditure.\n\n### Way forward\n\n* **Increasing liquidity:** The recent step to slash the corporate tax and providing loans to MSMEs is the desired initiative to infuse more liquidity in the economy and increase investment.\n* **Increasing public expenditure:** Schemes like MGNREGS, rural housing etc. should be implemented more effectively so as to give a boost to rural income generation and thus demand creation.\n* **Promoting labour-intensive industries** such as Food Processing Industries, Leather Industries, etc. in order to create demand in the economy and provide employment to youths.\n\nCurrent monetary policy easing should be continued to give a renewed push to the investment cycle of Indian economy. Inflation is a double edged sword therefore a sustainable range of the inflation rate of 4-6% should be maintained so that maximum income generation could happen in the economy.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2019_PAPER_3_Q3",
+        "serial_no": "3",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2019",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**3. How far is Integrated Farming System (IFS) helpful in sustaining agricultural production.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "The Integrated Farming System (IFS) is a combined approach aimed at efficient sustainable resource management for increased productivity in the cropping system. The IFS approach has multiple objectives of sustainability, food security, farmer\u2019s security and poverty reduction by involving livestock, vermicomposting, organic farming etc.\n\nIndian farm sector needs to address the twin challenges of productivity and sustainability along with augmentation of farmer\u2019s income. For this, IFS emerges as one of the most viable options, as it ensures:\n\n* **Productivity:** IFS provides an opportunity to increase economic yield per unit area by virtue of intensification of crop and allied enterprises especially for small and marginal farmers.\n* **Profitability:** It has the capability to make the sector profitable by reducing the use of chemical fertilizer and recycling nutrients.\n* **Sustainability:** In IFS, subsystem of one byproduct works as an input for the other subsystem, making it environmentally sustainable. Moreover, IFS components are known to control the weed and regarded as an important element of integrated pest management and thus minimize the use of weed killers as well as pesticides and thereby protect the environment.\n* **Recycling:** Effective recycling of products, by-products and waste material in IFS is the cornerstone behind the sustainability of farming system under resource poor condition in rural areas.\n* **Income round the year:** Due to interaction of enterprises with crops, eggs, meat and milk, IFS provides flow of money round the year amongst the farming community.\n* **Best utilization of small landholdings:** Indian farmers in many regions such as in north-eastern part, practice subsistence agriculture. They also have a rich traditional base in water harvesting, soil management etc. which could be efficiently utilized under IFS.\n* **Meeting fodder crisis:** Byproduct and waste material of crop are effectively utilized as fodder for livestock (Ruminants) and products like grain, maize are used as feed for monogastric animals (pigs and poultry).\n* **Employment generation:** Combining crop with livestock enterprises would increase the labour requirement significantly and would help in reducing the problems of underemployment and unemployment to a great extent. IFS provides enough scope to employ family labour round the year.\n\nIFS provides multiple benefits that are sustainable and can pave the way for *climate-smart agriculture*. India needs to adopt a \u201cwell designed\u201d Integrated Farming System (IFS) to realise the vision of **doubling farmers\u2019 income by 2022** and **having sustainable agricultural practices**.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2019_PAPER_3_Q4",
+        "serial_no": "4",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2019",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**4. Elaborate the impact of National Watershed Project in increasing agricultural production from waterstressed areas.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Watershed project involves conservation, regeneration and judicious use of all the resources like land, water, plants, animals and humans within the watershed area.\n\nThe National Watershed Project also known as Neeranchal National Watershed Project is a World Bank assisted watershed management project. The objective of this project is to support Integrated Watershed Management Program (IWMP) through technical assistance to improve incremental conservation outcomes for the natural resources including water, soil and forests while enhancing agricultural yields in a sustainable manner for farming communities.\n\nWater-stressed regions of India such as Northwest India, Vidarbha region of Maharashtra etc. are prone to drought and water scarcity thus affecting the agricultural production in the regions. **The National Watershed Project has the potential in increasing agricultural production in these regions:**\n\n* The project has led in reduction of surface runoff thus increasing groundwater recharge, soil moisture and better availability of water in water-stressed areas. It also helps farmers to better manage surface and groundwater resources.\n* This has resulted in incremental agriculture productivity and increased cropping intensity through optimum utilization of natural resources like land, water, vegetation etc.\n* For example, a watershed project in Bangaru, Telangana has increased crop yields and cropping intensity significantly. This is also accompanied by a shift towards higher-value crops especially horticultural crops.\n* It will also help to mitigate the adverse effects of drought and prevent further ecological degradation and support farmers in water-stressed areas to adapt to climatic change and ensuring improved livelihoods for people.\n* It helps in the restoration of ecological balance in the degraded and fragile water-stressed areas by increasing vegetative cover and decrease soil erosion through afforestation and crop plantation.\n* People\u2019s involvement including the farmers and tribal is the key to the success of any watershed management program, particularly the soil and water conservation. Successful watershed management has been done at Sukhomajri, Panchkula and Haryana through active participation of the local people.\n\nHowever, watershed project faces certain challenges such as very little community participation, lack of coordination between implementing departments and ministries, etc. Properly educating the people about the project and its benefits or sometimes paying certain incentives to them can help in effective people\u2019s participation. Watershed Development on a large scale is the best solution to overcome water-stressed problems.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2019_PAPER_3_Q5",
+        "serial_no": "5",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2019",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**5. How was India benefited from the contributions of Sir M.Visvesvaraya and Dr. M. S. Swaminathan in the fields of water engineering and agricultural science respectively?**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "The British rule in India neglected modernisation of Indian agriculture and little was done to improve irrigation system. After independence, India did not have enough to feed its burgeoning population and it was forced to subsist on *\"ship to mouth\"* existence.\n\nAt these junctures,two personalities-Sir M Visvesvaraya and MS Swaminathan- emerged who revolutionised their respective fields of knowledge, contributing enormously to India\u2019s development.\n\n### Sir M. Visvesvaraya\u2019s contribution in the field of water engineering\n\n* He is remembered as India\u2019s most prolific civil engineer, dam builder, economist, statesman, and can be counted among the last century\u2019s foremost nation-builders.\n* He played an instrumental role in the construction of the Krishna Raja Sagara Lake and dam in 1924. This dam not only became the main source of water for irrigation for the nearby areas, but is also the main source of drinking water for several cities.\n* Visvesvaraya was, among other things, responsible for the building and consolidation of dams across the country. He invented the Block System -automated doors that close in the conditions of overflow, and also designed Hyderabad\u2019s flood management system.\n* He is recognised for his brilliance and creativity in harnessing water resources, designing and constructing dams and bridges, and revolutionising the irrigation system in India.\n* Due to his outstanding contribution to the society, Government of India conferred \u2018Bharat Ratna\u2019 on this legend in the year 1955.\n\n### Dr. M.S. Swaminathan\u2019s contribution to agriculture science\n\n* A plant geneticist by training, Professor Swaminathan\u2019s contributions to the agricultural renaissance of India have led to his being widely referred to as the scientific leader of the green revolution movement.\n* Recognized worldwide for his basic and applied research in genetics, cytogenetics, radiation and chemical mutagenesis, food and biodiversity conservation, he conceptualized *ever-green revolution* movement in agriculture.\n* Swaminathan is the visionary who took India from the bondage of \u2018Ship to Mouth\u2019 existence to the freedom of *\u2018Right to Food\u2019* through home grown food.\n* Apart from serving as head of various national and international institutions, he headed the **National Commission on Farmers (NCF)** constituted in 2004 to address the nationwide calamity of farmer suicides in India.\n\nIndia needs to adhere to the visions of these two men, especially when our agrarian challenges are mounting due to erratic rainfall, cycles of floods and droughts, unsustainable practices and other endemic issues.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2019_PAPER_3_Q6",
+        "serial_no": "6",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2019",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**6. What is India\u2019s plan to have its own space station and how will it benefit our space programme?**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "A space station is a large artificial satellite designed to be occupied for long periods and to serve as a base for scientific observation. Recently, India has announced its plan to build its own space station, as a carry forward of the Gaganyaan mission, which will be the first Indian manned mission to space.\n\n### India\u2019s Plan toward own Space Station\n\n* The proposed space station is envisaged to weigh 20 tonnes and serve as a facility where astronauts can stay for 15-20 days.\n* It would be placed in lower Earth\u2019s orbit at around 400 km above the earth.\n* The time frame for launch is 5-7 years after the Gaganyaan mission which is expected to take place in 2022.\n* The Gaganyaan mission would equip the ISRO with the necessary technology required for creating space platforms.\n\n### Space station\u2019s benefit toward the space programme\n\n* It would help to sustain Human Space Mission in the future for a longer period of time.\n* Space platforms can be used to perform Microgravity experiments. It would help in scientific and technological developments such as innovations related to water purification and biotechs.\n* It will help in Deep space exploration like the study of other galaxies.\n* The indigenous Space station would enhance India\u2019s image in the international sphere. It would increase\n* India\u2019s position as a space power.\n* India can earn revenue from the commercial engagements with other countries from its space prowess.\n\nIndia should increase its engagement with the private sector and research institutions in order to create human resources and innovative products for its growing space economy.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2019_PAPER_3_Q7",
+        "serial_no": "7",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2019",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**7. Coastal sand mining, whether legal or illegal, poses one of the biggest threats to our environment. Analyse the impact of sand mining along the Indian coasts, citing specific examples.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Sand consumption globally has been increasing and according to a report by the United Nations Environment Programme (UNEP), India is in the list of critical hotspots for coastal sand mining.\n\n**Coastal sand mining poses one of the biggest threats to our environment:**\n\n* It is very damaging to the beach fauna and flora and is ruinous to beach aesthetics.\n* Resulting in coastal erosion, it frequently causes environmental damage to other coastal ecosystems associated with the beach such as wetlands.\n* Another major impact of beach sand mining is the loss of protection from storm surges associated with tropical cyclones and tsunamis.\n\n**Indian coasts are greatly affected by coastal sand mining:**\n\n* For instance, in Periyasamypuram in Tuticorin district of Tamil Nadu, fish catch has come down, the palm trees have dried up, ground water has turned brackish and the sea has entered the village due to coastal sand mining.\n* Seawater intrusion, inundation of coastal land and salinisation of groundwater have been observed along the coast of Kollam, Alappuzha, Pathanamthitta, Kottayam and Ernakulam due to sand mining.\n* Coastal sand mining also has many negative impacts on the society. It affects the livelihood of the people, health, science beauty, climate and damage infrastructure.\n\nBetter spatial planning and reducing unnecessary construction, using green infrastructure, adopting recycled and alternative substitute materials such as oil palm shell, bottom ash, strictly adhering to Coastal Regulation Zone (CRZ), etc. can help in reducing coastal sand mining. Also strengthening standards and best practices to curb irresponsible extraction; investing in sand production and consumption measurement should be adopted at policy level.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2019_PAPER_3_Q8",
+        "serial_no": "8",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2019",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**8. Vulnerability is an essential element for defining disaster impacts and its threat to people. How and in what ways can vulnerability to disasters be characterized? Discuss different types of vulnerability with****reference to disasters.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "According to **United Nation Office of Disaster Risk Reduction (UNDRR), Vulnerability** can be defined as the conditions determined by physical, social, economic and environmental factors or processes, which **increase the susceptibility** of an individual, a community, assets or systems to the impacts of hazards.\n\nVulnerability assessment needs to be based on a systematization and conceptualization of vulnerability describing the main linkages between the different components of risk. Only if the population and decision makers know where and how vulnerable the system is and which social\u2013economic, physical, and environmental factors play a major role in it, adequate measures can be implemented to reduce vulnerabilities to disasters. It involves two approaches:\n\n* **Scientific Approach:** It includes the research line of practical measurement approaches of vulnerability and disaster risk reduction.\n* **Policy Approach:** It provides information about the spatial distributions of vulnerability to different natural hazards upon which the authorities need to take actions.\n\n### Different Types of Vulnerability\n\n* **Physical Vulnerability:** The potential for physical impact on the physical environment \u2013 which can be **expressed as elements-at-risk (EaR)**. The degree of loss to a given EaR or set of EaR resulting from the occurrence of a natural phenomenon of a given magnitude and expressed on a scale from 0 (no damage) to 1 (total damage)\u201d.\n  + **For Example:** A wooden house is sometimes less likely to collapse in an earthquake, but it may be more vulnerable in the event of a fire or a hurricane.\n* **Economic Vulnerability:** The potential impacts of hazards on economic assets and processes (i.e. business interruption, secondary effects such as increased poverty and job loss) vulnerability of different economic sectors.\n  + **For Example:** Families with low incomes often live in high-risk areas around cities, because they can\u2019t afford to live in safer (and more expensive) places.\n* **Social Vulnerability:** The potential impacts of events on groups such as the poor, single parent households, pregnant or lactating women, the handicapped, children, and elderly; consider public awareness of risk, ability of groups to self-cope with catastrophes, and status of institutional structures designed to help them cope.\n  + **For Example:** Women and children are more vulnerable to disasters as compared to men.\n* **Environmental Vulnerability:** The potential impacts of events on the environment (flora, fauna, ecosystems, biodiversity).\n  + **For Example:** People living in the tropical areas are more vulnerable to tropical cyclones as compared to people living in temperate region.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2019_PAPER_3_Q9",
+        "serial_no": "9",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2019",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**9. The banning of \u2018Jamaat-e-islaami\u2019 in Jammu and Kashmir brought into focus the role of over-ground workers (OGWs) in assisting terrorist organizations. Examine the role played by OGWs in assisting terrorist** **organizations in insurgency affected areas. Discuss measures to neutralize the influence of OGWs.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Terrorism instils an innate sense of fear in the citizen and dilutes the perceived control of the state over law and order. This state of lawlessness creates conditions which help the terrorist group achieve its political aims. Overground workers(OGWs) provide a support system to terrorist groups and networks in carrying out their activities in insurgency affected areas.\n\n### The role played by OGWs\n\n* **Food and Logistics support:** OGWs assist terror networks to meet their basic needs.\n* **Propaganda and radical narrative:** This provide the ideological background to the terror outfits.\n* **Finding new recruits:** Pool of Disgruntled youth provide a fertile ground for OGWs to propagate radicalisation and hire new recruits.\n* **Coordination with other stakeholders:** OGWs coordinate with secessionist leaders, and Organised crime Networks to meet their political objectives.\n* **Conduit for Illegal Money:** This is done through illegal trade, counterfeit currency, Tax evasion and Hawala transactions. These funds are also used to instigate anti-state protest like stone-pelting.\n* **Assist in the planning and execution of terror plans:** They provide operational planning, intelligence information, safety routes, maps and other inputs that are needed for terror operations.\n\n### Measures to neutralize the influence of OGWs\n\n* **Address the root cause of alienation among affected communities:** This is done by addressing genuine concerns and through awareness campaigns that dispel false propaganda.\n* **Rehabilitating orphans and women:** This would fulfil the state\u2019s duty to ensure Social welfare. Also, It would counter the influence of OGWs to find new recruits.\n* **Intelligence Infrastructure:** To keep track of radicalisation attempts by OGWs and recruitment agents in order to stop this process at its inception.\n* **Human and Electronic Surveillance:** This is used to tap into existing networks to pre-empt terror attempts.\n* **International cooperation:** To facilitates follow up on suspects and terror networks.\n* **Fast track courts:** Laws like Public Safety acts for the speedy conviction of terrorists and OGWs through fast track special courts.\n\nHowever, Misuse of the legal provision in the random booking of youth on mere suspicion should be avoided. The best defence against terrorism is to ensure that the people do not have the incentive to pick up arms against the country by providing them equitable political, social and economic opportunities.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2019_PAPER_3_Q10",
+        "serial_no": "10",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2019",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**10. What is CyberDome Project? Explain how it can be useful in controlling internet crimes in India.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "CyberDome project is a technological research and development centre of Kerala Police Department, conceived as a cyber centre of excellence in cyber security, as well as technology augmentation for effective policing.\n\nIt envisages as a high tech public-private partnership centre of collaboration for different stakeholders in the domain of cyber security and handling of cyber crimes in a proactive manner.\n\nIndia has witnessed a 457% rise in cybercrime incidents under the Information Technology (IT) Act, 2000 from the year 2011 to 2016.\n\n### CyberDome project can be useful in controlling these internet crimes in India\n\n* The project can help in preventing cyber crimes through development of a cyber threat resilient ecosystem in the country to defend against the growing threat of cyber attacks. To effectively tackle cybercrime, the Government has collaborated with private sector and academia to conform rapidly changing technology world.\n* The Cyberdome will act as an online police patrol. Through its Anti-Cyber Terror Cell and a cybersecurity training unit, its officers will generate intelligence on various cyber threats in near real time and track fugitives online by monitoring their online activities, including social networking sites.\n* It will create a digital repository of stolen and lost vehicles and travel documents, track online payments to prevent money laundering and channelling of funds to dubious organisations and issue cyber security advisories.\n* Cyberdome would have centres for social media awareness, protection of children on the Internet, Internet monitoring and ICT (Information and Communication Technology) in service delivery.\n* Cyberdome in collaboration with the RBI, Banks, payment gateways and other wallet groups can tackle financial fraud.\n* Through its ransomware school, CyberDome can understand, analyse and mitigate ransomware infections, create standard operating procedures to deal with ransomware, creating awareness among the public as well as government departments about ransomware and its precautionary steps.\n* The Cyberdome is expected to enable sleuths to obtain vital leads in cases of cyber-related offences using advancements in the field of information technology.\n* Of late, Cyberdome has used social engineering as the lynchpin of its policing strategy to snoop on radical groups that use the net for extremist activities.\n* Cyberdome has made successful propaganda war against online games such as Blue Whale.\n* Of late, Cyberdome has launched a covert cyber-surveillance and infiltration programme to crack down on child pornography. Thus, Cyberdome project has great potential to control internet crimes and must be replicated at the national level.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2019_PAPER_3_Q11",
+        "serial_no": "11",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2019",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**11. It is argued that the strategy of inclusive growth is intended to meet the objective of inclusiveness and sustainability together. Comment on this statement.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "**According to the World Bank, Inclusive Growth (IG)** refers to **'broad-based', 'shared'**, and **'pro-poor growth'**. It encompasses both the **pace** and **pattern of growth**, which is considered interlinked and therefore needs to be addressed together. **Inclusiveness, on the other hand,** is a concept that encompasses **equity, equality of opportunity, and protection in market and employment transitions** and is therefore an essential ingredient of any successful growth strategy.\n\n* **Rapid pace of growth** is unquestionably necessary for substantial poverty reduction, but for this growth to be **sustainable in the long run**, it should be **broad-based across sectors**, and **inclusive** of the large part of the country\u2019s labour force.\n  + Thus, IG focuses on **productive employment** rather than **income redistribution** as a means of increasing incomes for excluded groups. Also, the focus is not only on **incremental productive employment growth** but also on **productivity growth**.\n* Growth can be **\u2018inclusive\u2019 and \u201cpro-poor\u201d**, if and only if the incomes of poor people grow faster than those of the population as a whole, i.e., **inequality declines**. By focusing on inequality, the inclusive growth could lead to optimal outcomes for both poor and non-poor households.\n* Sustained, high growth rates and poverty reduction, however, can be realized only when the **sources of growth are expanding**, and an **increasing share of the labour force is included** in the growth process in an efficient way i.e. growth associated with **progressive distributional changes** will have a greater impact in reducing poverty than growth which leaves distribution unchanged.\n* The inclusive growth approach takes a longer-term perspective, where it is important to recognize the time lag between reforms and outcomes. Inclusive growth analytics is about policies that should be implemented in the short run, but for sustainable, inclusive growth in the future.\n  + **For Example:** The lag between the time when investments in education are made and the time when returns from improved labour skills are realised- this implies that the growth analysis must identify future constraints to growth that may not be binding today, but that may need to be addressed today in order to ensure sustainable and inclusive growth.\n* **Sustainable development** should be followed wherein we should not only be inclusive with respect to people but also bring the environment in its inclusion thus causing minimum depletion of resources and going for a circular economy.\n* In the past few years, the government is aggressively focusing on the strategy of inclusive growth in its various programs and policies.  \n  + **For Example,** Jan Dhan Yojana has focused on incorporating the unbanked masses into the financial sector and has increased financial inclusion statistics to more than 80%.\n\nIn the last few decades, India\u2019s growth story has been phenomenal but the outcomes of this growth were not visible on the ground as India has performed badly in several social indicators as well as **Human Development Index**. Therefore inclusive growth is the idea to realize the dream of sustainable and qualitative development for present and future generations.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2019_PAPER_3_Q12",
+        "serial_no": "12",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2019",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**12. The public expenditure management is a challenge to the Government of India in the context of budgetmaking during the post-liberalization period. Clarify it.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "The public expenditure management (PEM)is an instrument of state policy and mechanism for good governance. The broad objective of PEM is the achievement of overall fiscal discipline, strategic allocation of resources, operational efficiency and macro-economic stability.\n\n### Various challenges faced by the government with regard to PEM\n\n* **Global Shocks:** Global slowdown, Federal rates (for eg. reversal of quantitative easing), Trade wars, Oil prices etc. impact the budget estimates which in turn impacts the subsidies allocation and tax revenue collection.\n* **Narrow tax net:** More reliance on indirect tax makes the taxation policy more regressive. It also constrains the government to increase its social spending, which is low in India as compared to other major global economies.\n* **Less capital expenditure:** Budget\u2019s capital expenditure is essential to ensure inter-generational equity and competitiveness of the economy. It has remained around 10%-12% of government expenditure.\n* **Populist tendencies:** This leads to unproductive spending of the scarce government resources. For eg. giving tax sops, farm loan waivers in the pre-election period.\n* **Fiscal deficit:** Keeping the deficit within the desired limit is essential for maintaining the fiscal prudence.\n* **Managing public debt:** It is essential to ensure that the burden of the current generation\u2019s needs doesn\u2019t fall on the next generation.\n* **Trade deficit:** It should be reduced in order to have healthier global trade and improve market competitiveness.\n* **Containing inflation:** It is one of the most important objectives of monetary policy which is also impacted by the revenue and expenditure policies of the government.\n* **Estimates of revenue and expenditure:** In order to have effective PEM, comprehensive and realistic estimates of revenue and expenditure are essential. Currently, there is uncertainty in providing correct budget estimates.\n* **Ensuring equitable development across regions:** One of the pressing challenges faced by the government with regard to public expenditure management is to ensure equitable development across the regions.\n* **Inadequate capacity and efficiency of public institutions:** Substantive portion of budget allocation towards various schemes remains unutilized and underutilized due to poor implementation and structural bottlenecks. It leads to poor efficiency and cost overruns. For e.g. stalled road projects.\n\n### Government measures for effective PEM\n\n* **FRBM (Amendment) Act:** Government has targeted to reduce the fiscal deficit gradually and stabilize it by 2023 to 2.5%.\n* **Removing Plan/Non-plan distinction:** Removing plan/non-plan distinction and instead adopting the revenue-capital classification of public expenditure will help in allocation of more resources for creation of capital assets which in turn will help in improving the efficiency of economy.\n* **Monetary policy framework:** Inflation targeting by the Monetary Policy Committee has helped in price stability, which is key to effective PEM.\n* **Deepening of Fiscal Federalism:** More tax revenue has been devolved to states from the divisible tax pool. It would help in better allocation of scarce resources based on the needs of states.\n* **Monitoring system framework:** It has been developed at the central level to enable the outcome budgeting. Also, it enables the timely assessment of resource utilization. E.g. Public Financial Management System (PFMS).\n\nWith the 1991 reforms, the Indian economy was linked with the global economy. The effective PEM becomes more essential in this globalised era to meet various objectives of state policy. Various fiscal targets should be followed prudently and monitoring of resource utilization should be made robust.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2019_PAPER_3_Q13",
+        "serial_no": "13",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2019",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**13. What are the reformative steps taken by the Government to make the food grain distribution system more effective?**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "The National Food Security Act (NFSA), 2013 provides for the Right to Food as a legal entitlement by providing subsidized food grains to nearly two-thirds of the population. However, the current food grain distribution system is fraught with various defects.\n\n### Issues with the Food Grain Distribution System\n\n* **Inaccurate identification of households:** Presence of inclusion and exclusion errors in identification of beneficiaries.\n* **Leakages in the delivery system:** This takes place during the transportation of food grains to ration shops and from there to the open market.\n* **Financially inefficient:** The centre bears a large financial burden of the food subsidy as the cost of procuring and delivering food grains is about six times its sale price.\n* **Shortfall in the storage capacity:** It leads to the rotting of food grains.\n\n### Reformative steps taken by the Government:\n\n* **Procurement**\n  + **Promotion of nationwide procurement:** Food Corporation of India (FCI) has tried to revamp and restructure the procurement system to cover the entire country. In this regard, FCI has also made special efforts for procurement in the eastern states of India.\n* **Stocking and Storage**\n  + **Use of modern technology in storage:** To prevent rotting of food grains. Irradiation Technology has also been introduced.\n  + **Online Monitoring System:** To bring all operations of FCI Godowns online to check leakages.\n* **Distribution**\n  + **Digitization of ration cards and use of AADHAR:** It has helped to eliminate duplicate and ghost (fake) beneficiaries, and make identification of beneficiaries more accurate.\n  + **Technology-based reforms implemented by states:** End to end computerisation has curbed large-scale diversion of food grains by tracking its delivery from state depots to beneficiaries.\n  + **GPS tracking of delivery:** The tracking of the movement of trucks carrying food grains has helped in monitoring the supply chain. It has been implemented by Chhattisgarh and Tamil Nadu.\n  + **SMS based monitoring by citizens:** Allows monitoring by citizens as they can register their mobile numbers and send/receive SMS alerts during dispatch and arrival.\n  + **Use of web-based citizen\u2019s portal:** For public grievance redressal as they can register complaints or provide suggestions.\n  + **Implementing Direct Benefit Transfer (DBT) in Public Distribution System (PDS):** Currently, pilot projects have been started in Delhi and Puducherry.\n\n### Way forward\n\n* **Decentralized Procurement:** Decentralized procurement operations by leading states that have gained sufficient experience in this regard. This would help Food Corporation of India (FCI) to focus on lagging states.\n* **Engagement of the private Sector:** This can help to modernize stocking and warehousing facilities.\n* **Home delivery of food grains:** This can help in increasing last-mile connectivity.\n* **Full implementation of Shanta Kumar** committee **recommendations**.\n\nFood security is crucial for reaping the benefits of demographic dividend and this can be achieved through a robust food distribution system. Competitive federalism should be promoted among states so as to learn from the best practices of other states in managing the food economy.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2019_PAPER_3_Q14",
+        "serial_no": "14",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2019",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**14. Elaborate the policy taken by the Government of India to meet the challenges of the food processing sector.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "The food processing industry (FPI) is considered a sunrise sector that has gained prominence in recent years. The industry is of enormous significance because of the vital linkages and synergies that it promotes between the two pillars of our economy i.e. industry and agriculture.\n\n**The food processing industry is struggling with the following challenges:**\n\n* **Poor supply chain linkages** that results in high wastage and high costs.\n* **Infrastructure bottlenecks** such as packaging facilities, cold storage, transportation, etc. cause a significant amount of food produced getting wasted.\n* India lacks basic **standardisation and certification infrastructure,** as there is a huge gap in the availability of laboratories, trained manpower, and certification agencies.\n* **Lack of trained human resources** at different levels in the food processing industry mostly due to lack of training infrastructure; lack of specialised training programmes etc.\n* In addition, there are challenges like inadequate demand-based innovations, access to credit, proper branding, etc.\n\nGiven the above-mentioned challenges, the government has taken the following policy initiatives:\n\n* The Ministry of Food Processing Industries (MoFPI) is implementing **PMKSY (Pradhan Mantri Kisan SAMPADA Yojana)** as a comprehensive package for creation of modern infrastructure with efficient supply chain management from farm gate to retail outlet. It is expected to provide a big boost to the growth of food processing sector, help in providing better returns to farmers, create huge employment opportunities especially in the rural areas, reduce wastage of agricultural produce, and enhance the export of the processed food. Under PMKSY the following schemes are to be implemented.\n  + Mega Food Parks\n  + Integrated cold chain, value addition and preservation infrastructure\n  + Creation/expansion of food processing/preservation capacities\n  + Infrastructure for agro-processing clusters\n  + Scheme for creation of backward and forward linkages\n  + Food safety & quality assurance infrastructure\n  + Human resources and institutions\n* **Foreign Direct Investment (FDI) policy:** FDI up to 100%, under the automatic route is allowed in food processing industries.\n* **Agricultural and Processed Food Products Export Development Authority (APEDA):** As an apex organisation under the Ministry of Commerce and Industry, APEDA focusses on \u2018export\u2019 of scheduled products.\n* **The Food Safety and Standards Authority of India (FSSAI)** is working to strengthen the food testing infrastructure in India, by upgrading the existing food testing laboratories and setting up new mobile testing labs across the country.\n* The Ministry of Food Processing Industries announced a **scheme for Human Resource Development (HRD)** in the food processing sector. The scheme has the following four components:\n  + Creation of infrastructure facilities for degree/diploma courses in the food processing sector\n  + Entrepreneurship Development Programme (EDP)\n  + Food Processing Training Centres (FPTC)\n  + Training at recognised institutions at State/national level\n\nThe food processing industry is critical to India\u2019s growth and the government should focus on providing adequate impetus to the sector. With the correct set of policy implementations and support, the industry can grow by leaps and bounds, taking India to a new position of strength and prosperity in the global economy.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2019_PAPER_3_Q15",
+        "serial_no": "15",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2019",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**15. How is the Government of India protecting traditional knowledge of medicine from patenting by pharmaceutical companies?**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Traditional medicine comprises medical aspects of Traditional Knowledge (TKs) that developed over generations within various societies before the era of modern medicine. India has diverse set of traditional practices arising out of Ayurveda, Siddha, and diverse Tribal Practices that have developed over generations.\n\n### Issues involved in the protection of Traditional Knowledge\n\n* **Non-codification of TKs:** Non-codified traditional knowledge are vulnerable to lose their relevance with the influences of modern medical practices.\n* **Patenting of TKs by Biotechnology companies:** Various cases of Bio-piracy were raised in India where Biotech companies used the Traditional Knowledge to develop products and issued patents. E.g. Jeevani sports drug was derived from traditional knowledge of Kani tribe.\n* **Access and Benefit Sharing from TKs:** Traditional knowledge is also often held collectively by communities, rather than by individual owners. This makes the benefit sharing difficult.\n* **Inadequate International Regimes for protection of TKs:** Due to the community nature of traditional knowledge, it is not recognized in international laws explicitly.\n\n### Steps of Government To Protect TKs\n\n* **Legal Steps:**\n  + **Biological Diversity Act:** It contains the provision for fair and equitable sharing of the benefits arising out of the utilization of genetic resources.\n  + **Forest Rights Act 2006:** It provides for community rights over forest resources. It can help in the protection of traditionally owned knowledge and practices. It also protects and promotes the livelihood of tribal community which is often based on their knowledge system and forest produce.\n  + **The Geographical Indication of Goods (Registration and Protection) Act, 1999:** It provides a collective right to the holders of the traditional knowledge associated with a particular geographical area.\n* **Institutional Steps:**\n  + **AYUSH Ministry:** To cultivate education and research in Ayurveda, Yoga, Naturopathy, Unani, Siddha, Homoeopathy, Sowa-Rigpa (Traditional Tibetan medicine), and other indigenous medicine systems.\n\n### Policy Measures, Initiatives and Projects\n\n* **Traditional Knowledge Digital Library (TKDL):** It is a repository of traditional knowledge, especially of medicinal plants and formulations used in Indian system of medicine.\n* **National Ayush Mission:** It promotes AYUSH medical practices, quality enhancement and mainstreaming these practices to our healthcare system. It also promotes the education and awareness of AYUSH medicine system.\n* **Research Centres and National Institutes** have been created across India in the fields of Ayurveda, Unani, Homoeopathy, Siddha.\n* **India has also signed agreements** with the United Kingdom Intellectual Property Office and other countries\u2019 patent office like USA etc to prevent the grant of invalid patents by giving patent examiners at International Patent Offices access to the TKDL database for patent search and examination.\n\nThe interest in traditional medicines is growing rapidly due to the increased side effects, adverse drug reactions, and cost factor of modern medicines. So, awareness and development of various traditional knowledge practices should be done along with a focus on their mainstreaming so as to reap its potential of great livelihood support particularly for the tribals. Also, a sui-generis system should be developed that can recognize the diverse nature of Traditional Knowledge and provide them with adequate legal and commercial protection.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2019_PAPER_3_Q16",
+        "serial_no": "16",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2019",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**16. How can biotechnology help to improve the living standards of farmers?**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "In India, the majority of the population is involved in agriculture but it is not remunerative enough, especially in areas which did not go through the stages of the green revolution. In this scenario, biotechnology holds good potential to transform agriculture. It can affect all steps of the production chain, from agrochemical inputs to final food processing.\n\n* Under **biotechnology,** plants, bacteria, fungi and animals whose genes have been altered by manipulation **(Recombinant DNA Technology)** are called **Genetically Modified Organisms (GMO)**. GMO technology has brought **significant changes in agriculture** and areas related to it.\n* **Tissue Culture** is the science of cultivating animal/ plant tissue in a prepared medium. Technologies based on this can be harnessed to achieve crop improvement objectives.\n* Crops have been made **more tolerant to abiotic stresses** (cold, drought, salt, heat) so the farmers do not have to worry about the weather conditions and can help plants adapt to environmental stress and climate change.\n* It has **reduced reliance on chemical pesticides (pest-resistant crops)** which is pocket-friendly for the farmers and eco-friendly for the consumer by eliminating harmful chemicals from the ecosystem.\n* **Post-harvest losses have been reduced** by increasing crops\u2019 abilities to withstand the transportation period without being perished.\n* **Efficiency of mineral usage by plants has been increased** by it (this prevents early exhaustion of fertility of soil), so a piece of land can be used for a long time for equally good yields.\n* It has **enhanced the nutritional value of food** (like Vitamin A enriched rice) which increases the market value of the product, profiting the farmers and improving human health.\n* Plants developed using biotechnology **naturally resist specific insects, weed plants and diseases** so there is no loss of crop due to these reasons. (Like **Bt crops**).\n* In addition, it has been **used to create tailor-made plants** to supply alternative resources to industries, in the form of starches, fuels and pharmaceuticals etc. which can boost the agricultural-industrial relations uplifting the farmers.\n\nThe benefits of biotechnology are especially meaningful at a time when our global population is growing and our demand for food is increasing, mainly in developing countries. Biotechnology allows farmers to grow more food on less land using environmentally sustainable farming practises which are necessary for them to have a good income and a better living standard. Biotechnology is a powerful tool to feed an increasing world population, but its \u201cpositive and negative potential\u201d should be carefully evaluated.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2019_PAPER_3_Q17",
+        "serial_no": "17",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2019",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**17. Define the concept of carrying capacity of an ecosystem as relevant to an environment. Explain how understanding this concept is vital while planning for sustainable development of a region.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "**Carrying Capacity (CC)** can be defined as the population that can be supported indefinitely by its supporting systems.\n\n* In **ecological terms,** the carrying capacity of an ecosystem is the size of the population that can be supported indefinitely upon the available resources and services of that ecosystem.\n* In the broader sense, carrying capacity also means that all plants and animals which an area of the Earth can support at once. Change in carrying capacity for one species affects other populations in the area.\n  + A **simple example** of carrying capacity is the number of people who could survive in a lifeboat after a shipwreck. Their survival depends on how much food and water they have, how much each person eats and drinks each day, and how many days they are afloat. If the lifeboat made it to an island, how long the people survived would depend upon the food and water supply on the island and how wisely they used it.\n* **Sustainable development, which entails the maximum use of resources without damaging the system\u2019s regenerative capacity,** has a definite role to play in future policy planning. **Sustainability** requires managing all households -- individual, community, national, and global -- in ways that ensure that our economy and society can continue to exist without destroying the natural environment on which we all depend.\n  + **Population Control:** The notion that resource limitation must eventually constrain the growth of population is appealing, but appropriate estimation of regional carrying capacity would help to forge a definite course for planning.\n  + Women sensitization and education toward reproductive choices can play a dominant role in controlling pollution.\n* **Economic Planning:** By carefully assessing the present and future availability of local resources, economic zones can be planned, which will help in mitigating the adverse effects of economic activities.\n  + **For Example:** The establishment of Coca-Cola bottling plant in Plachimada, Kerala in 2000, resulted in the depletion of groundwater in the area and was shut down in 2004 due to widespread protest. Careful assessment of regional carrying capacity can help us prevent such incidents\n* **Agriculture Management:** The concept of carrying capacity of an ecosystem can be very useful in proper crop management across the length and breadth of the country. It has been found that farmers are overutilizing the capacity of land without giving any due importance to its regeneration, which has led to the problem of desertification in Punjab and Harayana.  \n  + **For Example:** Farmers in water stress areas of Maharashtra are growing water intensive crops which have created drought like conditions in the region. Prior estimation of carrying capacity can help avert such chronic conditions.\n* **Under-used capacity of Food Production & Biodiversity:** Using appropriate technological advancement, sustainability in food production methods and diversifying the use of biological resources can help attain harmony between natural resource and their utilization.\n* **Resource Management:** Adaptive management is the most widely accepted solution for confronting the unpredictability of renewable resources. Natural resource management must consider the ever-changing interaction between physical and biological systems, and react according to acquired experience and historical knowledge in a continuous, iterative learning process.\n\nThe current ethos of \u2018sustainable development\u2019 is slanted towards preservation of the replacement capability of natural systems, rather than maximum use. However, the unceasing growth of world population may eventually bring inequilibrium between the two. To face this future with confidence, humanity must endeavour to maintain the Earth\u2019s carrying capacity at a productive yet sustainable level, through improved logistical foundations, a more cooperative political climate, and better scientific understanding.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2019_PAPER_3_Q18",
+        "serial_no": "18",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2019",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**18. Disaster preparedness is the first step in any disaster management process. Explain how hazard zonation mapping will help disaster mitigation in the case of landslides.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Disaster preparedness refers to measures taken to prepare for and reduce the effects of disasters i.e. to predict and prevent disasters, mitigate their impact, and respond to and effectively cope with their consequences. These are achieved through programs that strengthen the technical and managerial capacity of governments, organizations, and communities.\n\nDisaster preparedness is a continuous and integrated process resulting from a wide range of risk reduction activities and resources. It is considered as the first step in any disaster management process as it involves:\n\n* Risk assessment (to point out which measures to implement) and early warning systems\n* Life safeguarding equipment, for example, cyclone shelters\n* Resources and emergency kits in anticipation of need, maintaining emergency rosters and evacuation plans, emergency information and communication systems\n* Training to ensure adequate emergency response capacity, maintenance of preparedness levels, public education and preparedness campaigns\n\nThat said, hazard zonation mapping is one of the disaster preparedness mechanisms to mitigate the risks associated with landslides. Landslides involve mass movement of loose soil and uncompact rock materials under the effects of gravity along a sliding plane.\n\nAccording to a recent study, India is among the most landslides affected countries, accounting for at least 28% of such events in the past 12 years. In such a scenario, hazard zonation mapping will help disaster mitigation in the case of landslides.\n\n* Landslide hazard zonation (LHZ) mapping refers to the division of land into homogeneous areas and ranking of these areas according to their degrees of actual or potential hazard caused by landslides and mass movements.\n* The susceptibility of a given area to landslides can be determined and depicted using hazard zonation. Once landslide susceptibility is identified, intervention projects can be developed which avoid, prevent, or substantially mitigate the hazard.\n* These maps provide important information to support decisions for urban development and land use planning. Also, effective utilization of these maps can considerably reduce the damage potential and other cost effects of landslides.\n* The LHZ maps identify and delineate unstable hazard-prone areas, so that environmental regeneration programmes can be initiated adopting suitable mitigation measures.\n* Even if the hazardous areas cannot be avoided altogether, their recognition in the initial stages of planning may help to adopt suitable precautionary measures.\n\nLandslides and their consequences are still a great problem for many countries, particularly in India due to rapidly increasing populations. The most recent example being that of Kerala. For this reason, landslide hazard zonation mapping serves as one of the many components in an integrated disaster management planning.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2019_PAPER_3_Q19",
+        "serial_no": "19",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2019",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**19. Indian government has recently strengthed the anti-terrorism laws by amending the unlawful activities (Prevention) Act, (UAPA), 1967 and the NIA Act. Analyze the changes in the context of prevailing security environment while discussing scope and reasons for opposing the UAPA by human rights organisations.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "The Union Government by amending NIA Act and UAPA Act seeks to provide **more powers to India\u2019s anti-terror agency** and **expand the scope of India\u2019s anti-terror law,** thereby providing a **big push to India\u2019s internal security machinery**.\n\nUnder the **UAPA Act**, the Central Government can designate an organisation as a terrorist organisation if it commits or participates in acts of terrorism; promotes terrorism; or is otherwise involved in terrorism. Currently, only an organisation can be declared a terrorist. The amendment allows government to **designate individuals** suspected to have terror links as **'terrorists'**.\n\nLikewise, the amendment to **NIA Act** widens the powers of the National Investigation Agency (NIA) to investigate crimes related to human trafficking, counterfeit currency, dealing in prohibited arms, and cyber-terrorism. These were earlier under State police. NIA can also investigate a crime irrespective of its place of occurrence.\n\nThese amendments are in pursuance of the government\u2019s **zero-tolerance policy against terrorism**. These hold significance in the context of the prevailing security environment.\n\n* Terrorism emanating from Pakistan has been a consistent challenge whereby terrorist organisations have been devising new methods to threaten the stability of the region.\n* This often included formation of new terrorist outfit by the individuals if their previous organisation was banned. This issue emerged during India\u2019s efforts to designate Masood Azhar as terrorist when some foreign diplomats questioned India\u2019s domestic law which didn\u2019t provide for individual\u2019s designation. Now, declaring an individual as a terrorist will help the government to deal with such situations.\n* Besides, there is growing menace of terror financing and organised crimes like human trafficking, cyber terrorism etc. An empowered NIA is a good step in this direction\n\nHowever, human rights organisations allege that these amendments violate the basic human rights and seek to **create a police state**.\n\n* The UAPA does not clearly define a \u2018terrorist act\u2019.\n* The **presumption of innocence** is considered a universal human rights principle but the UAPA creates a presumption of guilt for terrorist offences based on the seized evidence.\n* Moreover, there is no set procedure for designation as a terrorist. By excluding judiciary and empowering the executive to designate, it dilutes the difference between a terrorist and a terror accused.\n* Similarly, the term **'affecting the interest of India'** in NIA act is undefined and the civil society fears that it can be used to curb freedom of speech and expression.\n\nThus, though the changes are required to meet the prevailing security environment, the policy framework dealing with terrorism must incorporate the state duty to protect against human rights abuses and greater access of victims to remedies. Apart from dealing with terrorism, emphasis should be on to improve the functioing of the police force and to make India\u2019s judicial mechanism faster.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2019_PAPER_3_Q20",
+        "serial_no": "20",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2019",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**20. Cross-border movement of insurgents is only one of the several security challenges facing the policing of the border in North-East India. Examine the various challenges currently emanating across the India-Myanmar border. Also, discuss the steps to counter the challenges. (250 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "India and Myanmar share a long 1,643 km geographical land border and maritime boundary in the Bay\u00a0of Bengal, which act as India\u2019s gateway to South-East Asia.\n\nIndia-Myanmar border is highly porous, poorly guarded and located along a remote, underdeveloped, insurgency-prone region and proximate to opium producing area.\n\n### Various challenges across the India-Myanmar border\n\n* **Cross-Border Terrorism:** Indo-Myanmar border area have become a safe haven for dozens of insurgent groups. These insurgent groups performs offensive action in India and brings instability to the area by promoting separatist tendencies and take an easy hide in Myanmar.\n  + These groups also take advantage of loopholes in free movement regime across border to supply arms and drugs in India.\n* **Connectivity:** Several connectivity projects like Kaladan Multi-Modal project and IMT Trilateral Highway project are underway, but the ground level progress is quite unfortunate.\n* **Free Movement Regime:** It permits tribals to travel 16 km across the borders without any visa restrictions and allowed them to carry heavy loads. This loophole is well utilized by insurgents for trafficking of arms and drugs and to find safe havens in Myanmar.\n* **Boundary Agreement 1967:** Though the agreement has delineated the borders between the two countries but not much has been crystallised on ground level.\n* **Tribal Linkages:** The Indo-Myanmar border is densely populated with tribals, and these tribal communities have strong social-cultural linkages across borders and they refuse to accept the artificial border lines.\n* **Security Forces:** Assam Rifles had a responsibility of guarding the Indo-Myanmar border, but most of it battalions are engaged in counter-insurgency operations. Therefore, it functions like counter-insurgency force rather than border-guarding force.\n* **Infrastructural Facility at Border Check-Points:** The infrastructure facilities at border check-points is not sufficient to meet the required challenge. **Moreh-Zokhawater** point has been declared as **Integrated Check-Point (ICP)** but nothing much have materialised on the ground.\n* **Difficult Terrain Across Border:** The geographical terrain around border areas is highly inaccessible, so it becomes quite difficult to develop communication and connectivity.\n* **Trafficking:** Proximity to **\u2018golden triangle\u2019** has made Indo-Myanmar border highly vulnerable to drug trafficking and the border has become a gateway for trafficking of women and small children to South Asian Nations.\n* **Rohingya Issue:** Influx of marginalised muslim minority rohingya community has raised a serious **sociocultural confrontations** in the areas due to increased burden on local resources.\n\n### Steps to Counter the Challenges\n\nThe vulnerability of the India-Myanmar border is posing a serious challenge to the internal security of the country. The Government of India should pay immediate attention to effectively manage this border.\n\n* It should strengthen the security of the border by either giving the Assam Rifles the single mandate of guarding the border or deploying another border guarding force such as the Border Security Force (BSF).\n* It should initiate a revision of the FMR and reduce the permitted distance of unrestricted travel.\n* The construction of the ICP along with other infrastructure should be expedited.\n* **The Comprehensive Integrated Border Management System (CIBMS)** which is touted as a robust and integrated system, is capable of addressing the gaps in the present system of border security by seamlessly integrating human resources, weapons, and high-tech surveillance equipment, should be proactively deployed.\n* Sustained community interaction programmes so that the border tribal communities can be sensitised to participate in the nation building on both sides of the border.\n\nIndia should endeavour to meaningfully engage with Myanmar and solicit its cooperation in resolving all outstanding issues and better manage their mutual border.",
+        "explanation_format": "markdown"
+      }
+    }
+  ]
+}

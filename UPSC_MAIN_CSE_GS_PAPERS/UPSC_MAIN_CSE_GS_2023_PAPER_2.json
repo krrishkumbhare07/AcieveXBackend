@@ -1,0 +1,431 @@
+{
+  "exam_info": {
+    "exam_type": "UPSC_MAIN_CSE",
+    "year": "2023",
+    "session": "2",
+    "subject": "GS",
+    "total_questions": 20
+  },
+  "questions": [
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2023_PAPER_2_Q1",
+        "serial_no": "1",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2023",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**1. \"Constitutionally guaranteed judicial independence is a prerequisite of democracy.\" Comment.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Judiciary, legislature and executive are the pillars of a democratic nation, sharing powers amongst themselves. In this, a judiciary free from the orders and whims of executive and legislature is of utmost importance for retaining and practising values of the constitution.\n\n### Why judicial independence?\n\n* Separation between executive and judiciary must be maintained to relieve the courts of any political biasness that might hamper justice for anyone.\n* A court\u2019s verdict must be based solely on facts and not the perceived reality or partiality of the judge ensuring impartial judgement.\n\n### Why constitutionally backed judicial independence is important?\n\n* The judicial system works under the constitution. It is righty referred to as the guardian of the constitution, having the power as the final authority on its interpretation.\n* Unless the independence of the judiciary is constitutionally backed, it can be easily curtailed by the legislature or an executive order.\n\n**Provisions under the constitution**\n\n* Non-interference of legislature in the appointment of judges.\n* Fixed tenure of the judges.\n* Due process of impeachment for removal of a sitting judge.\n* Parliament cannot discuss the conduct of judges.\n* Charging of the salaries and allowances on the Consolidated Fund of India, thereby no need for legislative approval.\n\nThrough various provisions of the Constitution, India retains an unrestricted yet discipled judiciary that is relied on by the entire country with reverence.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2023_PAPER_2_Q2",
+        "serial_no": "2",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2023",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**2. Who are entitled to receive free legal aid? Assess the role of the National Legal Services Authority (NALSA) in rendering free legal aid in India.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Voltaire rightly said, \u201cIt is better to save a guilty man than to condemn an innocent one.\u201d Judicial justice forms the bedrock of a strong democratic nation. A proper and equitable availability of judicial justice to all citizens as envisaged under Article 39A is delivered by the National Legal Services Authority (NALSA).\n\n### Who can receive assistance?\n\n* A member of a Scheduled Caste or Scheduled Tribe\n* A woman or a child\n* A victim of trafficking or begar as per Article 23\n* A mentally ill or otherwise disabled person\n* A victim of a mass disaster, ethnic violence, caste atrocity, flood, drought, earthquake or industrial disaster\n* An industrial workman\n* People earning less than a stipulated amount of annual income which differs across states.\n\n**Role of NALSA in giving free legal services in India**\n\n* Organising \u2018Lok Adalat\u2019 as alternate dispute redressal mechanism in districts, which help in cordially settling a dispute.\n* Through school legal literacy clubs, Nyaydeep Newsletter and other programmes, NALSA works at enhancing legal literacy and awareness among masses.\n* Increasing accessibility through Lok Adalat, legal services app, and legal aids clinic.\n* Outreach programmes for undertrials and prisoners are also done, providing assistance and increasing awareness among them, for example, Haq Hamara campaign.\n\nNALSA has done a great job at making legal aid available to the most disadvantaged sections of the society. However, for a society as big and diverse as India, there is still a long way to go for achieving equitable justice for all.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2023_PAPER_2_Q3",
+        "serial_no": "3",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2023",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**3. \"The states in India seem reluctant to empower urban local bodies both functionally as well as financially.\" Comment.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "The lacklustre performance of the Urban Local Bodies (ULBs) like the municipalities is often talked about in the news. Despite constitutional provisions provided by the 74th Amendment Act, 1992, these bodies continue to face problem primarily of funds and functionaries.\n\n### How states are reluctant?\n\n* **Lack of Finance:** ULBs rely on state governments for grants, as their sources of income are inadequate, and taxes collected are not sufficient.\n  + While ULBs are allowed to collect taxes, they tend to avoid it to not displease the electorate.\n  + Instruments to raise capital such as municipal bonds, public-private partnerships and monetization of existing infrastructure are all arenas of raising capital that are currently untapped.\n* **Functional Control:** Despite there being a constitutional mandate under Articles 243P to 243ZG, state governments show reluctancy in devolving powers to the ULBs.\n  + **Parallel Structures:** Bodies like water boards, and development authorities take away the responsibilities and powers from the ULBs.\n  + **Bureaucratic Overpower:** Decision making power of the elected representatives is heavily curtailed by the state appointed bureaucracy.\n\nHence, there is a long way to go for liberalization of Urban Local Bodies and proper devolution of powers, so that they can realize their full potential.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2023_PAPER_2_Q4",
+        "serial_no": "4",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2023",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**4. Compare and contrast the British and Indian approaches to Parliamentary sovereignty.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "**British vs Indian parliament**\n\n* While Britain follows the concept of parliamentary supremacy, with its legislative body exercising absolute sovereignty over the nation, India follows a system of constitutional sovereignty with the Constitution being over and above, even the Parliament.\n* Upon passing of a bill by the UK\u2019s parliament, the monarch\u2019s approval is taken only as a formality. While in the case of India, the President has powers to return a bill for reconsideration or withhold assent.\n* UK allows the PM to be elected only from the House of Commons, thereby ensuring a proper representation of the people's choice. Whereas in India, the PM can be selected from either house which, in the case of the Rajya Sabha, would not mean a true representation of the country's electoral choice.\n* A lack in parliamentary sovereignty is evident in the existence of a separate parliament of Scotland within the UK. As opposed to this, in India, even when the special status of Jammu & Kashmir was present, there is a single Parliament.\n\nWhile India is often believed to have a system congruent to the Westminster model, a closer look reveals stark differences between the two, as seen in the case of parliamentary sovereignty.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2023_PAPER_2_Q5",
+        "serial_no": "5",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2023",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**5. Discuss the role of Presiding Officers of state legislatures in maintaining order and impartiality in conducting legislative work and in facilitating best democratic practices.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "The Speaker of Legislative Assembly and Chairman of Legislative Council, act as the Presiding Officer of their respective houses, as per Articles 178 and 182. They ensure smooth functioning of their houses as per the rules of procedure.\n\n**Role of Presiding Officers**\n\n* **Maintaining Order:**\n  + Presiding Officers have the power to expel members, call for order, and even adjourn meetings to make sure the decorum of the house is maintained.\n  + They can intervene if unparliamentary language is used, or personal attacks are carried out.\n  + They can penalise members, e.g., Maharashtra member disqualification.\n* **Maintaining Impartiality:**\n  + Presiding Officers ensure equal participatory opportunities for all members and all parties.\n  + While the Presiding Officers do not vote on a matter at first instance, in the case of tie of votes, they can put in a deciding vote.\n* **Facilitating Democratic Practices**\n  + They create a healthy environment for conversation with contrasting views.\n  + They help safeguard the minority rights and ensure active participation in discourse\n  + They ensure constitutional compliance in the process.\n\nBy ensuring the fulfilment of their duties, the Presiding Officers of state legislatures ensure democratic and constitutionally compliant sessions of the houses.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2023_PAPER_2_Q6",
+        "serial_no": "6",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2023",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**6. The crucial aspect of development process has been the inadequate attention paid to Human Resource Development in India. Suggest measures that can address this inadequacy.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Human resource is the keystone of the progress of a country. Insufficient attention, on this part of development has resulted in a massively undertrained population that finds it hard to exploit professional opportunities among other issues.\n\n**Measures for tackling inadequacy**\n\n* **Education:** Investing adequately in education to the tune of 6% of GDP, as proposed under New Economic Policy, will provide excellent returns. Scholarships by governments and various other programs also need to be made widely accessible.\n* **Skill Development:** Vocational skills and other upskilling opportunities are essential for increasing employability. For example, Bangladesh skilled a lot of people and used them in their industry to skyrocket their GDP.\n  + Skill India is a great initiative that needs to be tuned well to the needs of industry.\n* **Healthcare:** More focus on availability of medicines, functioning of hospital and overall availability of healthcare to entire population under schemes such as Ayushman Bharat is an imperative.\n* **Gender Sensitivity:** Implementation of schemes such as \u2018Beti Bachao, Beti Padhao\u2019, that are gender sensitive are imperative for development of a holistic human resource pool.\n\nAlthough India is a developing nation with a young, vibrant population, if adequate attention is not paid on developing it, a massive demographic dividend could be lost.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2023_PAPER_2_Q7",
+        "serial_no": "7",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2023",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**7. Discuss the role of the Competition Commission of India in containing the abuse of dominant position by the Multi-National Corporations in India.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Established in 2009, the Competition Commission of India (CCI) works to implement the Competition Act and check for anti-competitive agreements or practices that could lead to disruption of a healthy competition in the market.\n\n**Role of CCI**\n\n* Penalize the corporations that engage in unscrupulous activities to avoid or deter competition.\n  + For example, penalty on Google by CCI for imposition of discriminatory sales conditions.\n* Ensure fair and healthy competition among market players for steady and inclusive economic growth.\n* Implement policies to carry out effective utilization of resources.\n* Deter monopolistic tendencies of MNCs in resource acquisition and market expansion.\n* Keep check for unscrupulous mergers and acquisition that try to deter competition.\n\nAdjudicating more than 1200 cases with 89% disposal rate and having overseen more than 900 Mergers and acquisitions, it can be said that Competition Commission of India helps the economy and society in general to maintain steady and healthy price points, while ensuring wider choices to consumers and overall ensuring a healthy growth for the Economy.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2023_PAPER_2_Q8",
+        "serial_no": "8",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2023",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**8. e-Governance, as a critical tool of governance, has ushered in effectiveness, transparency and accountability in governments. What inadequacies hamper the enhancement of these features?**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "e-Governance is marked by an extensive use of information and communication technology, that aims towards smart governance with enhanced transparency, accountability and quicker response times.\n\n**Benefits of e-governance**\n\n* **Effectiveness:** Reduction in cost of operation and a wider reach due to ease of accessibility increases effectiveness of governance.\n* **Transparency:** Today most government application and processes are traceable online with less scope for corrupt practices.\n* **Accountability:** Tracking of files and ongoing projects in real time has increased accountability of the officials.\n\n**Inadequacies in e-governance**\n\n* **Lacklustre Coverage:** Improper coverage in rural and farfetched areas leads to seclusion of various groups of the society.\n* **Downtime:** Technical issues like poor internet connectivity, power cuts, server failure etc. often led to downtime impacting the effectiveness of e-governance systems.\n* **Privacy:** It has always been an issue with the use of internet due to its susceptibility to hacking and trespassing.\n* **Cost and Maintenance of Infrastructure:** Regular upgradation of hardware and software is required which leads to recurring cost of maintenance.\n* **Accessibility**: Establishing communication to reach the last person is a crucial aspect of good governance. This is a challenge when the level of digital literacy is poor among the masses.\n\nWhile e-governance is a boon to the society, its inadequacies must be kept in mind to make sure of equitable availability across the society.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2023_PAPER_2_Q9",
+        "serial_no": "9",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2023",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**9. \u2018Virus of Conflict is affecting the functioning of the SCO'.**  **In the light of the above statement, point out the role of India in mitigating the problems.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "The Shanghai Cooperation Organization (SCO) has emerged as a major non-western security alliance encompassing majority of the world's population, that aims to promote peace in Eurasia. It is bound to have issues within itself, considering the varied nature and interests of its members.\n\n**Conflicts within SCO**\n\n* **India and Pakistan:** India\u2019s long-lost cousin never seems to want to end its conflict with its neighbour.\n* **India and China:** China\u2019s aggressive stance of claiming territories of its neighbours as its own has led to problems with its adjacent nations including India.\n  + The Belt and Road Initiative (BRI) too is a problem since it violates India's territorial integrity and is also seen as an aggressive debt-trap move.\n* **Economic Disparities:** With members having huge income disparities, internal friction is bound to arise.\n\n**How India can mitigate problems**\n\n* **Dialogue Promotion:** India has been known as a proponent of dialogues and diplomatic solutions.\n* **Cultural Diplomacy**: India enjoys a great number of cultural ties with most of the SCO countries. India should look to properly leverage this soft power.\n* **Backchannel Diplomacy**: Track II diplomacy can help create environment conducive for conflict management.\n* **Joint-military Exercises:** These are a great way to familiarise militaries and create healthy relations between nations. For example, Joint SCO anti-terror drill.\n\nIndia\u2019s role in mitigation of various SCO conflicts can be immense considering its values of \u2018Vasudhaiv Kutumbakam' and historical policies such as Panchsheel and non-alignment.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2023_PAPER_2_Q10",
+        "serial_no": "10",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2023",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**10. Indian diaspora has scaled new heights in the West. Describe its economic and political benefits for India.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "India is the recipient of highest number of remittances, receiving USD 108 billion in the year 2023. But apart from the financial returns, the galloping success of over 18 million people of Indian origin across the world provides various advantages to their homeland.\n\n**Instances of the diaspora's success**\n\n* Presence of \u2018Indian origin\u2019 heads of top companies around the world. For example, Sundar Pichai (Google), Shantanu Narayen (Adobe).\n* Indian origin heads of state, and people in ministerial positions. For example, Rishi Sunak (UK), Kamala Harris (USA).\n\n**Political and economic benefits**\n\n* The remittances sent by the diaspora have a significant effect on the balance of payment, by helping offset trade deficit.\n* The diaspora helps enhance a soft corner in favour of India at international forums and multilateral institutions such as United Nations.\n* Increased demand for \u2018Indian goods\u2019 due to an exposure to Indian culture is seen across countries with substantial Indian populations.\n  + e.g., Indian restaurants and yoga studios across UK and other western countries.\n* Less disguised unemployment due to migration of low-skilled workers, especially to West Asian countries.\n  + e.g., workers from Kerela and Tamil Nadu working in UAE.\n\nIndia enjoys a great advantage due to its extensive spread of a diaspora of 32 million, throughout the world. While brain drain remains a problem for a developing country such as India, we must remember that this in return gets us social, political and economic benefits.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2023_PAPER_2_Q11",
+        "serial_no": "11",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2023",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**11. \u201cThe Constitution of India is a living instrument with capabilities of enormous dynamism. It is a constitution made for a progressive society.\u201d Illustrate with special reference to the expanding horizons of the right to life and personal liberty.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "The provision of amending the constitution and upgrading it from time to time as per the present conditions of the society makes the Constitution a living document. The \u2018right to life and personal liberty\u2019 as mentioned under Article 21, is a prime example of this, with new facets of it been discovered with time.\n\n**Dynamism of the Indian Constitution**\n\n* **Abolition of Privy Purse:** By the 26th Amendment, the Constitution took a socially progressive step and took away the privileges of past rulers as a step to improve equality.\n* **Increasing the Lok Sabha Seats:** As the population grows, the number of seats need to be increased respectively, to ensure proper representation.\n* **Basic Structure Doctrine:** The iconic Keshvananda Bharti case and the subsequent development of \u2018basic structure doctrine\u2019 shows the dynamism of Constitution.\n\n**New horizons under Article 21**\n\n* **Right to Privacy:** In the Justice K.S. Puttaswamy (Retd.) vs Union of India case (2017), the Supreme Court declared this right as intrinsic to Article 21.\n* **Right to Shelter:** This was recognised as a right in Rajesh Yadav vs State of UP, where the Court said that it\u2019s the duty of the state to grant house sites to the residents.\n* **Transgenders Rights:** Introduced in NALSA vs Union of India case (2014), it reaffirmed their rights to liberty, dignity and freedom from discrimination.\n* **Right to Die with Dignity:** In Common Cause vs Union of India judgement, the Supreme Court legalised physician-assisted suicide (PAS), often known as passive euthanasia, stating that it is included in Article 21.\n\nThe Constitution has evolved through time via various amendments that have been carried out. The increasing horizons of the \u2018right to life and personal liberty\u2019 that have opened up under Article 21 are a testimony to the progressive nature of the Indian Constitution.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2023_PAPER_2_Q12",
+        "serial_no": "12",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2023",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**12. Explain the constitutional perspectives of Gender Justice with the help of relevant Constitutional Provisions and case laws.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Since the emergence of the feminism movement in late 18th century, gender sensitivity and general awareness about its significance in our society has come a long way. India\u2019s history shows a deep consciousness for gender sensitivity that translated into its Constitution as well.\n\n**Constitutional provisions**\n\n* Article 14 considers citizens to be of equal status before the law.\n* Article 15 prohibits discrimination on various grounds including \u2018sex\u2019.\n* Article 16 provides equal opportunity to citizens in matters of employment.\n* Article 39 mentions state\u2019s commitment towards equality of pay for women.\n* Article 42 asks the state to work for ensuring just and humane conditions of work and maternity relief.\n\n**Case laws**\n\n* **Mary Roy v. State of Kerala:** The Court ensured equal right of females and males over ancestral property succession.\n* **Lata Singh v. State of Uttar Pradesh**: The Court stated a girl\u2019s complete right to marry a person of her own choice.\n* **Laxmi v. Union of India:** This PIL by an acid attack survivor ended up with declaration of acid as a poison banning its sale. The Court also ordered that no hospital could refuse treatment to an acid attack victim.\n* **Shayara Bano v. Union of India:** This landmark judgement declared the practice of triple talaq against the right to equality under Article 14 of the Constitution as the woman has no say, and the divorce is processed without her consent.\n\nThe Indian legal and judicial perspective is one that places a lot of significance at equalising the gender landscape for equal opportunity and ensuring gender justice in its population.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2023_PAPER_2_Q13",
+        "serial_no": "13",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2023",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**13. Account for the legal and political factors responsible for the reduced frequency of using Article 356 by the Union Governments since mid 1990s.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Article 356, colloquially referred to as President\u2019s Rule, provides power to the union to take direct control of the state machinery in some instances where it believes that the state cannot continue normal functioning as per the provisions of the Constitution.\n\nWhile it was believed to be a \u2018dead letter\u2019 that would seldom be used, it has been used more than 100 times in the past. But its usage in the recent past has been drastically reduced due to various political and legal factors.\n\n**Factors for reduced frequency**\n\n* **S.R Bommai Case:** This iconic case made the use of Article 356 more challenging.\n  + It made the decision to impose the Article subject to judicial review and made \u2018material evidence necessary\u2019 to justify President\u2019s rule.\n  + Finally, it provided the Court with the power to restore the state legislature if it isn't satisfied with the reasoning for the application of the Article in a state.\n* **Inter-Sate Councils:** Their formation made relation between state and centre more cordial.\n* **Coalition Politics:** With its emergence, the parties at the centre had to be more accommodative of the regional parties that were impowering the various other parties at the centre.\n* **Rise of Regional Parties:** With the rise of strong regional political parties, misuse of Article 356 by the union government became increasingly difficult.\n\nThe reduced usage of Article 356 by application of various political and legal matters has made India a healthier, more federal democracy.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2023_PAPER_2_Q14",
+        "serial_no": "14",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2023",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**14. Discuss the contribution of civil society groups for women\u2019s effective and meaningful participation and representation in state legislatures in India.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Civil society refers to the communities and groups that function outside government to provide support and advocacy for certain people and/or issues in society. They work behind the curtains to influence policy making. In a nation as big as India, voluntary citizen groups are necessary to bring significant changes.\n\n**Contributions**\n\n* **Raising Awareness:** Civil society groups have educated the masses in small batches to build up necessary awareness at the grass-root level. Various initiatives by small groups have been taken in this regard like \u201850% reservation\u2019.\n* **Policy Changes:** These organizations provide legislative push via pressure groups to influence policy making by the legislature. They are also involved in research and data collection to identify key problem areas, and work on them specifically.\n* **Capacity Building:** These groups have been providing training to women and helping them build up necessary skills to participate in the legislative process. Civil groups also create platforms for women leaders to come and collectively strategize for greater political participation.\n\nTherefore, the effects of civil society groups on the legislative process of India cannot be undermined. The passing of the \u2018Women Reservation Bill, 2023\u2019 is a testimony to the positive effects that civil groups have on the nation.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2023_PAPER_2_Q15",
+        "serial_no": "15",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2023",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**15. Explain the significance of the 101st Constitutional Amendment Act. To what extent does it reflect the accommodative spirit of federalism?**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "The process of simplification of the indirect tax system was achieved by introducing \u2018Goods and Services Tax\u2019 (GST) by the 101st Constitutional Amendment Act. GST consolidated the various taxes on goods and services into a single tax, thereby simplifying taxation across supply chain.\n\n**Significance of the Act**\n\n* **Subsumed Various Indirect Taxes:** All taxes such as service tax, excise tax etc. are all subsumed under GST, thereby unifying the taxation in India.\n* **Reduced Compliance Burden**: Calculation of tax has become easy under the GST regime therefore reducing the burden of compliance.\n* **Simplifying Tax Administration:** Redundancies and duplication of efforts has been greatly reduced therefore simplifying taxation.\n* **Increased Ease of Doing Business:** Taxation in few states and of certain types used to be a cumbersome process which has now been transferred online.\n* **Cascading Effect of Taxes:** Levying of tax at every stage of production and therefore taxing a taxed product was done away with.\n* **Destination-based Taxation:** Unlike Value Added Tax (VAT) which used to be charged at instance of manufacturing or selling, GST is a destination-based taxation system.\n\n**The Act and Federalism**\n\n* The Act came with a provision wherein the states were compensated for any loss that they incurred due to implementation of GST.\n* The GST Council comprises of members from both Centre and State and decisions are based on consensus, therefore reinforcing cooperative federalism.\n* Increased revenue due to GST has ensured more finances for both union and state governments helping develop more infrastructure.\n* Inter-state barrier to trade have been greatly reduced by GST, therefore allowing business to operate across the country with much less hassle.\n\nThe 101st Constitution Amendment Act, by implementing Goods and Services Tax has greatly helped with ease of doing business across states. The increased revenue for states and union government allows for strengthening of federalism in the country with the objective of one nation, one tax.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2023_PAPER_2_Q16",
+        "serial_no": "16",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2023",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**16. Explain the structure of the Parliamentary Committee system. How far have the financial committees helped in the institutionalisation of Indian Parliament?**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Parliamentary Committees are a great tool devised to save the time on the floor of the Parliament and ensure the best policy formulation by taking expert opinions and spending dedicated time on matters of national interest.\n\n**Types of Parliamentary Committees**\n\n* **Standing Committees:** These are permanent bodies constituted annually.\n  + The 6 major types of standing committees are:\n    - Financial Committees\n    - Departmental Standing Committees\n    - Committees to Enquire\n    - Committees to Scrutinise and Control\n    - Committees Relating to the Day-to-Day Business of the House\n    - House-Keeping Committees or Service Committees\n* **Ad Hoc Committees:** These are temporary committees made for particular tasks.\n  + The two categories under it are \u2018Inquiry Committees\u2019 and \u2018Advisory Committees\u2019.\n\n**Financial Committees and Institutionalisation of Parliament**\n\nThere are three distinctive financial committees, performing distinctive tasks. These committees are:\n\n* **Estimates Committee:**\n  + They assess efficiency of expenditure and suggest policy changes and are therefore referred to as continuous economy committee.\n  + They ensure if the money is well laid out as per the policy requirements. They also, suggest the form in which estimates are to be presented to the Parliament.\n* **Committee on Public Undertaking:**\n  + They essentially assess performance of public undertakings. These ensure efficiency and autonomy of public undertakings.\n  + The Committee merely has an advisory role and does not examine or investigate in day-to-day technical matters.\n* **The Public Accounts Committee (PAC):**\n  + They examine public expenditure from a technical standpoint as well as from the point of view of economy. It audits the report of Comptroller and Auditor General (CAG).\n  + It ensures financial accountability of the executive and scrutinises government schemes and projects. For example, the 2G spectrum allocation.\n\nThe financial committees have over the years proved to be of importance to the proper working and institutionalisation of the Parliament. The three financial committees help establish financial prudence, accountability and transparency in the financial matters of the government.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2023_PAPER_2_Q17",
+        "serial_no": "17",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2023",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**17. \u201cDevelopment and welfare schemes for the vulnerable, by its nature, are discriminatory in approach.\u201d Do you agree? Give reasons for your answer.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Since the inception of the 1st five-year plan, the government has worked on a plethora of welfare schemes for the vulnerable sections of the society. While these schemes are beneficial to a particular section, protest against them are not unheard of.\n\n**The concept of positive discrimination**\n\n* It is the act of providing benefits to a particular section of society, based on a history of discrimination against them.\n  + For example, providing reservations to Scheduled Caste and Scheduled Tribes compensating for the inhuman treatment they have went through in the past.\n* This approach focuses on \u2018Equity\u2019 rather than \u2018Equality\u2019, thereby recognizing the difference in the requirements of groups to reach a certain standard of living.\n\n**Why it is needed**\n\n* Past disadvantages of certain communities made them so deprived that without affirmative action it is difficult to enhance their social, educational, political and economic levels.\n* Geographical differences in India make it necessary to provide additional benefits to certain locations.\n  + For example, the Northeast Special Infrastructure Development Scheme (NESIDS).\n* Gender inequalities have existed in our nation for very long, with problems such as female infanticide and child marriage being embedded in the very fabric of our society.\n  + Therefore, schemes such as Beti Bachao, Beti Padhao and Kishori Shakti Yojna are important.\n* Economic differences throughout the society that seemingly have their roots in the caste system make it very difficult for the disadvantaged groups to come out of the deep economic pit. Dedicated economic upliftment plans are needed to support these groups.\n  + For example, Jan Dhan Yojna and merit-based scholarships to SC/ST students.\n\nTherefore, while it is true that welfare schemes for the vulnerable are indeed discriminatory in nature, it must be kept in mind that this \u2018positive discrimination\u2019 is done to compensate for the decades of injustice that had been done against them.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2023_PAPER_2_Q18",
+        "serial_no": "18",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2023",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**18. Skill development programmes have succeeded in increasing human resources supply to various sectors. In the context of the statement, analyse the linkages between education, skill and employment.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Education, skill and employment are three very closely linked activities that are crucial for an individual and imperative for nation building.\n\n**Linkages between education, skill and employment**\n\n* Education acts as a beginning step for the basis of a civil life. It is crucial for adequate development of an individual and gives a citizen the basis to gain rightful employment.\n  + Basic and higher education plays respective roles in equipping individual with a knowledge base, upon which they can gain specialised knowledge for a profession.\n* Skill development is the activity of garnering necessary vocational or technical skills that have direct applicability in an industry thereby leading to successful employment. For example, certification of C++ can offer better chances of employability.\n  + Soft skills are a subset of skills that have garnered interest in the past decades and are essential today for modern job market.\n  + Skill development can also lead one not only to employment but also entrepreneurship that enables one to create jobs eventually.\n* Employment is the eventual goal of education and skill development. Employment is necessary for the growth of a nation. Employment is a necessary indicator of the health of an economy. Better employment shows higher prospects of growth for the nation.\n  + Both education and skill development train an individual adequately to help them get employed.\n  + Companies today follow a pattern of upskilling a hired person to make them better at their job.\n\nVarious skill development programmes such as Pradhan Mantri Kaushal Vikas Yojana and National Skill Development Mission have helped the industry receive skilled workers; in other words, they have succeeded in increasing human resources supply to various sectors.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2023_PAPER_2_Q19",
+        "serial_no": "19",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2023",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**19. \u2018The expansion and strengthening of NATO and a stronger US-Europe strategic partnership works well for India.\u2019 What is your opinion about this statement? Give reasons and examples to support your answer.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "While the world seems to be embracing the concept of multipolar world quite well, it is no doubt that NATO and European Union remain the centres of power internationally. India looks forward to becoming a major power in the coming years but for now it will also benefit from a strengthened NATO and US-Europe relationship.\n\n**Why it works for India**\n\n* **China Problem:** Since NATO and EU seem to be in consensus on the Chinese aggression problem, it is in favour of India to engage in strategic partnerships with them.\n* **Economic Returns:** The amount of world GDP that is held by these countries is enormous. India will benefit from trade relations from these countries and additionally from the politico-economic stability that is brought about by their partnership.\n* **Democratic Values:** Shared ideological values of democracy that are being upheld by these groupings aligns with India's interest as contrasted against its two hostile neighbours.\n* **Defence Capabilities:** Increased engagement with the western military, will benefit India in terms of technological know-how, advanced military trainings, and strategic collaboration.\n* **Tackling Terrorism:** India being a country with history of dealing with terrorist attacks would greatly appreciate any effort towards ending or at least mitigating terrorism which would be an indirect benefit of the US-Europe strategic partnership.\n\n**Few challenges**\n\n* **India-Russia Relations:** A closeness with the western countries would have to be done in a way that does not offend India's relationship with its long-term partner, Russia. Balancing between USA and Russia is a test of Indian diplomacy.\n* **Increased Competition:** A stronger EU and US relationship would mean an increased competition in sectors where India is trying to grow, e.g., IT industry and pharmaceuticals.\n\nOverall, India would benefit immensely from a strengthened NATO and a stronger US-Europe strategic partnership if it can tackle the challenges that come with it.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2023_PAPER_2_Q20",
+        "serial_no": "20",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2023",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**20. \u2018Sea is an important Component of the Cosmos.\u2019 Discuss in the light of the above statement, the role of the IMO (International Maritime Organisation) in protecting environment and enhancing maritime safety and security.**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Seas are incredibly important for the earth considering their rich biodiversity and for humas considering the rich resource pool and providing ways for transport. A specialised agency of the United Nations, the International Maritime Organisation (IMO) works to improve the safety and security of international shipping and prevent pollution from ships.\n\n**Environment protection**\n\n* **Ballast Water Management Convention:** Guidelines for management, treatment, and discharge of ballast water that is held in the tanks of ships to stabilise them, were decided and standardised by IMO.\n* **MARPOL Convention:** It is an international convention that prevents pollution caused by ships such as oil spillage, chemical pollution, etc.\n* **Greenhouse Gas Emissions:** Stringent emission limits of sulphur and nitrogen oxide are fixed for ships. These help in reducing pollution especially in coastal areas.\n* **EEXI and CII:** The Energy Efficiency Existing Ship Index (EEXI) and the Carbon Intensity Indicator (CII) have been adopted by IMO to look into decreasing the environmental cost of shipping industry.\n\n**Maritime safety and security**\n\n* **ISPS Code:** The International Ship and Port Facility Security (ISPS) Code lists measures to enhance security of ships and port facilities.\n* **SOLAS Convention:** The International Convention for the Safety of Life at Sea (SOLAS) ensures that ship\u2019s construction, equipment and operation are compatible with their guidelines.\n* **STCW Convention:** The International Convention on Standards of Training, Certification, and Watchkeeping for Seafarers (STCW) ensures a standard training and certification for seafarers to achieve a basic level of competency.\n* **Search and Rescue (SAR):** The SAR Plan by IMO ensures global availability of search and rescue services saving lives and improving the overall safety of maritime navigation.\n\nThe International Maritime Organisation (IMO) plays a major role in protecting environment and enhancing maritime safety and security, functioning under the ambit of various conventions and exercising various codes.",
+        "explanation_format": "markdown"
+      }
+    }
+  ]
+}

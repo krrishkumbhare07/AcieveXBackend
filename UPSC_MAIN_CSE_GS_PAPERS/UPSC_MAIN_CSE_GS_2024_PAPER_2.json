@@ -1,0 +1,431 @@
+{
+  "exam_info": {
+    "exam_type": "UPSC_MAIN_CSE",
+    "year": "2024",
+    "session": "2",
+    "subject": "GS",
+    "total_questions": 20
+  },
+  "questions": [
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_2_Q1",
+        "serial_no": "1",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**Q.1 Examine the need for electoral reforms as suggested by various committees with particular reference to \u201cone nation \u2013 one election\u201d principle. (Answer in 150 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach\n\n* Introduce electoral reforms as well as \u201cone nation \u2013 one election\u201d (ONOE).\n* Cite the recommendations of important committees established for one nation \u2013 one election.\n* Describe the significance of ONOE.\n* Provide a suitable conclusion.\n\n### Introduction\n\n**\u201cOne Nation \u2013 One Election (ONOE)\u201d** advocates for **simultaneous elections** across the country to improve governance and reduce the frequent disruptions caused by repeated elections.\n\n### Body\n\n**ONOE was supported by:**\n\n* The **Election Commission in its First Annual Report (1983)** proposed simultaneous elections citing several reasons including:\n  + Reduction in the official expenditure of the government, parties and candidates.\n  + Reduced burden on administrative machinery and security forces by reducing frequent election duties.\n  + Mitigation of governance issues arising from short-term political agendas.\n* The **Law commission in its 170th report** supported this idea recommending one election every five years.\n* The **Parliamentary Standing Committee in 2015** supported ONOE citing **\"long-term good governance\u201d.**\n\nConcerns Raised Against ONOE:\n\n* Conducting simultaneous elections to the Lok Sabha and all State assemblies would result in national issues overshadowing regional and State specific issues.\n* National political parties would have a significant advantage over regional parties undermining federalism.\n* It would also require major amendments to the Constitution, RPA 1951 and Rules of Procedure in LS and State legislative assemblies.\n\n### Conclusion\n\nWhile \u201cONOE\u201d offers several benefits, its implementation would require constitutional amendments and procedural changes. A phased approach, as suggested by Kovind Panel Report (2023), offers a practical solution, but its success depends on consensus and careful execution.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_2_Q2",
+        "serial_no": "2",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**Q.2 Explain and distinguish between Lok Adalats and Arbitration Tribunals. Whether they entertain civil as well as criminal cases? (Answer in 150 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach:\n\n* Introduce the answer by defining Lok Adalats and Arbitration Tribunal.\n* Write a proper differentiation between Lok Adalats and Arbitration Tribunals as per the question's requirement.\n* Conclude Suitably.\n\n### Introduction:\n\n* Lok Adalats are statutory forums under the Legal Services Authorities Act, 1987, functioning as part of the Alternative Dispute Resolution (ADR) mechanism.\n* Arbitral Tribunals, established by the Arbitration and Conciliation Act, 1996, consist of arbitrators who resolve disputes outside of courts.\n\n### Body:\n\n**Difference Between Lok Adalats and Arbitration Tribunals**\n\n|  |  |  |\n| --- | --- | --- |\n| **Aspect** | **Lok Adalats** | **Arbitration Tribunals** |\n| Nature of Dispute Resolution | Focuses on amicable settlements through mutual agreement. | Resolves disputes based on legal adjudication, resulting in a binding decision. |\n| Binding Nature | Decisions are final, binding, and have the status of a civil court decree; not appealable. | Decisions, known as arbitral awards, are binding and enforceable but can be challenged on limited grounds. |\n| Referral of Cases | Cases can be referred by courts or upon application by parties. | Parties contractually agree to arbitration, or institutions appoint arbitrators when parties fail to do so. |\n\n**Types of Disputes:**\n\n* Lok Adalats: It addresses both civil and criminal cases but has no jurisdiction over non-compoundable offences.\n* Arbitration Tribunals: Covers civil matters, including domestic and international commercial disputes, and does not handle criminal cases.\n\n### Conclusion\n\n* Lok Adalats focus on amicable settlements for civil and compoundable criminal cases, while Arbitration Tribunals handle civil matters like commercial disputes. Both can deliver timely justice and ease the judicial burden. However, better institutional support and resources are needed to enhance their effectiveness",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_2_Q3",
+        "serial_no": "3",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**Q3. \"The growth of the cabinet system has practically resulted in the marginalisation of the parliamentary supremacy.\" Elucidate. (Answer in 150 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach:\n\n* Introduce the answer by discussing the growth of the cabinet system in India.\n* Present arguments on how this growth has marginalised parliamentary supremacy\n* Conclude by reinforcing the importance of parliamentary supremacy.\n\n### Introduction:\n\nThe cabinet system in India has evolved significantly, emphasising **collective responsibility** and the Prime Minister as **\"first among equals.**\" However, despite **not being explicitly mentioned in the Constitution**, this evolution has sometimes marginalised Parliamentary supremacy.\n\n### Body:\n\n* **Concentration of Power in the Executive:** The cabinet centralises power in the hands of the **Prime Minister** and key ministers. **Justice Nagarathna's 2023 dissent** highlighted the unlawfulness of demonetisation without Parliament's approval.\n* **Reduced Parliamentary Scrutiny:** The cabinet often controls the legislative agenda, diminishing parliamentary oversight, as seen with the **criticism of the 2020 Farm Laws** for lacking proper debate.\n* **Ordinances:** The cabinet can bypass legislative oversight through ordinances, like the **2023 ordinance on Delhi's administrative control,** which was initially enacted without debate.\n* **Parliamentary Committee Limitations:** Recommendations from committees are not binding, allowing the cabinet to ignore them. Only **25% of bills** were referred to committees in the 16th Lok Sabha, compared to **71% in the 15th.**\n\n### Conclusion:\n\nWhile the cabinet system has changed power dynamics, parliamentary supremacy is constitutionally protected with Parliament **retaining essential powers like no-confidence motions (Article 75)**. The repeal of **farm laws in 2021** shows that Parliament can effectively check executive power, highlighting the need for balance between governance and oversight.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_2_Q4",
+        "serial_no": "4",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**Q4. The duty of the Comptroller and Auditor General is not merely to ensure the legality of expenditure but also its proprietary? (Answer in 150 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach:\n\n* Write a brief introduction about the Comptroller and Auditor General of India (CAG).\n* Mention the CAG\u2019s role to ensure the legality of expenditure and to ensure propriety.\n* Write a holistic Conclusion.\n\n### Introduction\n\nThe **Comptroller and Auditor General (CAG) of India** is a constitutional authority under **Article 148** of the **Constitution** tasked with auditing the accounts of the **Union and State governments,** ensuring public funds are used efficiently and legally.\n\n### Body\n\n* **CAG\u2019s Role in Ensuring the legality of expenditure:**\n  + This involves checking whether the financial transactions are in accordance with the laws, rules, and regulations.\n  + The CAG ensures that funds are used for the intended purposes and that there is no misappropriation.\n  + The **CAG certifies** the accounts of the **Union** and **State governments,** ensuring that they present a **true** and **fair** view of the financial position. This certification is crucial for maintaining the **legality and accuracy of financial statements.**\n* **CAG\u2019s Role in Ensuring Propriety:**\n  + The CAG conducts propriety audits to assess the **prudence, integrity,** and justification of government expenditures.\n    - **Justification for expenditure:** Whether the purpose of the expenditure serves the public interest or if it is excessive.\n    - **Efficiency**: Whether the allocated resources have been used efficiently or whether there has been any wasteful expenditure.\n    - **Public interest:** Whether the expenditure aligns with broader societal goals, fairness, and equity.\n  + The **CAG\u2019s audits** of the **Commonwealth Games** and **coal block allocations** exposed significant irregularities and losses, leading to public outcry, debate, and legal actions.\n\n### Conclusion\n\nThe CAG improves transparency, accountability, and efficiency in managing public finances, helping to uphold government integrity and build public trust in how resources are handled.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_2_Q5",
+        "serial_no": "5",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**Q5. Analyse the role of local bodies in providing good governance at local level and bring out the pros and cons merging the rural local bodies with the urban local bodies. (Answer in 150 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach\n\n* **Introduction:** Briefly introduce the constitutional framework for local self-governance.\n* **Body:** Discuss the role of local bodies in good governance. Analyze the pros and cons of merging rural and urban local bodies.\n* **Conclusion:** Summarise the potential benefits of merging local bodies for efficiency while emphasising the need to preserve local identity.\n\n### Introduction\n\nThe Constitution of India establishes local self-governance through the **73rd and 74th Amendments (1992)**, creating **Panchayats for rural areas and Municipalities** for urban areas, including Village, Intermediate, and District Panchayats, along with Municipal Corporations and Municipalities.\n\n![](TEST_IMAGES/UPSC_MAIN_CSE_GS_2024_PAPER_2_Q5_IMG_1.png)\n\n### Body\n\n**Role of local bodies in Good Governance:**\n\n* Local bodies, as recommended by committees like the **Balwant Rai Mehta (1957) and Ashok Mehta (1977),** are crucial for **planning and implementing development projects that address local needs, promoting decentralized governance.**\n* They also benefit from financial resources allocated through the recommendations of **15th Finance Commission** for water supply and sanitation, functioning as **local 'public utilities.'**\n* Local bodies ensure **representation of marginalised groups** with reserved seats and encourage **participatory democracy** through **Gram Sabhas** and Ward Committees.\n\n**Merging the Rural Local Bodies with the ULBs:**\n\n|  |  |\n| --- | --- |\n| **Pros** | **Cons** |\n| Promotes cohesive growth in peri-urban areas. | Rural issues may be overlooked in favour of urban priorities. Concerns may arise about rural representation if urban populations dominate. |\n| Improves management of the blurring rural-urban distinction caused by urbanisation. | Distinct social characteristics of rural areas may complicate governance. |\n| Larger entities can undertake bigger development projects in a merged system. | Villagers fear that merging with ULBs will lead to higher taxes and loss of MGNREGA benefits, as seen in protests in Tamil Nadu. |\n\n### Conclusion\n\nWhile merging local bodies can improve efficiency, it risks diminishing local identity. Engaging all stakeholders in decision-making is crucial for balanced governance.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_2_Q6",
+        "serial_no": "6",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**Q6. Public charitable trusts have the potential to make India's development more inclusive as they relate to certain vital public issues. Comment. (Answer in 150 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach:\n\n* Start with briefly Introducing Public Charitable Trusts and their focus areas.\n* Mention the ways in which they can make India's development more inclusive.\n* Conclude with challenges faced by them along with a solution based approach.\n\n### Introduction:\n\nPublic charitable trusts (PCTs) are non-profit entities established under the **Indian Trusts Act of 1982** to serve the public good, addressing various socio-economic issues like healthcare, education, poverty alleviation, disaster relief, and environmental conservation.\n\n### Body:\n\n**PCTs can make India's development more inclusive by:**\n\n* **Filling Gaps in Governance:** PCTs complement government efforts by addressing social issues, like **Tata Trusts and the Azim Premji Foundation** in education and healthcare.\n* **Empowering Marginalized Communities:** PCTs work with vulnerable groups to improve livelihoods, such as the **Bill and Melinda Gates Foundation** in maternal health and gender equality.\n* **Environmental Conservation**: PCTs like the **Bombay Natural History Society** focus on biodiversity and wildlife protection.\n* **Advocacy and Awareness:** PCTs such as All India Nethaji Social Welfare Movement advocate for policy changes on gender equality and human rights.\n* **Disaster Relief:** PCTs provide swift relief during crises, like the All India Doctor Abdul Kalam Welfare Trust provide relief to facilitate swift and effective aid.\n\n### Conclusion:\n\nLimited funding, bureaucratic hurdles, and reliance on donors can hinder charitable trusts' impact. Enhancing regulations and transparency, along with increased government collaboration, can boost their effectiveness in promoting inclusive growth and empowering marginalized communities.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_2_Q7",
+        "serial_no": "7",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**Q.7 Poverty and malnutrition create a vicious cycle, adversely affecting human capital formation. What steps can be taken to break the cycle? (Answer in 150 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach:\n\n* Briefly Introduce poverty and malnutrition and its vicious cycle and impact on human capital formation.\n* Discuss steps to break the cycle of poverty and malnutrition.\n* Conclude the answer by emphasising the importance of achieving SDG for healthy individuals and effective human capital formation.\n\n### Introduction:\n\nHuman capital refers to the skills and knowledge of individuals that enhance productivity. **Poverty and malnutrition hinder human capital** **formation** by causing poor education outcomes, health issues, and limited opportunities, perpetuating a cycle of intergenerational poverty and reduced economic potential.\n\n![](TEST_IMAGES/UPSC_MAIN_CSE_GS_2024_PAPER_2_Q7_IMG_1.png)\n\n### Body:\n\n**Steps to Break the Vicious Cycle**\n\n* **Capacity Development Approach:** Enhancing the skills (vocational) and knowledge of individuals and communities for better livelihoods.\n  + Building the capacity of local institutions fosters effective governance and accountability by engaging communities in decision-making processes. Eg. Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY).\n* **Consumption Approach**: Enhancing the purchasing power of low-income households through direct income transfers and subsidies. Eg. **PM-KISAN**, PM Garib Kalyan Yojana.\n* **Generational Poverty Alleviation Approach:** Helping people learn additional skills and develop their capacity beyond their regular professions, allowing them to supplement their income and safeguard against unforeseen circumstances. Eg. **SHG.**\n* **Educational and Awareness:** Promoting awareness and access to healthy, nutritious food resources, instead of fast food driven by hyper-consumerism, is essential for encouraging informed dietary choices.\n\n### Conclusion\n\nBreaking the vicious cycle of poverty and malnutrition is essential for achieving SDG-2 and 3 related to poverty and hunger. Ensuring healthy individuals through targeted interventions will foster effective human capital formation, ultimately driving long-term national prosperity.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_2_Q8",
+        "serial_no": "8",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**Q8. The Doctrine of Democratic Governance makes it necessary that the public perception of the integrity and commitment of civil servants becomes absolutely positive. Discuss. (Answer in 150 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach:\n\n* Start by defining the doctrine of democratic governance.\n* Elaborate how the doctrine of democratic governance makes it necessary that the public perception of the integrity and commitments of civil servants become absolutely positive.\n* In conclusion, emphasise the multi-faceted approach required to tackle the challenges and implement effective strategies.\n\n### Introduction:\n\nThe doctrine of democratic governance is a system where government institutions operate based on democratic processes, rules, and norms, fostering trust between the people and those who govern.\n\n### Body:\n\nDemocratic governance necessitates certain standards from civil servants for positive public perception:\n\n* **Accountability:** Taking **responsibility for their actions** and being answerable to the public. E.g. **Social Audit.**\n* **Fairness:** Treating **all citizens equally** and without bias, ensuring justice in service delivery. E.g. Values of Sabka Saath Sabka Vikas\n* **Transparency:** Providing **clear and accessible information** about processes, decisions, and policies. E.g. Right to Information Act.\n* **Responsiveness:** Being attentive and quick to **address citizen needs,** concerns, and feedback. E.g. Citizen-Charter\n* **Ethical Conduct:** Adhering to a **strict code of ethics** and avoiding corruption or misuse of power. E.g. Code of Conduct.\n* **Professionalism:** Demonstrating **competence, dedication**, and respect in their roles. Successful COVID-19 vaccination drive.\n* **Empathy:** Understanding and valuing the **diverse needs** and perspectives of the community. E.g. Addressing the needs of the specially-abled.\n* **Collaboration:** Working with various stakeholders, including citizens, to enhance governance. E.g. **Swachh Bharat Abhiyaan.**\n* **Commitment to Public Service:** Prioritizing the well-being of the community and striving to improve public welfare.\n\nHowever, challenges like **corruption, bureaucratic inertia,** lack of transparency, and ineffective communication can lead to erosion of public trust.\n\n### Conclusion:\n\nAchieving a positive public perception of civil servants' integrity and commitment requires a **multifaceted approach** that addresses both the **root causes of public distrust** and the strategies to enhance it. Only through sustained efforts to uphold principles of good governance, accountability, and transparency governments can ensure the legitimacy and effectiveness of **democratic institutions.**",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_2_Q9",
+        "serial_no": "9",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**Q.9 \u201cThe West is fostering India as an alternative to reduce dependence on China\u2019s supply chain and as a strategic ally to counter China\u2019s political and economic dominance.\u201d Explain this statement with examples. (Answer in 150 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach:\n\n* Briefly introduce China's increasing global influence.\n* Mention how the strategic shift is taking place in the current multipolar world, substantiate with examples.\n* Conclude with a forward-looking approach.\n\n### Introduction\n\nAs China's economic dominance and assertive expansionist policies rise, the West is adopting a \u2018**China+1\u2019** strategy, looking for alternatives with India as a key option.\n\n### Body\n\nThis strategic shift unfolds in following areas:\n\n* **Reducing Dependence on China\u2019s Supply Chain:**\n  + US-India **Initiative on Critical and Emerging Technologies** aims to boost collaboration in fields like semiconductor ecosystem, AI, defence cooperation etc. to reduce reliance on Chinese technology.\n  + The **EU's free trade agreement talks with India** aim to strengthen economic ties and reduce tariffs.\n  + By expanding their base in India, companies like Apple and Samsung are reducing reliance on Chinese supply chains and leverage India's consumer market.\n* **India as a Strategic Ally Against China\u2019s Dominance:**\n  + The proposed **India-Middle East-Europe Economic Corridor (IMEC)** is viewed as a potential counter to China's BRI in Eurasia, helping balance China's expanding economic and political influence.\n  + The **Quadrilateral Security Dialogue (Quad)** enhances Indo-Pacific stability through security, economic, and environmental collaboration.\n  + India\u2019s **2+2 Dialogues** with the US, Japan & Australia and joint exercises like **Malabar and RIMPAC** enhance interoperability and collective security.\n  + The **US-led Indo-Pacific Economic Framework (IPEF)** collaborates with India to tackle economic challenges and counter China's influence through trade cooperation.\n\n### Conclusion\n\nLooking forward, India has the potential to emerge as a key player in global supply chains, provided **it addresses internal challenges like infrastructure and regulatory frameworks.** By capitalising on this partnership, India can not only bolster its economy but also contribute to a **more balanced global order.**",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_2_Q10",
+        "serial_no": "10",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**Q10. Critically analyse India's evolving diplomatic, economic and strategic relations with Central Asian Republics highlighting their increasing significance in regional global geopolitics. (Answer in 150 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach:\n\n* Write a brief introduction on the evolution of diplomatic, economic and strategic relations between India and Central Asian Republics (CARs).\n* Discuss various initiatives in the field of diplomatic, economic and strategic relations.\n* Show how despite various initiatives, India has reaped limited benefits.\n\n### Introduction\n\nIndia has significantly increased its diplomatic, economic and strategic relations with **Central Asian Republics (CARs)** for serving **its interest in central Asia.**\n\n### Body\n\n**Evolution of India-CARs Relations:**\n\n* **Diplomatic Engagements:**\n  + **\"Connect Central Asia\" Initiative (2012)** was launched to strengthen ties and re-energize India's efforts in Central Asia.\n  + **India-Central Asia Summit and Shanghai Cooperation Organization (SCO)** highlights India\u2019s enhanced ties with CARs.\n* **Economic Relations:**\n  + **TAPI pipeline** and **Ashgabat Agreement** shows India\u2019s enhanced access to CARs.\n  + **Chabahar Port** allows India to facilitate trade through Iran to the South Caucasus, Central Asia, and wider Eurasia.\n* **Strategic Relations:**\n  + CARs share borders with **Afghanistan,** a major source of religious extremism.\n  + India maintains military bases in **Tajikistan** and conducts joint exercises with **Uzbekistan.**\n\n![](TEST_IMAGES/UPSC_MAIN_CSE_GS_2024_PAPER_2_Q10_IMG_1.png)\n\n**Critical Analysis:**\n\n* An **unstable Afghanistan** and difficult **India-Pakistan relations** obstruct direct connectivity.\n* India's trade with Central Asia is approximately **USD 2 billion** (China-Central Asia: USD 100 billion).\n* India's strategy has been **influenced** by its policies toward **Afghanistan, China, and Pakistan**, as well as by Russian and US designs.\n\n### Conclusion\n\nIndia should maintain **proactive diplomatic engagements** with Central Asian nations to ensure political, economic, and security cooperation through the **India\u2013Central Asia Dialogue.** As a full **SCO member,** India should enhance its role in regional security and economic dialogues.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_2_Q11",
+        "serial_no": "11",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**Q11. What are the aims and objects of recently passed and enforced, The Public Examination (Prevention of Unfair Means) Act, 2024? Whether University/State Education Board examinations, too, are covered under the Act? (Answer in 250 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach\n\n* Introduce the answer by briefly mentioning about the act, 2024, and its significance.\n* In body, outline aims like preventing unfair practices, enhancing transparency, and establishing a legal framework.\n* Give suitable provisions of the act to support your arguments.\n* Confirm the Act applies to university and state education board examinations.\n* Conclude suitably.\n\n### Introduction\n\nIn order to combat the rising incidents of question paper leaks and malpractices in public examinations and to enhance the integrity, transparency, and credibility of the examination system across India, the **Public Examinations (Prevention of Unfair Means) Act, 2024**, has been passed by the Parliament.\n\n### Body\n\n**Aims and Objectives of the Act**\n\n![](TEST_IMAGES/UPSC_MAIN_CSE_GS_2024_PAPER_2_Q11_IMG_1.png)\n\n* The act aims to deter unfair means in public examinations by addressing organized cheating and malpractices.\n  + It defines unfair practices for profit, like leaking question papers and unauthorized OMR sheet possession.\n* The Act introduces guidelines and strict penalties to restore public trust in the examination system.\n  + Unfair practices include tampering with documents and creating fake websites; all offenses are cognizable and non-bailable.\n* By implementing strong measures, the act boosts candidates' confidence in fair results.\n  + It enforces three to five years in prison and fines up to Rs.10 lakh, with investigations by Deputy Superintendent or Assistant Commissioner rank officers.\n* The legislation establishes a framework to address examination integrity offenses.\n  + A High-Level National Technical Committee will develop protocols for securing digital platforms and robust IT security systems.\n\n**Coverage of Examinations**\n\n* **Broad Definition of Public Examination:** Public examinations are conducted by specified authorities under the Act, including the UPSC, SSC etc.\n  + The Act defines \"institution\" as any agency or organization, excluding public examination authorities and their service providers.\n* **Inclusion of Universities and State Boards:** While university and state education board exams are not explicitly listed, the central government can notify additional authorities under the Bill.\n  + However, the Bill also serves as a model for states to adopt, aiding in preventing criminal disruptions in state-level public examinations.\n\n### Conclusion\n\nThe Public Examinations Act, 2024, strengthens the integrity of public exams in India by promoting transparency and accountability, combating corruption, and ensuring fairness for all candidates.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_2_Q12",
+        "serial_no": "12",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**Q12. Right to Privacy is intrinsic to life and liberty and is inherently protected under Article 21 of the constitution. Explain. In this reference discuss the law relating to DNA testing of Child in the womb to establish its paternity. (Answer in 250 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach\n\n* Give a brief introduction about the Right to Privacy and Article 21.\n* Explain the right to Privacy as intrinsic to Life and Liberty.\n* Mention law for DNA testing to establish paternity.\n* Conclude suitably.\n\n### Introduction:\n\nThe **Right to Privacy** is intrinsic to the concepts of **life** and **personal liberty** under **Article 21.**\n\n### Body:\n\n**The Right to Privacy is Intrinsic to Life and Liberty**\n\n* **The Right to Privacy (Article 21),** empowers individuals to make personal choices without state interference, **thereby promoting freedom and autonomy**.\n  + It includes the ability to make **decisions about one\u2019s body, health, and reproductive matters free from coercion,** as well as the right to manage personal data to prevent unauthorised collection or use.\n* It also **safeguards the confidentiality of personal communications**, such as phone calls, emails, and letters, protecting individuals from unwarranted surveillance.\n  + This multifaceted right underscores the importance of personal dignity and autonomy.\n\n**Laws for DNA Testing for Paternity**\n\n* **Right to Privacy:**\n  + The Puttaswamy judgment (2017) established that any intrusion into privacy, including DNA testing, must meet the criteria of legality, necessity, and proportionality, respecting the privacy of the woman and unborn child.\n* **Bharatiya Sakshya Adhiniyam (Section 116)**:\n  + Presumes a child born in wedlock is legitimate. DNA tests may be ordered when prima facie evidence questions paternity, as seen in **Nandlal Wasudeo Case, 2014**, where DNA can override this presumption.\n* **Pre-Conception and Pre-Natal Diagnostic Techniques (Prohibition of Sex Selection) Act, 1994:**\n  + Regulates prenatal diagnostic tests, including DNA testing, to prevent misuse and gender-based discrimination, except for legitimate medical reasons.\n* **DNA Technology Regulation Bill, 2019:**\n  + Requires consent for DNA tests and allows court intervention for legal disputes. The Bill protects privacy and penalizes misuse of DNA data.\n* **Judicial Observations:**\n  + **Aparna Ajinkya Firodia Case, 2023:** DNA tests in matrimonial disputes should be ordered only with sufficient prima facie evidence, considering the impact on children.\n\n### Conclusion:\n\nWhile DNA testing for paternity can be allowed, it must adhere to privacy rights, legal safeguards, and medical ethics. Courts must carefully balance these competing rights based on the circumstances, ensuring privacy and justice.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_2_Q13",
+        "serial_no": "13",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**Q.13 What changes has the Union Government recently introduced in the domain of Centre-State Relations? Suggest measures to be adopted to build the trust between the Centre and the States for strengthening federalism. (Answer in 250 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach\n\n* Introduce the topic of Centre-State relations and related constitutional provisions.\n* Give a description of recent changes brought by the Union Government in centre-state relations at political, administrative and financial levels.\n* Suggest measures that can be adopted for better centre-state relations.\n* Provide a suitable conclusion.\n\n### Introduction\n\nCentre-state relations in India involve the distribution of powers and responsibilities between central and state governments, forming the backbone of Indian democracy. This framework is outlined in Part XI of the Constitution.\n\n![](TEST_IMAGES/UPSC_MAIN_CSE_GS_2024_PAPER_2_Q13_IMG_1.png)\n\n### Body\n\n**Recent Changes in the Centre-State Relations:**\n\n* **At Administrative Level:**\n  + In 2014, the Union government replaced the Planning Commission with NITI Aayog to enhance cooperative federalism.\n* **At Legislative Level:**\n  + The abrogation of Article 370 in 2019 facilitated the full integration of J&K in the Union of India.\n  + In 2024, the Cabinet approved the \u201cone nation, one election\u201d report, advocating for synchronised elections.\n* **At Financial Level:**\n  + The Goods and Services Tax (GST) represents a major reform in fiscal federalism, though it has led to a loss of fiscal autonomy as rates are determined by the GST council.\n\n**Concerns:**\n\n* **Administrative concerns:** Misuse of Article 356 (deployment of Central forces without state consent, and the role of Governors).\n  + Allocations for Centrally Sponsored Schemes have significantly increased, limiting States' ability to address their own priorities.\n* **Legislative:** Encroachment of the Center into state-list subjects and delays in obtaining assents for state bills.\n  + **Example:** Invocation of the Disaster Management Act, 2005, during the COVID-19 pandemic imposed binding Central guidelines on states, despite public health being a state subject.\n* **Financial issues:** Centralisation of powers in resource mobilisation, allocation, and economic decision-making.\n\n**Building the Trust between Centre and the States:**\n\n* Strengthening dialogue and decision-making between the Centre and states is essential, primarily by empowering the **Inter-State Council (Sarkaria Commission in 1983).**\n* **Second ARC Report (1969) Recommendations for cooperative federalism:**\n  + Establishment of an Inter-state Council.\n  + Delegation of powers to the maximum extent to the states.\n  + Augmenting financial resources of the states through fiscal transfers from the centre.\n  + Appointment of non-partisan persons having long experience in public life and administration as Governor of a state.\n* The Centre should **limit its use of Articles 355 and 356** to ensure state autonomy.\n\n### Conclusion\n\nStrengthening federalism needs better dialogue through the Inter-State Council, timely legislation, and increased fiscal autonomy for states.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_2_Q14",
+        "serial_no": "14",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**Q.14 Explain the reasons for the growth of public interest litigation in India. As a result of it, has the Indian Supreme Court emerged as the world's most powerful judiciary? (Answer in 250 words).**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach:\n\n* Introduce by defining Public Interest Litigation (PIL)\n* Mention about the growth of PIL in India and the resulting emergence of the Supreme Court as the world's most powerful judiciary\n* Conclude suitably\n\n### Introduction:\n\nA Public Interest Litigation (PIL) is a legal action initiated in a court of law to protect the interests of the public or a specific group, rather than individual rights.\n\n* Justice Krishna Iyer pioneered the concept of PIL in India in the case of ***Mumbai Kamagar Sabha vs. Abdul Thai (1976).***\n* It is not defined in any statutory law rather originated in India from the power of judicial review.\n\n### Body\n\n**Reasons for the Growth of PILs**:\n\n* **Constitutional Framework:** Fundamental Rights and Directive Principles provide the basis for PILs, promoting social justice.\n* **Relaxation of Locus Standi:** The courts relaxed this principle for PILs, allowing concerned citizens or organisations to file petitions on behalf of the marginalised groups.\n* **Judicial Activism:** The judiciary has played a proactive role in expanding the scope of PILs, particularly where the executive has failed to deliver justice.\n  + **Bandhua Mukti Morcha v. Union of India (1984)** set the precedent for liberalising access to the courts for social justice causes.\n* **Inaction of Government Authorities:** Growth of PILs can be attributed to the failure of government agencies to address public grievances effectively (bureaucratic delays, corruption etc), leading citizens to approach courts through PILs.\n\n**Growth of PILs Making the SC the World\u2019s Most Powerful Judiciary:**\n\n* **Power to Strike Down Laws:**\n  + In 2021, the Supreme Court declared the **NJAC Act and the 99th Constitutional Amendment unconstitutional and void** (PIL challenging NJAC Act filed in 2015).\n* **Addressing Government Inaction via Judicial Review:**\n  + In M.C. Mehta v. Union of India (1988), the court issued directives to control pollution and improve Ganga's water quality.\n  + In the NEET 2024 paper leak case, the SC denied a retest due to insufficient evidence of compromised exam integrity and expanded the Centre-appointed panel\u2019s scope to review NTA's functioning and recommend reforms.\n* **Wider Interpretation of Rights:**\n  + The SC held the **right to privacy** as an intrinsic part of the right to life and personal libe rty under Article 21 (Puttaswamy case 2017).\n  + The SC recognised the **rights of sex workers to dignity** and expanded the interpretation of the right to life and dignity under Article 21 (Budhadev Karmaskar case 2022).\n* **Sou Motu Powers:**\n  + After the poor handling of the Kolkata Muder-Rape case 2024 by the state govt, the SC took the suo motu cognisance of the incident.\n* **Judicial Activism and Overreach:**\n  + Overturning a colonial-era law by decriminalising homosexuality (Navtej Singh Johar case) and declaring triple talaq as unconstitutional and invalid, upholding gender equality and personal rights (Shayara Bano case 2017).\n  + To curb road accidents, the SC ordered a ban on liquor sales within 500 m of highways (2017).\n\nThough PILs have expanded the ambit of judicial review and have contributed in making the SC one of the world\u2019s most powerful judiciary \u2013 judicial overreach has often been criticised by various stakeholders as excessively interfering in the legislative and executive domains; a practice witnessed seldom in more advanced nations like the US and Australia who also have similar systems in place. \u2018Separation of powers\u2019 must be respected to maintain the spirit of democracy.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_2_Q15",
+        "serial_no": "15",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**Q.15. Discuss India as a secular state and compare with the secular principles of the US constitution. (Answer in 250 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach:\n\n* Introduce the concept of secularism, highlighting its significance in both India and the United States.\n* Give key features of Indian Secularism\n* Compare key aspects of secularism in India and the US, focusing on constitutional basis, state involvement in religion, and recent legal challenges.\n* Conclude by highlighting the importance of upholding constitutional principles in both countries.\n\n### Introduction:\n\nThe concept of secularism in India and the United States differs significantly in both theory and practice.\n\n* India embodies a **positive concept of secularism**, giving equal respect to all religions regardless of their size or influence.\n* In contrast, the **Western concept,** exemplified by the US, **connotes a complete separation between religion and state.**\n\n### Body\n\n**India as a Secular State:**\n\n![](TEST_IMAGES/UPSC_MAIN_CSE_GS_2024_PAPER_2_Q15_IMG_1.png)\n\n**Comparative Analysis of Secularism in India and United States:**\n\n|  |  |  |\n| --- | --- | --- |\n| **Aspect** | **India** | **United States** |\n| **Constitutional Basis** | Preamble **(42nd Constitutional Amendment Act of 1976),** Article 15, Article 25-28 | First Amendment, **\"Establishment Clause\"** |\n| **Definition of Secularism** | Equal respect for all religions | Separation of church and state |\n| **State Involvement in Religion** | Active (e.g., **managing temples, subsidising pilgrimages)** | Minimal (prohibited from endorsing or interfering) |\n| **Religious Education** | Not allowed in **fully state-funded schools** | Prohibited in public schools, allowed in private institutions |\n| **Personal Laws** | Separate for **different religious communities** (e.g., Hindu Marriage Act, Muslim Personal Law) | State-specific family law applies to the citizens |\n| **State Funding for Religious Activities** | Allowed for secular aspects like: Education **(Maulana Azad Education Foundation)**Healthcare **(Christian Medical College )** | Generally prohibited, some exceptions (e.g., **faith-based initiatives)** |\n| **Recent Legal Challenges** | CAA 2019, Hijab ban in educational institutions (Karnataka, 2022) | School prayer debates, religious symbols in public spaces |\n\n### Conclusion:\n\nBoth India and the US encounter challenges in managing the interplay between religious influence in politics and safeguarding individual rights. Ultimately, the success of secularism in promoting harmony and democracy relies on the steadfast commitment to uphold constitutional principles in both countries.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_2_Q16",
+        "serial_no": "16",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**Q16. The Citizen Charter has been a landmark initiative in ensuring citizen centric administration. But it is yet to reach its full potential. Identify the factors hindering the realisation of its promise and suggest measures to overcome them? (Answer in 250 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach:\n\n* Write a brief introduction about the Citizen's Charter and its significance.\n* Discuss the factors hindering the full realisation of the Citizen's Charter.\n* Propose actionable measures to overcome these hindrances.\n* Conclude with the importance of reforms and emphasise the potential of the Citizen's Charter in improving governance.\n\n### Introduction\n\nThe **Citizen's Charter** is a key initiative aimed at enhancing **transparency, accountability,** and efficiency in **public service delivery.** The task of **coordination, formulation,** and operationalization of citizen\u2019s charters are done by the **Department of Administrative Reforms and Public Grievances (DARPG).**\n\n### Body\n\n* **Factors/Challenges Hindering the Realization of Citizen Charters:**\n  + Many citizens are **unaware of the existence of the Citizen\u2019s Charter** or the rights it grants them and fail to hold public authorities accountable.\n  + While the Citizen's Charter specifies service standards, there are limited **enforcement mechanisms to penalize non-compliance** by government officials.\n  + Some departments are not **revising their charters** regularly. This led to inconsistency and unequal service delivery.\n  + Many officials perceive the Citizen's Charter as an additional burden and show reluctance in adhering to its standards.\n  + **Insufficient training** of public officials in **citizen-centric service delivery** and a lack of understanding of the Citizen's Charter hinder its effective implementation.\n* **Measures to Overcome the Challenges:**\n  + The **Second Administrative Reforms Commission (ARC)** proposed several recommendations to enhance the effectiveness of **Citizen\u2019s Charters:**\n    - Implementing **punitive measures** for non-compliance, such as **financial penalties** or disciplinary action against officials, can improve accountability.\n    - Charters should prioritize a limited number of achievable commitments instead of presenting an extensive list of unfulfilled promises.\n    - Uniform charters across organizations can undermine the effectiveness of service delivery; therefore, it is essential to develop charter that are tailored to local contexts and specific organizational needs.\n    - Officers should be held accountable when commitments made in the Citizen's Charters are not met, ensuring that they uphold their responsibilities and maintain public trust.\n    - Citizen\u2019s Charters should undergo frequent reviews and revisions to ensure they remain relevant, effective, and aligned with changing needs and expectations of the public.\n    - Before creating a charter, the organization should reorganize its structure and processes to ensure effective implementation.\n\n### Conclusion\n\nThe Citizen's Charter has the potential to revolutionize governance by enhancing transparency, efficiency, and a focus on citizens. However, realizing this potential requires tackling implementation challenges through increased awareness, improved accountability, effective training, and fostering a culture centered on citizen needs.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_2_Q17",
+        "serial_no": "17",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**Q 17. In a crucial domain like the public healthcare system the Indian State should play a vital role to contain the adverse impact of marketisation of the system. Suggest some measures through which the State can enhance the reach of public healthcare at the grassroots level. (Answer in 250 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach\n\n* **Introduction:** Start with the current state and valuation of India's healthcare sector, highlighting the concerns of marketization.\n* **Body:** Discuss the role of the state in addressing marketization through regulation, provision of services, and community-focused initiatives to enhance public health access.\n* **Conclusion:** Emphasise the need for the state to uphold the right to health and ensure equitable access in light of market pressures.\n\n### Introduction\n\nIndia's healthcare sector reached **USD 372 billion in 2023,** with the **private sector dominating** secondary and tertiary care (major concentration in metros, tier-I, and tier-II cities). The increasing marketization raises concerns by viewing **health as a commodity,** prioritising profits over patient welfare, potentially **compromising care quality** and exacerbating healthcare access inequalities.\n\n### Body\n\n**Role of the State in Containing the Adverse Impact of Marketization of the Healthcare System:**\u00a0\n\n* **Right to Health: Article 21 of the Constitution** includes the right to health, requiring the state to protect this right amid marketization pressures that may lead to **inequality and service degradation.**\n* **State as a Benefactor:** Ensures healthcare **services are available to all,** especially vulnerable groups, through public hospitals and subsidized care schemes like the **Central Government Health Scheme (CGHS)**.\u00a0\u00a0\n  + Establishes quality standards and patient satisfaction measures, maintaining dignity and rights.\n* **State as a Regulator:** Through the **Indian Medical Council (Professional Conduct, Etiquette and Ethics) Regulations, 2002** the state sets norms to prevent profit-driven service degradation and protect citizens.\n* **State as a Facilitator:** Facilitate PPP to enhance service delivery serving underserved areas. It mobilises funds for equitable healthcare financing.\n\n**Measures to Enhance Public Healthcare Reach at the Grassroots Level:**\u00a0\n\n* The state should train **community health workers (ASHAs, ANMs)** to act as bridges between the healthcare system and the community, **facilitating health education and early disease detection.**\n* Expand the operationalization of **Ayushman Bharat Health and Wellness Centres** to ensure comprehensive primary healthcare services, including preventive, promotive, and curative care.\u00a0\n  + Utilise the **15****th** **Finance Commission's grants** to strengthen local health systems and enhance community-specific health initiatives.\n* Implement\u00a0 initiatives like **Pradhan Mantri Janjati Adivasi Nyay Maha Abhiyaan** to target low immunisation coverage areas, especially in tribal and hard-to-reach regions, ensuring effective prevention.\n* Additionally, establishing **new medical colleges in aspirational districts,** using **Rural Health Statistics for data-driven decisions**, and integrating telehealth services will further enhance healthcare accessibility and effectiveness.\n\n### Conclusion\n\nThe state should utilise marketization to enhance competition and deliver affordable, high-quality healthcare, prioritising patient welfare and improving access for vulnerable populations.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_2_Q18",
+        "serial_no": "18",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**Q18. e-governance is not just about the routine application of digital technology in service delivery process. It is as much about multifarious interactions for ensuring transparency and accountability. In this context evaluate the role of the \u2018Interactive Service Model\u2019 of e-governance. (Answer in 250 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach:\n\n* Define e-governance and introduce the concept of the interactive service model.\n* In Body evaluate the role of Interactive Service Model in ensuring transparency and accountability.\n* In conclusion, emphasise the need for continuous improvements and adaptations to meet the evolving needs of citizens.\n\n### Introduction:\n\n**E-governance** is the use of **digital technology** by governments to provide services to citizens. E.g. DigiLocker, Jeevan Pramaan, Mobile Seva.\n\nThe **interactive service model of e-governance** transforms **one-way service delivery** into a dialogue, allowing citizens to voice concerns and participate in decision-making.\n\n![](TEST_IMAGES/UPSC_MAIN_CSE_GS_2024_PAPER_2_Q18_IMG_1.png)\n\n### Body:\n\n**Role of Interactive Service Model(ISM) in Ensuring Transparency and Accountability:**\n\n* **Two-way Communication:** Initiatives like the **MyGov platform** in India enable direct dialogue between citizens and the government, fostering engagement and feedback.\n* **Access to Information:** Portals such as the Right to Information mechanism and the National Portal of India provide citizens with comprehensive updates and information.\n* **Grievance Redressal:** Systems like the Centralised Public Grievance Redress and Monitoring System (CPGRAMS) allow citizens to report issues and receive prompt responses.\n* **Citizen Engagement:** Programs like **\u201cBhagidari\u201d** promote active citizen participation in governance, reinforcing a partnership between the public and government.\n* **Feedback Mechanisms:** Projects like **Karnataka\u2019s Bhoomi** enable real-time citizen feedback on digitised land records, enhancing responsiveness in service delivery.\n* **Ensuring Transparency:** Initiatives such as social audits, with Meghalaya being the first state to pass social audit legislation, enhance openness in government processes, and build public trust.\n\nAlthough the Interactive Service Model is crucial, its implementation faces challenges such as unequal access to technology, with urban areas having 67% internet penetration compared to just 31% in rural areas, bureaucratic resistance to adopting new systems, and concerns over data privacy that may limit citizen participation.\n\n### Conclusion:\n\nTo tackle the challenges of the Interactive Service Model of e-governance, the government must bridge the **digital divide** with **rural connectivity** and **promote digital literacy,** while ensuring data privacy and encouraging bureaucratic reform. This will enhance e-transparency and empower citizens through the effective use of electronic platforms and social media, making services clear and accessible to all.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_2_Q19",
+        "serial_no": "19",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**Q.19 Terrorism has become a significant threat to global peace and security. Evaluate the effectiveness of the United Nations Security Council\u2019s Counter-Terrorism Committee (CTC) and its associated bodies in addressing and mitigating this threat at the international level. (Answer in 250 words).**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach:\n\n* Define the threat of terrorism using credible sources and outline the role of the UN Counter-Terrorism Committee (UNCTC)\n* Mention the impact of terrorism, the role and effectiveness of the UNCTC, challenges faced, and suggestions for improvement.\n* Conclude with a future-oriented viewpoint.\n\n### Introduction:\n\nThe **Global Terrorism Index 2024** notes a **22% rise in terrorism-related deaths globally,** the highest since 2017. In response, the UN Security Council's Counter-Terrorism Committee (CTC) plays a vital role in boosting international cooperation to tackle this issue.\n\n### Body:\n\n**Threat of Terrorism to Global Peace and Security:**\n\n* **Erosion of State Sovereignty:** Weak governments in Afghanistan and Somalia allow the Taliban and Al-Shabaab to thrive.\n* **Economic Impact:** The 9/11 attacks led to **USD 40 billion in U.S. losses,** while the 2015 Paris attacks harmed European tourism.\n* **Humanitarian Crises:** ISIS and conflicts in Syria and Iraq have caused major refugee crises, straining host countries.\n* **Political Tensions:** Terrorism intensifies geopolitical conflicts, notably between India and Pakistan, exemplified by the 2019 Pulwama attack.\n\n**UNSC-CTC and its Effectiveness:**\n\n* Established by Resolution 1373 after the **9/11 attacks** to combat terrorism.\n* It facilitates the implementation of legal frameworks like UNSC **Resolutions 1373** and **1540**, requiring member states to combat terrorism and prevent weapons proliferation.\n* It promotes **capacity-building initiatives,** fosters international collaboration for intelligence sharing, and addresses challenges like cyber-terrorism and social media recruitment with modern strategies.\n\n**Challenges of UNCTC:**\n\n* **Lack of Universal Definition:** Inconsistent definitions of terrorism lead to varied international responses.\n* **Enforcement Issues:** Counter-terrorism efforts in places like **Somalia often lack effectiveness** due to various physical and governance-related hindrances.\n* **Political Complexities:** Veto power, particularly from China, can obstruct consensus on terrorist designations.\n* **Evolving Threats:** New challenges like **cyber-terrorism** and **lone-wolf attacks** are rapidly emerging.\n\n**Suggestions for Improvement:**\n\n* Create binding counter-terrorism frameworks.\n* Enhance real-time information sharing on financing and movement.\n* Collaborate with local communities to prevent radicalization.\n* Boost financial and technical aid for developing nations.\n\n### Conclusion\n\nWhile the CTC has advanced in countering terrorism, a proactive approach is vital. Strengthening legal frameworks, enhancing intelligence sharing, and fostering community initiatives will better prepare the international community to tackle evolving threats and bolster global security.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_2_Q20",
+        "serial_no": "20",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**Q20. Discuss the geopolitical and geostrategic importance of Maldives for India with a focus on global trade and energy flows. Further also discuss how this relationship affects India's maritime security and regional stability amidst international competition ? (Answer in 250 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach\n\n* Write in brief about the strategic location of Maldives.\n* Discuss how geopolitical and geostrategic importance of Maldives affects global trade and energy flows.\n* Show how external players like China impact India-Maldives relations.\n\n### Introduction\n\nMaldives \u2013 a key part of India\u2019s neighbourhood first policy \u2013 is strategically located in the Indian Ocean along critical maritime routes, defining Maldives\u2019 geopolitical and geo-strategic importance far beyond its physical size.\n\n### Body\n\n**Geopolitical and Geostrategic Importance of Maldives:**\n\n* **Sea Lanes of Communication (SLOCs):** The Maldives has two critical SLOCs at its southern and northern ends, vital for maritime trade between the Gulf of Aden, Gulf of Hormuz, and the Strait of Malacca.\n  + 50% of India's external trade and 80% of its energy imports pass through these SLOCs in the Arabian Sea.\n* **Indian Ocean as India\u2019s Backyard**: The Maldives is crucial for India's role as net security provider in the Indian Ocean due to its strategic location, collaborative defence initiatives, and joint efforts in maritime surveillance and humanitarian assistance.\n\n**Impact of Changing India-Maldives Relationship:**\n\nIn the recent years, there has been a **perceived decline in India-Maldives relations:**\n\n* **Strategic Dynamics:** India's **limited engagement** with the Maldives has enabled China's growing influence through **BRI investments**, threatening India's control over key maritime routes and its maritime security.\n* **Economic Competition**: Due to comparatively **less India\u2019s investment** in Maldives, China with its **chequebook diplomacy** has emerged as a major economic player, directly challenging India's long-standing position as the primary partner in the region.\n* **Diplomatic Strain:** Maldives' balancing strategy, fueled by perceived **Indian 'Big** **Brother syndrome',** complicates India's diplomatic efforts and weakens its influence in the Indian Ocean.\n* **Maritime Security:** China's **submarine and destroyer** deployments, along with new docking facilities in the Maldives and Sri Lanka, pose a direct threat to India's maritime interests.\n* **Terrorism:** **Anti-Indian sentiment** and Maldives' focus on **Islamic values raise** concerns about terrorism, potentially destabilising the region and threatening India's security.\n\n![](TEST_IMAGES/UPSC_MAIN_CSE_GS_2024_PAPER_2_Q20_IMG_1.png)\n\n### Conclusion\n\nAmid rising Chinese influence and anti-India sentiment, strengthening India-Maldives relations is essential for regional stability and mutual prosperity. A harmonious partnership will benefit economic development, security, and cultural ties, fostering a more resilient and prosperous future for both countries.",
+        "explanation_format": "markdown"
+      }
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "exam_info": {
+    "exam_type": "UPSC_MAIN_CSE",
+    "year": "2024",
+    "session": "3",
+    "subject": "GS",
+    "total_questions": 20
+  },
+  "questions": [
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_3_Q1",
+        "serial_no": "1",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**Q1. Examine the pattern and trend of public expenditure on social services in the post reforms period in India. To what extent this has been in consonance with achieving the objective of inclusive growth? (Answer in 150 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach:\n\n* Give a brief introduction about Public Expenditure on social services\n* Mention the pattern and trend of public expenditure\n* State the extent public expenditure in achieving inclusive growth\n* Conclude suitable\n\n### Introduction:\n\nThe government expenditure on social services grew at a **5.9% CAGR from FY12 to FY23,** reflecting increased focus on education, healthcare, and rural development since the **1991 reforms for inclusive growth.**\n\n### Body:\n\n**Pattern and Trend of Public Expenditure on Social Services (Post-Reform Period):**\n\n* **Increase in Allocation:** Social services spending grew from 5.3% of GDP in 2000-01 to **8.3% in 2022-23**, with a focus on education, health, and welfare.\n  + **Education Sector:** Increased from **2.8% to 3.1% of GDP by 2022-23.** The FY 2023-24 budget allocated Rs.1.12 lakh crore.\n  + **Health Sector:** Grew from 0.9% to 2.1% of GDP by 2022-23. FY 2023-24 allocation is Rs.89,155 crore.\n* **Social Welfare Programs:** MGNREGA funding rose from **Rs.60,000 crore in 2023-24 to Rs.86,000 crore in 2024-25** for poverty alleviation.\n* Skilling and Digital Inclusion: Programs like Digital India and Skill India (20 lakh youth will be skilled over a 5-year period- Budget 2024-25) are receiving increased funding to **boost digital literacy, bridge the digital divide**, and provide employment through skill development initiatives.\n\n**Consonance with Achieving Inclusive Growth**\n\nDespite increased public expenditure on social services, allocations remain modest for the population's needs.\n\n* **Education:** Access has expanded, but challenges in quality and equity persist (GER for the age group 18-23 years in India is **28.4%)**.\n* **Health:** Spending has risen, yet India lags in rural healthcare and access for marginalised groups.\n* **Poverty and Inequality:** Welfare programs help reduce poverty, but inclusive growth is hindered by fund underutilization and implementation issues.\n\n### Conclusion:\n\nPublic expenditure on social services in post-reform India has risen to support inclusive growth. Achieving true inclusive growth requires **better resource efficiency** and **targeted beneficiary support.** Efforts must continue to address these issues while **maintaining investment in social sectors.**",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_3_Q2",
+        "serial_no": "2",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**Q2. What are the causes of persistent high food inflation in India? Comment on the effectiveness of the monetary policy of the RBI to control this type of inflation. (Answer in 150 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach:\n\n* Introduce with brief comment on food inflation with relevant facts/data.\n* Highlight factors like climate change, supply chain issues, and rising production costs.\n* Briefly mention RBI\u2019s Flexible Inflation Targeting (FIT) approach.\n* Assess the RBI's success in managing overall versus food inflation.\n* Note the limits of monetary policy on supply-side issues.\n* Conclude suitably on a positive note.\n\n### Introduction\n\nAccording to CPI, in **August 2024**, food inflation was **5.66%,** with rural inflation at **6.02%** and urban inflation at 4.99%. Persistent high food inflation in India poses economic challenges and understanding its causes is essential for assessing the effectiveness of the Reserve Bank of India's monetary policy.\n\n### Body:\n\n**Causes of Persistent High Food Inflation In India**\n\n![](TEST_IMAGES/UPSC_MAIN_CSE_GS_2024_PAPER_3_Q2_IMG_1.png)\n\n### Effectiveness of RBI's Monetary Policy in Controlling Food Inflation\n\nThe RBI aims for **4% inflation via the Flexible Inflation Targeting (FIT) framework**, but food inflation remains a significant challenge despite its measures.\n\n* The FIT approach aims for **price stability and growth**, but persistent food inflation from supply-side shocks complicates this.\n* The RBI adjusts rates to control inflation, but food prices resist due to factors like **climate change and global prices.**\n* Monetary policy actions take 2-3 quarters to impact the economy, reducing their effectiveness for short-term food price shocks.\n\n### Conclusion\n\nWhile the RBI's monetary policy is crucial for **managing inflation,** tackling persistent food inflation in India needs a holistic approach. In consonance with **targeted fiscal policies, structural reforms, improved agricultural practices,** and better supply chains will ensure long-term stability, benefiting consumers and the economy.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_3_Q3",
+        "serial_no": "3",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**Q3. What were the factors responsible for the successful implementation of land reforms in some parts of the country? Elaborate. (Answer in 150 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach:\n\n* Write in brief about land reforms in India.\n* Discuss the reasons for its successful implementation in some regions of the country.\n* Conclude by summarising the the factors mentioned in the main body\n\n### Introduction\n\n* Land reform is a type of agrarian reform where the **ownership or management of land** is changed, usually through **government policies** for the welfare of the **poor landless peasants.** The Land Reforms included **abolition of the intermediaries, tenancy reforms, land ceiling and land consolidation.**\n\n### Body\n\nFactors responsible for the successful implementation of land reforms in some parts of the country like **West Bengal and Kerala** were:\n\n* **Strong Political Will and Legislations:** Governments of the state effectively implemented land reforms. Laws like the Bihar Land Reforms Act (1950) and Bombay Tenancy Act (1948) facilitated reforms.\n* **Peasant Movements:** Mobilisation under **Operation Barga** in West Bengal led to sharecropping reforms.\n* **Land Reforms from Below:** The **Bhoodan and Gramdan movements** in Telangana encouraged voluntary land renunciation for redistribution.\n* **Efficient Land Records Management:** Digitization in states like Karnataka reduced disputes and corruption.\n* **Political Awareness:** Agrarian issues during the freedom struggle heightened acceptance of land reforms.\n\nFactors responsible for the poor implementation of land reforms in other parts:\n\n* **Poor land records** leading to discrepancies in property descriptions and boundaries.\n* Political and **bureaucratic apathy** leading to delays.\n* **Not** including **plantations** in land reforms led to unsuccessful outcomes.\n* **Land ceilings** were set **very high** which helped people bypass ceiling laws.\n\n### Conclusion\n\n**Digital India Land Records Modernization Programme (DILRMP),** Promoting **cooperative and collective farming** and leveraging **Geographic Information Systems (Swamitva scheme)** can make land reforms implementation successful.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_3_Q4",
+        "serial_no": "4",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**Q.4 Explain the role of millets for ensuring health and nutritional security in India. (Answer in 150 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach:\n\n* Introduce the significance of millets.\n* Discuss their role in promoting health and nutritional security.\n* Conclude with a forward-looking perspective.\n\n### Introduction:\n\nMillets are drought-resistant \"nutri-cereals\" that contain **7-12% protein** and boast a superior amino acid profile. Often called **superfoods** as they are both affordable and nutritionally rich.\n\n* Additionally, the UN has designated **2023 as the International Year of Millets.**\n\n### Body:\n\nRole of Millets in Ensuring Health\n\n* **Gluten-Free Option:** Millets are naturally **gluten-free**, with a **low glycemic index** and high fibre content, making them ideal for individuals with gluten intolerance or celiac disease.\n* **Mitigating Lifestyle Diseases:** High in dietary fibre, antioxidants, and minerals like magnesium and iron, millets help prevent lifestyle diseases like diabetes, obesity etc.\n* **Enhancing Immunity:** With **abundant B vitamins** and minerals such as zinc and selenium, millets support immune function, particularly **pearl millet (bajra)**, known for its high zinc content.\n\nRole of Millets in Nutritional Security\n\n* **Tackling Hidden Hunger:** Millets combat micronutrient deficiencies; about 3**0% of Indian** women aged 15-49 suffer from iron deficiency anaemia (WHO).\n* **Nutritional Security:** Millets are photo-insensitive, climate-resilient, and water-efficient \"nutri-cereals\" that offer a rich source of nutrition. Their cultivation is encouraged in drought-prone states (Maharashtra and Rajasthan) to support farmers.\n\n### Conclusion:\n\nThus, initiatives for **Nutritional Security through Intensive Millets Promotion (INSIMP),** and increased MSP for millets are significant steps in the right direction. Shifting perceptions and incorporating these nutrient-rich grains can lead to a healthier future.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_3_Q5",
+        "serial_no": "5",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**Q5. What is the present world scenario of intellectual property rights with respect to life materials? Although India is second in the world to file patents, still only a few have been commericialized. Explain the reasons behind this less commercialization. (Answer in 150 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach:\n\n* Begin by explaining the complexity of intellectual property rights (IPRs) related to life materials.\n* Giving statistics highlights challenges and potential solutions and related government interventions.\n* Conclude by emphasizing the need for India to improve the commercialization of patents through various reforms.\n\n### Introduction:\n\nThe current global scenario of **intellectual property rights (IPR)** for life materials allows patents on **genetically modified organisms (GMOs)** and biotechnological inventions but not on natural life forms. Companies like **Monsanto can patent GMOs,** while **natural genes like BRCA1 cannot be patented.** International agreements, like the **Nagoya Protocol,** ensure fair benefit-sharing with communities when their **genetic resources** are used.\n\n### Body:\n\nIn 2023, India saw a total of 83,000 patents filed, a **24.6% growth rate,** the highest in the past 20 years, according to a report by Nasscom. However, In India, **fewer than 5% of patents are commercialized.**\n\n**Reasons, Solutions and Government Initiatives to tacke Lack of Commercialization of Patents:**\n\n|  |  |  |\n| --- | --- | --- |\n| **Reasons** | **Solutions** | **Government Initiatives** |\n| Lack of awareness among startups about Patent Cooperation Treaty (PCT) applications | Creating awareness about IP among budding entrepreneurs | National IPR Policy (2016) |\n| Lack of funds and proper infrastructure for growth and innovation | Proper examination of opposition to prevent frivolous filings | Scheme for Start-up Intellectual Property Protection (SIPP) (2016) |\n| Manpower shortage in the patent office | Focussing on better efficiency and adequate staffing needs | Kalam Program for IP Literacy and Awareness (KAPILA) (2020) |\n| No fixed timelines for each step of the process | Establishment of more patent filing centers in every state | National Start-up Advisory Council (2020) |\n| It takes about 58 months on average to dispose of a patent application in India | Information about attorneys and examiners on the government website | MeitY Startup Hub (MSH) |\n\n### Conclusion:\n\nIndia's growing number of patent filings shows the need to improve commercialization by making **regulatory reforms**, building better infrastructure, and **promoting collaboration**. By strengthening the patent system and **supporting entrepreneurship,** India can unlock its innovation potential and move closer to its goal of becoming a **USD 5 trillion economy by 2025.**",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_3_Q6",
+        "serial_no": "6",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**Q6. What is the technology being employed for electronic toll collection on highways? What are its advantages and limitations? What are the proposed changes that will make this process seamless? Would this transition carry any potential hazards? (Answer in 150 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach\n\n* Introduce the answer with a brief description of electronic toll collection on highways.\n* Briefly describe key technologies like FASTag, GNSS, RFID, and ANPR.\n* Highlight benefits such as reduced congestion, faster transactions etc.\n* Mention challenges like infrastructure issues and digital divide.\n* Mention proposed changes like GNSS lanes.\n* Discuss risks such as cybersecurity threats and technical failures.\n* Conclude suitably.\n\n### Introduction\n\n**Electronic toll collection** on highways employs technologies like **FASTag and Global Navigation Satellite System (GNSS).** It is estimated that India could save Rs 12,000 crore annually in fuel and man-hours by switching to **100% FASTag-based toll collection.**\n\n**Technology Employed**\n\n**RFID (Radio Frequency Identification):** Tags (eg. **FASTag**) attached to vehicles enable automatic toll deductions as they pass through toll plazas.\n\n* **GPS (Global Positioning System):** Tracks vehicle locations in real-time to calculate tolls based on distance travelled.\n* **ANPR (Automatic Number Plate Recognition):** Captures vehicle registration plates for seamless toll payments without stopping.\n\n![](TEST_IMAGES/UPSC_MAIN_CSE_GS_2024_PAPER_3_Q6_IMG_1.png)\n\n![](TEST_IMAGES/UPSC_MAIN_CSE_GS_2024_PAPER_3_Q6_IMG_2.png)\n\n**Proposed Changes for a Seamless Process:**\n\n* **Satellite-Based Toll Collection System:** GNSS Tolling collects fees without stopping vehicles at toll booths.\n* **On-Board Units (OBUs):** Owners will install non-transferable OBUs in their vehicles, potentially factory-fitted in new cars, similar to FASTag stickers.\n* **Multi-Lane Free Flow (MLFF) Technology:** Combines **RFID, ANPR, and GNSS** for toll charging while vehicles are in motion.\n* **Toll Aggregation System:** A unified national platform to streamline toll payments across states and highways.\n\n**Potential hazards** include cybersecurity risks from hacking and data breaches, as well as inequities for low-income individuals lacking access to electronic payment methods.\n\n### Conclusion\n\nWhile electronic toll collection technology offers numerous benefits, **careful implementation and addressing potential hazards** are essential for a seamless transition, ensuring fairness and security for all users.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_3_Q7",
+        "serial_no": "7",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**Q7. Industrial pollution of river water is a significant environmental issue in India. Discuss the various mitigation measures to deal with this problem and also the government\u2019s initiative in this regard. (Answer in 150 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach\n\n* Give a brief introduction about industrial pollution of river water\n* Mention the mitigation measures and government initiatives\n* Conclude suitably\n\n### Introduction:\n\n**Industrial pollution** of river water in India severely impacts **ecosystems, human health, and livelihoods** by degrading water quality through the discharge of untreated effluents.\n\n### Body:\n\n**Mitigation Measures**\n\n* **Effluent Treatment Plants (ETPs)**: Mandating the installation of ETPs in industries to treat wastewater before discharge ensuring that harmful pollutants are removed, reducing the toxic load on rivers.\n* **Strict Monitoring and Regulation:**Establishing stringent monitoring systems to regularly inspect industries for **compliance with pollution standards.**\n* **Zero Liquid Discharge (ZLD)**:Encouraging industries to adopt ZLD systems that recycle wastewater, thereby preventing discharge into water bodies.\n* **Public Awareness and Participation:**Raising awareness about the impacts of industrial pollution and promoting community involvement in monitoring and protecting water bodies.\n* **Sustainable Industrial Practices**:Encouraging industries to adopt cleaner production methods that **minimize waste generation** and resource consumption.\n\n**Government Initiatives**\n\n* **Regulatory Framework:** Regulation of industrial pollution is enforced through the **Water (Prevention and Control of Pollution) Act, 1974.**\n* **CPCB Directions:** CPCB has issued directives regarding non-compliance of Common Effluent Treatment Plants (CETPs) to SPCBs/PCCs under Section 18(1)(b) of the **Water (Prevention and Control of Pollution) Act, 1974.**\n* **Online Monitoring Systems:** Online Continuous Effluent Monitoring Systems (OCEMS) are mandated for industrial units to provide real-time effluent quality data.\n* **Discharge Standards:** General and industry-specific effluent discharge standards have been stipulated under the **Environment (Protection) Rules, 1986.**\n* **Conservation Programs:**\n  + Namami Gange Programme\n  + Atal Mission for Rejuvenation and Urban Transformation (AMRUT)\n  + Smart Cities Mission\n\n### Conclusion:\n\nAddressing industrial pollution of river water in India requires a multi-faceted approach involving **stringent regulations, technological advancements, and community participation.**",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_3_Q8",
+        "serial_no": "8",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**Q8. What role do environmental NGOs and activists play in influencing Environmental Impact Assessment (EIA) outcomes for major projects in India? Cite four examples with all important details. (Answer in 150 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Introduction\n\nEnvironmental Non-Governmental Organisations (ENGOs) and activists are vital in promoting environmental sustainability, and driving policy change, particularly in influencing Environmental Impact Assessments (EIAs) for major projects.\n\n### Body\n\n**Role of ENGOs and Activists in Influencing EIA Outcomes in India**\n\n* Raise **public awareness** of environmental issues and engage local populations in EIA campaigns.\n* Use research and the **Right to Information Act** to gather data on environmental impacts and file **Litigations** for accountability.\n* Promote ethical standards and **train communities to participate effectively in EIAs.**\n* Collaborate with **government agencies for transparent EIAs and engage media to highlight environmental issues**, pressuring decision-makers.\n\n**Examples:**\n\n* **Save Silent Valley Campaign:** The Kerala Sasthra Sahithya Parishad fought against a hydroelectric project in **Silent Valley National Park** to protect the rainforest, leading to a proposal for the area to be a **Biosphere Reserve.**\n* **POSCO Steel Project, Odisha:** Greenpeace India and local groups opposed the project over environmental concerns, resulting in its cancellation in 2017 due to flaws in the EIA.\n* **Narmada Bachao Andolan:** The movement opposed the Sardar Sarovar Dam, highlighting environmental and social impacts, which led to improved project assessments.\n* **Sterlite Copper Case:** NGOs protests and the **\u2018Anti Sterlite Movement\u2019** influenced the Supreme Court's review, resulting in the closure of the plant for pollution issues and emphasising the need for effective EIAs.\n\n### Conclusion\n\nENGOs and activists hold authorities accountable, ensuring development projects prioritize environmental and social impacts. Strengthening ENGOs can promote sustainable practices that benefit communities and ecosystems.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_3_Q9",
+        "serial_no": "9",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**Q9. Explain how nacro- terrorism has emerged as a serious threat across the country. Suggest suitable measures to counter narco-terrorisam. (Answer in 150 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach\n\n* Write a brief introduction about Narco-terrorism.\n* Explain emergence of narco-terrersm as a threat across the country.\n* Mention measures to counter Narco-tererrism.\n* Write a holistic conclusion.\n\n### Introduction\n\n**Narco-terrorism** is the use of **organized terror** by **states, insurgents,** or **criminal networks** to achieve **political, economic,** or **social objectives** through **drug trafficking. Narco-terrorism** is increasingly linked to the **narcotics-producing** regions of the **Golden Crescent** and the **Golden Triangle.**\n\n### Body\n\n* **Narco-terrerism as Threat:**\n  + It creates a dual **threat of violence** and **organized crime, destabilizing nations, corrupting institutions**, and **fostering insecurity by financing insurgencies, cartels, and extremist networks** globally.\n  + **Northeast states of India, Punjab** and **Jammu & Kashmir** are the major Indian states which are suffering with narco-terrerism.\n  + In India, drug trafficking networks exploit **porous borders, particularly** with **Afghanistan and Myanmar,** to finance terrorism.\n* **Measures to Counter Narco-Terrorism**\n  + **Enhanced Border Surveillance:** Strengthen border security using advanced technologies like **drones, satellite imagery, and AI-based surveillance systems** to curb drug smuggling.\n  + **Financial Monitoring**: Implement robust financial intelligence mechanisms to trace and disrupt narcotic-linked terrorist funding.\n  + **International Cooperation:** Bolster transnational partnerships through organizations like the UNODC and Interpol to dismantle global narco-terror networks.\n  + **Public Awareness and Rehabilitation:** Conduct **anti-drug awareness campaigns** and establish **de-addiction programs** to weaken the consumer base.\n  + **Legal Reforms:** Strengthen laws for stricter punishment against drug traffickers and terror financiers.\n\n### Conclusion:\n\nA Multi-faceted approach is essential to counter narco-terrorism. Strengthening border security, enhancing international cooperation, and implementing stringent anti-money laundering measures such as Prevention of Money Laundering Act, 2002 are crucial. Additionally, addressing socio-economic issues, promoting alternative livelihoods, and investing in education can help reduce the appeal of drug trafficking and terrorism, fostering long-term stability.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_3_Q10",
+        "serial_no": "10",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**Q.10 Describe the context and salient features of Digital Personal Data Protection Act 2023. (Answer in 150 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach:\n\n* Introduced the Digital Personal Data Protection Act, 2023 (DPDP Act) as a significant step in India's data privacy landscape.\n* Provide context related to the Act.\n* Discuss its key salient features\n* Conclude by emphasising the Act's importance and potential impact on data privacy in India.\n\n### Introduction:\n\nAmidst the rapid growth of **digital technology** and the increasing reliance on data-driven services, the **Digital Personal Data Protection Act, 2023** marks a significant step forward in **India's data privacy landscape.**\n\n### Body:\n\n**Context:**\n\n* **Rapid Digitalization**: With over **750 million** internet users as of 2023.\n* **Rising Data Breaches:** Increased incidents compromising personal information, exemplified by the **Air India data breach** in 2021.\n* **Global Data Protection Trends**: International regulations like General Data Protection Regulation of the European Union.\n* **Absence of Comprehensive Law:** Over-reliance on the **outdated IT Act, 2000.**\n* **Digital Public Infrastructure:** Systems like **Aadhaar,** the largest biometric ID system.\n\n**Salient Features:**\n\n* **Applicability:** Applies to processing **digital personal data in India and abroad** if offering goods or services in India.\n  + Personal data processing requires **individual consent, with clear notice about data collection purposes.**\n* **Rights of Data Principals:** Individuals can obtain **information about data processing**, seek corrections.\n* **Obligations of Data Fiduciaries**: Data fiduciaries must **ensure data accuracy** and erase data after its purpose is fulfilled.\n* **Exemptions:** Certain rights and obligations do not apply to cases like **crime prevention or government activities for state security.**\n* **Data Protection Board of India:** A regulatory body will monitor compliance, impose penalties, and handle grievances.\n\n### Conclusion:\n\n**Digital Personal Data Protection Act, 2023** marks a crucial advancement in India's data protection landscape, striving to **balance individual privacy rights, digital democracy with the needs of enhanced digital scrutiny and national interests.**",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_3_Q11",
+        "serial_no": "11",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**Q.11 Discuss the merits and demerits of the four Labour Codes' in the context of labour market reforms in India. What has been the progress so far in this regard? (Answer in 250 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach:\n\n* Give a brief introduction about the Labour Codes\n* Outline the merits and demerits of the Labour Codes, and discuss the progress made so far\n* Conclude suitably\n\n### Introduction:\n\nThe four Labour Codes in India\u2014on Wages, Industrial Relations, Social Security, and Occupational Safety\u2014represent a significant overhaul of the country\u2019s labor laws.\n\n### Body:\n\n**Merits:**\n\n* **Simplification of Laws:** Consolidating over **40 labour laws into four codes** simplifies compliance for businesses, reducing legal complexities.\n* **Improved Flexibility for Employers:** The Industrial Relations Code has raised the retrenchment threshold for firms without government approval from 100 to 300 employees.\n* **Enhanced Worker Protections:** The Social Security Code **extends benefits to gig and platform workers.**\n* **Occupational Safety and Health:** The Occupational Safety Code mandates stricter workplace safety standards. This includes health checks, safety committees, and better facilities for workers.\n\n**Demerits:**\n\n* **Ambiguity in Definitions:** Unclear definitions of workers and gig workers may lead to exploitation and confusion.\n* **Exclusion of Vulnerable Workers:** The Occupational Safety, Health and Working Conditions Code **does not cover charitable organisations or NGOs**, leaving a significant part of the social service sector unprotected.\n* **Resistance from States:** Some states lag in implementation, risking inconsistencies in labour laws.\n* **Reduced Collective Bargaining:** The **75% worker support** requirement for union recognition may fragment representation and hinder collective bargaining.\n* **Potential for Exploitation:** Fixed-term contracts may result in worker exploitation and diminished rights.\n\n**Progress so far:**\n\n* **Legislative Approval:** All four Labour Codes have been passed by Parliament and received presidential assent.\n* **Yet to be Implemented:** Passed in 2019 & 2020, the codes are yet to be implemented.\n  + **As of June 2024, 24 states and union territories (UTs) in India have formed rules under all four new labor codes**\n\n### Conclusion:\n\nThe implementation of these codes is expected to bring significant changes to India\u2019s labor market, aiming to simplify and modernize labor laws, but the final rollout is still awaited.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_3_Q12",
+        "serial_no": "12",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**Q.12 What is the need for expanding the regional air connectivity in India? In this context, discuss the government's UDAN Scheme and its achievements. (Answer in 250 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach\n\n* Start the answer with providing the significance of regional connectivity in a vast and rapidly developing country like India.\n* Provide how India\u2019s RCS-UDAN Scheme has been a step in the right direction in this context.\n* Discuss the key versions of the scheme and its achievements.\n* Provide a suitable conclusion.\n\n### Introduction\n\nExpanding regional air connectivity is crucial for achieving comprehensive and inclusive development in India. To enhance regional air connectivity, the Government of India introduced the Regional Connectivity Scheme \u2013 Ude Desh Ka Aam Nagrik (RCS-UDAN) Scheme.\n\n### Body\n\n**Regional Air Connectivity \u2013 A Necessity:**\n\n* Enhanced connectivity **stimulates local economies** by facilitating trade, tourism, and investment in remote areas.\n* Improved air links **ensure better access to essential services** for people in underserved regions.\n* Increased air traffic can **lead to job opportunities** in aviation, hospitality, and related sectors, benefiting local communities.\n* Better connectivity **boosts tourism in remote and scenic areas,** alongside **reducing the urban-rural divide,** promoting equitable growth.\n* Better air connectivity **facilitates quicker response times during natural disasters.**\n\n**RCS-UDAN** :\n\n* UDAN Scheme is part of the **National Civil Aviation Policy 2016**, aims to improve infrastructure and connectivity in India, especially in remote and underserved regions and fulfil the aspirations of the common citizens.\n\n**Achievements:**\n\n* Since its inception, the UDAN scheme has witnessed the launch of various versions, with the most recent ones being **UDAN 5.1, 5.2 and 5.3** focussing on last-mile connectivity and tourism through small aircraft.\n* The scheme has benefited more than **1 crore passengers** and operated more than **2.5 lakh flights,** enhancing airport development and making air travel more accessible and affordable while also **creating job opportunities.**\n  + As of April 2024, 85 airports have beVYen operationalised under the scheme.\n* RCS-UDAN is connecting **30 States/ UTs across the length and breadth** of the country **(e.g. From Mundra (Gujarat) to Tezu in Arunachal Pradesh to Hubli in Karnataka)** operationalising underserved and unserved airports, heliports and water aerodromes.\n\n### Conclusion\n\nDespite ongoing efforts, challenges remain due to incomplete functionality of operational routes, often stemming from low occupancy rates and insufficient infrastructure. However, RCS-UDAN has transformed the aviation landscape by connecting remote areas and making air travel more affordable for lower middle-class citizens.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_3_Q13",
+        "serial_no": "13",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**Q13. What are the major challenges faced by the Indian irrigation system in recent times? State the measures taken by the government for efficient irrigation management. (Answer in 250 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach\n\n* Give a brief introduction about the irrigation system in India\n* Mention the challenges faced by irrigation systems in India\n* State government measures for efficient irrigation management.\n* Conclude suitably\n\n### Introduction:\n\nAgriculture in India accounts for nearly 80% of the country's annual fresh water use, amounting to 700 billion cubic metres. As of 2022-23, approximately 52% of the 141 million hectares of gross sown area had irrigation access, a significant increase from 41% in 2016, highlighting the importance of efficient irrigation management amid ongoing challenges.\n\n### Body:\n\n**Challenges Faced by the Indian Irrigation System**\n\n* **Water Depletion:** Overuse of groundwater has led to depletion in water tables across 64% of districts in India.\n* **Climate Change:** Altered river courses and increased crop water demand are making water a limiting resource.\n* **Old Infrastructure:**The irrigation infrastructure is outdated and requires significant upgrades.\n* **Poor Maintenance:** Canals are inadequately maintained, leading to inefficiencies; lack of participatory management exacerbates the issue.\n* **Changing Land Use:** Shifts in land use patterns and cropping practices like water intensive crops in water deficit areas, deviate from original agricultural plans.\n* **Lack of Funds:** Insufficient funds for subsidy installation; misallocation and underutilization of funds in various schemes.\n\n**Government Measures for Efficient Irrigation Management**\n\n* **Pradhan Mantri Krishi Sinchai Yojana (PMKSY):** Launched to improve irrigation distribution networks and expand irrigation coverage, with the goal of increasing agricultural productivity.\n* **Jal Shakti Abhiyan (JSA):** An annual program launched in 2019, focusing on water conservation and management in 256 water-stressed districts across India.\n* **Catch the Rain:** Introduced in 2021 to cover all blocks in all districts, emphasising rainwater harvesting and water conservation initiatives.\n* **Bureau of Water Use Efficiency (BWUE):** Established in 2022 to promote water use efficiency across various sectors, including agriculture and irrigation.\n* **Per Drop More Crop (PDMC):** A centrally sponsored scheme implemented since 2015-16, aimed at enhancing water use efficiency through micro-irrigation methods like drip and sprinkler systems.\n\n### Conclusion:\n\nTo tackle water depletion and outdated infrastructure, India must adopt sustainable irrigation practices, modernize systems, and promote micro-irrigation. Efficient fund use and participatory management are essential for ensuring water security and boosting agricultural productivity.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_3_Q14",
+        "serial_no": "14",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**Q14. Elucidate the importance of buffer stocks for stabilizing agricultural prices in India. What are the challenges associated with the storage of buffer stock? Discuss. (Answer in 250 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach:\n\n* Introduce answer writing briefly about buffer stocks with relevant facts.\n* Explain what buffer stocks are and their role in price stabilization.\n* Highlight key benefits, including food security and support for farmers.\n* Identify major issues like storage inadequacies and procurement imbalances.\n* Suggest improvements in infrastructure and distribution efficiency.\n* Conclude positively with emphasizing the potential for enhanced food security and market stability.\n\n### Introduction\n\nBuffer stock is a reserve of commodities aimed at offsetting price fluctuations and emergencies. Introduced during the 4th Five Year Plan, it stabilizes agricultural prices, ensures food security, and protects farmers incomes.\n\n### Body\n\n**The importance of buffer stocks for stabilizing agricultural prices in India**\n\n![](TEST_IMAGES/UPSC_MAIN_CSE_GS_2024_PAPER_3_Q14_IMG_1.png)\n\n* **Food Security:** Ensures food grain availability for vulnerable populations during adverse conditions like droughts or floods.\n* **Public Distribution**: To ensure monthly release of food grains through the Public Distribution System (PDS) and Other Welfare Schemes (OWS).\n* **Emergency Response:** To address unexpected situations arising from crop failures, natural disasters, etc.\n* **Price Stabilization:** Helps maintain stable prices of essential grains by regulating supply. For instance, in 2022-23, the FCI released 34.82 lakh tonnes of wheat, reducing retail inflation in cereals.\n* **Support to Farmers:** Guarantees a minimum support price (MSP) for produce, stabilizing farmer incomes and encouraging agricultural production.\n* **Disaster Management:** Provides immediate food relief during natural disasters, exemplified by the supply of free rations during Covid-19.\n\n**Challenges:**\n\n* **Storage Issues:** Inadequate storage facilities cause significant wastage and spoilage, with around 74 million tonnes (22% of foodgrain output) wasted annually in India.\n* **Procurement Imbalance:** Excessive procurement of rice and wheat leads to overstocking, neglect of other grains, and hampers crop diversification.\n* **Financial Burden:** Large buffer stocks incur high costs in procurement, storage, and distribution, with transit losses causing FCI to lose approximately Rs. 300 crores annually.\n* **Distribution Inefficiencies:** The Public Distribution System (PDS) faces issues like leakages, pilferage, and corruption, with leakages at 22% as per the 2022-23 NSS survey.\n* **Quality Concerns:** Maintaining the quality of food grains over long periods is a major challenge.\n\n### Conclusion\n\nBuffer stocks are vital for stabilizing prices and ensuring food security in India. Addressing storage and procurement issues, along with improving infrastructure and distribution, will make the system more effective and benefit both farmers and consumers.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_3_Q15",
+        "serial_no": "15",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**Q15. The world is facing an acute shortage of clean and safe freshwater. What are the alternative technologies which can solve this crisis? Briefly discuss any three such technologies citing their key merits and demerits. (Answer in 250 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach:\n\n* Write in brief about availability of freshwater.\n* Mention the current situation of water shortage.\n* Write about the available technologies that can help in addressing this situation of water crisis.\n* Discuss about any three technologies showing its merits and demerits.\n* Conclude by summarising the above mentioned points\n\n### Introduction\n\n**Freshwater** constitutes only **2.5% of the planet's water,** with 1% being easily accessible. Most freshwater is trapped in glaciers and snowfields, leaving just **0.007%** available for the **8 billion people on Earth.**\n\n### Body\n\n**State of Shortage of Clean and Safe Freshwater:**\n\n* **Water use** has **grown at over twice** the rate of population increase in the last century.\n* By 2025, **half** of the **global population** may face **water scarcity.**\n* Intense water scarcity could **displace around 700 million** people by 2030.\n* By 2040, **1 in 4 children** worldwide will live in areas of **extremely high water stress.**\n\n**Alternative Technologies:**\n\n* **Desalination Technologies:** Membrane technologies, such as **reverse osmosis,** help **convert seawater into potable water.**\n* **Wastewater Treatment:** Technologies like **Electrocoagulation and Membrane bioreactor** can help treat wastewater for its reuse.\n* **Role of AI and IoT:** They help in **identifying leakages and monitoring** water distribution networks, preventing water loss.\n* **Nanotechnology: Carbon Nanotube (CNT)** based filtration systems remove organic, inorganic, and biological compounds.\n* **Photocatalytic Water Purification:** It uses **photocatalyst and ultraviolet** rays to rid water of toxic substances and contaminants.\n\n|  |  |  |\n| --- | --- | --- |\n| **Technology** | **Merits** | **Demerits** |\n| Desalination Technologies | Reliable source of freshwater from seawater  Diversify water supply during droughts . | High energy consumption and carbon-intensive.  Disposal of concentrated salt into the ocean can harm marine ecosystems. |\n| Wastewater Treatment Technologies | Promotes water reuse  Prevents untreated wastewater from entering ecosystems | High initial capital costs  Energy-intensive and requires technical expertise. |\n| Carbon Nanotube (CNT) Filtration Systems | Removes various contaminants, including bacteria and heavy metals.  Faster filtration rates. | CNTs are expensive, limiting large-scale deployment.  Environmental concerns over the release of CNTs. |\n\n### Conclusion\n\nIntegrating advanced technologies like desalination, wastewater treatment, and AI provides innovative solutions to freshwater scarcity, enhancing efficiency and water quality for sustainable management and access to clean water for all.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_3_Q16",
+        "serial_no": "16",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**Q.16 What are asteroids? How real is the threat of them causing extinction of life? What strategies have been developed to prevent such a catastrophe? (Answer in 250 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach:\n\n* Introduce briefly about Asteroids\n* Mention the threats posed by asteroids and the strategies developed to prevent them\n* Conclude Suitably\n\n### Introduction:\n\nAsteroids (minor planets) are rocky, airless remnants from the early formation of the solar system, approximately 4.6 billion years ago, primarily **found orbiting the Sun between Mars and Jupiter** in the main asteroid belt.\n\n### Body:\n\n**Threats Posed by Asteroids**\n\n* **Historical Impact:** A large asteroid struck earth 66 million years ago, leading to the extinction of the dinosaurs and other species.\n* **Localized Devastation:** Smaller asteroids can cause significant localized damage, triggering tsunamis, wildfires, and atmospheric disruptions.\n  + The explosion over the **Chelyabinsk meteorite(Russia)** in 2013, caused destruction around the city and injured many people.\n  + The **Tunguska event(1908)** was a massive explosion in Siberia(Russia), making it the largest recorded impact event.\n* **Space Debris**: A fragmented asteroid could create hazardous space debris, threatening satellites, space stations, and future space missions.\n\n**Strategies Developed to Prevent an Asteroid Impact Catastrophe**\n\n* **Asteroid Detection and Monitoring**\n  + Space agencies like NASA, ESA, and other organisations actively monitor and catalogue asteroids that could pose a threat to Earth.\n  + **Surveys and Telescopes:** Ground-based and space-based telescopes, such as **NASA\u2019s NEOWISE mission,** track NEOs and assess potential impact risks.\n* **Deflection Missions**\n  + **Kinetic Impactor**: NASA's Double Asteroid Redirection Test (DART) mission was the first to test asteroid deflection for planetary defence by smashing a spacecraft into an asteroid.\n  + **Gravity Tractor:** A spacecraft could use its gravitational pull to slowly alter an asteroid's path over time without making direct contact.\n* **Nuclear Detonation**\n  + In extreme cases, detonating a nuclear device near an asteroid could break it apart or push it off its collision course, although this approach carries risks of fragmentation.\n* **Futuristic Approach:**\n  + ISRO **plans to study an asteroid in 2029** to improve planetary defense, potentially collaborating with the **Apophis asteroid mission**, which involves JAXA, ESA, and NASA.\n\n### Conclusion:\n\nWhile asteroids pose a threat, advancements in detection, deflection, and global cooperation are improving planetary defense, ensuring better preparedness and future opportunities for asteroid resource utilisation.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_3_Q17",
+        "serial_no": "17",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**Q17. What is disaster resilience? How is it determined? Describe various elements of a resilience framework. Also, mention the global targets of Sendai Framework for Disaster Risk Reduction (2020-2030). (Answer in 250 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach:\n\n* **Introduction:** Define disaster resilience\n* **Body:**\n  + Mention factors determining Disaster resilience along with elements of a resilience framework.\n  + Mention 7 Global Targets Of Sendai Framework For Disaster Risk Reduction (2015-2030) along with Priorities for Action.\n* **Conclusion:** Give the Government of India\u2019s initiative to implement the Sendai Framework.\n\n### Introduction:\n\n**Disaster resilience** is the ability to withstand, prevent, and recover from the **harmful effects of natural hazards** on people, places, and the environment.\n\n### Body:\n\nDisaster resilience is determined by several factors, including:\n\n* **Adaptive capacity:** The ability to adjust to **disturbances, moderate damage,** and learn from shocks.\n* **Exposure to risk:** The magnitude and frequency of shocks or stress.\n* **Sensitivity:** How much a system is affected by a shock or stress.\n* **Organisation:** The ability to organize oneself to learn from past disasters and reduce future risks.\n\n**Four Elements of Resilience Framework:**\n\n![](TEST_IMAGES/UPSC_MAIN_CSE_GS_2024_PAPER_3_Q17_IMG_1.png)\n\n**Global Targets of Sendai Framework For Disaster Risk Reduction (2015-2030):**\n\nThe Sendai Framework for Disaster Risk Reduction is a UN General Assembly-endorsed agreement that aims to reduce disaster risk and losses through a combination of **global targets and a shared responsibility** between governments and other stakeholders.\n\n![](TEST_IMAGES/UPSC_MAIN_CSE_GS_2024_PAPER_3_Q17_IMG_2.png)\n\n**Priorities for Action:**\n\n* **Priority 1:** Disaster risk management needs to be based on an understanding of disaster risk in all its **dimensions of vulnerability**, capacity, exposure of persons and assets, hazard characteristics, and the environment.\n* **Priority 2:** Disaster risk governance at the **national, regional, and global levels** is vital to the management of disaster risk reduction in all sectors.\n* **Priority 3:** Public and private investment in **disaster risk prevention** and reduction through **structural and non-structural measures** are essential to enhance the economic, social, health and cultural resilience of persons, communities, countries and their assets, as well as the environment.\n* **Priority 4:** Enhancing disaster preparedness for effective response, and to Build Back Better in recovery, rehabilitation, and reconstruction.\n\n### Conclusion:\n\nThe **Government of India** has issued a set of priority actions based on the goals, targets, and priorities of the Sendai Framework 2015-2030. The government of India, during the **Asian Ministerial Conference for Disaster Risk Reduction (AMCDRR) 2016,** has extended the grant of USD 1 million to UNISDR for the effective implementation of the Sendai Framework for Disaster Risk Reduction in the **Asian region**.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_3_Q18",
+        "serial_no": "18",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**Q18. Flooding in urban areas is an emerging climate-induced disaster. Discuss the causes of this disaster. Mention the features of two such major floods in the last two decades in India. Describe the policies and frameworks in India that aim at tackling such floods. (Answer in 250 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach\n\n* Start the answer by defining urban flooding.\n* Discuss key contributors to urban flooding. Highlight significant flood events, noting their causes. Highlight policies and frameworks related to flood management.\n* Conclude by emphasising the importance of effective management and sustainable infrastructure to enhance urban resilience against flooding.\n\n### Introduction\n\nUrban flooding, a climate-induced disaster, occurs when heavy rainfall overwhelms drainage systems, inundating land or property in densely populated areas like cities.\n\n### Body\n\n**Causes of Urban Flooding:**\n\n* **Climate change:** Drives urban flooding by **increasing rainfall intensity.** Warmer air **holds more moisture, resulting in heavier precipitation**. Rising temperatures, particularly in **urban heat islands,** further disrupt seasonal weather patterns.\n  + **Sea-level rise** heightens risks for coastal cities, leading to flooding and freshwater contamination.\n* **Urbanisation:** Exacerbates flood risks by increasing impervious surfaces that elevate runoff and reduce water absorption, while encroachments on floodplains disrupt natural water flow due to inadequate regulations.\n* **Improper Solid Waste Management:** Blocks drainage systems, causing overflow **during heavy rains and further complicating flooding risks** with the mixing of sewage and stormwater.\n\n![](TEST_IMAGES/UPSC_MAIN_CSE_GS_2024_PAPER_3_Q18_IMG_1.png)\n\n**Major Flood Events:**\n\n* **Chennai Floods (2015):** Heavy rains and poor drainage, along with the destruction of **300 inland water bodies** due to urban growth, intensified flooding. Significant reduction of **Pallikaranai marshlands** undermined natural ecosystems and flood control.\n* **Mumbai Floods (2005):** Triggered by heavy rainfall, overwhelming a **century-old drainage system** designed to **handle only 25 mm of rain per hour.** Urbanisation led to a **40% reduction in mangroves** and decline in **green spaces,** further aggravating flooding and preventing effective water absorption.\n\n**Policies and Frameworks to Tackle Urban Floods in India**\n\n* **Guidelines on Management of Urban Flooding (2010):** Issued by National Disaster Management Authority, these guidelines promote a multi-disciplinary approach for urban flood management planning.\n* **Smart Cities Mission (2015):** Promotes sustainable urban infrastructure, including smart drainage and flood management systems.\n* **AMRUT 2.0:** Focuses on upgrading stormwater drainage and urban infrastructure to reduce flood vulnerability.\n* **Storm Water Drainage Manual (2019):** Provides guidance on sustainable stormwater management and flood response planning.\n\n### Conclusion\n\nUrban flooding driven by climate change poses significant risks to cities. Effective management through sustainable infrastructure and adherence to NDMA guidelines can enhance city resilience.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_3_Q19",
+        "serial_no": "19",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**Q19. India has a long and troubled border with China and Pakistan fraught with contentious issues. Examine the conflicting issues and security challenges along the border. Also give out the development being undertaken in these areas under the border Area Development Programme (BADP) and Border Infrastructure and Management (BIM) Scheme. (Answer in 250 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach\n\n* Briefly introduce the historical and geopolitical significance of India\u2019s borders with China and Pakistan.\n* Examine the conflicting issues, security challenges along the border, and development initiatives under BADP and BIM.\n* Conclude with the significance of combining security measures with development efforts.\n\n### Introduction\n\nIndia\u2019s borders with **China** and **Pakistan** are marked by historical disputes and ongoing security challenges.\n\n### Body\n\n* **India\u2019s Border with China and Pakistan:**\n  + The **India-China border,** known as the **Line of Actual Control (LAC),** spans approximately **3,440 km.** On the western front, the **India-Pakistan border** known as **Line of Control (LOC)** spread about **740 km.**\n* **Conflicting Issues and Security Challenges:**\n  + **Chinese Front:**\n    - The primary issue with China is the **ill-defined boundary**, leading to **frequent face-offs** and **skirmishes.** Notable incidents include the **Galwan Valley clash, 2020, Doklam military standoff, 2017.** The competition to build infrastructure along the LAC further exacerbates tensions.\n    - Significant smuggling of **Chinese electronics** and other consumer goods occurs through these **India-China border points.**\n  + **Pakistan Front:**\n    - The issue with Pakistan is frequent violation of **LoC,** with **cross-border shelling** and **infiltration attempts** by militants. The **Pulwama attack** of **2019** and subsequent **Balakot airstrike** are recent examples of the volatile situation.\n    - Pakistan asserts that the entire **Sir Creek**, including its eastern bank marked by a **\"green line\"** on a **1914** map, belongs to them.\n* **Border Area Development Programme (BADP):**\n  + **BADP** aims to develop infrastructure and improve the living conditions of people in border areas.\n  + Projects include building **roads, schools**, and **healthcare facilities,** enhancing both security and socio-economic conditions.\n  + **Developed Karcham-Chitkul Road 40 km** road stretch via **Sangla** in the Kinnaur district of **Himachal Pradesh,** which shares a border with China.\n* **Border Infrastructure and Management (BIM) Scheme:**\n  + It helps in the creation of infrastructure such as **border fence, border flood lights, technological solutions, border roads and Border OutPosts (BOPs)** and company operating bases to secure India's borders with **Pakistan, Bangladesh, China, Nepal, Bhutan and Myanmar.**\n  + India plans to build **383** composite border outposts along the **India-Bangladesh border,** and **126** along the **India-Pakistan border.**\n\n### Conclusion\n\nThrough initiatives like BADP and BIM, India is not only enhancing border security but also fostering development in these critical regions, aiming for a balanced approach to border management.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2024_PAPER_3_Q20",
+        "serial_no": "20",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2024",
+        "exam_session": "3"
+      },
+      "content": {
+        "question_text": "**Q.20 Social media and encrypting messaging services pose a serious security challenge. What measures have been adopted at various levels to address the security implications of social media? Also suggest any other remedies to address the problem. (Answer in 250 words)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Approach:\n\n* Introduce the answer by highlighting the proliferation of social media\n* Highlight security challenges of social media and encrypted messaging services\n* Give current measures to address social media security challenges\n* Suggest other remedies to address the problem\n* Conclude suitably.\n\n### Introduction:\n\nThe **proliferation of social media and encrypted messaging services** has revolutionised communication in India.\n\n* These platforms have become powerful tools for **information sharing and connectivity,** but they also present complex risks to **national security, public safety, and social harmony.**\n* From the spread of misinformation to facilitating criminal activities, these digital spaces have emerged **as a new frontier for security concerns.**\n\n### Body:\n\n**Security Challenges of Social Media and Encrypted Messaging Services:**\n\n* **Misinformation:** Social media spreads false info, fueling unrest. (Manipulated content flooding platforms in **2022 Russia Ukraine War).**\n* **Radicalization:** Extremists recruit via encrypted apps. (**ISIS** on Telegram).\n* **Cybercrime:** Platforms enable scams, identity theft. (**2023 deep fake scams** with celebrity faces).\n* **Data Privacy:** Misuse of user data raises concerns. **(2018 Cambridge Analytica scandal)**\n* **Digital Warfare**: Platforms used for disinformation and state interest. **(2020 U.S. election manipulation by Russia)**\n\n**Measures to Address Social Media Security Challenges:**\n\n* **IT Act 2000:** Governs online communication; **Section 69A** enables blocking content for security, and **Section 79(1)** grants intermediaries conditional immunity. **(India banned 59 Chinese apps in 2020)**\n* **IT Rules 2021**: Mandates content moderation and user privacy notifications. **(Twitter faced compliance issues in 2021)**\n* **Grievance Officers:** Platforms must appoint officers to handle complaints. (Meta appointed **Spoorthi Priya** in 2022)\n* **Fact-Checking:** Platforms must remove false content flagged by the government. **(2023 rule under Supreme Court review)**\n\n**Other Remedies:**\n\n![](TEST_IMAGES/UPSC_MAIN_CSE_GS_2024_PAPER_3_Q20_IMG_1.png)\n\n### Conclusion:\n\nBy combining technological solutions, digital literacy initiatives, and collaborative efforts between stakeholders, India can create a more secure online environment. Ultimately, the goal is to strike a **delicate balance between national security interests and individual privacy rights,** ensuring a safe and vibrant digital ecosystem for all citizens.",
+        "explanation_format": "markdown"
+      }
+    }
+  ]
+}

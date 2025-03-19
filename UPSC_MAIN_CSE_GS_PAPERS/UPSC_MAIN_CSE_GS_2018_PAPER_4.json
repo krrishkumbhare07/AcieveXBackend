@@ -1,0 +1,410 @@
+{
+  "exam_info": {
+    "exam_type": "UPSC_MAIN_CSE",
+    "year": "2018",
+    "session": "4",
+    "subject": "GS",
+    "total_questions": 19
+  },
+  "questions": [
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_4_Q1",
+        "serial_no": "1",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "4"
+      },
+      "content": {
+        "question_text": "**1. (a) State the three basic values, universal in nature, in the context of civil services and bring out their importance. (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Values are essential components of organisational culture and are instrumental in determining, guiding and informing behaviour. For bureaucracies, adherence to high-level public service values can generate substantial public trust and confidence. Some basic, universal values include:\n\n**Integrity and Honesty:** Integrity is putting the obligations of public service above your own personal interests. Civil servants should be guided solely by public interest in their official decision making and not by any financial or other consideration either in respect of themselves, their families or their friends.\n\n**Objectivity, Impartiality and Political Neutrality:** Civil servants in carrying out their official work, including functions like procurement, recruitment, delivery of services etc. should take decisions based on merit and free from any partisan/political consideration.\n\n**Commitment to Public Service:** Civil servants should deliver services in a fair, effective, impartial and courteous manner to serve the larger public interest. The dedication to the public welfare cause is crucial.\n\nIntegrity, dedication to public service, impartiality, political neutrality, anonymity, accountability, devotion to duty, exemplary behaviour etc. are said to be the hallmarks of an efficient civil service.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_4_Q2",
+        "serial_no": "2",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "4"
+      },
+      "content": {
+        "question_text": "**1. (b) Distinguish between \u201cCode of ethics\u201d and \u201cCode of conduct\u201d with suitable examples. (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Code of conduct\n\nA legally enforceable code of conduct sets out the standards of behaviour expected of those working in the public service. The Civil Service code outlines the Civil Service's core values, and the standards of behaviour expected of all civil servants in upholding these values. In India, the current set of ethical norms are the Conduct Rules, contained in the Central Services (Conduct) Rules, 1964 and analogous rules applicable to members of the All India Services or employees of various State Governments. The code of behaviour as enunciated in the Conduct Rules, while containing some general norms like \u2018maintaining integrity and absolute devotion to duty\u2019 and not indulging in \u2018conduct unbecoming of a government servant is generally directed towards cataloguing specific activities deemed undesirable for government servants. These conduct rules do not constitute a code of ethics.\n\n### Code of Ethics\n\nSuch a code contains a declaration of values for the civil services, reflecting public expectations of the relationship between the civil service and the government, the legislature, and the members of the public, with specific reference to political impartiality, maintenance of the highest ethical standards, accountability for actions and responsibilities to the government of the day. There is no Code of Ethics prescribed for civil servants in India although such codes exist in other countries. There is need for more generic norms to be laid down by way of accepted conduct for the civil servants as recommended by the Hota committee.\n\n**Examples**\n\nCode of conduct include guidelines on acceptance of gifts by government servants and specific behaviour regulating codes (class I officer shall not permit son or daughter to take employment with a company with which she has official dealings\u2019 or \u2018acquiring immovable property with previous knowledge of prescribed authority\u2019 and so on).\n\nCode of ethics would include the principles of integrity, impartiality, commitment to public service, accountability, devotion to duty, exemplary behaviour etc.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_4_Q3",
+        "serial_no": "3",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "4"
+      },
+      "content": {
+        "question_text": "**2. (a) What is meant by public interest? What are the principles and procedures to be followed by civil servants in public interest? (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "### Public interest\n\nThe term \u2018public interest\u2019 means matters concerning welfare of the people. Civil service or public service is for the welfare of the people. As such policies and their implementation should be guided by public interest or public welfare. All government works have the overriding motive of public interest. Civil servants should be guided solely by public interest in their official decision making.\n\n### Principles and procedures\n\nAny financial or other consideration either in respect of themselves, families or friends is to be avoided; public interest should be the sole principle consideration of decision making.\n\nViolation of code of conduct or wrongdoings results in penalties including suspension and termination from service or prosecution of the civil servant under the relevant laws such as the CrPC and Prevention of Corruption Act.\n\nIf a policy that is being formulated is perceived by the civil servant to be against public interest, his/her responsibility is to convince the political executive about the adverse implications of such a policy. However, if the political executive does not agree with such an advice, there is little that the civil servant can do other than putting his/her views clearly on record.\n\nInstitutional mechanisms such as the Parliament, the CAG, Judiciary and ultimately the electorate hold the political executive to account for bad policy which ignores public interest.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_4_Q4",
+        "serial_no": "4",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "4"
+      },
+      "content": {
+        "question_text": "**2. (b) \u201cThe Right to Information Act is not all about citizens\u2019 empowerment alone, it essentially redefines the concept of accountability.\u201d Discuss (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "The RTI Act is powerful tool that strengthens democracy and promotes good governance by promote transparency and accountability in administration. It empowers Indian citizens to seek information from a public authority, thus making the Government and its functionaries more accountable and responsible enhancing the citizen\u2019s ability to participate in the process.\n\nIn recent times, RTI has redefined the concept of accountability in following ways:\n\n1. Administrators are not only accountable for their routine work but they are accountable to provide information sought by citizens in time bound manner. The Act provides for penalty on the Public Information Officer, in case he fails to provide information.\n2. Further, RTI law provides for proactive disclosures for information by government agencies in public interest.\n\nThese strict provisions for ensuring dissemination of information have clearly enhanced and redefined accountability of government agencies. Until this Act, the Official Secrets Act, a legacy of the British colonial rule, led to secrecy and opaqueness in administration and was designed to deny information about government activities to the people. The RTI Act on the contrary laid the responsibility of information dissemination on bureaucracy itself.\n\nIn doing so, the Right to Information Act not only empowers citizens but also redefines the concept of accountability of public administration.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_4_Q5",
+        "serial_no": "5",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "4"
+      },
+      "content": {
+        "question_text": "**3. (a) What is meant by conflict of interest? Illustrate with examples, the difference between the actual and potential conflicts of interest. (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "It is a situation that has the potential to undermine the impartiality of a person because of the possibility of a clash between the person's self-interest and professional interest or public interest. A civil servant is expected to be free of such a conflict to discharge his or her duties responsibly. Conflict of interest impairs one\u2019s judgement of a situation and affects decision making. Personal or private interests should not improperly influence the performance of official duties or responsibilities.\n\nA conflict of interest involves a direct conflict between one\u2019s official duties and responsibilities and a competing interest or obligation, whether personal or involving a third-party. It refers to situations where a conflict is inevitably established such as acceptance of gifts or hospitality from a company which one may be dealing with one\u2019s official capacity.\n\nA potential conflict of interest arises where an interest or obligation, whether personal or involving a third-party, could conflict with official duties and responsibilities in the future. It refers to situations where a possible anomaly might arise (such as the conflicts with the immediate family interests unless disclosures are made) with respect to friendship, investment, gift or treats.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_4_Q6",
+        "serial_no": "6",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "4"
+      },
+      "content": {
+        "question_text": "**3. (b) \u201cIn looking for people to hire, you look for three qualities: integrity, intelligence and energy. And if they do not have the first, the other two will kill you.\u201d \u2014Warren Buffet**  **What do you understand by this statement in the present-day scenario? Explain. (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "People without integrity could be dangerous; just intelligence and energy are not enough even though those two are great qualities of achievers. Without integrity, the other two qualities are problematic.\n\nIn the present-day scenario, it means that intelligence and energy without the sobering touch of integrity are dangerous. It could create dangerous leaders, policy makers or civil servants. Integrity or moral soundness is a greater virtue than intelligence and energy. Integrity keeps energy and intelligence in control and puts the latter to good use. People without integrity (but loaded with intelligence) are not be hired or trusted.\n\nA reliable person would be one with integrity. A person without integrity but intelligence could be a potential thief or a fraud. In the present-day context, many financial frauds are often committed by people who are low on integrity but very high on energy and intelligence.\n\nIn today\u2019s political, economic and administrative field, policy makers and leaders without integrity would create chaos and danger for society. A person with low integrity would compromise on values and subvert social progress while furthering his or her own progress with his/her intelligence.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_4_Q7",
+        "serial_no": "7",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "4"
+      },
+      "content": {
+        "question_text": "**4. (a) \u201cIn doing a good thing, everything is permitted which is not prohibited expressly or by clear implication.\u201d Examine the statement with suitable examples in the context of a public servant discharging his/her duties. (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Things that are not expressly forbidden by law or by clear implication are allowed in public administration. If the action promotes good and is not proscribed by any law or is not covered potentially by possible implication of conflict of interest, then it is permitted.\n\nFor public servants discharging their duties, the above statement provides a code of conduct for carrying out their responsibilities. \u2018Everything which is not forbidden is allowed\u2019 is also a constitutional principle of English law defining the essential freedom of citizens.\n\nThe conduct of a civil servant should be free of bias and prejudice. The overriding motive should be \u2018public interest\u2019 and conflict of interest should be avoided. As such, doing a good thing is allowed if there is no law against it and if there is no potential or perceived conflict of interest\n\nFor example, a public servant such as a District Magistrate endowed with the spirit of service may arrange for refreshment of senior citizens visiting the office for various services. Such a good gesture is not forbidden by law and does not appear to be influenced by any prejudice. Similarly, treating flood-affected victims with more kindness, empathy and understanding and going out of one\u2019s way to help them as long as it does not violate any law is another case of an act within the ambit of the spirit of the statement.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_4_Q8",
+        "serial_no": "8",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "4"
+      },
+      "content": {
+        "question_text": "**4. (b) With regard to morality of actions, one view is that means are of paramount importance and the other view is that the ends justify the means. Which view do you think is more appropriate? Justify your answer. (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "The means-ends debate is a paramount ethical dilemma. \u2018Ends justify the means\u2019 (Machiavelli) refers to a situation in which the final aim is considered so important that any way of achieving it is acceptable. Whereas, people like Gandhi firmly rejected the rigid dichotomy between ends and means to the extent that they believed that means and not the ends provide the standard of reference. Gandhi wrote, \u201cThe means may be likened to a seed, the end to a tree; and there is just the same inviolable connection between the means and the end as there is between the seed and the tree.\u201d\n\nThe answer to the question depends on what the ends or goals are and what means are being used to achieve them. If the goals are good and noble, and the means we use to achieve them are also good and noble, then yes, the ends do justify the means. But that is not what most people often mean when they use the expression. Most use it as an excuse to achieve their goals through any means necessary, no matter how immoral, illegal or unpleasant the means may be. Even Hitler believed that his means (holocaust) were justified for the ends of racial purity in Germany. The \u2018ends justifying the means\u2019 usually involves doing something wrong to achieve a positive end and justifying the wrong doing by pointing to a good outcome. There are certain things to consider in such a situation: the morality of the action, the morality of the outcome, and the morality of the person performing the action.\n\nIf someone is looking for a justification to their acts, it is often because they are doing something unethical. The \u2018means are of paramount importance\u2019, view is clearly more appropriate, ethical and desirable.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_4_Q9",
+        "serial_no": "9",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "4"
+      },
+      "content": {
+        "question_text": "**5. (a) Suppose the Government of India is thinking of constructing a dam in a mountain valley bound by forests and inhabited by ethnic communities. What rational policy should it resort to in dealing with unforeseen contingencies? (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Constructing a dam in a mountain valley entails many challenges. A comprehensive rehabilitation policy would ensure that unforeseen contingencies which bug many development projects are avoided. The following points of action should constitute the rational policy in dealing with contingencies.\n\n**Transparent Rehabilitation, Resettlement:** Government must implement resettlement packages making the ethnic communities/tribals materially better off to counter the narrative that development and modernization is disastrous for tribals, who cannot cope with the change. Land distribution, compensation for loss of houses, forest produce and grazing land and other such resettlement measures should be implemented thoroughly without prejudice.\n\n**Maintain transparency, ensure economic welfare:** The oustees must be provided complete information regarding the dam, submergence and subsequent displacement due to them. Project authorities and state government must rehabilitate the oustees with sustainable non-land based livelihoods where needed. The various problems associated with displacement are compounded several times over for oustees who are also otherwise specially vulnerable, variously by class, caste, gender or age. Such vulnerabilities should factor in rehabilitation packages.\n\n**Public Hearing:** From the inception of planning of dam, through various stages of displacement and resettlement, it is to be expected that those likely to be negatively affected by the projects would be consulted and kept informed in such a way (public hearing, social audit) as to enable them to best rebuild their lives. Bureaucratic lassitude and insensitivity should not be tolerated.\n\n**Ensure Tribal welfare:** The Forest department must proactively involve the people in the forest villages about possible submergence and displacement. Tribal people share the problems of other rural people but they are even more dependent on forests and common property resources, their documented legal rights on cultivable lands are even more tenuous, their skills for diversified livelihood not based on forests or land are even more rudimentary, and their ability to negotiate with state officials and courts even more weaker.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_4_Q10",
+        "serial_no": "10",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "4"
+      },
+      "content": {
+        "question_text": "**5. (b) Explain the process of resolving ethical dilemmas in Public Administration. (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Some of the most common ethical dilemmas with which public servants are confronted revolve around aspects such as administrative discretion, corruption, nepotism, administrative secrecy, information leaks, public accountability and policy dilemmas.\n\nDilemmas could be overcome through an ethical decision\u2013making process. It is characterized as the course of the action of choosing from alternatives which are based on civil services values, moral responsibility and personal accountability of public administrators towards the society. The decisions have to reflect the respect for professional values, principles and norms.\n\n**A bureaucrat should answer the following questions:** Which are the main factors influencing the decision? What are its consequences? Who does the action benefit? Would the action embarrass the department or the society at large? Is the problem really what it appears to be? Is the action fully legal and ethical? These guidelines help to clarify whether the action is socially responsible. Though sometimes there is no clear answer to all questions.\n\nAll ethical and moral issues along with the public policies, laws, rules and regulations are to be kept in mind while resolving a dilemma.\n\nFinal decision and action after evaluation should be in consonance with laws and ethics.\n\nAnthony Makrydemetres sets out the ALIR model of imperatives of ethical reasoning - a set of basic principles that integrate and rearrange the process of dealing with ethical dilemmas. The four functionally related imperatives are: (a) the principle of democratic legitimacy and accountability of public bureaucracy and administration; (b) the rule of law and the principle of legality whereby law and only law should govern the administration; (c) the principle of meritocracy, professional integrity, autonomy and capacity of the administrative apparatus of the state; and (d) the principle of responsiveness and responsibility of administration to civil society.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_4_Q11",
+        "serial_no": "11",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "4"
+      },
+      "content": {
+        "question_text": "**6. What do each of the following quotations means to you in the present context?**  **(a) \u201cThe true rule, in determining to embrace, or reject any thing, is not whether it has any evil in it; but whether it has more evil than good. There are few things wholly evil or wholly good. Almost every thing, especially of government policy, is an inseparable compound of the two; so that our best judgment of the preponderance between them is continually demanded.\u201d \u2013 Abraham Lincoln. (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Lincoln\u2019s statement (1848) is relevant for present-day world. The world is not just black and white; there are shades of grey, thus public policies and decision-making have to be accordingly adjusted. Nothing is completely evil or totally good. One has to apply mind and find out if something has more bad (evil) in it or good in it. Most things have both bad and good in them and a good administrator must continuously examine them.\n\nGovernment policy is neither wholly good nor wholly bad. In that it could be good for many and bad for some and so on. Policy makers must analyze it, to find out what dominates. If the evil content is more than the good then such a policy course should be rejected; but if the good dominates, then it could be adopted or embraced.\n\nLincoln\u2019s statement could be seen in the light of dams and hydro-electric power projects in India. On one hand, they displace the tribals and uproot forests but on the other hand they bring electricity, infrastructure, employment and development. If the damages are more and cannot be offset by the possible good development then it is likely a bad course of action. Most public policy decisions could be analyzed in this light.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_4_Q12",
+        "serial_no": "12",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "4"
+      },
+      "content": {
+        "question_text": "**6. (b) \u201cAnger and intolerance are the enemies of correct understanding.\u201d \u2013 Mahatma Gandhi. (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Anger and intolerance are antithetical to reasons and correct understanding. They cloud our judgment and affect peace of mind. It is not possible to think clearly and make the right decisions if one is angry or intolerant.\n\nAnger makes a person lose calmness and forces them to take hasty decisions which may not be correct. Anger makes a person to lose patience which drives him towards intolerance. Angry person is a constantly stressed person; such a person cannot think with clarity.\n\nBalanced decision making, social progress and development is made possible through leaders who have a cool head on their shoulders and not by people who are easily irritated or who are not tolerant of others, conflicting viewpoints, ways of living and thinking or world views.\n\nToday, it is common to find people and leaders losing steadiness of mind when faced with stress. Angry and intolerant people are often bad decision makers. The World Wars and other wars in history were often fomented by people who easily grew angry and intolerant (such as Hitler who is responsible for millions of murders).\n\nCorrect understanding of a situation requires mental composure and equanimity. Angry and intolerant people cannot differentiate between correct and incorrect understanding.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_4_Q13",
+        "serial_no": "13",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "4"
+      },
+      "content": {
+        "question_text": "**6. (c) \u201cFalsehood takes the place of truth when it results in unblemished common good.\u201d \u2013 Tirukkural (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Tirukkural, the classic Tamil text deals with everyday virtues of an individual. This couplet implies that lie could be classed with truth if it blesses someone with good.\n\nEven falsehood has the nature of truth, if it confers a benefit that is free from fault. In other words, a falsehood such as a lie, has the same respect as a truth if it has benign goals resulting in unblemished common good.\n\nIn the present context, it could mean that some actions may appear bad manifestly but they could be latently good if they are fully beneficial for the public.\n\nIt could be analyzed in the light of heroes in films or everyday life breaking some rule to get the right done for some social good. Such a falsehood or illegality is equal to truth because it brings flawless (unblemished) common good. A help given to exploited labourers may appear illegal given that they are legally tied to the zamindar or the money lender but such an action is actually truthful because it brings untarnished common good.\n\nA \u2018free from fault\u2019 or \u2018free from blemish\u2019 action gives even a falsehood the nature of truth because it actually results in blessings. The overriding goal is the common good.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_4_Q14",
+        "serial_no": "14",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "4"
+      },
+      "content": {
+        "question_text": "**7. Rakesh is a responsible district level officer, who enjoys the trust of his higher officials. Knowing his honesty, the government entrusted him with the responsibility of identifying the beneficiaries under a health care scheme meant for senior citizens.**  **The criteria to be a beneficiary are the following:**  **(a) 60 years of age or above.**  **(b) Belonging to a reserved community.**  **(c) Family income of less than 1 Lakh rupees per annum.**  **(d) Post-treatment prognosis is likely to be high to make a positive difference to the quality of life of the beneficiary.**  **One day, an old couple visited Rakesh\u2019s office with their application. They have been the residents of a village in his district since their birth. The old man is diagnosed with a rare condition that causes obstruction in the large intestine. As a consequence, he has severe abdominal pain frequently that prevents him from doing any physical labour. The couple has no children to support them. The expert surgeon whom they contacted is willing to do the surgery without charging any fee. However, the couple will have to bear the cost of incidental charges, such as medicines, hospitalization, etc., to the tune of rupees one lakh. The couple fulfils all the criteria except criterion \u2018b\u2019. However, any financial aid would certainly make a significant difference in their quality of life.**  **How should Rakesh respond to the situation? (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "As a district level officer, Rakesh is entrusted with responsibility of identifying the beneficiaries under health care scheme for senior citizens. During the process, he came across a form submitted by old couple seeking inclusion as beneficiaries in the scheme, but unfortunately they do not belong to reserved community which is one of the criteria for inclusion in scheme.\n\nThe stakeholders in the case are old aged couple who are from economically weaker section but do not belong to any reserved community. On other hand, there is competing rights of the old age people from reserved community.\n\nAs a district level officer, duty of Rakesh is to follow the rules and norms of the work but as a human and civil servant, he has responsibility towards citizens in general and old age people in particular.\n\nOn receiving the application, his immediate course of action should be to hold meeting with the surgeon who is willing to do the surgery free of cost. The prime focus during the discussion should be to know the details of condition of the applicant, his health, and kind of care required post surgery.\n\nAfter the said meeting with doctor, Rakesh should hold meetings with NGOs working in health sector for old age people and public spirited citizens. The course of action should be to crowd source funds to meet the incidental charges and providing post surgery care.\n\nRakesh should also forward an application to his superiors in the district with the details of the case requesting them, if possible, from DM welfare fund for financial support for this specific case.\n\nThese immediate steps are to ensure support to the couple in consideration. As midterm solution, Rakesh should try to organise awareness among citizens of district regarding Integrated Programme for Older Persons (IPOP). Secondly, he should hold meeting with NGOs, public institutions and public spirited citizens to organise outreach programme. He should make proposal and effort for proving space and creating awareness about PM Jan Aushadhi Kendra at District, Block and Village level.\n\nThis case cannot be taken in isolation as there would be many more poor people in need. Taking this case as base, Rakesh may propose his seniors to consider insertion of sub category for economically weaker section. Sub categorization can be considered as inclusive of landless poor, old people without children and people without any permanent source of income.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_4_Q15",
+        "serial_no": "15",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "4"
+      },
+      "content": {
+        "question_text": "**8. As a senior officer in the Ministry, you have access to important policy decisions and upcoming big announcements such as road construction projects before they are notified in the public domain. The Ministry is about to announce a mega road project for which the drawings are already in place. Sufficient care was taken by the planners to make use of the government land with the minimum land acquisition from private parties. Compensation rate for private parties was also finalized as per government rules. Care was also taken to minimize deforestation. Once the project is announced, it is expected that there will be a huge spurt in real estate prices in and around that area.**  **Meanwhile, the Minister concerned insists that you realign the road in such a way that it comes closer to his 20 acres farmhouse. He also suggests that he would facilitate the purchase of a big plot of land in your wife name at the prevailing rate which is very nominal, in and around the proposed mega road project. He also tries to convince you by saying that there is no harm in it as he is buying the land legally. He even promises to supplement your savings in case you do not have sufficient funds to buy the land. However, by the act of realignment, a lot of agricultural lands has to be acquired, thereby causing a considerable financial burden on the government, and also the displacement of the farmers. As if this is not enough, it will involve cutting down of a large number of trees denuding the area of its green cover.**  **Faced with this situation, what will you do? Critically examine various conflicts of interest and explain what your responsibilities are as a public servant. (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "As a senior officer in the Ministry I have certain authorities and with authority there are responsibilities towards society.\n\n**In the above case, there are certain conflicts of interest:**\n\n**My economic interest vs. interest of farmers:** The offer of the Minister will strengthen me economically, but it will also result in great loss to the farmers as large displacement of farmers will take place. Moreover, my ethical values do not allow me to favour the Minister and thus I will stand with the original project.\n\n**Minister\u2019s interest vs. professional interest:** If I do not consider the Minister\u2019s proposal, it may cost me. Disregarding his wish will irritate him and I may have to pay a cost \u2013 maybe in the form of an unfavourable transfer. On considering his proposal, I will get benefitted in future with higher posts. But I will prepare myself for the impending situation and I will take the decision in favour of the society not the Minister.\n\n**My economic interest and that of minister vs. environment:** Our combined interest is very harmful for environment as it may result in cutting down of a large number of trees denuding the area of its green cover. As a responsible public servant, I shall keep aside the vested interests and shall consider the original project.\n\n**Minister\u2019s interest vs. financial burden on the Government:** Minister\u2019s proposal will cause financial burden on government as more money and labour will be needed for realigning the road. Instead, this money can be used for other welfare programmes.\n\n**Moral Conflict:** Till now, I have done my services on moral values and with honesty and accepting the offer will rob me of my mental peace. It will also degrade my values which are my pillars of strength. For fulfilling my economic needs, the salary provided to me from the Government is enough.\n\nGiven the above situation, I will ask the Ministry to announce the project with all nitty-gritties in public domain as soon as possible to minimize any kind of corruption. I will inform my seniors about the Minister\u2019s intention. If they help me then it\u2019s good, otherwise I will take help of NGOs and media houses to uncover the case. This will make moral and public pressure on the Minister to take back the proposal.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_4_Q16",
+        "serial_no": "16",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "4"
+      },
+      "content": {
+        "question_text": "**9. It is a State where prohibition is in force. You are recently appointed as the Super-intendent of Police of a district notorious for illicit distillation of liquor. The illicit liquor leads to many death, reported and unreported, and causes a major problem for the district authorities.**  **The approach till now had been to view it as a law and order problem and tackle it accordingly. Raids, arrest, police cases, and criminal trials \u2013 all these had only limited impact. The problem remains as serious as ever.**  **Your inspections show that the parts of the district where the distillation flourishes are economically, industrially and educationally backward. Agriculture is badly affected by poor irrigation facilities. Frequent clashes among communities gave boost to illicit distillation. No major initiatives had taken place in the past either from the government\u2019s side or from social organizations to improve the lot of the people.**  **Which new approach will you adopt to bring the problem under control? (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "As evident, the issue of illicit distillation is not limited to law and order but expands to life and economy of the place. The problem of illicit liquor is directly linked with lack of social cohesion, poor economic opportunities and low awareness among people. Thus, in spite of all prohibition and ill effects, it is still in demand by the locals.\n\nBesides taking more stringent steps of legal nature which will work as last resort, there is need to initiate actions based on bringing attitudinal change; social persuasion; followed by ground level action by civil society and people themselves.\n\n**I will take following steps as Superintendent of district police:**\n\nMy first focus will be to eradicate the socio-economic disadvantages of the region. Looking from humanistic angle, it is generally found that psychological aspects are also involved in the given ill practice, where people in hardship find refuge in intoxication.\n\nI will promote the agricultural, small scale, and cottage industries. Promoting more participation of people in agricultural activities will act as motivation for more positive engagement and investment at right places.\n\nI will promote SHGs to cooperate with government and police department.\n\nI will deploy police personnel (without uniform) and volunteer groups at grass root level.\n\nAn app will be launched to report any illicit distillation, places of imminent dangers, violence, etc. The App is to be monitored by police for swift action.\n\n**Use of persuasion**\n\nI will also organise education campaigns at local level to instill awareness among people incentivise opening of small works of handicrafts, agricultural credits, etc. Besides, awareness campaigns in schools will also be organised, where parents will be invited and educative lectures and dramas on ill effects of liquor, and its impact on social-economic lives will be shown.\n\nStreet plays will be organized and community will be mobilized in support of liquor ban. By participating in street play, and listening to it, the consciousness of a person will be shaken and he can be reformed.\n\nI will encourage women to persuade their male family members against intoxication.\n\nThe prime motive is of total prohibition on illicit distillation but given the situation on ground, it is prudent to first pursue with socio-economic, psychological, and ethical considerations. Going by this, it will curb the demand of liquor by locals and would help in proper enforcement by taking legal recourse at last.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_4_Q17",
+        "serial_no": "17",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "4"
+      },
+      "content": {
+        "question_text": "**10. A big corporate house is engaged in manufacturing industrial chemicals on a large scale. It proposes to set up an additional unit. Many states rejected its proposal due to the detrimental effect on the environment. But one state government acceded to the request and permitted the unit close to a city, brushing aside all opposition.**  **The unit was set up 10 years ago and was in full swing till recently. The pollution caused by the industrial effluents was affecting the land, water and crops in the area. It was also causing serious health problems to human beings and animals. This gave rise to a series of agitations demanding the closure of the plant. In a recent agitation thousands of people took part, creating a law and order problem necessitating stern police action. Following the public outcry, the State government ordered the closure of the factory.**  **The closure of the factory resulted in the unemployment of not only those workers who were engaged in the factory but also those who were working in the ancillary units. It also very badly affected those industry which depended on the chemicals manufactured by it.**  **As a senior officer entrusted with the responsibility of handling this issues, how are you going to address it? (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "As a senior officer, it is my responsibility that the given issue should be addressed in such manner that the problem related to environment and health of thousands of citizens must be taken care of along with the issue of unemployment and industrial growth of state due to closing down of factory.\n\nSince the situation in state is volatile due to series of agitations, one of the quick solutions would be to close down the factory permanently. This will only solve the immediate existing problem of law and order by pacifying the public.\n\nHowever, doing so will adversely affect the employment and economic development of state. Also, since it is a big corporate, it can shift its plant to other state, leading to the same problems but at some other place.\n\nIt would be morally and ethically wrong for me to shift the problem to some other place and consequently putting the health of people there at risk rather than providing a sustainable solution for the existing problem.\n\nTherefore, as a responsible officer, I would like to suggest the following steps:\n\nFirstly, an immediate scientific assessment of damage done to surrounding environment should be done. The company, guided by local community, should take immediate steps to de-contaminate the site and surrounding environment.\n\nAs it is a large corporate, investment will not be an issue. It should set up state-of-the-art infrastructure facilities for effluent treatment. This will help bring down effluent discharge to permissible level recommended by Pollution Control Boards, which will not affect health and ecology adversely.\n\nSecondly, the company along with government should be asked to provide a monetary compensation for those affected, including those who were unemployed during closure of factory, in order to address their health problems and economic losses.\n\nThirdly, the company should be allowed to show the above expenditure in its Corporate Social Responsibility (CSR) contribution, to provide reasonable relief to the company as well.\n\nFourthly, an investigation should be done to find out whether environmental rules were flouted while giving permission to set up factory ten years back or were there lacunae in the state\u2019s Environmental Impact Assessment norms which were used by company. At the same time the inspection should be done to find out that other companies are not flouting norms and polluting the environment.\n\nFifthly, a training programme should be institutionalized for state police to train them to handle large people\u2019s movement sensitively as the concerns of people protesting were genuine.\n\nAs per my understanding, this would be the best approach to deal with this issue as it creates a win-win situation for all the stakeholders - the company, the state government, the employees and most importantly the common people.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_4_Q18",
+        "serial_no": "18",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "4"
+      },
+      "content": {
+        "question_text": "**11. Dr X is a leading medical practitioner in a city. He has set up a charitable trust through which he plans to establish a super-speciality hospital in the city to cater to the medical needs of all sections of the society. Incidentally, that part of the State had been neglected over the years. The proposed hospital would be a boon for the region.**  **You are heading the tax investigation agency of that region. During an inspection of the doctor\u2019s clinic, your officers have found out some major irregularities. A few of them are substantial which had resulted in considerable withholding of tax that should be paid by him now. The doctor is cooperative. He undertakes to pay the tax immediately.**  **However, there are certain other deficiencies in his tax compliance which are purely technical in nature. If these technical defaults are pursued by the agency, considerable time and energy of the doctor will be diverted to issues which are not so serious, urgent or even helpful to the tax collection process. Further, in all probability, it will hamper the prospects of the hospital coming up.**  **There are two options before you:**  **(1) Taking a broader view, ensure substantial tax compliance and ignore defaults that are merely technical in nature.**  **(2) Pursue the matter strictly and proceed on all fronts, whether substantial or merely technical.**  **As the head of the tax agency, which course of action will you opt and why? (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "In the present case Dr. X, a leading medical practitioner through his charitable trust is planning to establish a super specialty hospital in backward region of the state.\n\nAny irregularity or non compliance of tax at the end of assesses or tax department is illegal and a crime against the law of the land. Being the head of the tax investigation agency, my duty towards the department is to ensure that assesses comply with tax norms and pay taxes according to the law. As per my work ethics, I must abide by the rules and regulations of the department.\n\nIt has been found that there has been cases of irregularity in the clinic. Some irregularities are of substantial nature and of them, few are technical in nature that has led to withholding of tax. Dr. X undertakes to pay the tax immediately.\n\nSuper Specialty Hospital in backward region will cater to health needs of people of neglected area. Duty to the humanity is a greater service, and my duty is also towards my fellow citizens. My immediate focus will be on getting substantial irregularity fixed and get the pending tax amount paid. For technical irregularity, a dedicated team will be formed to get it solved in time bound manner.\n\nAs a medium term solution to the problem, as mentioned in the case, a team of officers and CAs will be formed to create awareness and educate the tax payers in compliance process.\n\nIn long term, a white paper will be tabled to the concerned ministry proposing ease in tax compliance process by use of technology, reducing paper work and making the process online and user friendly.\n\nThis will enable the department to handle any such case in near future and also make the tax payer less burdened with complex paper works.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_4_Q19",
+        "serial_no": "19",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "4"
+      },
+      "content": {
+        "question_text": "**12. Edward Snowden, a computer expert and former CIA administrator, released confidential Government documents to the press about the existence of Government surveillance programmes. According to many legal experts and the US Government, his action violated the Espionage act of 1971, which identified the leak of State secret as an act of treason. Yet, despite the fact that he broke the law, Snowden argued that he had a moral obligation to act. He gave a justification for his \u201cwhistle blowing\u201d by stating that he had a duty \u201cto inform the public as to that which is done in there name and that which is done against them.\u201d**  **According to Snowden, the Government\u2019s violation of privacy had to be exposed regardless of legality since more substantive issues of social action and public morality were involved here. Many agreed with Snowden. Few argued that he broke the law and compromised national security, for which he should be held accountable.**  **Do you agree that Snowden\u2019s actions were ethically justified even if legally prohibited? Why or why not? Make an argument by weighing the competing values in this case. (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Individual freedom and rights at one hand and larger interest of society or the nation on the other are perennial source of conflict. The given situation also highlights the very same fact. There are times when two competing values create dilemma. Here the competing values are (1) morality and legality and (2) individual liberty (privacy) and national security.\n\n### Morality vs Legality\n\nThese both values are closely related as both seek to regulate human behavior and actions. But actions which may be legally correct may not be morally correct or vice-versa. It is an eternal dilemma which will occur in the future as well. Law is necessary to maintain order and minimum co-ordination in the society. Morality is the differentiation of intentions, decisions, and actions between those that are distinguished as proper and those that are improper. Both seek justice in different ways and help attaining stability in the society. Establishing precedence of one over other would not be a wise option. In this case, Edward Snowden has legally violated the Espionage Act, 1917, but his act must be looked with his intentions to serve the larger public good.\n\n### Individual Liberty vs National Security\n\nIndividual liberty (privacy) seeks to provide individual space to humans. This value respects the intricate relations of a person, personal feelings of people etc., which are essential because we are humans. National security seeks protection of society from all kinds of threats and it is the duty of the state to protect its citizens, boundaries, economy etc. No nation becomes great by dwarfing its own individual. The surveillance programme was a gross violation of its own mandate. Snowden\u2019s act in this case should not be considered as threat to national security.\n\nIn the above mentioned conditions, it should be understood that all these values cannot propagate mutually exclusive to each other. There must be certain limitations or domain under which national security and individual liberty should operate. Legality and morality come to one\u2019s conscience. Conscience can be a compass in difficult demanding conditions. In the mentioned case, Snowden was in a dilemma and surveillance was a gross violation in the name of national security, so he was right in exposing the government.",
+        "explanation_format": "markdown"
+      }
+    }
+  ]
+}

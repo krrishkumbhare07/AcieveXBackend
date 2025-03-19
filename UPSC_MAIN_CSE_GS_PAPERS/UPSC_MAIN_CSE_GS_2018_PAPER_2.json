@@ -1,0 +1,431 @@
+{
+  "exam_info": {
+    "exam_type": "UPSC_MAIN_CSE",
+    "year": "2018",
+    "session": "2",
+    "subject": "GS",
+    "total_questions": 20
+  },
+  "questions": [
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_2_Q1",
+        "serial_no": "1",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**1. In the light of recent controversy regarding the use of Electronic Voting Machine (EVM), what are the challenges before the Election Commission of India to ensure the trustworthiness of elections in India? (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "In a democracy, there is nothing more important than the credibility of the electoral process. Recently, many political parties in India have been seeking for a return to the ballot paper. The issue pertains to the efficacy and credibility of EVMs in conducting free and fair elections.\n\nEVMs have brought a structure to the electoral process that did not exist during the ballot paper days when the number of invalid votes would often be high and incidents of booth capturing were a common phenomenon. However, recently the transparency and efficacy of EVMs have been questioned. The Election Commission of India faces the following challenges in this regard:\n\n* To prove to the electorate and the parties that the EVMs are not manipulated and tempered.\n* The EVMs are selected by computers on the principle of randomization which does not allow a prior knowledge or planned setting for a particular EVM in a particular constituency or at a particular polling booth. But the challenge before the commission is to account for the authenticity of these processes.\n* It is also being opined that the present EVMs are not technologically advanced and secure.\n* Ensuring an independent and robust verification system in the whole exercise of manufacturing and placement of EVMs, and registeration and counting of votes.\n* Though EC has decided to use Voter Verifiable Paper Audit Trail (VVPAT) machines in all future elections, it is yet to take a decision on tallying all votes cast through EVMs. So far, it has only ordered recounting of VVPAT slips on pilot basis.\n* In recently concluded by-elections (e.g. in Kairana Lok Sabha by-elections) there were reports of last minute glitches with EVM and VVPAT which raises doubt about their functioning.\n* Another challenge is to procure required VVPAT without delay for the Lok Sabha elections 2019.\n* Considering the complexity VVPAT is introducing in to electoral process there is need for competent polling officers.\n* VVPATs are very complicated and slight mishandling can result in failure. E.g. In Meghalaya Assembly by polls more than 33 per cent VVPATs failed as the paper used was not suitable for the humid weather there.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_2_Q2",
+        "serial_no": "2",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**2. Whether National Commission for Scheduled Castes (NCSC) can enforce the implementation of constitutional reservation for the Scheduled Castes in the religious minority institutions? Examine. (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "The National Commission for Scheduled Castes (NCSC), a constitutional body set up under Article 338, recently directed the Aligarh Muslim University (AMU) to provide reservations for SC/ST and OBC category students. Till now, AMU did not provide reservations since it is considered a religious minority institution under article 30.\n\nThis is because minority educational institutions, which have a 50 per cent reservation for students belonging to a minority community, do not have to provide reservations for SC/ST and OBC category students. The Supreme Court, in July 2018, upheld this. It drew light to Article 15(5), introduced by the 93rd Constitutional Amendment Act. According to Article 15(5), the state is empowered to make special provisions for the advancement of scheduled castes regarding their admission to educational institutions, except in the minority educational institutions.\n\nTherefore, the according to the Constitution of India, minority institutions under Article 30 shall be exempt from constitutional reservations for the Scheduled Castes. As a result, it would be unconstitutional for NCSC to enforce implementation of constitutional reservation in the religious minority institutions.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_2_Q3",
+        "serial_no": "3",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**3. Under what circumstances can the Financial Emergency be proclaimed by the President of India? What consequences follow when such a declaration remain in force? (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "The President of India proclaims the Financial Emergency under Article 360 of the Constitution, when he is satisfied that the financial stability or credit of India or of any part of the territory thereof is threatened.\n\nThe consequences of the proclamation of a Financial Emergency are as follows:\n\n* The executive authority of the Centre extends to directing any state to observe such canons of financial propriety as are specified by it; and the President may issue directions, necessary and adequate for the purpose.\n* Any such direction may include a provision requiring the reduction of salaries and allowances of all or any class of persons serving in the state; and the reservation of all money bills or other financial bills for the consideration of the President after they are passed by the state legislature.\n* The President may issue directions for the reduction of salaries and allowances of all or any class of persons serving the Union; and the judges of the Supreme Court and the High Courts.\n\nTill now, the Financial Emergency has never been invoked in India.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_2_Q4",
+        "serial_no": "4",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**4. Why do you think the committees are considered to be useful for parliamentary work? Discuss, in this context, the role of the Estimates Committee. (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "The functions of Parliament are varied, complex and voluminous. It has neither time nor expertise to control to make a detailed scrutiny of all legislative measures and other matters. Therefore, it is assisted by a number of committees in discharge of its duties. These committees fulfil several objectives:\n\n* These help Parliament in managing its business in a better way. It is easier to examine a topic in depth by a committee of 30 than by an assembly of 700.\n* These enable inputs from experts and also directly from people. For example, the Departmental Standing Committees often invite comments from the public and call people to testify.\n* A related advantage in the Indian context is that the anti-defection law does not apply to committees \u2014 therefore, decisions are not usually made on party lines.\n* These committees allow members to focus on some specific areas and build their expertise, which helps them scrutinise issues more thoroughly.\n* These keep an unremitting vigil over Government expenditure and performance. For e.g. Public Accounts Committee.\n\n**Role of the Estimates Committee**\n\nEstimates Committee compromises of 30 members solely from Lok Sabha. Its main agenda is to examine the estimates included in the budget and suggest economies in public expenditure. It suggests alternative policies in order to bring about the efficiency and economy in administration. It brings to the notice of the Parliament, the ineffectiveness of the policy and need for changes in policy.\n\nHowever, the effectiveness of the role of the committee is limited by the followings-\n\n* It cannot question the policy laid down by the Parliament.\n* It examines the budget estimates only alter they have been voted by the Parliament, and not before that.\n* Its recommendations are advisory and not binding on the ministries.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_2_Q5",
+        "serial_no": "5",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**5. \u201cThe Comptroller and Auditor General (CAG) has a very vital role to play.\u201d Explain how this is reflected in the method and terms of his appointment as well as the range of powers he can exercise. (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "CAG acts as the guardian of public purse and controls the entire gamut of financial administration. Article 148 envisages the post of CAG with a tenure of six years. He is appointed by President and can be removed on the grounds of proved misbehavior or incapacity - on the basis of a resolution passed by a special majority by both the houses of parliament.\n\nMoreover, CAG\u2019s salary and allowances are charged upon Consolidated Fund of India, ensuring immunity from Vote of Parliament. Thus, there are strong inbuilt safeguards available to ensure autonomy for the CAG to effectively discharge its role.\n\n**Role of CAG**\n\n* Conducts legal, regulatory and propriety audit.\n* Audits expenditure from Contingency Fund, Public Account, Consolidated Fund of India and the states.\n* Submits audit reports to President and Governor for legislative scrutiny.\n* Audits the receipts and expenditure of Government companies and entities substantially financed from the Central or State revenues.\n* Acts as a guide to Public Accounts Committee of Parliament ensuring transparency in financial administration.\n\nIts role as the highest auditing authority is intrinsically linked to the efficacy of government policies by keeping a watch on financial aspect of Good Governance, thereby preserving the democratic ethos.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_2_Q6",
+        "serial_no": "6",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**6. \u201cPolicy Contradictions among various competing sectors and stakeholders have resulted in inadequate \u2018protection and prevention of degradation\u2019 to environment.\u201d Comment with relevant illustrations. (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Public Policy involves balancing the interest of various competing stakeholders and sectors. This at times leads to policy contradiction among various sectors and stake holders causing inadequate \u2018protection and prevention of degradation\u2019 to environment.\n\nFollowing illustrations clearly illustrate this:\n\n1. **Sardar Sarovar Project -** While farmers in arid areas of Gujarat and Rajasthan as well as the industrial sector welcomed this project, there was strong resistance from the tribals who were displaced and were critical of the inadequate rehabilitation process. This project has been criticised for environmental damage like loss of forests and terrestrial biological diversity \u2013 thus displaying the contradictions between two imperatives of environmental protections and developmental needs.\n2. **In Ken Betwa link project -** This project is immensely beneficial meeting the irrigation and drinking water need of the Bundhelkahnd region. However, project is criticised due to its adverse impact on the ecology of both the rivers and damaging biodiversity - by submerging parts of Panna National Park.\n3. **Bt cotton -** The seed manufacturer, Monsanto, wants to enhance its revenue by increasing the area under cultivation of BT Cotton crop. Similarly, farmers also prefer to use these seeds for increasing production and hence their income. There is also arguement that GM crops can fulfil India\u2019s nutritional needs. However there are various reported environmental consequences of Genetically Modified (GM) crop \u2013 such as possibility of emergence of super pest; super weeds as well as potential health hazards of GM crops.\n\nGiven the above examples, various sectors and their stake holders need to work in coordination - keeping in mind the developmental and environmental issues for present as well as future generations.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_2_Q7",
+        "serial_no": "7",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**7. Appropriate local community-level healthcare intervention is a prerequisite to achieve \u2018Health for All\u2019 in India. Explain. (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "\u2018Health for All\u2019 which includes the continuous availability of quality and affordable healthcare results in better health outcomes. It can be ensured by strengthening local community level healthcare services. Government has recently launched Ayushman Bharat to strengthen the primary health-care system through well functional health and wellness centres.\n\n**Role of local community level healthcare intervention to achieve \u2018Health for All\u2019:**\n\n* Local community level intervention is the first source of comprehensive and accessible healthcare that meets the immediate needs of individuals. Addressing issues at this level can result in risk screening for early disease detection bringing down the overall disease burden of the country.\n* Provision of preventive services at the local level like vaccinations and family planning, nutrition and maternal care can reduce the need for secondary and tertiary healthcare services.\n* Management of chronic health conditions and palliative care at local level can reduce the out-of-pocket expenditure for people.\n* Maintaining the physician-patient ratio at the grassroot level can ensure the availability of doctors for all, reducing the dependence on quacks and eliminating preventable causes like incorrect treatment.\n* The healthcare intervention at local community level should be supplemented by upgradation of infrastructure, technological advancement and capacity building of health workers.\n* Decentralised policy making that involves local community health workers can effectively address the local healthcare needs.\n\nHence, it is important to address these issues at the community level to achieve \u2018Health for All\u2019.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_2_Q8",
+        "serial_no": "8",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**8. E-governance is not only about utilization of the power of new technology, but also much about critical importance of the \u2018use value\u2019 of information. Explain. (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "E-governance is application of Information and Communication Technology (ICT) at all the level of the Government in order to provide services to the citizens, interaction with business enterprises and communication and exchange of information between different agencies of the Government in a speedy, convenient efficient and transparent manner.\n\nAlthough e-governance is about utilization of the power of new technology like satellite technology, GPS, computer, internet, mobile, biometrics etc. in an efficient manner, it is also very much about how the information collected is utilised to better cater to the needs of the citizens. The information collected should help in \u2018clarity\u2019 in the objective setting, not only in ICT terms (computers, networks etc.) but also the process outcomes and the measurements post implementation. Information should be used for data mining and for supporting the management decisions and not merely for word processing. By knowing the value of information and its foundation, information can be improved and can provide better support in decision making and better assessment can be made.\n\nTherefore, the focus of e- governance should not only be limited to efficiently utilising new technologies but it should also be oriented toward ensuring good governance using the information gathered.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_2_Q9",
+        "serial_no": "9",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**9. \u201cIndia\u2019s relations with Israel have, of late, acquired a depth and diversity, which cannot be rolled back.\u201d Discuss. (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "The diplomatic relations between India and Israel were established in 1992. Since then especially during Kargil war when Israel\u2019s MOSSAD helped India\u2019s RAW by providing critical intelligence inputs, relations between both countries have gained strength both in depth and diversity.\n\n* During the Indian Prime Minister 25 visit to Israel last year, both countries signed many important agreements such as setting up of India-Israel Technological Innovation Fund, cooperation in space technology, Water Conservation in India, Three Year Work Program in Agriculture 2018-2020 etc.\n* The rise of Islamic extremist terrorism brought together both the countries against the global threat of terrorism.\n* Barak 8 is jointly developed by Israel Aerospace Industries (IAI) and India's Defence Research & Development Organisation (DRDO) which is capable of protecting sea vessels and ground facilities from aircraft and cruise missiles.\n* India is the Israel's seventh largest trading partner and number three arms supplier.\n* Reasons for Israel\u2019s affinity towards India are -Ideological Compatibility, Economic Partnership, National security and counter-terrorism, Cultural and People to People Ties.\n\nIndia\u2019s evolving ties with Israel are based on pragmatism and emerging global scenario and the mutual dependency and trust have move to that extent from where it cannot be roll back. However, based on the value of democracy, secularism and human rights, India has generally conducted its Israel policy with careful attention to the sensitivities of Palestinians and advocated for peaceful and democratic resolution of Palestine issue.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_2_Q10",
+        "serial_no": "10",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**10. A number of outside powers have entrenched themselves in Central Asia, which is a zone of interest to India. Discuss the implications, in this context, of India\u2019s joining the Ashgabat Agreement, 2018. (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "In a quest for global supremacy, Central Asia has become a part of the \u2018New Great Game\u2019 between regional and world powers. Being rich in energy and mineral resources, it acts as transit corridor for regional and global trade. Also control over Central Asian hinterland provides strategic supremacy over peripheral regions such as Persian Gulf.\n\nAs a result, major powers like US have military bases in region while China through Belt and Road Initiative is building connectivity projects to Europe through the region. But India also has huge stake in the region as it is important for India\u2019s ambition as regional power, securing energy and trade transit needs. Its importance is evident from India\u2019s joining the Ashgabat Agreement.\n\n**Joining Ashgabat Agreement will:**\n\n* Enable India to utilize the existing transport and transit corridor to facilitate trade and commercial interactions with the Eurasian region through better integration with Eurasian Economic Union and Shanghai Cooperation Organization.\n* Increase scope of Chabahar to become a vital gateway and the shortest land route to Central Asia.\n* Provide access to high-value minerals of Central Asia.\n* Increase India\u2019s trade with Central Asia which is currently over $1 billion - only 0.11% of Central Asia\u2019s trade.\n* Sychronize the existing trade corridors with International North\u2013South Transport Corridor (INSTC) \u2013 complimenting India\u2019s efforts for enhanced regional connectivity and accessibility.\n\nTherefore, Ashgabat Agreement acts as a India\u2018s doorway to Central Asia - thereby providing accessibility for trade, energy security and strategic balance to global power politics.\n\n**Additional Information**\n\nAshgabat Agreement - A multimodal international agreement aiming at the establishment of Transport and Transit corridor between Uzbekistan, Turkmenistan, Oman and Iran and enhance connectivity within the Eurasian region.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_2_Q11",
+        "serial_no": "11",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**11. Whether the Supreme Court Judgment (July 2018) can settle the political tussle between the Lt. Governor and elected government of Delhi? Examine. (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Parliament via 69th Constitutional Amendment Act of 1991 inserted Article 239AA which made provisions for Legislative Assembly and Lieutenant Governor for NCT Delhi. Since the insertion of the new provisions the political tussle between Lt. Governor and elected government of Delhi has been observed regarding running of day to day business, stalling Council of Minister\u2019s (CoM) decisions, and control over the bureaucratic machinery. Prima facie the tussle relates to the supremacy of the Union appointed Lt. Governor and the elected government. It becomes more palpable when different parties are in power at centre and at Union Territory of Delhi.\n\nAccording to the Article 131 of the constitution of India, Supreme Court has original jurisdiction in any dispute between the Government of India and one or more States. Accordingly, the Supreme Court in its recent judgment of July 2018 provided for a solution to settle this political tussle.\n\n* In relation to the issue of power to legislate and make policies, the Supreme Court held that by virtue of Clause (4) of Article 239AA, the elected government has the power to legislate on all issues except for subjects relating to land, police and public order, which is under the exclusive domain of Union Parliament.\n* On issues of discord between the Lt. Governor and Council, the Supreme Court held that Lieutenant is not to act in a mechanical manner and stall CoM\u2019s decision. Further in case of any difference, matter can be referred to President but it should be in exceptional cases and not a general rule of business.\n\nThe noble principles of democracy and deliberation have been worded by Supreme Court in this case, which provide ample amount of guiding light to settle the power tussle. But the solution to political tussle between the Lt. Governor and elected government of Delhi lies in discarding the anarchist or absolutist approach, focus on working harmoniously, settling disputes by discussion and keeping the interest of people above narrow political interest.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_2_Q12",
+        "serial_no": "12",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**12. How far do you agree with the view that tribunals curtail the jurisdiction of ordinary courts? In view of the above, discuss the constitutional validity and competency of the tribunals in India? (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "A tribunal is a quasi-judicial body established by an Act of Parliament or State Legislature under Article 323A or 323B to resolve disputes that are brought before it. It is not a court of law, but enjoys some of the powers of a civil court like issuing summons and allowing witnesses to give evidence.\n\n**Tribunals Curtailing Jurisdiction of Ordinary Courts**\n\n* Tribunal, being a quasi-judicial body, goes against the Doctrine of Separation of Powers and allows dilution of judicial mechanism - the exclusive arena of ordinary courts.\n* The Supreme Court (SC) in Chandra Kumar case (1997) held that the power of the High Court (HC) under Article 226 and 227 to exercise judicial superintendence over the decisions of all courts and tribunals is a part of the basic structure of the Constitution. However, decisions of some of the tribunals, like National Green Tribunal continue to be taken on appeal only before the SC bypassing the HC as Court of Appeal, depriving them of their power of judicial review.\n* Conferring a direct right of appeal to the SC from tribunals has changed the SC from a constitutional court to a mere appellate court and has also resulted in a backlog of cases.\n* Appeals from SC would require SC to deal with the finer nuances of disputes under specialised areas of law from afresh. This is not ideal for a court of last resort.\n\n**Competency of Tribunals**\n\nTribunals are dependent for appointment, tenure, funding, infrastructure and mode of removal on the Executive - the largest litigant in the country. This creates a conflict of interest situation, putting a question mark over their independence. However, tribunals play significant role in following ways:\n\n* Their administrative members can better appreciate the technical nuances of the matters brought before them and can enhance the quality of justice delivery system.\n* They have flexibility and adaptability in adjudication as they are not restrained by rigid rules of procedure.\n* They are less formal, less expensive, and a faster way to resolve disputes.\n* They also give much needed relief to ordinary courts of law, already overburdened with numerous suits.\n\n**Way forward**\n\nGiven their benefits, tribunals should be revamped keeping in mind the 272nd Law Commission report for restructuring of tribunals and the ruling of SC in Chandra Kumar Case, and bringing tribunals under independent agency. Hence, tribunals are meant to supplement ordinary courts and cannot supplant them.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_2_Q13",
+        "serial_no": "13",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**13. India and USA are the two large democracies. Examine the basic tenets on which the two political systems are based. (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "India and USA are the two large representative democracies in the world. In USA, democracy got its full swing with the drafting of the US Constitution in 1789 while the democracy in India is partially a result of British rule followed by the enforcement of the new, modern and living constitution, framed after Independence.\n\n**The basic tenets on which the two political systems based are:**\n\n* **Rule of Law and Republicanism:** Both, the countries have written constitutions ensuring rule of law and guaranteeing fundamental rights to their citizens. Both the countries are republican in nature and provide adult franchise to the citizens.\n* **Separation of Powers:** In USA, there is a clear-cut separation of powers between judiciary, executive and legislature while the same is not observed exactly in India, as there is fusion between executive and legislature.\n* **Federal System:** India is a federal parliamentary democratic republic in which the President of India is the head of state and the Prime Minister is the head of government whereas the United States is a federal presidential republic in which the President is the head of the state and of the government as well. As per Article 1, India is a \u201cUnion of states\u201d which implies that Indian federation is not the result of an agreement among the states unlike USA whose federation is result of agreement among the states. However, Indian federalism has more features of unitary form of government than that of the US.\n* **Independent Judiciary:** Both the political systems provide for an independent judiciary to interpret the constitution and enforce the law. However, in India single system of courts enforces both the central laws as well as the state laws but in USA, the federal laws are enforced by the federal judiciary and the state laws are enforced by the state judiciary.\n* **Party System:** US has bi-party system while India has multi-party system.\n\nThough the US and Indian political systems are similar in many respects, yet they are the product of their unique history and socio-economic milieu, and varying political culture. However, they should cooperate with each other on many fronts to provide a hope to the humanity which is facing numerous challenges.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_2_Q14",
+        "serial_no": "14",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**14. How is the Finance Commission of India constituted? What do you know about the terms of reference of the recently constituted Finance Commission? Discuss. (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Article 280 of the Constitution of India provides for a Finance Commission (FC) consisting of a chairperson and four other members. They are appointed by President, every 5th year or at such earlier time as he considers necessary.\n\nThe chairperson should be a person having experience in public affairs and the four other members should be from amongst the following:\n\n* a judge of high court,\n* a person with knowledge in governments finance and accounts,\n* a person who has wide experience in financial matters and administration,\n* a person with specialised knowledge in economics.\n\nThe Union Cabinet recently approved the setting up of the 15th Finance Commission with N.K. Singh as its Chairman for the period 2020-25.\n\n**Terms of Reference of 15th FC and Issues**\n\nThe Terms of Reference of 15th FC has proposed the performance based incentives for states but some of the Terms of Reference has led to concerns among various state governments:\n\n* Use of Census 2011 for distribution of tax revenue between centre and states:\n  + Previously FCs were using 1971 Census, but using 2011 Census might lead to smaller share of revenue for some states, mainly Southern States, which have stabilized their population over the period.\n* Progress made in promoting ease of doing business:\n  + This has raised concerns as this does not consider geographical limitations of a state.\n* Control over expenditure on populist measures by states:\n  + This appears to challenge the decision-making ability of state government. What may appear to be a populist measure, can also be a necessity in a particular state.\n* Examine whether revenue deficit grants should be provided at all:\n* Though in line with the Fiscal Responsibility and Budget Management Act, 2003, which recommends zero revenue deficit, it is important for states with persistent deficits.\n* Progress made by states in sanitation, solid waste management and bringing in behavioural change to end open defecation.\n* Achievements of states in implementation of flagship schemes of Government of India, disaster resilient infrastructure, sustainable development goals, and quality of expenditure.\n\nThe Constitution envisages the FC as the balancing wheel of the fiscal federalism in India. While it is expected to ensure that centre is not fiscally constrained given its role in key national public goods such as defence, at the same time it should give due share to state governments which play a major role in the Indian socio-economy.\n\n**Additional Information:**\n\nTerm of Reference (TOR) - The notification announcing constitution of each FC comprises terms that list out the Commission\u2019s work and considerations while making recommendations, is called the Terms of Reference.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_2_Q15",
+        "serial_no": "15",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**15. Assess the importance of the Panchayat system in India as a part of local government. Apart from government grants, what sources the Panchayats can look out for financing development projects? (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Local self-governance means a system of governance where the local people or village people take decisions for their own governance and development through their representatives or direct participation. Realising the importance that the all-round development of the country is possible only through the development of rural India, Panchayati Raj Institutions (PRIs) were constitutionalized under the 73rd Amendment Act of the Constitution of India in 1992.\n\nPlan documents of both the central and state governments and various committees have emphasized the importance of these bodies in the polity. Five-year plans have also laid special emphasis on the role of Panchayats in rural developments.\n\nRural Development includes measures to strengthen the democratic structure of society through the PRIs. PRIs have been used to improve the rural infrastructure, income of rural households and delivery systems pertaining to education, health and safety mechanisms. These institutions are to be galvanized to become effective instruments of social and economic change at the local level.\n\n**Sources of Money**\n\nApart from the tax sharing and grants-in-aid from the state and the centre, the PRIs enjoy powers to levy various kinds of taxes and duties in rural areas.\n\nMajor tax powers include land tax; house building tax; vehicle tax; water, drainage and sanitation taxes; tax on profession, trade; tax on fairs and other entertainments; octroi on animals or goods or both brought for sale; tax for construction and public works; street cleaning fee; and pilgrimage fee. Fees for the use of panchayat shelter; user charges for hospitals and schools; fee for use of common resources like grazing land etc.; fee on markets and weekly bazaars are also the source of income. New powers recommended by SFCs (State Finance Commissions) include house tax; tax on pumps and tractors; tax on highway services; tax on village produce sold in regulated markets; tax on telephones and cable T.V.\n\nHowever, the decisions as to which taxes, duties, tolls and fees should be assigned to local governments and which should be shared by the State with them, continue to be with the state legislatures. Therefore, more devolution of financial powers to the PRIs is the need of the hour to make them as viable institutions to effect change in the socio-economic development of the rural India.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_2_Q16",
+        "serial_no": "16",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**16. Multiplicity of various commissions for the vulnerable sections of the society leads to problems of overlapping jurisdiction & duplication of functions. Is it better to merge all commissions into an umbrella human rights commission? Argue your case. (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Vulnerable sections like women, children, SC/STs, minorities, OBCs and differently abled are facing multiple socio-economic disadvantages in terms of health, education, mobility, economic opportunity, etc., in India. To redress it, the constitution or the legislations have provided for National Commissions for SCs and STs, Minorities, Women and Children.\n\nThe prime intention is to protect their constitutional rights, coordination in socio-economic and educational development, and address atrocities related matters. However, there are certain issues with regard to their multiciplity and functions like:\n\n* Overlapping jurisdictions and duplication of efforts in dealing with complaints, and addressing grievances.\n* Data duplications lead to narrow implementation and this negatively impacts the intended outcomes.\n* Low financial independence and politicization of commissions, absence of checks and balances, etc.\n\nOn the other hand, National Human Rights Commission along with its states counterparts, has more pervasive mandate to enquire into complaints, recommend actions, identify vulnerabilities, etc. Besides, National and State Commissions do not trespass their respective jurisdiction.\n\nWe can envision to create an umbrella organisation like Human Rights Commission (unified), merging all the existing commissions. It is feasible given the nature of all commissions aiming to secure the dignified living conditions and protection of human rights.\n\nIt will remove the multiciplity, data duplication, and will help in more sector specific policy formulation keeping in mind the different vulnerability faced by them. The Human Rights Commission (unified) should have the implementing arms or agencies at state, district and local levels to synchronise its efforts and consolidate the available data.\n\nEstablishment of umbrella commission will be more fiscal and policy prudent. Having fiscal independence and power to enforce legal provisions will strengthen its mandate. Technology can be employed to promote more coordination among different sections to promote analysis and policy formulation and implementation.\n\nThe Human Rights Commission (unified)needs to be given more teeth in terms of independent powers, functions and finance, to enforce its mandate and realize the socio- economic development of the vulnerable sections of society.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_2_Q17",
+        "serial_no": "17",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**17. How far do you agree with the view that the focus on lack of availability of food as the main cause of hunger takes the attention away from ineffective human development policies in India? (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Hunger is a stark and bitter reality for teeming millions in India who are caught under the \u2018poverty trap\u2019. It is also quite true that the single point focus on lack of availability of food as the prime reason for hunger has kept the ineffectiveness of human development policies in India in the background. Most of the poverty stricken households barely manage a difficult existence and struggle to provide their children with the nourishment they need to be healthy, happy and reach their full potential. Almost a third of Indian babies are born with low birth weight which is a very high number and reflects the ineffectiveness of human development policies in India. Lack of access to food, no access to drinking water, lack of sanitation facilities and gender inequity \u2013 all of these contribute to child malnutrition, which again stems from hunger and poverty.\n\nEnding hunger and malnutrition will not be achieved by focusing on food security and agriculture alone. Policymakers in India must acknowledge the critical need to link action in addressing food security to national strategies across sectors. There is a need to pursue a \u201czero hunger\u201d programme with no stunted children below the age of two. This should be a multipronged strategy that focuses on improving agricultural productivity, empowers women through support for maternal and child care practices, and offers nutritional education and social protection programmes. The nutrition mission must develop effective protocols for treating the acutely malnourished while ensuring better coordination between the nutrition and healthcare departments. India should adopt a zero tolerance mindset in battling hunger through long-term political commitment and effective human development policies that do not see hunger as arising only out of lack of availability of food. The country\u2019s serious hunger level is driven by high child malnutrition and underlines need for stronger commitment to the social sector and effective human development policies rooted in ground realities of India.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_2_Q18",
+        "serial_no": "18",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**18. The Citizens\u2019 Charter is an ideal instrument of organizational transparency and accountability, but it has its own limitations. Identify the limitations and suggest measures for greater effectiveness of the Citizens\u2019 Charter. (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "Citizens\u2019 Charter is a voluntary declaration by a Government agency about its mandate, what to expect by way of services and how to seek a remedy if something goes wrong. In doing so, it aims to realize the principles of transparency, accountability and responsiveness of good governance.\n\nHowever, its effectiveness has been limited due to reasons mentioned below.\n\n**Limitations**\n\n* Devoid of Participatory Approach in consulting stakeholders like the cutting edge staff and end \u2013 users in its formulation.\n* Absence of critical information. When mentioned, measurable standards of delivery are rarely defined.\n* Lack of Public Awareness among end-users about the commitments under Citizens\u2019 Charter.\n* Charters are rarely updated.\n* Lack of adherence by organisation to their Citizens\u2019 Charter since there is no mechanism to compensate the citizen if the organization defaults.\n* Tendency to have a uniform Citizens\u2019 Charter for all offices under the parent organization overlooks local issues.\n* Citizens\u2019 Charter has still not been adopted by all Ministries/Departments.\n* Concerned staff were not adequately trained and sensitised about its spirit and content.\n\n**Measures to Make Citizens\u2019 Charter Effective**\n\n* Formulation of Citizens\u2019 Charter should be a decentralized activity with the head office providing only broad guidelines and a wide consultation process with all stakeholders.\n* Citizens\u2019 Charter must be precise and make specific commitments of service delivery standards in quantifiable terms.\n* Clearly lay down the redressal mechanism which the organization is bound to provide if it has defaulted on the promised standards of delivery.\n* Periodic evaluation of Citizens\u2019 Charter through external agency.\n* Hold officers accountable for results by fixing responsibility in cases of default.\n* Internal restructuring should precede Citizens\u2019 Charter formulation to make them more credible and effective than those designed as mere desk exercises without any system re-engineering.\n* Wider Publicity about it in vernacular languages.\n\nTherefore, given the importance of Citizens\u2019 Charters in ensuring good governance, urgent steps including those mentioned above need to be taken to ensure they are effective in achieving their objective.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_2_Q19",
+        "serial_no": "19",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**19. What are the key areas of reform if the WTO has to survive in the present context of \u2018Trade War\u2019, especially keeping in mind the interest of India? (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "World Trade Organization (WTO) officially commenced in 1995 after replacing the General Agreement on Tariffs and Trade (GATT). WTO intends to supervise and liberalize international trade. But recent trade wars, initiated by USA with China, India and other countries, evoke the need of reform in WTO if it has to survive in the present context. The key areas of reforms are:\n\n* **Dispute Settlement System:** There are suggestions regarding bringing transparency, shortening of time frames, permanent panel body, special and differential treatment for developing countries etc. India can benefit from the reforms if proposals specific to developing countries are accepted\n* **Reducing Trade Costs:** Though WTO has come out with Trade Facilitation Agreement (TFA) in this regard, but it mainly addresses the trade of goods. India being a major service provider would benefit if reforms are carried out in trade facilitation of services. It is expected that there are considerable economic benefits from the better movement of people across borders.\n* **Modalities of Negotiations:** Some progress has been made, as the \u2018single undertaking\u2019 nature of negotiations is all but discarded. There are proposals to make them more flexible.\n\nIndia is one of the prominent members of WTO and is largely seen as leader of developing and under developed countries. More than 40% Indian economy is exposed to international trade. If we want to achieve a double-digit growth over a sustained period and create jobs, our external trade has to grow at more than 15% a year, which is not possible in an uncertain trading environment. Therefore, India should call upon all WTO members, including the US, to undertake a systemic reform in the above-stated crucial areas of the WTO\u2019s functioning.",
+        "explanation_format": "markdown"
+      }
+    },
+    {
+      "exam_type": "UPSC_MAIN_CSE",
+      "metadata": {
+        "question_id": "UPSC_MAIN_CSE_GS_2018_PAPER_2_Q20",
+        "serial_no": "20",
+        "subject": "GS",
+        "topic": "",
+        "subtopic": "",
+        "year": "2018",
+        "exam_session": "2"
+      },
+      "content": {
+        "question_text": "**20. In what ways would the ongoing U.S-Iran Nuclear Pact Controversy affect the national interest of India? How should India respond to this situation? (2018)**",
+        "question_format": "markdown",
+        "language": "en"
+      },
+      "solution": {
+        "explanation": "The unilateral US withdrawal from the Joint Comprehensive Plan of Action (JCPOA), the historic nuclear deal between the permanent members of the UN Security Council, E.U. (P5+1) and Iran, which limited Iran\u2019s nuclear programme and lifted the crippling economic sanctions, will have serious ramifications for nations having strategic interests in the West Asia.\n\nIndia\u2019s relations with Iran extend beyond the geopolitical and geo-economic binary. The cultural relations between India and Iran extend centuries, but the recent US behaviour has led India on crossroads. This controversy would affect India in following ways-\n\n* **Strategic Autonomy -** Strategic Autonomy has been the guiding principle of Indian foreign policy since independence. India maintains that it abides by only UN sanctions and not unilateral sanctions by any one country. In this case, US is coercing India and other countries to sever ties with Iran. This has direct implications on autonomous policy making.\n* **Oil Supply -** Iran has been one of the top three oil suppliers to India. Sanctions on Iran, which would be the next logical step by the Trump administration, will disrupt the crude oil supplies. US has presented India with shale imports, but the Gulf region has regional proximity to India. The withdrawal will also raise the crude oil prices, this fluctuation has a direct impact on the Indian economy (inflation, Balance of Payment, Current Account Deficit).\n* **Indian Investments -** India\u2019s plans to acquire stakes in Iranian natural gas field, build pipelines as well as develop the Chabahar port \u2013 a key Indian connectivity initiative \u2013 all stand to be seriously affected.\n* **Indian Diaspora -** In case this spirals out into direct confrontation between US allies and Iran, then lives Indians living in the Gulf region would be at stake. Their protection and evacuation would be a huge diplomatic and military manoeuvre.\n* **Terrorism -** Instability in the region has already resulted in rise of extremist group and more uncertainty will only provide them with more safe havens. This might have a direct effect on India\u2019s national security.\n\nOther partners of the agreement are willing to move forward despite the US withdrawal. India is an important stakeholder in the issue. So, India should work with like minded countries to defuse the situation and if possible, bring US back to the table if not, then prepare a separate mechanism for dealing with Iran including other stakeholders.\n\nIndia has always maintained that the Iranian nuclear issue should be resolved peacefully through dialogue and diplomacy by respecting Iran\u2019s right to peaceful uses of nuclear energy international community\u2019s strong interest in the exclusively peaceful nature of Iran\u2019s nuclear programme.",
+        "explanation_format": "markdown"
+      }
+    }
+  ]
+}

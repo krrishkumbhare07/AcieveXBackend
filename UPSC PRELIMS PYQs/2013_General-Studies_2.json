@@ -1,0 +1,5122 @@
+[
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_1",
+      "serial_no": "1",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following que (1-2)   items:    Read the following passage and answer the two items that  follow.    Your answers to these items should be based on the passage only.    PASSAGE   Ecological research over the last quarter of the century has established the deleterious effects of habitat fragmentation  due to mining, highways and such other intrusions on forests.  When a large block of forests gets fragmented into smaller bits, the edges of all these bits come into contact with human activities resulting in the degradation of the entire forests. Continuity of forested landscapes and corridors gets disrupted affecting  several extinction-prone species of wildlife. Habitat fragmentation is therefore considered as the most serious threat to biodiversity conservation. Ad hoc grants of forest lands to mining  companies coupled with rampant illegal mining is aggravating this threat.",
+      "question_text": "What is the central focus of this passage ?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Illegal mining in forests",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Extinction of wildlife",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Conservation of nature",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Disruption of habitat",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : Disruption of habitat",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_2",
+      "serial_no": "2",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following que (1-2)   items:    Read the following passage and answer the two items that  follow.    Your answers to these items should be based on the passage only.    PASSAGE   Ecological research over the last quarter of the century has established the deleterious effects of habitat fragmentation  due to mining, highways and such other intrusions on forests.  When a large block of forests gets fragmented into smaller bits, the edges of all these bits come into contact with human activities resulting in the degradation of the entire forests. Continuity of forested landscapes and corridors gets disrupted affecting  several extinction-prone species of wildlife. Habitat fragmentation is therefore considered as the most serious threat to biodiversity conservation. Ad hoc grants of forest lands to mining  companies coupled with rampant illegal mining is aggravating this threat.",
+      "question_text": "What is the purpose of maintaining the continuity of forested landscapes and corridors?   1. Preservation of biodiversity.   2. Management of mineral resources.   3. Grant of forest lands for human activities.   Select the correct answer using the codes given below.",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "1 and 2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "2 and 3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "1, 2 and 3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : 1 only",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_3",
+      "serial_no": "3",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "",
+      "question_text": "In a rare coin collection, there is one gold coin for every three non-gold coins. 10 more gold coins are added to the  collection and the ratio of gold coins to non-gold coins would be 1 : 2. Based on the information, the total number of coins in the collection now becomes",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "90",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "80",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "60",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "50",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : 90",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_4",
+      "serial_no": "4",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "",
+      "question_text": "A gardener has 1000 plants. He wants to plant them in such a way that the number of rows and the number of columns remains the same. What is the minimum number of plants that he needs more for this purpose?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "14",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "24",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "32",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "34",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : 24",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_5",
+      "serial_no": "5",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "",
+      "question_text": "A sum of ₹ 700 has to be used to give seven cash prizes to the students of a school for their overall academic performance. If each prize is ₹ 20 less than its preceding prize, what is the least value of the prize?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "₹ 30",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "₹ 40",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "₹ 60",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "₹ 80",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : ₹ 40",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_6",
+      "serial_no": "6",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "",
+      "question_text": "Out of 120 applications for a post, 70 are male and 80 have a driver’s license. What is the ratio between the minimum to maximum number of males having driver’s license?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1 to 2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "2 to 3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "3 to 7",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "5 to 7",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : 3 to 7",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_7",
+      "serial_no": "7",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "",
+      "question_text": "In a garrison, there was food for 1000 soldiers for one month.   After 10 days, 1000 more soldiers joined the garrison. How long would the soldiers be able to carry on with the remaining food?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "25 days",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "20 days",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "15 days",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "10 days",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : 10 days",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_8",
+      "serial_no": "8",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "",
+      "question_text": "The tank-full pertrol in Arun’s motor-cycle lasts for 10 days.   If he starts using 25% more everyday, how many days will the tank-full pertrol last?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "5",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "6",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "7",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "8",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : 8",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_9",
+      "serial_no": "9",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "",
+      "question_text": "A person can walk a certain distance and drive back in six hours. He can also walk both ways in 10 hours. How much time will he take to drive both ways?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Two hours",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Two and a half hours",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Five and a half hours",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Four hours",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : Two hours",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_10",
+      "serial_no": "10",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following  que (10-16)  :     Read the following two passages and answer the items that follow each passage. Your answers to these items should bebased on the passage only.     PASSAGE-1   The law in many parts of the world increasingly restricts the discharge of agricultural slurry into watercourses. The  simplest and often the most economically sound practice returns the material to the land as semisolid manure or as sprayed slurry. This dilutes its concentration in the environment to what  might have occurred in a more primitive and sustainable types of agriculture and converts pollutant into fertilizer. Soil microoganisms decompose the organic components of  sewage and slurry and most of the mineral nutrients become available to be absorbed again by the vegetation.   The excess input of nutrients, both nitrogen and phosphorus – based, agricultural runoff (and human sewage) has caused  many ‘healthy’ oligotrophic lakes (low nutrient concentrations, low plant productivity with abundant water weeds, and clear  water) to change to eutrophic condition where high nutrient inputs  lead to high phytoplankton productivity (sometimes dominated by bloom-forming toxic species). This makes the water turbid, eliminates large plants and, in the worst situations, leads to  anoxia and fish kills; so called cultural eutrophication. Thus,  important ecosystem services are lost, including the provisioning service of wild-caught fish and the cultural services associated with recreation.  The process of cultural eutrophication of lakes has been understood for some time. But only recently did scientists  notice huge ‘dead zones’ in the oceans near river outlets.,  particularly those draining large catchment areas such as the Mississippi in North America and the Yangtze in China. The nutrient-enriched water flows through streams, rivers and lakes, and eventually to the estuary and ocean where the ecological impact may be huge, killing virtually all invertebrates and fish in areas up to 70,000 km‌2  in extent. More than 150 sea areas worldwide are now regularly starved of oxygen as a result of decomposition of algal blooms, fuelled particularly by nitrogen from agricultural runoff of fertilizers and sewage from large cities. Oceanic dead zones are typically associated with industrialized nations and usually lie off countries that subsidize their agriculture, encouraging farmers to increases productivity and use more fertilizer.",
+      "question_text": "According to the passage, why should the discharge of agricultural slurry into watercourses be restricted?  1. Losing nutrients in this way is not a good practice economically.    2. Watercourses do not contain the microorganisms that can decompose organic components of agricultural slurry.    3. The discharge may lead to the eutrophication of water bodies.    Select the correct answer using the codes given below:",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "2 and 3 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "1 and 3 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "1, 2 and 3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : 1, 2 and 3",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_11",
+      "serial_no": "11",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following  que (10-16)  :     Read the following two passages and answer the items that follow each passage. Your answers to these items should bebased on the passage only.     PASSAGE-1   The law in many parts of the world increasingly restricts the discharge of agricultural slurry into watercourses. The  simplest and often the most economically sound practice returns the material to the land as semisolid manure or as sprayed slurry. This dilutes its concentration in the environment to what  might have occurred in a more primitive and sustainable types of agriculture and converts pollutant into fertilizer. Soil microoganisms decompose the organic components of  sewage and slurry and most of the mineral nutrients become available to be absorbed again by the vegetation.   The excess input of nutrients, both nitrogen and phosphorus – based, agricultural runoff (and human sewage) has caused  many ‘healthy’ oligotrophic lakes (low nutrient concentrations, low plant productivity with abundant water weeds, and clear  water) to change to eutrophic condition where high nutrient inputs  lead to high phytoplankton productivity (sometimes dominated by bloom-forming toxic species). This makes the water turbid, eliminates large plants and, in the worst situations, leads to  anoxia and fish kills; so called cultural eutrophication. Thus,  important ecosystem services are lost, including the provisioning service of wild-caught fish and the cultural services associated with recreation.  The process of cultural eutrophication of lakes has been understood for some time. But only recently did scientists  notice huge ‘dead zones’ in the oceans near river outlets.,  particularly those draining large catchment areas such as the Mississippi in North America and the Yangtze in China. The nutrient-enriched water flows through streams, rivers and lakes, and eventually to the estuary and ocean where the ecological impact may be huge, killing virtually all invertebrates and fish in areas up to 70,000 km‌2  in extent. More than 150 sea areas worldwide are now regularly starved of oxygen as a result of decomposition of algal blooms, fuelled particularly by nitrogen from agricultural runoff of fertilizers and sewage from large cities. Oceanic dead zones are typically associated with industrialized nations and usually lie off countries that subsidize their agriculture, encouraging farmers to increases productivity and use more fertilizer.",
+      "question_text": "The passage refers to the conversion of “pollutant to fertilizer”. What is pollutant and what is fertilizer in this context?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Decomposed organic component of slurry is pollutant and microorganisms in soil constitute fertilizer.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Discharged agricultural slurry is pollutant and decomposed slurry in soil is fertilizer.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Sprayed slurry is pollutant and  watercourses is fertilizer.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "None of the above expressions is  correct in this context.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : Discharged agricultural slurry is pollutant and decomposed slurry in soil is fertilizer.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_12",
+      "serial_no": "12",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following  que (10-16)  :     Read the following two passages and answer the items that follow each passage. Your answers to these items should bebased on the passage only.     PASSAGE-1   The law in many parts of the world increasingly restricts the discharge of agricultural slurry into watercourses. The  simplest and often the most economically sound practice returns the material to the land as semisolid manure or as sprayed slurry. This dilutes its concentration in the environment to what  might have occurred in a more primitive and sustainable types of agriculture and converts pollutant into fertilizer. Soil microoganisms decompose the organic components of  sewage and slurry and most of the mineral nutrients become available to be absorbed again by the vegetation.   The excess input of nutrients, both nitrogen and phosphorus – based, agricultural runoff (and human sewage) has caused  many ‘healthy’ oligotrophic lakes (low nutrient concentrations, low plant productivity with abundant water weeds, and clear  water) to change to eutrophic condition where high nutrient inputs  lead to high phytoplankton productivity (sometimes dominated by bloom-forming toxic species). This makes the water turbid, eliminates large plants and, in the worst situations, leads to  anoxia and fish kills; so called cultural eutrophication. Thus,  important ecosystem services are lost, including the provisioning service of wild-caught fish and the cultural services associated with recreation.  The process of cultural eutrophication of lakes has been understood for some time. But only recently did scientists  notice huge ‘dead zones’ in the oceans near river outlets.,  particularly those draining large catchment areas such as the Mississippi in North America and the Yangtze in China. The nutrient-enriched water flows through streams, rivers and lakes, and eventually to the estuary and ocean where the ecological impact may be huge, killing virtually all invertebrates and fish in areas up to 70,000 km‌2  in extent. More than 150 sea areas worldwide are now regularly starved of oxygen as a result of decomposition of algal blooms, fuelled particularly by nitrogen from agricultural runoff of fertilizers and sewage from large cities. Oceanic dead zones are typically associated with industrialized nations and usually lie off countries that subsidize their agriculture, encouraging farmers to increases productivity and use more fertilizer.",
+      "question_text": "According to the passage, what are the effects of indiscriminate use of fertilizers?   1. Addition of pollutants to the soil and water.   2. Destruction of decomposer microorganism in soil.   3. Nutrient enrichment of water bodies.   4. Creation of algal blooms.   Select the correct answer from the codes given below:",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1, 2 and 3 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "1 , 3 and 4 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "2 and 4 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "1, 2, 3 and 4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : 1 , 3 and 4 only",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_13",
+      "serial_no": "13",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following  que (10-16)  :     Read the following two passages and answer the items that follow each passage. Your answers to these items should bebased on the passage only.     PASSAGE-1   The law in many parts of the world increasingly restricts the discharge of agricultural slurry into watercourses. The  simplest and often the most economically sound practice returns the material to the land as semisolid manure or as sprayed slurry. This dilutes its concentration in the environment to what  might have occurred in a more primitive and sustainable types of agriculture and converts pollutant into fertilizer. Soil microoganisms decompose the organic components of  sewage and slurry and most of the mineral nutrients become available to be absorbed again by the vegetation.   The excess input of nutrients, both nitrogen and phosphorus – based, agricultural runoff (and human sewage) has caused  many ‘healthy’ oligotrophic lakes (low nutrient concentrations, low plant productivity with abundant water weeds, and clear  water) to change to eutrophic condition where high nutrient inputs  lead to high phytoplankton productivity (sometimes dominated by bloom-forming toxic species). This makes the water turbid, eliminates large plants and, in the worst situations, leads to  anoxia and fish kills; so called cultural eutrophication. Thus,  important ecosystem services are lost, including the provisioning service of wild-caught fish and the cultural services associated with recreation.  The process of cultural eutrophication of lakes has been understood for some time. But only recently did scientists  notice huge ‘dead zones’ in the oceans near river outlets.,  particularly those draining large catchment areas such as the Mississippi in North America and the Yangtze in China. The nutrient-enriched water flows through streams, rivers and lakes, and eventually to the estuary and ocean where the ecological impact may be huge, killing virtually all invertebrates and fish in areas up to 70,000 km‌2  in extent. More than 150 sea areas worldwide are now regularly starved of oxygen as a result of decomposition of algal blooms, fuelled particularly by nitrogen from agricultural runoff of fertilizers and sewage from large cities. Oceanic dead zones are typically associated with industrialized nations and usually lie off countries that subsidize their agriculture, encouraging farmers to increases productivity and use more fertilizer.",
+      "question_text": "What is/are the characteristics of a water body with cultural eutrophication?   1. Loss of ecosystem services  2. Loss of flora and fauna  3. Loss of mineral nutrients  Select the correct answer using the code given below:",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "1 and 2 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "2 and 3 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "1, 2 and 3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : 1 and 2 only",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_14",
+      "serial_no": "14",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following  que (10-16)  :     Read the following two passages and answer the items that follow each passage. Your answers to these items should bebased on the passage only.     PASSAGE-1   The law in many parts of the world increasingly restricts the discharge of agricultural slurry into watercourses. The  simplest and often the most economically sound practice returns the material to the land as semisolid manure or as sprayed slurry. This dilutes its concentration in the environment to what  might have occurred in a more primitive and sustainable types of agriculture and converts pollutant into fertilizer. Soil microoganisms decompose the organic components of  sewage and slurry and most of the mineral nutrients become available to be absorbed again by the vegetation.   The excess input of nutrients, both nitrogen and phosphorus – based, agricultural runoff (and human sewage) has caused  many ‘healthy’ oligotrophic lakes (low nutrient concentrations, low plant productivity with abundant water weeds, and clear  water) to change to eutrophic condition where high nutrient inputs  lead to high phytoplankton productivity (sometimes dominated by bloom-forming toxic species). This makes the water turbid, eliminates large plants and, in the worst situations, leads to  anoxia and fish kills; so called cultural eutrophication. Thus,  important ecosystem services are lost, including the provisioning service of wild-caught fish and the cultural services associated with recreation.  The process of cultural eutrophication of lakes has been understood for some time. But only recently did scientists  notice huge ‘dead zones’ in the oceans near river outlets.,  particularly those draining large catchment areas such as the Mississippi in North America and the Yangtze in China. The nutrient-enriched water flows through streams, rivers and lakes, and eventually to the estuary and ocean where the ecological impact may be huge, killing virtually all invertebrates and fish in areas up to 70,000 km‌2  in extent. More than 150 sea areas worldwide are now regularly starved of oxygen as a result of decomposition of algal blooms, fuelled particularly by nitrogen from agricultural runoff of fertilizers and sewage from large cities. Oceanic dead zones are typically associated with industrialized nations and usually lie off countries that subsidize their agriculture, encouraging farmers to increases productivity and use more fertilizer.",
+      "question_text": "What is the central theme of this passage?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Appropriate legislation is essential to protect the environment.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Modern agriculture is responsible for the destruction of environment.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Improper waste disposal from agriculture can destroy the aquatic ecosystems.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Use of chemical fertilizers is  indesirable in agriculture.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : Improper waste disposal from agriculture can destroy the aquatic ecosystems.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_15",
+      "serial_no": "15",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "PASSAGE-2    The miseries of the world cannot be cured by physical help only. Until man’s nature changes, his physical needs will  always arise, and miseries will always be felt, and no amount of  physical help will remove them completely. The only solution of the problem is to make mankind pure. Ignorance is the mother of evil and of all the misery we see. Let men have light, let them be pure and spiritually strong and educated; then alone will misery cease in the world. We may convert every house in the country into a charitable asylum, we may fill the land with hospitals, but  human misery will continue until man’s character changes.",
+      "question_text": "According to the passage, which of the following statements  is most likely to be true as the reason for man’s miseries?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "The poor economic and social  conditions prevailing in society.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "The refusal on the part of man to  change his character.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "The absence of physical and material help from his society.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Ever increasing physical needs due to  changing social structure.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : The refusal on the part of man to  change his character.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_16",
+      "serial_no": "16",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "PASSAGE-2    The miseries of the world cannot be cured by physical help only. Until man’s nature changes, his physical needs will  always arise, and miseries will always be felt, and no amount of  physical help will remove them completely. The only solution of the problem is to make mankind pure. Ignorance is the mother of evil and of all the misery we see. Let men have light, let them be pure and spiritually strong and educated; then alone will misery cease in the world. We may convert every house in the country into a charitable asylum, we may fill the land with hospitals, but  human misery will continue until man’s character changes.",
+      "question_text": "With reference to the passage, the following assumptions have been made”    1. The author gives primary importance to physical and material help in eradicating human misery.     2. Charitable homes, hospitals, etc. can remove human misery to a great extent.    Which of the assumption is/are valid?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "2 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Both 1 and 2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Neither 1 nor 2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : Neither 1 nor 2",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_17",
+      "serial_no": "17",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "",
+      "question_text": "Consider the following figures 1, 2, 3 and 4:     In the figures from 1 to 4 above, two symbols are shown to change their position in a regular direction. Following the same sequence, which one of the following will appear at the fifth stage?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : ",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_18",
+      "serial_no": "18",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following  que (18-19)  :  In each item, there are two sets of figures, first four figures named Problem figure sand next four figures named Answer figures indicated as (a), (b), (c) and (d). The problem figures follow a particular sequence. In accordance with the same, which one of the four answer figures should appear as the  fifth figure?",
+      "question_text": "Problem figures:",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : ",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_19",
+      "serial_no": "19",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following  que (18-19)  :  In each item, there are two sets of figures, first four figures named Problem figure sand next four figures named Answer figures indicated as (a), (b), (c) and (d). The problem figures follow a particular sequence. In accordance with the same, which one of the four answer figures should appear as the  fifth figure?",
+      "question_text": "Problem figures:",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : ",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_20",
+      "serial_no": "20",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "",
+      "question_text": "Consider the following diagrams:  x men, working at constant speed, do a certain job in y days. Which one of these diagrams shows the relation between x and y?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "diagram I",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "diagram II",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "diagram III",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "diagram IV",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : diagram IV",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_21",
+      "serial_no": "21",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "",
+      "question_text": "Consider the following matrix:    3  370  7  2  224  6  1  730  XWhat is the number at ‘X’ in the above matrix?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "5",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "8",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "9",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "11",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : 9",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_22",
+      "serial_no": "22",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "",
+      "question_text": "Four cars are hired at the rate of ₹ 6 per km plus the cost of diesel at ₹ 40 a litre. In this context, consider the details given in the following table:     Car  Mileage (km / l )   Hours  Total  Payment(₹)  A  8  20  2120  B  10  25  1950  C  9  24  2064  D  11  22  1812 Which car maintained the maximum average speed?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Car A",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Car B",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Car C",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Car D",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : Car A",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_23",
+      "serial_no": "23",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "",
+      "question_text": "Examine the following three figures in which the numbers follow a specific pattern:The missing number (?) in the third figure above is",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "7",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "16",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "21",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "28",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : 16",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_24",
+      "serial_no": "24",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "",
+      "question_text": "A cube has six numbers marked 1, 2, 3, 4, 5 and 6 on its faces.     Three views of the cube are shown below:",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "2 and 3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "6 and 1",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "1 and 4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "3 and 1",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : 2 and 3",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_25",
+      "serial_no": "25",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Direction for the following  que (25-29) :    Study the two figures given below and answer the five items  that follow:",
+      "question_text": "How many Physics professors belong to the age group 35 – 44?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "18",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "16",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "14",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "12",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : 16",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_26",
+      "serial_no": "26",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Direction for the following  que (25-29) :    Study the two figures given below and answer the five items  that follow:",
+      "question_text": "Which one of the following disciplines has the highest ratio of males to females?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Physics",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Mathematics",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Chemistry",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Economics",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : Physics",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_27",
+      "serial_no": "27",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Direction for the following  que (25-29) :    Study the two figures given below and answer the five items  that follow:",
+      "question_text": "What percentage of all Psychology professors are females?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "40%",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "50%",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "60%",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "70%",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : 60%",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_28",
+      "serial_no": "28",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Direction for the following  que (25-29) :    Study the two figures given below and answer the five items  that follow:",
+      "question_text": "If the number of female Physics professors in the age group 25 – 34 equals 25% of all the Physics professors in that age group, then what is the number of male Physics professors in the age group 25 – 34?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "9",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "6",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : 9",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_29",
+      "serial_no": "29",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Direction for the following  que (25-29) :    Study the two figures given below and answer the five items  that follow:",
+      "question_text": "If the Psychology professors in the University constitute 2% of all the professors in the University, then what is the number of professors in the University?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "400",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "500",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "600",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "700",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : 500",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_30",
+      "serial_no": "30",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "",
+      "question_text": "Consider the following figures:    Which one of the following figures would logically come in the 7‌th  position indicated above by a question mark?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : ",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_31",
+      "serial_no": "31",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following  que (31-38)  :     Read the following four passages and answer the items that follow each passage. Your answer to these items should be  based on the passage only.     PASSAGE-1   The subject of democracy has become severely muddled because of the way the rhetoric surrounding it has been used   in recent years. There is, increasingly, an oddly confused  dichotomy between those who want to ‘impose’ democracy on countries  in the non-Western world (in these countries’ ‘own interest’, of course) and those who are opposed to such ‘imposition’  (because of the respect for the countries’ ‘own ways’). But the entire language of ‘imposition’, used by both sides, is extraordinarily inappropriate since it makes the implicit assumption that democracy belongs exclusively to the West, taking it to be a quintessentialy ‘Wester’ idea which has originated and  flourished only in the West.     But the thesis and the pessimism it generates about the  possibility of democratic practice in the world would be extremely hard  to justify. There were several experiments in local democracy in ancient India. Indeed, in understanding the roots of  democracy in the world, we have to take an interest in the history of  people participation and public reasoning in different parts of the  world.     We have to look beyond thinking of democracy only in terms  of European and American evolution. We would fail to  understand the pervasive demands for participatory living, on which  Aristotle spoke with far-reaching insight, if we take democracy to be a  kind of a specialized cultural product of the West.    It cannot, of course, be doubted that the institutional structure of the contemporary practice of democracy is largely the product of European and American experience over the last few centuries. This is extremely important to recognize since these development in institutional formats were immensely innovative and ultimately effective. There can be little doubt that there is a major ‘Western’ achievement here.",
+      "question_text": "Which of the following is closest to the view of democracy as mentioned in the above passage?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "The subject of democracy is a muddle due to a desire to portray it as a Western concept,  ‘alien’ to nonWestern countries.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "The language of imposition of democracy is inappropriate. There is, however, a need to consider this concept in the backdrop of culture of ‘own ways’ of non-Western society.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "While democracy is not essentially a Western idea belonging exclusively to the West, the institutional structure of current democratic practices has been their contribution.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "None of the statements (a), (b) and (c) given above is correct.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : While democracy is not essentially a Western idea belonging exclusively to the West, the institutional structure of current democratic practices has been their contribution.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_32",
+      "serial_no": "32",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following  que (31-38)  :     Read the following four passages and answer the items that follow each passage. Your answer to these items should be  based on the passage only.     PASSAGE-1   The subject of democracy has become severely muddled because of the way the rhetoric surrounding it has been used   in recent years. There is, increasingly, an oddly confused  dichotomy between those who want to ‘impose’ democracy on countries  in the non-Western world (in these countries’ ‘own interest’, of course) and those who are opposed to such ‘imposition’  (because of the respect for the countries’ ‘own ways’). But the entire language of ‘imposition’, used by both sides, is extraordinarily inappropriate since it makes the implicit assumption that democracy belongs exclusively to the West, taking it to be a quintessentialy ‘Wester’ idea which has originated and  flourished only in the West.     But the thesis and the pessimism it generates about the  possibility of democratic practice in the world would be extremely hard  to justify. There were several experiments in local democracy in ancient India. Indeed, in understanding the roots of  democracy in the world, we have to take an interest in the history of  people participation and public reasoning in different parts of the  world.     We have to look beyond thinking of democracy only in terms  of European and American evolution. We would fail to  understand the pervasive demands for participatory living, on which  Aristotle spoke with far-reaching insight, if we take democracy to be a  kind of a specialized cultural product of the West.    It cannot, of course, be doubted that the institutional structure of the contemporary practice of democracy is largely the product of European and American experience over the last few centuries. This is extremely important to recognize since these development in institutional formats were immensely innovative and ultimately effective. There can be little doubt that there is a major ‘Western’ achievement here.",
+      "question_text": "With reference to the passage, the following assumption have been made:    1. Many of the non-Western countries are unable to have democracy because they take democracy to be a specialized cultural product of the West.    2. Western countries are always trying to impose democracy on non-Western countries.    Which of the above is/are valid assumption/assumptions?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "1 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Both 1 and 2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Neither 1 nor 2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : 1 only",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_33",
+      "serial_no": "33",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "PASSAGE-2  Corporate governance is based on principles such as conducting the business with all integrity and fairness, being transparent with regard to all transactions, making all the necessary disclosures and decisions, complying with all the  laws of the land, accountability and responsibility towards the stakeholders and commitment to conducting business in an  ethical manner. Another point which is highlighted on corporate governance is the need for those in control to be able to  distinguish between what are personal and corporate funds while  managing a company.    Fundamentally, there is a level of confidence that is associated with a company that is known to have good corporate  governance.    The presence of an active group of independent directors on  the board contributes a great deal towards ensuring confidence in the market. Corporate governance is known to be one of the  criteria that foreign institutional investors are increasingly depending on when deciding on which companies to invest in. It is also known to have a positive influence on the share price of the company. Having a clean image on the corporate governance front could also make it easier for companies to source capital  at more reasonable costs. Unfortunately, corporate governance  often becomes the centre of discussion only after the exposure of a large scam.",
+      "question_text": "According to the passage, which of the following should be the practice/practices in good corporate governance?  1. Companies should always comply with labour and tax laws of the land.    2. Every company in the country should have a government representative as one of the independent directors on the board to ensure transparency.    3. The manager of a company should never invest his personal funds in the company.    Select the correct answer using the codes given below:",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "2 and 3 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "1 and 3 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "1, 2 and 3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : 1 and 3 only",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_34",
+      "serial_no": "34",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "PASSAGE-2  Corporate governance is based on principles such as conducting the business with all integrity and fairness, being transparent with regard to all transactions, making all the necessary disclosures and decisions, complying with all the  laws of the land, accountability and responsibility towards the stakeholders and commitment to conducting business in an  ethical manner. Another point which is highlighted on corporate governance is the need for those in control to be able to  distinguish between what are personal and corporate funds while  managing a company.    Fundamentally, there is a level of confidence that is associated with a company that is known to have good corporate  governance.    The presence of an active group of independent directors on  the board contributes a great deal towards ensuring confidence in the market. Corporate governance is known to be one of the  criteria that foreign institutional investors are increasingly depending on when deciding on which companies to invest in. It is also known to have a positive influence on the share price of the company. Having a clean image on the corporate governance front could also make it easier for companies to source capital  at more reasonable costs. Unfortunately, corporate governance  often becomes the centre of discussion only after the exposure of a large scam.",
+      "question_text": "According to the passage, which of the following is/are the major benefit/benefits of good corporate governance?  1. Good corporate governance leads to increase in share price of the company.    2. A company with good corporate governance always increases its business turnover rapidly.    3. Good corporate governance is the main criterion for foreign institutional investors when they decide to buy a company.    Select the correct answer using the codes given below:",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "2 and 3 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "1 and 3 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "1, 2 and 3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : 1 and 3 only",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_35",
+      "serial_no": "35",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "PASSAGE-3  Malnutrition most commonly occurs between the ages of six months and two years. This happens despite the child’s food requirements being less than that of an older child.  Malnutrition is often attributed to poverty, but it has been found that even in households where adults eat adequate quantities of food, more than 50 per cent of children-under-five do not consume enough food. The child’s dependence on someone else to feed him/her is primarily responsible for the malnutrition. Very often the mother is working and the responsibility of feeding the young child is left to an older sibling. It is therefore crucial to increase  awareness regarding the child’s food needs and how to satisfy them.",
+      "question_text": "According to the passage, malnutrition in children can be reduced.",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "if the children have regular intake  of food",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "after they cross the age of five.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "if the food needs of younger children are known.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "if the responsibility of feeding  younger children is given to adults",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : if the food needs of younger children are known.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_36",
+      "serial_no": "36",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "PASSAGE-3  Malnutrition most commonly occurs between the ages of six months and two years. This happens despite the child’s food requirements being less than that of an older child.  Malnutrition is often attributed to poverty, but it has been found that even in households where adults eat adequate quantities of food, more than 50 per cent of children-under-five do not consume enough food. The child’s dependence on someone else to feed him/her is primarily responsible for the malnutrition. Very often the mother is working and the responsibility of feeding the young child is left to an older sibling. It is therefore crucial to increase  awareness regarding the child’s food needs and how to satisfy them.",
+      "question_text": "According to the author, poverty is not the main cause of malnutrition, but the fact that   1. taking care of younger ones is not a priority for working mothers.   2. awareness of nutritional needs is not propagated by the Public Health authorities.    Select the correct answer using the codes given below:",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "2 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Both 1 and 2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Neither 1 nor 2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : 1 only",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_37",
+      "serial_no": "37",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "PASSAGE-4   A number of empirical studies find that farmers are risk-averse,  though only moderately in many cases. There is also evidence to show that farmers’ risk aversion results in  cropping patterns and input use designed to reduce risk rather than to maximize income. Farmers adopt a number of strategies to  manage and cope with agricultural risks. These include practices like  crop and field diversification, non-farm ‘employment storage of stocks and strategic migration of family members. There are also institutions ranging from share tenancy to kinship, extended  family and informal credit agencies. One major obstacle to risk  sharing by farmers is that the same type of risks can affect a large number of farmers in the region. Empirical studies show that the traditional methods are not adequate. Hence there is a need for policy interventions, especially measures that cut across  geographical regions.     Polices may aim at tackling agricultural risks directly or  indirectly.     Examples of risk-specific policies are crop insurance, price stabilization and the development of varieties resistant to  pests and diseases. Policies which affect risk indirectly are irrigation, subsidized credit and access to information. No single risk- specific policy is sufficient to reduce risk and is without side-effects, whereas policies not specific to risk influence the general  situation and affect risks only indirectly. Crop insurance, as a policy measure to tackle agricultural risk directly, deserves careful consideration in the Indian context and in many other  developing countries – because the majority of farmers depend on rain- fed agriculture and in many areas yield variability is the  predominant cause of their income instability.",
+      "question_text": "The need for policy intervention mitigate risks in agriculture is because",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "farmers are extremely risk-averse.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "farmers do not know how to mitigate risks.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "the methods adopted by farmers and existing risk sharing institutions are not adequate.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "majority of farmers depend on rain-fed agriculture.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : the methods adopted by farmers and existing risk sharing institutions are not adequate.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_38",
+      "serial_no": "38",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "PASSAGE-4   A number of empirical studies find that farmers are risk-averse,  though only moderately in many cases. There is also evidence to show that farmers’ risk aversion results in  cropping patterns and input use designed to reduce risk rather than to maximize income. Farmers adopt a number of strategies to  manage and cope with agricultural risks. These include practices like  crop and field diversification, non-farm ‘employment storage of stocks and strategic migration of family members. There are also institutions ranging from share tenancy to kinship, extended  family and informal credit agencies. One major obstacle to risk  sharing by farmers is that the same type of risks can affect a large number of farmers in the region. Empirical studies show that the traditional methods are not adequate. Hence there is a need for policy interventions, especially measures that cut across  geographical regions.     Polices may aim at tackling agricultural risks directly or  indirectly.     Examples of risk-specific policies are crop insurance, price stabilization and the development of varieties resistant to  pests and diseases. Policies which affect risk indirectly are irrigation, subsidized credit and access to information. No single risk- specific policy is sufficient to reduce risk and is without side-effects, whereas policies not specific to risk influence the general  situation and affect risks only indirectly. Crop insurance, as a policy measure to tackle agricultural risk directly, deserves careful consideration in the Indian context and in many other  developing countries – because the majority of farmers depend on rain- fed agriculture and in many areas yield variability is the  predominant cause of their income instability.",
+      "question_text": "Which of the following observations emerges from the above passage?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "One can identify a single policy that  can reduce risk without any side-effect.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "No single task-specific policy is  sufficient to reduce agricultural risk.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Policies which affect risk indirectly can  eliminate it.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Government’s policy intervention can mitigate agricultural risk completely.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : No single task-specific policy is  sufficient to reduce agricultural risk.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_39",
+      "serial_no": "39",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "",
+      "question_text": "Consider the following statements:  (i) A primary group is relatively smaller in size.  (ii) Intimacy is an essential characteristic of a primary group.  (iii) A family may be an example of a primary group.   In the light of the above statements, which one of the following is true?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "All families are primary groups.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "All primary groups are families",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "A group of smaller size is always a primary group.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Members of a primary group know each other intimately.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : Members of a primary group know each other intimately.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_40",
+      "serial_no": "40",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "",
+      "question_text": "Four friends, A, B, C and D distributed some money among themselves in such a manner that A gets one less than B, C gets 5 more than D, D gets 3 more than B. Who gets the smallest amount?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "A",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "B",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "C",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "D",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : A",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_41",
+      "serial_no": "41",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following  que (41-44) :    Read the following statements and answer the four items that follow:    Five cities P, Q, R, S and T are connected by different modes of transport as follows:    P and Q are connected by boat as well as rail.   S are R connected by bus and boat.   Q and T are connected by air only.   P and R are connected by boat only.   T and R are connected by rail and bus.",
+      "question_text": "Which mode of transport would help one to reach R starting from Q, but without changing the mode of transport?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Boat",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Rail",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Bus",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Air",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : Boat",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_42",
+      "serial_no": "42",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following  que (41-44) :    Read the following statements and answer the four items that follow:    Five cities P, Q, R, S and T are connected by different modes of transport as follows:    P and Q are connected by boat as well as rail.   S are R connected by bus and boat.   Q and T are connected by air only.   P and R are connected by boat only.   T and R are connected by rail and bus.",
+      "question_text": "Which mode of transport would help one to reach R starting from Q, but without changing the mode of transport?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Boat",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Rail",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Bus",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Air",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : Rail",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_43",
+      "serial_no": "43",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following  que (41-44) :    Read the following statements and answer the four items that follow:    Five cities P, Q, R, S and T are connected by different modes of transport as follows:    P and Q are connected by boat as well as rail.   S are R connected by bus and boat.   Q and T are connected by air only.   P and R are connected by boat only.   T and R are connected by rail and bus.",
+      "question_text": "Which mode of transport would help one to reach R starting from Q, but without changing the mode of transport?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Boat",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Rail",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Bus",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Air",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : Air",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_44",
+      "serial_no": "44",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following  que (41-44) :    Read the following statements and answer the four items that follow:    Five cities P, Q, R, S and T are connected by different modes of transport as follows:    P and Q are connected by boat as well as rail.   S are R connected by bus and boat.   Q and T are connected by air only.   P and R are connected by boat only.   T and R are connected by rail and bus.",
+      "question_text": "Between which two cities among the pairs of cities given below are there maximum travel options available?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Q and S",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "P are R",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "P and T",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Q and R",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : Q and S",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_45",
+      "serial_no": "45",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following  que (45-47) :    Read the following passage and answer the three items that follow:    A tennis coach is trying to put together a team of four players for the forthcoming tournament. For this 7 players are available : males A, B and C: and females W, X, Y and Z. All players have equal capability and at least 2 males will be there  in the team. For a team of four, all players must be able to play with’ each other. But, B cannot play with W, C cannot play with Z and W cannot play with Y .",
+      "question_text": "If Y is selected and B is rejected, the team will consist of which one of the following groups?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "A, C, W and Y",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "A, C, X and Y",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "A, C, Y and Z",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "A, W, Y and Z",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : A, C, X and Y",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_46",
+      "serial_no": "46",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following  que (45-47) :    Read the following passage and answer the three items that follow:    A tennis coach is trying to put together a team of four players for the forthcoming tournament. For this 7 players are available : males A, B and C: and females W, X, Y and Z. All players have equal capability and at least 2 males will be there  in the team. For a team of four, all players must be able to play with’ each other. But, B cannot play with W, C cannot play with Z and W cannot play with Y .",
+      "question_text": "If B is selected and Y is rejected, team will consist of which one of the following groups?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "A, B, C and W",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "A, B, C and Z",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "A, B, C and X",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "A, W, Y and Z",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : A, B, C and X",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_47",
+      "serial_no": "47",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following  que (45-47) :    Read the following passage and answer the three items that follow:    A tennis coach is trying to put together a team of four players for the forthcoming tournament. For this 7 players are available : males A, B and C: and females W, X, Y and Z. All players have equal capability and at least 2 males will be there  in the team. For a team of four, all players must be able to play with’ each other. But, B cannot play with W, C cannot play with Z and W cannot play with Y .",
+      "question_text": "If all the three males are selected, then how many  combination of four member teams are possible?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "2",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : 2",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_48",
+      "serial_no": "48",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "",
+      "question_text": "The music director of film wants to select four persons to   work on different aspects of the composition of a piece of music. Seven persons are available for this work: they are Rohit, Tanya, Shobha, Kaushal, Kunal, Mukesh and Jaswant.    Rohit and Tanya will not work together. Kunal and Shobha will not work together. Mukesh and Kunal want to work together.    Which of the following is the most acceptable group of people that can be selected by the music director?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Rohit, Shobha, Kunal and Kaushal",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Tanya, Kaushal, Shobha and Rohit",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Tanya, Mukesh, Kunal and Jaswant",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Shobha, Tanya, Rohit and Mukesh",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : Tanya, Mukesh, Kunal and Jaswant",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_49",
+      "serial_no": "49",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "",
+      "question_text": "Five people A, B, C, D and E are seated about a round table.  Every chair is spaced equidistant from adjacent chairs.  (i) C is seated next to A.  (ii) A is seated two seats from D.  (iii) B is not seated next to A.  Which of the following must be true?  (I) D is seated next to B.  (II) E is seated next to A.  Select the correct answer from the codes given below:",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "I only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "II only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Both I and II",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Neither I nor II",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : Both I and II",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_50",
+      "serial_no": "50",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following   que (50-52) :    Examine carefully the following statements and answer the  three  items that follow:     Out of four friends A, B, C and D.   A and B play football and cricket.   B and C play cricket and hockey.   A and D play basketball and football.   C and D play hockey and basketball.",
+      "question_text": "Who does not play hockey?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "D",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "C",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "B",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "A",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : A",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_51",
+      "serial_no": "51",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following   que (50-52) :    Examine carefully the following statements and answer the  three  items that follow:     Out of four friends A, B, C and D.   A and B play football and cricket.   B and C play cricket and hockey.   A and D play basketball and football.   C and D play hockey and basketball.",
+      "question_text": "Who plays football, basketball and hockey?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "D",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "C",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "B",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "A",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : D",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_52",
+      "serial_no": "52",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following   que (50-52) :    Examine carefully the following statements and answer the  three  items that follow:     Out of four friends A, B, C and D.   A and B play football and cricket.   B and C play cricket and hockey.   A and D play basketball and football.   C and D play hockey and basketball.",
+      "question_text": "Which game do B, C and D play?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Basketball",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Hockey",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Cricket",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Football",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : Hockey",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_53",
+      "serial_no": "53",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "",
+      "question_text": "Geeta is older than her cousin Meena. Meena’s brother Bipin is older than Geeta. When Meena and Bipin visit Geeta, they like to play chess. Meena wins the game more often than Geeta.    Based on the above information, four conclusions, as given below, have been made. Which one of these logically follows from the informaton given above?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "While playing chess with Geeta and Meena, Bipin often loses.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Geeta is the oldest among the three.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Geeta hates to lose the game.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Meena is the youngest of the three.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : Meena is the youngest of the three.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_54",
+      "serial_no": "54",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following    que (54-57) :      Read the following passage and answer the four items that  follow.      Your answers to these items should be based on the passage only.      PASSAGE    Financial markets in India have acquired greater depth and  liquidity over the years. Steady reforms since 1991 have led to growing linkages and integration of the Indian economy and its  financial system with the global economy. Weak global economic prospects and continuing uncertainties in the international financial markets therefore, have had their impact on the emerging market economies. Sovereign risk concerns, particularly in the Euro area, affected financial markets for the greater part of  the year, with the contagion of Greece’s soveregin debt problem spreading to India and other economies by way of higher- than-normal levels of volatility.    The funding constraints in international financial markets  could impact both the availability and cost of foreign funding for banks and corporates. Since the Indian financial system is bank dominated, banks’ ability to withstand stress is critical to  overall financial stability. Indian banks, however, remain robust, notwithstanding a decline in capital to risk-weighted assets  ratio and a rise in non-performing asset levels in the recent past. Capital adequacy levels remain above the regulatory requirements. The financial market infrastructure continues to function without any major disruption. With further globalization, consolidation, deregulation, and diversification of the financial system, the banking business may become more complex and riskier.  Issue like risk and liquidity management and enhancing skill  therefore assume greater significance.",
+      "question_text": "According to the passage, the financial markets in the emerging market economies including India had the adverse impact in recent years due to    1. weak global economic prospects.   2. uncertainties in the international financial markets.   3. sovereign risk concerns in the Euro area.   4. bad monsoons and the resultant crop loss.   Select the correct answer using the code given below:",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1 and 2 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "1, 2 and 3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "2 and 3 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "2, 3 and 4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : 1, 2 and 3",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_55",
+      "serial_no": "55",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following    que (54-57) :      Read the following passage and answer the four items that  follow.      Your answers to these items should be based on the passage only.      PASSAGE    Financial markets in India have acquired greater depth and  liquidity over the years. Steady reforms since 1991 have led to growing linkages and integration of the Indian economy and its  financial system with the global economy. Weak global economic prospects and continuing uncertainties in the international financial markets therefore, have had their impact on the emerging market economies. Sovereign risk concerns, particularly in the Euro area, affected financial markets for the greater part of  the year, with the contagion of Greece’s soveregin debt problem spreading to India and other economies by way of higher- than-normal levels of volatility.    The funding constraints in international financial markets  could impact both the availability and cost of foreign funding for banks and corporates. Since the Indian financial system is bank dominated, banks’ ability to withstand stress is critical to  overall financial stability. Indian banks, however, remain robust, notwithstanding a decline in capital to risk-weighted assets  ratio and a rise in non-performing asset levels in the recent past. Capital adequacy levels remain above the regulatory requirements. The financial market infrastructure continues to function without any major disruption. With further globalization, consolidation, deregulation, and diversification of the financial system, the banking business may become more complex and riskier.  Issue like risk and liquidity management and enhancing skill  therefore assume greater significance.",
+      "question_text": "The Indian financial markets are affected by global changes mainly due to the",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "increased inflow of remittances from abroad",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "enormous increases in the foreign exchange reserves.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "growing global linkages and integration of the Indian financial markets.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "contagion of Greece’s sovereign debt problem.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : growing global linkages and integration of the Indian financial markets.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_56",
+      "serial_no": "56",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following    que (54-57) :      Read the following passage and answer the four items that  follow.      Your answers to these items should be based on the passage only.      PASSAGE    Financial markets in India have acquired greater depth and  liquidity over the years. Steady reforms since 1991 have led to growing linkages and integration of the Indian economy and its  financial system with the global economy. Weak global economic prospects and continuing uncertainties in the international financial markets therefore, have had their impact on the emerging market economies. Sovereign risk concerns, particularly in the Euro area, affected financial markets for the greater part of  the year, with the contagion of Greece’s soveregin debt problem spreading to India and other economies by way of higher- than-normal levels of volatility.    The funding constraints in international financial markets  could impact both the availability and cost of foreign funding for banks and corporates. Since the Indian financial system is bank dominated, banks’ ability to withstand stress is critical to  overall financial stability. Indian banks, however, remain robust, notwithstanding a decline in capital to risk-weighted assets  ratio and a rise in non-performing asset levels in the recent past. Capital adequacy levels remain above the regulatory requirements. The financial market infrastructure continues to function without any major disruption. With further globalization, consolidation, deregulation, and diversification of the financial system, the banking business may become more complex and riskier.  Issue like risk and liquidity management and enhancing skill  therefore assume greater significance.",
+      "question_text": "According to the passage, in the Indian financial system, bank’s ability to withstand stress is critical to ensure overall financial stability because Indian financial system is",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "controlled by the Government of India",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "less integrated with banks.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "controlled by the Reserve of Bank of India.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "dominated by Banks.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : dominated by Banks.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_57",
+      "serial_no": "57",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following    que (54-57) :      Read the following passage and answer the four items that  follow.      Your answers to these items should be based on the passage only.      PASSAGE    Financial markets in India have acquired greater depth and  liquidity over the years. Steady reforms since 1991 have led to growing linkages and integration of the Indian economy and its  financial system with the global economy. Weak global economic prospects and continuing uncertainties in the international financial markets therefore, have had their impact on the emerging market economies. Sovereign risk concerns, particularly in the Euro area, affected financial markets for the greater part of  the year, with the contagion of Greece’s soveregin debt problem spreading to India and other economies by way of higher- than-normal levels of volatility.    The funding constraints in international financial markets  could impact both the availability and cost of foreign funding for banks and corporates. Since the Indian financial system is bank dominated, banks’ ability to withstand stress is critical to  overall financial stability. Indian banks, however, remain robust, notwithstanding a decline in capital to risk-weighted assets  ratio and a rise in non-performing asset levels in the recent past. Capital adequacy levels remain above the regulatory requirements. The financial market infrastructure continues to function without any major disruption. With further globalization, consolidation, deregulation, and diversification of the financial system, the banking business may become more complex and riskier.  Issue like risk and liquidity management and enhancing skill  therefore assume greater significance.",
+      "question_text": "Risk and liquidity management assumes more importance in the Indian banking system in future due to  1. further globalization.    2. more consolidation and deregulation of financial system    3. further diversification of the financial system.   4. more financial inclusion in the economy.   Select the correct answer using the code given below:",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "1, 2 and 3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "2, 3 and 4",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "1 and 2 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "3 and 4 only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : 1, 2 and 3",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_58",
+      "serial_no": "58",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "",
+      "question_text": "There are five hobby clubs in a college viz, photography yachting, chess, electronics and gardening. The gardening group meets every second day, the electronics group meets every third day, the chess group meets every fourth day, the yachting group meets every fifth day and the photography group meets every sixth day. How many times do all the five groups meet on the same day within 180 days?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "3",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "5",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "10",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "18",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : 3",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_59",
+      "serial_no": "59",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "",
+      "question_text": "A, B, C, D and E belong to five different cities P, Q, R, S and T (not necessarily in that order). Each one of them comes from a different city. Further it is given that    1. B and C do not belong to Q.    2. B and E do not belong to P and R.   3. A and C do not belong to R, S and T.   4. D and E do not belong to Q and T.   Which one of the following statements is not correct?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "C belongs to P",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "D belongs to R",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "A belongs to Q",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "B belongs to S",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : B belongs to S",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_60",
+      "serial_no": "60",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "",
+      "question_text": "Seven men, A, B, C, D, E, F and G are standing in a queue in that order. Each one is wearing a cap of different colour like violet, indigo, blue green, yellow, orange and red. D is able to see in front of him green and blue, but not violet. E can see violet and yellow, but not red. G can see caps of all colours other than orange. If E is wearing an indigo coloured cap, then the colour of the cap worn by F is",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Blue",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Violet",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Red",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Orange",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : Red",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_61",
+      "serial_no": "61",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "",
+      "question_text": "There are some balls of red, green and yellow colour lying on a table. There are as many red balls as there are yellow balls. There are twice as many yellow balls as there are green ones. The number of red balls.",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "is equal to the sum of yellow and green balls",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "is double the number of green balls.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "is equal to yellow balls minus green balls.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "cannot be ascertained.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : is double the number of green balls.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_62",
+      "serial_no": "62",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following que (62-63) :   Read the following passage and answer the two items that  follow.    Your answer to these items should be based on the passage only.    PASSAGE   Crude mineral oil comes out of the earth as a thick brown or  black liquid with a strong smell. It is a complex mixture of many  different substances, each with its own individual qualities. Most of  them are combinations of hydrogen and carbon in varying  proportions.    Such hydrocarbons are also found in other forms such as  bitumen, asphalt and natural gas. Mineral oil originates from the  carcasses of tiny animals and from plants that live in the sea. Over  millions of years, these dead creatures form large deposits under the  seabed; and ocean currents cover them with a blanket of sand  and silt. As this mineral hardens, it becomes sedimentary rock and effectively shuts out the oxygen, so preventing the complete decomposition of the marine deposits underneath. The layers  of sedimentary rock become thicker and heavier. Their pressure produces heat, which transforms the tiny carcasses into crude  oil in a process that is still going on today .",
+      "question_text": "Mineral oil deposits under the sea do not get completely decomposed because they",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "are constantly washed by the ocean currents.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "become rock and prevent oxygen from entering them.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "contain a mixture of hydrogen and carbon.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "are carcasses of organisms lying in saline conditions.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : become rock and prevent oxygen from entering them.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_63",
+      "serial_no": "63",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following que (62-63) :   Read the following passage and answer the two items that  follow.    Your answer to these items should be based on the passage only.    PASSAGE   Crude mineral oil comes out of the earth as a thick brown or  black liquid with a strong smell. It is a complex mixture of many  different substances, each with its own individual qualities. Most of  them are combinations of hydrogen and carbon in varying  proportions.    Such hydrocarbons are also found in other forms such as  bitumen, asphalt and natural gas. Mineral oil originates from the  carcasses of tiny animals and from plants that live in the sea. Over  millions of years, these dead creatures form large deposits under the  seabed; and ocean currents cover them with a blanket of sand  and silt. As this mineral hardens, it becomes sedimentary rock and effectively shuts out the oxygen, so preventing the complete decomposition of the marine deposits underneath. The layers  of sedimentary rock become thicker and heavier. Their pressure produces heat, which transforms the tiny carcasses into crude  oil in a process that is still going on today .",
+      "question_text": "Sedimentary rock leads to the formation of oil deposits because",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "there are no saline conditions below it.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "it allows some dissolved oxygen to enter the dead organic matter below it.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "weight of overlying sediment layers causes the production of heat.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "it contains the substances that catalyze the chemical reactions required to change dead organisms into oil.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : weight of overlying sediment layers causes the production of heat.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_64",
+      "serial_no": "64",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "",
+      "question_text": "In a class of 45 students, a boy is ranked 20‌th . When two boys joined, his rank was dropped by one. What is his new rank from the end?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "25‌thth",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "26‌thth",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "27‌thth",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "28‌thth",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "",
+      "explanation": "Correct Answer is : 27‌th",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_65",
+      "serial_no": "65",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "",
+      "question_text": "A thief running at 8 km/hr is chased by a policeman whose speed is 10 km/hr. If the thief is 100 m ahead of the  policeman, then the time required for the policeman to catch the thief will be",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "2 min",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "3 min",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "4 min",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "6 min",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : 3 min",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_66",
+      "serial_no": "66",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "",
+      "question_text": "A train travels at a certain average speed for a distance of 63 km and then travels a distance of 72 km at an average speed of 6 km/hr more than its original speed. If it takes 3 hours to complete the total journey, what is the original speed of the train in km/hr?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "24",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "33",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "42",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "66",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : 42",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_67",
+      "serial_no": "67",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following que  (67-74):    The following eight items (items 67 to 74) are based on three passages in English to test the comprehension of English language and therefore these items do not have Hindi version.   Read each passage and answer the items that follow.    ENGLISH PASSAGE – 1  Seven-year-old Jim came home from the park without his new bicycle. “An old man and a little boy borrowed it,” he  explained.    “They are going to bring it back at four o’clock”. His parents were upset that he had given his expensive new bicycle, but  were secretly proud of his kindness and faith. Came four o’clock, no bicycle. The parents were anxious. But at 4:30, the door bell  rang, and there stood a happy man and a boy, with the bicycle and a box of chocolates. Jim suddenly disappeared into his  bedroom, and then came running out. “All right,” he said, after examining the bicycle. “You can have your watch back!”",
+      "question_text": "When Jim came home without his bicycle his parents",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "were angry with him",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "were worried",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "did not feel concerned",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "were eager to meet the old man and  the little boy",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : were worried",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_68",
+      "serial_no": "68",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following que  (67-74):    The following eight items (items 67 to 74) are based on three passages in English to test the comprehension of English language and therefore these items do not have Hindi version.   Read each passage and answer the items that follow.    ENGLISH PASSAGE – 1  Seven-year-old Jim came home from the park without his new bicycle. “An old man and a little boy borrowed it,” he  explained.    “They are going to bring it back at four o’clock”. His parents were upset that he had given his expensive new bicycle, but  were secretly proud of his kindness and faith. Came four o’clock, no bicycle. The parents were anxious. But at 4:30, the door bell  rang, and there stood a happy man and a boy, with the bicycle and a box of chocolates. Jim suddenly disappeared into his  bedroom, and then came running out. “All right,” he said, after examining the bicycle. “You can have your watch back!”",
+      "question_text": "Jim returned the watch to the old man and the little boy because",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "they gave him chocolates.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "his father was proud of him.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "he was satisfied with the condition of his bicycle",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "they were late only by 30 minutes.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : he was satisfied with the condition of his bicycle",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_69",
+      "serial_no": "69",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "ENGLISH PASSAGE – 2  It was already late when we set out for the next town, which according to the map was about fifteen kilometers away on  the other side of the hills. There we felt that we would find a bed  for the night. Darkness fell soon after we left the village, but  luckily we met no one as we drove swiftly along the narrow winding  road that led to the hills. As we climbed higher, it became colder  and rain began to fall, making it difficult at times to see the road. I asked John, my companion, to drive more slowly. After we had travelled for about twenty kilometers, there was still no sign of the town which was marked on the map. We were beginning   to get worried. Then without warning, the car stopped and we  found we had run out of pertrol.",
+      "question_text": "The author asked John to drive more slowly because",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "the road led to the hills.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "John was an inexperienced driver.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "the road was not clearly visible.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "they were in wilderness.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : the road was not clearly visible.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_70",
+      "serial_no": "70",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "ENGLISH PASSAGE – 2  It was already late when we set out for the next town, which according to the map was about fifteen kilometers away on  the other side of the hills. There we felt that we would find a bed  for the night. Darkness fell soon after we left the village, but  luckily we met no one as we drove swiftly along the narrow winding  road that led to the hills. As we climbed higher, it became colder  and rain began to fall, making it difficult at times to see the road. I asked John, my companion, to drive more slowly. After we had travelled for about twenty kilometers, there was still no sign of the town which was marked on the map. We were beginning   to get worried. Then without warning, the car stopped and we  found we had run out of pertrol.",
+      "question_text": "The travellers set out for the town although it was getting dark because",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "they were in a hurry.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "the next town was a short distance away and was a hill-resort.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "they were in wilderness.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "the next town was a short distance away and promised  a good rest for the night.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : the next town was a short distance away and promised  a good rest for the night.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_71",
+      "serial_no": "71",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "ENGLISH PASSAGE – 2  It was already late when we set out for the next town, which according to the map was about fifteen kilometers away on  the other side of the hills. There we felt that we would find a bed  for the night. Darkness fell soon after we left the village, but  luckily we met no one as we drove swiftly along the narrow winding  road that led to the hills. As we climbed higher, it became colder  and rain began to fall, making it difficult at times to see the road. I asked John, my companion, to drive more slowly. After we had travelled for about twenty kilometers, there was still no sign of the town which was marked on the map. We were beginning   to get worried. Then without warning, the car stopped and we  found we had run out of pertrol.",
+      "question_text": "The travellers were worried after twenty kilometers because",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "it was a lonely countryside.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "they probably feared of having lost their way.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "the rain began to fall.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "it was getting colder as they drove.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : they probably feared of having lost their way.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_72",
+      "serial_no": "72",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "ENGLISH PASSAGE – 3  A stout old lady was walking with her basket down the middle of a street in Petrograd to the great confusion of the traffic and no small peril to herself. It was pointed out to her that the pavement was the place for foot-passengers, but she replied “I’m going to walk where I like. We’ve got liberty now.” It did not occur to the dear lady that if liberty entitled the foot-passenger to walk  down the middle of the road it also entitled the taxi-driver to drive  on the pavement, and that the end of such liberty would be universal chaos. Everything would be getting in everybody else’s way  and nobody would get anywhere. Individual liberty would have become social anarchy.",
+      "question_text": "It was pointed out to the lady that she should walk on the pavement because she was",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "a pedestrian",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "carrying a basket",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "stout",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "an old lady",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : a pedestrian",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_73",
+      "serial_no": "73",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "ENGLISH PASSAGE – 3  A stout old lady was walking with her basket down the middle of a street in Petrograd to the great confusion of the traffic and no small peril to herself. It was pointed out to her that the pavement was the place for foot-passengers, but she replied “I’m going to walk where I like. We’ve got liberty now.” It did not occur to the dear lady that if liberty entitled the foot-passenger to walk  down the middle of the road it also entitled the taxi-driver to drive  on the pavement, and that the end of such liberty would be universal chaos. Everything would be getting in everybody else’s way  and nobody would get anywhere. Individual liberty would have become social anarchy.",
+      "question_text": "The lady refused to move from the middle of the street because",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "she was not afraid of being killed.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "she felt that she is entitled to do whatever she liked.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "she did not like walking on the payment.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "she was confused.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "B",
+      "explanation": "Correct Answer is : she felt that she is entitled to do whatever she liked.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_74",
+      "serial_no": "74",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "ENGLISH PASSAGE – 3  A stout old lady was walking with her basket down the middle of a street in Petrograd to the great confusion of the traffic and no small peril to herself. It was pointed out to her that the pavement was the place for foot-passengers, but she replied “I’m going to walk where I like. We’ve got liberty now.” It did not occur to the dear lady that if liberty entitled the foot-passenger to walk  down the middle of the road it also entitled the taxi-driver to drive  on the pavement, and that the end of such liberty would be universal chaos. Everything would be getting in everybody else’s way  and nobody would get anywhere. Individual liberty would have become social anarchy.",
+      "question_text": "The old lady failed to realise that",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "she was not really free.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "her liberty was not unlimited.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "she was an old person.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "roads are made for motor vehicles only",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : roads are made for motor vehicles only",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_75",
+      "serial_no": "75",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following  que (75-80) :    Given below are six items. Each items describes a situation  and is followed by four possible responses. Indicate the response you find most appropriate. Choose only one response for each item. The responses will be evaluated based on the level of appropriateness for the given situation.    Please attempt all the items. There is no penalty for wronganswers for these six items.",
+      "question_text": "You are the head of your office. There are certain houses reserved for the allotment to the office staff and you have been given the discretion to do so. A set of rules for the allotment of the houses has been laid down by you and has been made public. Your personal secretary, who is very close to you, comes to you and pleads that as his father is seriously ill, he should be given priority in allotment of a house. The office secretariat that examined the request as per the rules turns down the request and recommends the procedure to be followed according to the rules. You do not want to annoy your personal secretary. In such circumstances, what would you do?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Call him over to your room and personally explain why the allotment cannot be done.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Allot the house to him to win his loyalty.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Agree with the office note to show that you are not biased and that you do not indulge in favouritism.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Keep the file with you and not pass any orders.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : Call him over to your room and personally explain why the allotment cannot be done.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_76",
+      "serial_no": "76",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following  que (75-80) :    Given below are six items. Each items describes a situation  and is followed by four possible responses. Indicate the response you find most appropriate. Choose only one response for each item. The responses will be evaluated based on the level of appropriateness for the given situation.    Please attempt all the items. There is no penalty for wronganswers for these six items.",
+      "question_text": "While travelling in a Delhi-registered commercial taxi from Delhi to an adjacent city (another State), your taxi driver informs you that as he has no permit for running the taxi in that city, he will stop at its Transport Office and pay the prescribed fee of ₹ forty for a day. While paying the fee at the counter you find that the transport clerk is taking an extra fifty rupees for which no receipt is being given. You are in a hurry for your meeting. In such circumstances, what would you do?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Go up to the counter and ask the clerk to give back the money which he has illegally taken.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Do not interfere at all as this is a matter between the taxi driver and the tax authorities.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Take note of the incident and subsequently report the matter to the concerned authorities.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Treat it as a normal affair and simply  forget about it.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : Take note of the incident and subsequently report the matter to the concerned authorities.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_77",
+      "serial_no": "77",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following  que (75-80) :    Given below are six items. Each items describes a situation  and is followed by four possible responses. Indicate the response you find most appropriate. Choose only one response for each item. The responses will be evaluated based on the level of appropriateness for the given situation.    Please attempt all the items. There is no penalty for wronganswers for these six items.",
+      "question_text": "A person lives in a fair off village which is almost two hours by bus. The villager’s neighbour is a very powerful landlord who is trying to occupy the poor villager’s land by force.    You are the District Magistrate and busy in a meeting called by a local Minister. The villager has come all the way, by bus and on foot, to see you and give an application seeking protection from the powerful landlord. The villager keeps on waiting outside the meeting hall for an hour. You come out of the meeting and are rushing to another meeting. The villager follows you to submit his application. What would you do?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Tell him to wait for another two hours till you come back from your next meeting.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Tell him that the matter is actually to be dealt by a junior officer and that he should give the application to him.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Call one of your senior subordinate officers and ask him to solve the villager’s problem.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Quickly take the application from him, ask him a few relevant questions regarding his problem and then proceed to the meeting",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : Quickly take the application from him, ask him a few relevant questions regarding his problem and then proceed to the meeting",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_78",
+      "serial_no": "78",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following  que (75-80) :    Given below are six items. Each items describes a situation  and is followed by four possible responses. Indicate the response you find most appropriate. Choose only one response for each item. The responses will be evaluated based on the level of appropriateness for the given situation.    Please attempt all the items. There is no penalty for wronganswers for these six items.",
+      "question_text": "A person lives in a fair off village which is almost two hours by bus. The villager’s neighbour is a very powerful landlord who is trying to occupy the poor villager’s land by force.    You are the District Magistrate and busy in a meeting called by a local Minister. The villager has come all the way, by bus and on foot, to see you and give an application seeking protection from the powerful landlord. The villager keeps on waiting outside the meeting hall for an hour. You come out of the meeting and are rushing to another meeting. The villager follows you to submit his application. What would you do?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "Tell him to wait for another two hours till you come back from your next meeting.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Tell him that the matter is actually to be dealt by a junior officer and that he should give the application to him.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Call one of your senior subordinate officers and ask him to solve the villager’s problem.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Quickly take the application from him, ask him a few relevant questions regarding his problem and then proceed to the meeting",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "D",
+      "explanation": "Correct Answer is : Quickly take the application from him, ask him a few relevant questions regarding his problem and then proceed to the meeting",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_79",
+      "serial_no": "79",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following  que (75-80) :    Given below are six items. Each items describes a situation  and is followed by four possible responses. Indicate the response you find most appropriate. Choose only one response for each item. The responses will be evaluated based on the level of appropriateness for the given situation.    Please attempt all the items. There is no penalty for wronganswers for these six items.",
+      "question_text": "You are in-charge of implementing the Family Planning programme in an area where there is a strong opposition to the present policy. You want to convince the residents of the need for keeping small families. What would be the best way of communicating this message?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "By logically explaining to the residents the need for family planning to improve the health and living standards.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "By encouraging late marriages and proper spacing of children.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "By offering incentives for adopting family planning devices.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "By asking people who have been  sterilized or are using contraceptives  to directly talk to the residents.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "A",
+      "explanation": "Correct Answer is : By logically explaining to the residents the need for family planning to improve the health and living standards.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  },
+  {
+    "exam_type": "UPSC_PRELIMS",
+    "metadata": {
+      "question_id": "2013_II_UPSC_PRELIMS_General Studies_80",
+      "serial_no": "80",
+      "subject": "General Studies",
+      "topic": "",
+      "subtopic": "II",
+      "year": "2013"
+    },
+    "content": {
+      "question_para": "Directions for the following  que (75-80) :    Given below are six items. Each items describes a situation  and is followed by four possible responses. Indicate the response you find most appropriate. Choose only one response for each item. The responses will be evaluated based on the level of appropriateness for the given situation.    Please attempt all the items. There is no penalty for wronganswers for these six items.",
+      "question_text": "You are a teacher in a University and are setting a question paper on a particular subject. One of your colleagues, whose son is preparing for the examination on that subject, comes to you and informs you that it is his son’s last chance to pass that examination and whether you could help him by indicating what questions are going to be in the examination.    In the past, your colleague had helped you in another matter.    Your colleague informs you that his son will suffer from depression if he fails in this examination. In such circumstances, what would you do?",
+      "question_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": "",
+      "language": "eng"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": "In view of the help he had given you, extend your help to him.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "B",
+        "text": "Regret that you cannot be of any help to him.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "C",
+        "text": "Explain to your colleague that this would be violating the trust of the University authorities and you are not in a position to help him.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      },
+      {
+        "id": "D",
+        "text": "Report the conduct of your colleague to the higher authorities.",
+        "has_image": false,
+        "image_url": "",
+        "has_equation": false,
+        "equation_data": ""
+      }
+    ],
+    "solution": {
+      "correct_option": "C",
+      "explanation": "Correct Answer is : Explain to your colleague that this would be violating the trust of the University authorities and you are not in a position to help him.",
+      "explanation_format": "text",
+      "has_image": false,
+      "image_urls": [],
+      "has_equation": false,
+      "equation_data": ""
+    }
+  }
+]

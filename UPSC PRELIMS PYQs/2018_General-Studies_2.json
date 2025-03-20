@@ -1,0 +1,5211 @@
+{
+  "exam_info": {
+    "exam_type": "UPSC_CSE_GS",
+    "year": 2018,
+    "session": "II",
+    "subject": "General Studies",
+    "total_questions": 80
+  },
+  "questions": [
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_1",
+        "serial_no": "1",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "Consider the following graph:<div class=\"hscrollenable\"><span class=\"sprite IAS_Prelim_2018_Paper_2_1_q\"></span></div>1st April May June July Aug 1st Sep. Which one of the following  statements is not correct with reference to the graph given  above?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "On <fmath alttext=\"  1^{   {\\st }}\" class=\"fm-inline\"><msup><mn>1</mn><span class=\"fm-script fm-inline\" style=\"vertical-align: 0.7em;\"><mi class=\"ma-repel-adj\" mathvariant=\"normal\">st</mi></span></msup></fmath>   June, the actual progress  of work was less than expected.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "<mi class=\"ma-repel-adj\" mathvariant=\"normal\">st</mi>",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "The actual rate of progress of work  was the greatest during the month of  August.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "The work was actually completed  before the expected time.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : The work was actually completed  before the expected time.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_2",
+        "serial_no": "2",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "For a sports meet, a winners' stand comprising three wooden  blocks is in the following form: <div class=\"hscrollenable\"><span class=\"sprite IAS_Prelim_2018_Paper_2_2_q\"></span></div>There are six different colours available to choose from and  each of the three wooden blocks is to be painted such that no  two of them has the same colour. In how many different ways  can the winners' stand be painted?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "120",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "81",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "66",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "36",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 120",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_3",
+        "serial_no": "3",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "Looking at the graph, it can be inferred that from 1990 to 2010",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "population growth rate has increased",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "population growth rate has decreased",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "growth rate of population has  remained stable",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "population growth rate shows no trend",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : population growth rate has increased",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_4",
+        "serial_no": "4",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "With reference to the above graph, consider the following  statements considering 1970 as base year :  <br/>  1. Population has stabilized after 35 years. <br/>  2. Population growth rate has stabilized after 35 years. <br/>  3. Death rate has fallen by <fmath alttext=\" 10 \\%\" class=\"fm-inline\"><mrow><mn>10</mn><mo>%</mo></mrow></fmath>  in the first 10 years.  <br/>  4. Birth rate has stabilized after 35 years.  <br/>  Which of the above  are the most logical and rational statements that can be made  from the above graph?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1 and 2 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "1,2 and 3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "3 and 4",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "2 and 4",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : 2 and 4",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_5",
+        "serial_no": "5",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "Average hourly earnings per year (E) of the workers in a firm are represented in figures  <fmath alttext=\" {A}\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">A</mi></fmath>  and <fmath alttext=\" {B}\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">B</mi></fmath> as follows:<div class=\"hscrollenable\"><span class=\"sprite IAS_Prelim_2018_Paper_2_5_q\"></span></div>From the figures, it is observed that the",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "values of <fmath alttext=\"   E\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\" style=\"padding-right: 0.44ex;\">E</mi></fmath>   are different",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "ranges (i.e., the difference between the maximum and the minimum) of  <fmath alttext=\"  E\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\" style=\"padding-right: 0.44ex;\">E</mi></fmath>   are different",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "slopes of the graphs are same",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "rates of increase of <fmath alttext=\" E\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\" style=\"padding-right: 0.44ex;\">E</mi></fmath>  are different",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : slopes of the graphs are same",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_6",
+        "serial_no": "6",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "Consider the figures given below: <br/> <div class=\"hscrollenable\"><span class=\"sprite IAS_Prelim_2018_Paper_2_6_q\"></span></div> To fit the question mark, the correct answer is",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "<div class=\"hscrollenable\"><span class=\"sprite IAS_Prelim_2018_Paper_2_6_o_1\"></span></div>",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "<div class=\"hscrollenable\"><span class=\"sprite IAS_Prelim_2018_Paper_2_6_o_2\"></span></div>",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : <div class=\"hscrollenable\"><span class=\"sprite IAS_Prelim_2018_Paper_2_6_o_1\"></span></div>",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_7",
+        "serial_no": "7",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "Consider the following figures <fmath alttext=\"A\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">A</mi></fmath> and <fmath alttext=\"B\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">B</mi></fmath> : <br/> <div class=\"hscrollenable\"><span class=\"sprite IAS_Prelim_2018_Paper_2_7_q\"></span></div>The manufacturing cost and projected sales for a product are shown in the above figures <fmath alttext=\" A\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">A</mi></fmath> and <fmath alttext=\"B\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">B</mi></fmath> respectively. What is the minimum number of pieces that should be manufactured to avoid a loss?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "2000",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2500",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "3000",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "3500",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 2000",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_8",
+        "serial_no": "8",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "A lift has the capacity of 18 adults or 30 children. How many  children can board the lift with 12 adults?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "6",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "10",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "12",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "15",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : 10",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_9",
+        "serial_no": "9",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "A person bought a refrigerater worth  22,800 with  <fmath alttext=\" 12.5 \\%\" class=\"fm-inline\"><mrow><mn>12.5</mn><mo>%</mo></mrow></fmath>  interest compounded yearly. At the end of first year  he paid <fmath alttext=\"  \\ 8,650\" class=\"fm-inline\"><mrow><mrow><mi class=\"fm-mi-length-1 ma-upright\" mathvariant=\"normal\" style=\"padding-right: 0px;\"></mi><mn>8</mn></mrow><mo class=\"fm-separator\">,</mo><mn>650</mn></mrow></fmath>  and at the end of second year 9,125.     How much will he have to pay at the end of third year to clear  the debt?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": " 9,990",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": " 10,000",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": " 10,590",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": " 11,250",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is :  11,250",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_10",
+        "serial_no": "10",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "Consider the following figures:<div class=\"hscrollenable\"><span class=\"sprite IAS_Prelim_2018_Paper_2_10_q\"></span></div>In the figures (I) to (VI) above, some parts are shown to change  their positions in regular directions. Following the same  sequence, which of the figures given below will appear at (VII)  stage?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "<div class=\"hscrollenable\"><span class=\"sprite IAS_Prelim_2018_Paper_2_10_o_1\"></span></div>",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "<div class=\"hscrollenable\"><span class=\"sprite IAS_Prelim_2018_Paper_2_10_o_2\"></span></div>",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : ",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_11",
+        "serial_no": "11",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "Consider the following graphs. The curves in the graphs  indicate different age groups in the populations of two  countries <fmath alttext=\"A\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">A</mi></fmath> and <fmath alttext=\"B\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">B</mi></fmath> over a period of few decades: <div class=\"hscrollenable\"><span class=\"sprite IAS_Prelim_2018_Paper_2_11_q\"></span></div><div class=\"hscrollenable\"><span class=\"sprite IAS_Prelim_2018_Paper_2_11_q_1\"></span></div>with reference to the above graphs, which of the following are  the most logical and rational inferences that can be made? <br/> 1. Over the last two and a half decades, the dependency ratio  for country <fmath alttext=\"B\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">B</mi></fmath> has decreased. <br/> 2. By the end of next two and a half decades, the dependency  ratio of country <fmath alttext=\"A\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">A</mi></fmath> will be much less than that of country <fmath alttext=\"B\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">B</mi></fmath> <br/> 3. In the next two decades, the work-force relative to its total  population will increase in country <fmath alttext=\"B\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">B</mi></fmath> compared to country  <fmath alttext=\"A\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">A</mi></fmath>.  <br/>  Select the correct answer using the code given below.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1 and 2 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2 and 3 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "1 and 3 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "1,2 and 3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : 1 and 3 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_12",
+        "serial_no": "12",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "Lakshmi, her brother, her daughter and her son are  badminton players. A game of doubles is a bout to begin: <br/> (i) Lakshmi's brother is directly across the net from her  daughter. <br/> (ii) Her son is diagonally across the net from the worst player's  sibling. <br/> (iii) The best player and the worst player are on the same side  of the net. <br/>  Who is the best player?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "Her brother",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Her daughter",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Her son",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Lakshmi",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : Lakshmi",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_13",
+        "serial_no": "13",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "The graph given below indicates the changes in key policy  rates made by the Central Bank several times in a year :  <div class=\"hscrollenable\"><span class=\"sprite IAS_Prelim_2018_Paper_2_13_q\"></span></div>Which one of the following can be the most likely reason for  the Central Bank for such an action?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "Encouraging foreign investment",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Increasing the liquidity",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Encouraging both public and private savings",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Anti-inflationary stance",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : Anti-inflationary stance",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_14",
+        "serial_no": "14",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "With reference to the above table, which of the following is/are  the most logical and rational inference/ inferences that can be  made? <br/> 1. Higher per capita income is generally associated with higher  Tele-density.  <br/>  2. Higher GDP growth rate always ensures higher per capita  income.  <br/>  3. Higher GDP growth rate does not necessarily ensure higher Tele-density.  <br/>  Select the correct answer using the code given  below.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2 and 3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "1 and 3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "3 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : 3 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_15",
+        "serial_no": "15",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "With reference to the above table, the following assumptions  have been made: <br/> 1. Nowadays, prosperity of an already high performing State  cannot be sustained without making further large investments in its telecom infrastructure. <br/> 2. Nowadays, a very high Tele-density is the most essential  condition for promoting the business and economic growth in  a State.  <br/>  Which of the above assumptions is/are valid?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Both 1 and 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Neither 1 nor 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : Neither 1 nor 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_16",
+        "serial_no": "16",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "The following graph indicates the composition of our tax revenue for a period of two decades:<div class=\"hscrollenable\"><span class=\"sprite IAS_Prelim_2018_Paper_2_16_q\"></span></div>With reference to the above graph, which of the following  is/are the most logical and rational inference/ inferences that  can be made?  <br/> 1. During the given period, the revenue from Direct Taxes as percentage of gross tax revenue has increased while that of Indirect Taxes decreased. <br/>  2. The trend in the revenue from Excise Duty demonstrates that the growth of manufacturing sector has been negative during the given period. <br/>   Select the correct answer using the code given below.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Both 1 and 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Neither 1 nor 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_17",
+        "serial_no": "17",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "If <fmath alttext=\"x-y=8,\" class=\"fm-inline\"><mrow><mrow><mrow><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">x</mi><mo class=\"fm-infix\"></mo><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">y</mi></mrow><mo class=\"fm-infix-loose\">=</mo><mn>8</mn></mrow><mo class=\"fm-postfix-tight\">,</mo></mrow></fmath> then which of the following must be true? <br/>  1. Both <fmath alttext=\"x\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">x</mi></fmath> and <fmath alttext=\"y\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">y</mi></fmath> must be positive for any value of <fmath alttext=\"x\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">x</mi></fmath> and  <fmath alttext=\"y\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">y</mi></fmath> <br/> 2. If <fmath alttext=\"x\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">x</mi></fmath> is positive, <fmath alttext=\"y\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">y</mi></fmath> must be negative for any value of <fmath alttext=\"x\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">x</mi></fmath>  and <fmath alttext=\"y\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">y</mi></fmath> <br/> 3. If <fmath alttext=\"x\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">x</mi></fmath> is negative, <fmath alttext=\"y\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">y</mi></fmath> must be positive for any value of <fmath alttext=\"x\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">x</mi></fmath> and <fmath alttext=\"y\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">y</mi></fmath> <br/>   Select the correct answer using the code given below.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Both 1 and 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Neither 1 nor 2 nor 3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : Neither 1 nor 2 nor 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_18",
+        "serial_no": "18",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "What is the most rational and crucial message given by the passage?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "Mass production of meat through industrial farming is cheap and is suitable for providing protein nutrition to poor countries.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Meat-producing industry violates the laws against cruelty to animals.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Mass production of meat through industrial farming is undesirable and should be stopped im mediately.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Environmental cost of meat production is unsustainable when it is produced through industrial farming.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : Environmental cost of meat production is unsustainable when it is produced through industrial farming.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_19",
+        "serial_no": "19",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "Which of the following is the most rational and crucial message given by the passage?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "The conflict between man and wildlife cannot be resolved, no matter what efforts we make.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Safe wildlife corridors between protected areas is an essential aspect of conservation efforts.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "India needs to declare more protected areas and set up more tiger reserves.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "India's National Parks and Tiger Reserves need to be professionally managed.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : Safe wildlife corridors between protected areas is an essential aspect of conservation efforts.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_20",
+        "serial_no": "20",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "With reference to the above passage, the following  assumptions have been made:  <br/>  1. The strategy of conservation of wildlife by relocating them from one protected area to another is not often successful. <br/>  2. India does not have suitable legislation to save the tigers, and its conservation efforts have failed which forced the tigers to live outside protected areas.  <br/>  Which of the above assumptions is/are valid?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Both 1 and 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Neither 1 nor 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_21",
+        "serial_no": "21",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "With reference to the above passage, the following  assumptions have been made:  <br/>  1. Climate change is not a challenge for developed countries. <br/>  2. Climate change is a complex policy issue and also a  development issue for many countries.  <br/>  3. Ways and means of finance must be found to enable developing countries to enhance their adaptive capacity.  <br/> Which of the above assumptions is/are valid?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1 and 2 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "3 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "2 and 3 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "1,2 and 3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : 2 and 3 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_22",
+        "serial_no": "22",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "Which of the following is the most crucial and logical inference that can be made from the above passage?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "Rural people are giving up the use of polluting solid fuels due to their increasing awareness of health hazards.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Subsidizing the use of clean cooking fuels will solve the problem of India's indoor air pollution.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "India should increase its import of natural gas and produce more electricity.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Access to cooking gas can reduce premature deaths in poor households.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : Access to cooking gas can reduce premature deaths in poor households.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_23",
+        "serial_no": "23",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "Which one of the following is the most important implication  of the passage?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "A happy world is a dream of science.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Science only can build a happy world, but it is also the only major threat.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "A happy world is not possible without science.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "A happy world is not at all possible with or without science.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : A happy world is not possible without science.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_24",
+        "serial_no": "24",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "Which one of the following is the most important implication  of the passage?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "India can have territorial claims in the Arctic territory and free access to its resources.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Melting of summer ice in the Arctic leads to changes in the geopolitics.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "The Arctic region will solve the world's future problem of resource crunch.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "The Arctic region has more resources than Antarctica.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : Melting of summer ice in the Arctic leads to changes in the geopolitics.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_25",
+        "serial_no": "25",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "What is the crucial message conveyed by the above passage?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "India should revise its PDS.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "India should not be a member of WTO.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "For India, food security collides with trade.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "India provides food security to its poor.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : India should revise its PDS.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_26",
+        "serial_no": "26",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "With reference to the above passage, the following  assumptions have been made:  <br/>  I. India continues to be a developing country essentially due to  its faulty education system.  <br/>  2. Today's learners need to acquire new-age skillsets.  <br/>  3. A good number of Indians go to some developed countries for  education because the educational systems there are a  perfect reflection of the societies in which they function.  <br/>  Which of the above assumptions is/are valid?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1 and 3 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "2 and 3 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "1,2 and 3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_27",
+        "serial_no": "27",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "What is the most logical and rational inference that can be made from the above passage?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "Obesity has become an epidemic all over the world.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "A lot of people are obsessed with attaining a perfect body.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Obesity is essentially an incurable disease.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "There is no perfect diet or one solution for obesity.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : There is no perfect diet or one solution for obesity.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_28",
+        "serial_no": "28",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "Which of the following is the most logical, rational and crucial message given by the passage?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "Preserving crop genetic diversity is an insurance against the effects of climate change.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Despite great risks, monoculture is the only way to ensure food security in the world.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "More and more genetically modified crops only can save the world from impending shortages of food.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Asia and North America will be worst sufferers from climate change and the consequent shortage of food.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Preserving crop genetic diversity is an insurance against the effects of climate change.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_29",
+        "serial_no": "29",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "A shopkeeper sells an article at <fmath alttext=\" 40\" class=\"fm-inline\"><mrow><mi class=\"fm-mi-length-1\" mathvariant=\"italic\"></mi><mn>40</mn></mrow></fmath> and gets <fmath alttext=\"X \\%\" class=\"fm-inline\"><mrow><mi class=\"fm-mi-length-1\" mathvariant=\"italic\" style=\"padding-right: 0.44ex;\">X</mi><mo>%</mo></mrow></fmath> profit.  However, when he sells it at  20, he faces same percentage of  loss. What is the original cost of the article?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": " 10",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": " 20",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": " 30",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": " 40",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is :  30",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_30",
+        "serial_no": "30",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "There are 24 equally spaced points lying on the circumference  of a circle. What is the maximum number of equilateral  triangles that can be drawn by taking sets of three points as  the vertices?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "4",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "6",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "8",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "12",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : 8",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_31",
+        "serial_no": "31",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "Consider the sequence given below: 4 / 12 / 95,1 / 1 / 96,29 / 1 / 96,26 / 2 / 96, .... <br/>  What is the next term of the series?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "24 / 3 / 96",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "25 / 3 / 96",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "26 / 3 / 96",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "27 / 3 / 96",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : 25 / 3 / 96",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_32",
+        "serial_no": "32",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "Twelve equal squares are placed to fit in a rectangle of   diagonal <fmath alttext=\"5 {cm} .\" class=\"fm-inline\"><mrow><mrow><mn>5</mn><mrow><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">c</mi><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">m</mi></mrow></mrow><mo class=\"fm-postfix-tight\">.</mo></mrow></fmath> There are three rows containing four   squares each. No gaps are left between adjacent squares.   <br/>  What is the area of each square?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "<fmath alttext=\"  {5}/{7}\" class=\"fm-inline\"><span mtagname=\"mfrac\" style=\"vertical-align: 0em;\"><span class=\"fm-vert fm-frac\"><table><tbody><tr><td class=\"fm-num-frac fm-inline\"><mn>5</mn></td></tr><tr><td class=\"fm-den-frac fm-inline\"><mn>7</mn></td></tr></tbody></table></span></span></fmath>  sq. cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "<span class=\"fm-vert fm-frac\"><table><tbody><tr><td class=\"fm-num-frac fm-inline\"><mn>5</mn></td></tr><tr><td class=\"fm-den-frac fm-inline\"><mn>7</mn></td></tr></tbody></table></span>",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "<table><tbody><tr><td class=\"fm-num-frac fm-inline\"><mn>5</mn></td></tr><tr><td class=\"fm-den-frac fm-inline\"><mn>7</mn></td></tr></tbody></table>",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "<fmath alttext=\"  {7}/{5}\" class=\"fm-inline\"><span mtagname=\"mfrac\" style=\"vertical-align: 0em;\"><span class=\"fm-vert fm-frac\"><table><tbody><tr><td class=\"fm-num-frac fm-inline\"><mn>7</mn></td></tr><tr><td class=\"fm-den-frac fm-inline\"><mn>5</mn></td></tr></tbody></table></span></span></fmath>  sq. cm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : <table><tbody><tr><td class=\"fm-num-frac fm-inline\"><mn>5</mn></td></tr><tr><td class=\"fm-den-frac fm-inline\"><mn>7</mn></td></tr></tbody></table>",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_33",
+        "serial_no": "33",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "By how much (measured in thousands of tons) did the import of sheet steel exceed the import of coil steel in the first three months of the year?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "11",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "15",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "19",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "23",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : 19",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_34",
+        "serial_no": "34",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "What was the approximate total value (in   <fmath alttext=\"\\$  \" class=\"fm-inline\"><mi class=\"fm-mi-length-1 ma-upright\" mathvariant=\"normal\" style=\"padding-right: 0px;\">$</mi></fmath>   ) of sheet steel imported over the six months period?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "45,555",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "50,555",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "55,550",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "65,750",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : 55,550",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_35",
+        "serial_no": "35",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "What was the approximate ratio of sheet steel and scrap steel imports in the first three months of the year?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1: 1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "1.2: 1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "1.4: 1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "1.6: 1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : 1.2: 1",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_36",
+        "serial_no": "36",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "What is the symbol on the face opposite to that containing a  single dot?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "Four dots",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Three dots",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Two dots",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Cross",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : Three dots",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_37",
+        "serial_no": "37",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "What is the symbol on the face opposite to that containing two dots?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "single dot",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Three dots",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Four dots",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Line",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : Four dots",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_38",
+        "serial_no": "38",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "What is the symbol on the face opposite to that containing the cross?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "single dot",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Two dots",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Line",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Four dots",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : Line",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_39",
+        "serial_no": "39",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "According to the passage, which of the following is/ are of paramount importance under the Right to education? <br/> 1. Sending of children to school by all parents <br/> 2. Provision of adequate physical infrastructure in schools <br/> 3. Curricular reforms for developing child-friendly learning system  <br/> Select the correct answer using the code given below.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "1 and 2 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "3 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "None of the above",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : 3 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_40",
+        "serial_no": "40",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "With reference to the above passage, the following  assumptions have been made: <br/>  1. The Right to Education guarantees teachers' accountability for the learning process of children. <br/>  2. The Right to Education guarantees <fmath alttext=\" 100 \\%\" class=\"fm-inline\"><mrow><mn>100</mn><mo>%</mo></mrow></fmath>  enrolment of children in the schools. <br/>  3. The Right to Education intends to take full advantage of demographic dividend.  <br/>  Which of the above assumptions is/are valid?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2 and 3 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "3 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "1,2 and 3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : 1,2 and 3",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_41",
+        "serial_no": "41",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "According to the passage, which one of the following is critical in bringing quality in education?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "Ensuring regular attendance of children as well as teachers in school",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Giving pecuniary benefits to teachers to motivation them",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Understanding the socio-cultural background of children",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Inculcating learning through activities and discovery",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : Inculcating learning through activities and discovery",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_42",
+        "serial_no": "42",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "What is the essential message in this passage?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "The Right to Education now is a Fundamental Right.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "The Right to Education enables the children of poor and weaker sections of the society to attend schools. <br/>",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "The Right to Free and Compulsory Education should include quality education for all.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "The Government as well a parents should ensure that all children attend schools.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : The Right to Free and Compulsory Education should include quality education for all.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_43",
+        "serial_no": "43",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "Consider the following three-dimensional figure: <br/> <div class=\"hscrollenable\"><span class=\"sprite IAS_Prelim_2018_Paper_2_43_q\"></span></div>How many triangles does the above figure have?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "18",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "20",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "22",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "24",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : 20",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_44",
+        "serial_no": "44",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "Consider the following sum : <br/>     + 1  +2  +  3+  1 = 21  <br/> In the above sum,  stands for",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "4",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "5",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "6",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "8",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : 8",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_45",
+        "serial_no": "45",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "Consider the following pattern of numbers: <br/> <fmath alttext=\"\\table  8,10,15,13;6,5,7,4;4,6,8,8;-,-,-,-;6,11,16,?\" class=\"fm-inline\"><span class=\"fm-vert\" mtagname=\"mtable\"><table><tbody><tr class=\"fm-mtr\" mtagname=\"mtr\"><td class=\"fm-mtd\" mtagname=\"mtd\"><mn>8</mn></td><td class=\"fm-mtd\" mtagname=\"mtd\"><mn>10</mn></td><td class=\"fm-mtd\" mtagname=\"mtd\"><mn>15</mn></td><td class=\"fm-mtd\" mtagname=\"mtd\"><mn>13</mn></td></tr><tr class=\"fm-mtr\" mtagname=\"mtr\"><td class=\"fm-mtd\" mtagname=\"mtd\"><mn>6</mn></td><td class=\"fm-mtd\" mtagname=\"mtd\"><mn>5</mn></td><td class=\"fm-mtd\" mtagname=\"mtd\"><mn>7</mn></td><td class=\"fm-mtd\" mtagname=\"mtd\"><mn>4</mn></td></tr><tr class=\"fm-mtr\" mtagname=\"mtr\"><td class=\"fm-mtd\" mtagname=\"mtd\"><mn>4</mn></td><td class=\"fm-mtd\" mtagname=\"mtd\"><mn>6</mn></td><td class=\"fm-mtd\" mtagname=\"mtd\"><mn>8</mn></td><td class=\"fm-mtd\" mtagname=\"mtd\"><mn>8</mn></td></tr><tr class=\"fm-mtr\" mtagname=\"mtr\"><td class=\"fm-mtd\" mtagname=\"mtd\"><mo></mo></td><td class=\"fm-mtd\" mtagname=\"mtd\"><mo></mo></td><td class=\"fm-mtd\" mtagname=\"mtd\"><mo></mo></td><td class=\"fm-mtd\" mtagname=\"mtd\"><mo></mo></td></tr><tr class=\"fm-mtr\" mtagname=\"mtr\"><td class=\"fm-mtd\" mtagname=\"mtd\"><mn>6</mn></td><td class=\"fm-mtd\" mtagname=\"mtd\"><mn>11</mn></td><td class=\"fm-mtd\" mtagname=\"mtd\"><mn>16</mn></td><td class=\"fm-mtd\" mtagname=\"mtd\"><mo>?</mo></td></tr></tbody></table></span></fmath> <br/>  What is the number at? in the above pattern?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "17",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "19",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "21",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "23",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 17",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_46",
+        "serial_no": "46",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "How many diagonals can be drawn by joining the vertices of an octagon?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "20",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "24",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "28",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "64",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 20",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_47",
+        "serial_no": "47",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "The figure drawn below gives the velocity graphs of two vehicles <fmath alttext=\"A\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">A</mi></fmath> and <fmath alttext=\"B\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">B</mi></fmath> . The stright line <fmath alttext=\"O K P\" class=\"fm-inline\"><mrow><mrow><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">O</mi><mi class=\"fm-mi-length-1\" mathvariant=\"italic\" style=\"padding-right: 0.44ex;\">K</mi></mrow><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">P</mi></mrow></fmath> represents the velocity of vehicle <fmath alttext=\"A\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">A</mi></fmath> at any instant, whereas the horizontal straight line. <fmath alttext=\"C K D\" class=\"fm-inline\"><mrow><mrow><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">C</mi><mi class=\"fm-mi-length-1\" mathvariant=\"italic\" style=\"padding-right: 0.44ex;\">K</mi></mrow><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">D</mi></mrow></fmath> represents the velocity of vehicle <fmath alttext=\"B\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">B</mi></fmath> at anyinstant. In the figure, <fmath alttext=\"D\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">D</mi></fmath> is the point where perpendicular from <fmath alttext=\"P\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">P</mi></fmath> meets the horizontal line <fmath alttext=\"C K D\" class=\"fm-inline\"><mrow><mrow><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">C</mi><mi class=\"fm-mi-length-1\" mathvariant=\"italic\" style=\"padding-right: 0.44ex;\">K</mi></mrow><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">D</mi></mrow></fmath> such that <fmath alttext=\"P D= {1}/{2} L D:\" class=\"fm-inline\"><mrow><mrow><mrow><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">P</mi><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">D</mi></mrow><mo class=\"fm-infix-loose\">=</mo><mrow><mrow><span mtagname=\"mfrac\" style=\"vertical-align: 0em;\"><span class=\"fm-vert fm-frac\"><table><tbody><tr><td class=\"fm-num-frac fm-inline\"><mn>1</mn></td></tr><tr><td class=\"fm-den-frac fm-inline\"><mn>2</mn></td></tr></tbody></table></span></span><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">L</mi></mrow><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">D</mi></mrow></mrow><mo class=\"fm-postfix-tight\">:</mo></mrow></fmath> <br/> <div class=\"hscrollenable\"><span class=\"sprite IAS_Prelim_2018_Paper_2_47_q\"></span></div>What is the ratio between the distances covered by vehicles <fmath alttext=\"A\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">A</mi></fmath> and <fmath alttext=\"B\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">B</mi></fmath> in the time interval <fmath alttext=\"O L ?\" class=\"fm-inline\"><mrow><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">O</mi><mrow><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">L</mi><mo>?</mo></mrow></mrow></fmath>",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1: 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2: 3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "3: 4",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "1: 1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : 3: 4",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_48",
+        "serial_no": "48",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "A train 200 metres long is moving at the rate of 40    kmph .  In how many seconds will it cross a man standing near the railway line?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "12",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "15",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "16",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "18",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : 18",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_49",
+        "serial_no": "49",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "Which of the following is the most logical and rational inference that can be made from the above passage?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "Prosperity of agriculture sector is of critical importance to India.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Indian economy greatly depends on its agriculture.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "India should take strict measures to control its rapid population growth.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "India's farming communities should switch over to other occupations to improve their economic conditions.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : Indian economy greatly depends on its agriculture.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_50",
+        "serial_no": "50",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "Which of the following is the most logical corollary to the above passage?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "With more options for food come more risks.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Food processing is the source of all foodborne illnesses.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "We should depend on locally produced food only.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Globalization of food production should be curtailed.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : With more options for food come more risks.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_51",
+        "serial_no": "51",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "Which of the following is the most logical and rational inference that can be made from the above passage?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "It is the faith and not science that can finally solve all the problems of mankind.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Science and faith can be mutually complementary if their proper domains are understood.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "There are some very fundamental questions which cannot be answered by either science or faith.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "In today's culture, scientific views are given more importance than spiritual views.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : Science and faith can be mutually complementary if their proper domains are understood.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_52",
+        "serial_no": "52",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "The author wants India to rid herself of certain past bonds because",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "he is not able to see the relevance of the past",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "there is not much to be proud of",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "he is not interested in the history of India",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "they obstruct her physical and spiritual growth",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : they obstruct her physical and spiritual growth",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_53",
+        "serial_no": "53",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "A number consists of three digits of which the middle one is zero and their sum is 4. If the number formed by interchanging the first number itself by <fmath alttext=\"198,\" class=\"fm-inline\"><mrow><mn>198</mn><mo class=\"fm-postfix-tight\">,</mo></mrow></fmath> then the difference between the first and last digits is",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "4",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : 2",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_54",
+        "serial_no": "54",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "A solid cube of <fmath alttext=\"3  {cm}\" class=\"fm-inline\"><mrow><mn>3</mn><mrow><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">c</mi><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">m</mi></mrow></mrow></fmath> side, painted on all its faces, is cut up into small cubes of <fmath alttext=\"1 {cm}\" class=\"fm-inline\"><mrow><mn>1</mn><mrow><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">c</mi><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">m</mi></mrow></mrow></fmath> side. How many of the small cubes will have exactly two painted faces.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "12",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "8",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "6",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "4",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 12",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_55",
+        "serial_no": "55",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "While writing all the numbers from 700 to 1000 , how many numbers occur in which the digit at hundred's place is greater than the digit at ten's place, and the digit at ten's place is greater than the digit at unit's place?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "61",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "64",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "85",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "91",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : 85",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_56",
+        "serial_no": "56",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "If Pen &lt; Pencil, Pencil &lt; Book and Book  <fmath alttext=\"&gt;\" class=\"fm-inline\"><mo>&gt;</mo></fmath>  Cap, then which one of the following is always true?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "Pen&gt; Cap",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Pen<book span=\"\">\n</book>",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Pencil = Cap",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Pencil&gt; Cap",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : Pen<book span=\"\">\n</book>",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_57",
+        "serial_no": "57",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "A bookseller sold 'a' number of Geography textbooks at the rate of  <fmath alttext=\"\\ x\" class=\"fm-inline\"><mrow><mi class=\"fm-mi-length-1 ma-upright\" mathvariant=\"normal\" style=\"padding-right: 0px;\"></mi><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">x</mi></mrow></fmath> per book, <fmath alttext=\"a+2\" class=\"fm-inline\"><mrow><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">a</mi><mo class=\"fm-infix\">+</mo><mn>2</mn></mrow></fmath> ' number of History textbooks at the rate of <fmath alttext=\"\\(x+2)\" class=\"fm-inline\"><mrow><mi class=\"fm-mi-length-1 ma-upright\" mathvariant=\"normal\" style=\"padding-right: 0px;\"></mi><mrow><mo class=\"fm-mo-Luc\">(</mo><mrow><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">x</mi><mo class=\"fm-infix\">+</mo><mn>2</mn></mrow><mo class=\"fm-mo-Luc\">)</mo></mrow></mrow></fmath> per book and <fmath alttext=\"a-2\" class=\"fm-inline\"><mrow><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">a</mi><mo class=\"fm-infix\"></mo><mn>2</mn></mrow></fmath> number of mathematics textbooks at the rate of <fmath alttext=\"\\(x-2)\" class=\"fm-inline\"><mrow><mi class=\"fm-mi-length-1 ma-upright\" mathvariant=\"normal\" style=\"padding-right: 0px;\"></mi><mrow><mo class=\"fm-mo-Luc\">(</mo><mrow><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">x</mi><mo class=\"fm-infix\"></mo><mn>2</mn></mrow><mo class=\"fm-mo-Luc\">)</mo></mrow></mrow></fmath> per book. What is his total sale in ?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "<fmath alttext=\"3 x+3 a\" class=\"fm-inline\"><mrow><mrow><mn>3</mn><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">x</mi></mrow><mo class=\"fm-infix\">+</mo><mrow><mn>3</mn><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">a</mi></mrow></mrow></fmath>",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "<fmath alttext=\"3 a x+8\" class=\"fm-inline\"><mrow><mrow><mrow><mn>3</mn><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">a</mi></mrow><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">x</mi></mrow><mo class=\"fm-infix\">+</mo><mn>8</mn></mrow></fmath>",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "<fmath alttext=\"9 a x\" class=\"fm-inline\"><mrow><mrow><mn>9</mn><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">a</mi></mrow><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">x</mi></mrow></fmath>",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "<fmath alttext=\"x^{3} a^{3}\" class=\"fm-inline\"><mrow><msup><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">x</mi><span class=\"fm-script fm-inline\" style=\"vertical-align: 0.7em;\"><mn>3</mn></span></msup><msup><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">a</mi><span class=\"fm-script fm-inline\" style=\"vertical-align: 0.7em;\"><mn>3</mn></span></msup></mrow></fmath>",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : <fmath alttext=\"3 a x+8\" class=\"fm-inline\"><mrow><mrow><mrow><mn>3</mn><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">a</mi></mrow><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">x</mi></mrow><mo class=\"fm-infix\">+</mo><mn>8</mn></mrow></fmath>",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_58",
+        "serial_no": "58",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "A bag contains 15 red balls and 20 black balls. Each ball is numbered either 1 or 2 or <fmath alttext=\"3.20 \\%\" class=\"fm-inline\"><mrow><mn>3.20</mn><mo>%</mo></mrow></fmath> of the red balls are numbered 1 and <fmath alttext=\"40 \\%\" class=\"fm-inline\"><mrow><mn>40</mn><mo>%</mo></mrow></fmath> of them are numbered 3 . Similarly, among the black balls, <fmath alttext=\"45 \\%\" class=\"fm-inline\"><mrow><mn>45</mn><mo>%</mo></mrow></fmath> are numbered 2 and <fmath alttext=\"30 \\%\" class=\"fm-inline\"><mrow><mn>30</mn><mo>%</mo></mrow></fmath> are numbered 3 . A boy picks a ball at random. He wins if the ball is red and numbered 3 or if it is black and numbered 1 or 2 . What are the chances of his winning?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "<fmath alttext=\"  {1}/{2}\" class=\"fm-inline\"><span mtagname=\"mfrac\" style=\"vertical-align: 0em;\"><span class=\"fm-vert fm-frac\"><table><tbody><tr><td class=\"fm-num-frac fm-inline\"><mn>1</mn></td></tr><tr><td class=\"fm-den-frac fm-inline\"><mn>2</mn></td></tr></tbody></table></span></span></fmath>",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "<span class=\"fm-vert fm-frac\"><table><tbody><tr><td class=\"fm-num-frac fm-inline\"><mn>1</mn></td></tr><tr><td class=\"fm-den-frac fm-inline\"><mn>2</mn></td></tr></tbody></table></span>",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "<table><tbody><tr><td class=\"fm-num-frac fm-inline\"><mn>1</mn></td></tr><tr><td class=\"fm-den-frac fm-inline\"><mn>2</mn></td></tr></tbody></table>",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "<fmath alttext=\" {4}/{7}\" class=\"fm-inline\"><span mtagname=\"mfrac\" style=\"vertical-align: 0em;\"><span class=\"fm-vert fm-frac\"><table><tbody><tr><td class=\"fm-num-frac fm-inline\"><mn>4</mn></td></tr><tr><td class=\"fm-den-frac fm-inline\"><mn>7</mn></td></tr></tbody></table></span></span></fmath>",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : <span class=\"fm-vert fm-frac\"><table><tbody><tr><td class=\"fm-num-frac fm-inline\"><mn>1</mn></td></tr><tr><td class=\"fm-den-frac fm-inline\"><mn>2</mn></td></tr></tbody></table></span>",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_59",
+        "serial_no": "59",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "Two persons, <fmath alttext=\"A\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">A</mi></fmath> and <fmath alttext=\"B\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">B</mi></fmath> are running on a circular track. At the start, <fmath alttext=\"B\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">B</mi></fmath> is ahead of <fmath alttext=\"A\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">A</mi></fmath> a.nd their positions make an angle of <fmath alttext=\"30\" class=\"fm-inline\"><mrow><mn>30</mn><mo></mo></mrow></fmath> at the centre of the circle. When <fmath alttext=\"A\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">A</mi></fmath> reaches the point diametrically opposite to his starting point, he meets <fmath alttext=\"B\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">B</mi></fmath>. What is the ratio of speeds of <fmath alttext=\"A\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">A</mi></fmath> and <fmath alttext=\"B\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\">B</mi></fmath>, if they are running with uniform speeds?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "6: 5",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "4: 3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "6: 1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "4: 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 6: 5",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_60",
+        "serial_no": "60",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "A student has to get <fmath alttext=\" 40 \\%\" class=\"fm-inline\"><mrow><mn>40</mn><mo>%</mo></mrow></fmath>   marks to pass in an examination. Suppose he gets 30 marks and fails by 30 marks, then what are the maximum marks in the examination?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "100",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "120",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "150",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "300",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : 150",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_61",
+        "serial_no": "61",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "19 boys turn out for playing hockey. Of these, 11 are wearing hockey shirts and 14 are wearing hockey pants. There are no boys without shirts and/or pants. What is the number of boys wearing full uniform?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "3",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "5",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "6",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "8",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : 6",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_62",
+        "serial_no": "62",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "A is studying in",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "Rajasthan",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Gujarat",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "city Q",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Kerala",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : Gujarat",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_63",
+        "serial_no": "63",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "Science college is located in",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "city Q",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "city S",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "city R",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "city P",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : city Q",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_64",
+        "serial_no": "64",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "C is studying in",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "Science college",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "Rajasthan",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Gujarat",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "city Q",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : Rajasthan",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_65",
+        "serial_no": "65",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "Which one of the following statements is correct?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "D is not studying in city S",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "A is studying in Science college.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "A is studying in Kerala.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Engineering college is located in Gujarat.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : D is not studying in city S",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_66",
+        "serial_no": "66",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "Which one of the following statements is correct regarding Engineering college?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "C is studying there.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "B is studying there.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "It is located in Gujarat.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "D is studying there.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : D is studying there.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_67",
+        "serial_no": "67",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "Which one of the following statements iscorrect?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "Engineering college is located in Assam.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "City Q is situated in Assam.<br/>",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "C is studying in Kerala.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "B is studying in Gujarat.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : Engineering college is located in Assam.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_68",
+        "serial_no": "68",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "If LSJXVC is the code for MUMBAI, the code for DELHI is",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "CCIDD",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "CDKGH",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "CCJFG",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "CCIFE",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : CCIDD",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_69",
+        "serial_no": "69",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "If RAMON is written as 12345 and DINESH as 675849 , then HAMAM will be written as",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "92233",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "92323",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "93322",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "93232",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : 92323",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_70",
+        "serial_no": "70",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "If <fmath alttext=\"X\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\" style=\"padding-right: 0.44ex;\">X</mi></fmath> is between -3 and <fmath alttext=\"-1,\" class=\"fm-inline\"><mrow><mrow><mo class=\"fm-prefix-tight\"></mo><mn>1</mn></mrow><mo class=\"fm-postfix-tight\">,</mo></mrow></fmath> and y is between -1 and 1 then <fmath alttext=\"X^{2}-Y^{2}\" class=\"fm-inline\"><mrow><msup><mi class=\"fm-mi-length-1\" mathvariant=\"italic\" style=\"padding-right: 0.44ex;\">X</mi><span class=\"fm-script fm-inline\" style=\"vertical-align: 0.7em;\"><mn>2</mn></span></msup><mo class=\"fm-infix\"></mo><msup><mi class=\"fm-mi-length-1\" mathvariant=\"italic\" style=\"padding-right: 0.44ex;\">Y</mi><span class=\"fm-script fm-inline\" style=\"vertical-align: 0.7em;\"><mn>2</mn></span></msup></mrow></fmath> is in between which of the following?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "-9 and 1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "-9 and -1",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "0 and 8",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "0 and 9",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : 0 and 9",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_71",
+        "serial_no": "71",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "<fmath alttext=\"X\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\" style=\"padding-right: 0.44ex;\">X</mi></fmath> and <fmath alttext=\"Y\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\" style=\"padding-right: 0.44ex;\">Y</mi></fmath> are natural numbers other than <fmath alttext=\"1,\" class=\"fm-inline\"><mrow><mn>1</mn><mo class=\"fm-postfix-tight\">,</mo></mrow></fmath> and <fmath alttext=\"Y\" class=\"fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\" style=\"padding-right: 0.44ex;\">Y</mi></fmath> is greater than <fmath alttext=\"X .\" class=\"fm-inline\"><mrow><mi class=\"fm-mi-length-1\" mathvariant=\"italic\" style=\"padding-right: 0.44ex;\">X</mi><mo class=\"fm-postfix-tight\">.</mo></mrow></fmath> Which of the following represents the largest number?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "<fmath alttext=\"X Y\" class=\"fm-inline\"><mrow><mi class=\"fm-mi-length-1\" mathvariant=\"italic\" style=\"padding-right: 0.44ex;\">X</mi><mi class=\"fm-mi-length-1\" mathvariant=\"italic\" style=\"padding-right: 0.44ex;\">Y</mi></mrow></fmath>",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "<fmath alttext=\"X / Y\" class=\"fm-inline\"><span mtagname=\"mfrac\" style=\"vertical-align: 0em;\"><span class=\"fm-vert fm-frac\"><table><tbody><tr><td class=\"fm-num-frac fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\" style=\"padding-right: 0.44ex;\">X</mi></td></tr><tr><td class=\"fm-den-frac fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\" style=\"padding-right: 0.44ex;\">Y</mi></td></tr></tbody></table></span></span></fmath>",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "<span class=\"fm-vert fm-frac\"><table><tbody><tr><td class=\"fm-num-frac fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\" style=\"padding-right: 0.44ex;\">X</mi></td></tr><tr><td class=\"fm-den-frac fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\" style=\"padding-right: 0.44ex;\">Y</mi></td></tr></tbody></table></span>",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "<table><tbody><tr><td class=\"fm-num-frac fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\" style=\"padding-right: 0.44ex;\">X</mi></td></tr><tr><td class=\"fm-den-frac fm-inline\"><mi class=\"fm-mi-length-1\" mathvariant=\"italic\" style=\"padding-right: 0.44ex;\">Y</mi></td></tr></tbody></table>",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : <fmath alttext=\"X Y\" class=\"fm-inline\"><mrow><mi class=\"fm-mi-length-1\" mathvariant=\"italic\" style=\"padding-right: 0.44ex;\">X</mi><mi class=\"fm-mi-length-1\" mathvariant=\"italic\" style=\"padding-right: 0.44ex;\">Y</mi></mrow></fmath>",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_72",
+        "serial_no": "72",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "If E sits in his office and faces the corridor, whose office is to his left?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "A",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "B",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "C",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "D",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : C",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_73",
+        "serial_no": "73",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "Who is/are Fs immediate neighbour/neighbours?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "A only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "A and D",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "C only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Band C",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_74",
+        "serial_no": "74",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "According to the passage, which of the following are the  consequences of decline in forest cover? <br/> 1. Loss of topsoil <br/> 2. Loss of smaller rivers <br/> 3. Adverse effect on agricultural production <br/> 4. Declining of groundwater  <br/> Select the correct answer using the code given below.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1,2 and 3 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2,3 and 4 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "1 and 4 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "1,2,3 and 4",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : 1,2,3 and 4",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_75",
+        "serial_no": "75",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "Which of the following is/are the correct inferencel inferences  that can be made from the passage? <br/> 1. Deforestation can cause changes in the course of rivers. <br/>  2. Salinization of land takes place due to human activities only. <br/>  3. Intense monoculture practice in plains is a major reason for desertification in Tropical Asia, Africa and South America.  <br/>  Select the correct answer using the code given below. <br/>",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "1 and 2 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "2 and 3 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "None of the above is a correct inference",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : 1 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_76",
+        "serial_no": "76",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "With reference to 'desertification', as described in the passage,  the following assumptions have been made: <br/>  1. Desertification is a phenomenon in tropical areas only. <br/>  2. Deforestation invariably leads to floods and desertification.  <br/>  Which of the above assumptions is/are valid?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Both 1 and 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Neither 1 nor 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_77",
+        "serial_no": "77",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "With reference to the above passage, which of the following  would assist us in coping with the climate change? <br/> 1. Conservation of natural water sources <br/> 2. Conservation of wider gene pool <br/> 3. Existing crop management practices <br/> 4. Migration corridors <br/>   Select the correct answer using the code given below.",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1,2 and 3 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "1,2 and 4 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "3 and 4 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "1,2,3 and 4",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : 1,2 and 4 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_78",
+        "serial_no": "78",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "With reference to the above passage, the following  assumptions have been made:  <br/>  1. Diversification of livelihoods acts as a Coping strategy for climate change. <br/>  2. Adoption of monocropping practice leads to the extinction of plant varieties and their wild relatives.  <br/>  Which of the above assumptions is/ are valid?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "1 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "2 only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Both 1 and 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Neither 1 nor 2",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : 2 only",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_79",
+        "serial_no": "79",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "Which of the following is the most crucial and logical Inference that can be made from the above passage?",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "The Earth can meet only the basic needs of humans for food, clothing and shelter.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "The only way to meet environmental challenge is to limit human population.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "Reducing our consumerism is very much in our own interest.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Knowledge of biological systems can only help us save this planet.",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : Reducing our consumerism is very much in our own interest.",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_PRELIMS",
+      "metadata": {
+        "question_id": "2018_I_UPSC_PRELIMS_General Studies_80",
+        "serial_no": "80",
+        "subject": "General Studies",
+        "topic": "",
+        "subtopic": "II",
+        "year": 2018,
+
+        "practice_test": false
+      },
+      "content": {
+        "question_text": "The author of the passage holds the view that",
+        "question_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": "",
+        "language": "en"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "leadership can be taught through war experience only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "leadership can be acquired as well as taught",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "the results of training show that more people acquire leadership than are expected",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "despite rigorous instruction few leaders are produced",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : leadership can be acquired as well as taught",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    }
+  ]
+}

@@ -1,7 +1,35 @@
 {
+  "name": "acievex-backend",
+  "version": "1.0.0",
+  "description": "Backend API for UPSC exam preparation platform",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "node --watch src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krrishkumbhare07/AcieveXBackend.git"
+  },
+  "keywords": [
+    "upsc",
+    "api",
+    "education",
+    "exam-preparation"
+  ],
+  "author": "Krrish Kumbhare",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krrishkumbhare07/AcieveXBackend/issues"
+  },
+  "homepage": "https://github.com/krrishkumbhare07/AcieveXBackend#readme",
   "dependencies": {
-    "axios": "^1.8.3",
-    "cheerio": "^1.0.0",
-    "playwright": "^1.51.1"
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
   }
 }
